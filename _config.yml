@@ -1,4 +1,4 @@
-title: Web Literacy Core Curriculum
+title: Cours Wikinomie 2020
 subtitle:
 email:
 twitter:
@@ -8,8 +8,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/web-lit-core" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
-  repo: "mozilla/web-lit-core"
-  branch: "gh-pages"
+  base: "https://framagit.org"
+  repo: "thanough/cours-wikinomie-2020"
+  branch: "help"
 
 
 collections:
