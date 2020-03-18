@@ -31,3 +31,5 @@ redcarpet:
         'tables',
         'hardwrap'
     ]
+exclude:
+  - vendor
