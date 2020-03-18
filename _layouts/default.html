@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta name="viewport" content="width=device-width">
 
-      <title>{{ site.title }}{% if page.title %} : {{ page.title }}{% endif %}</title>
+      <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
       <meta name="description" content="{{ site.subtitle }}">
       <link rel="icon" type="image/png" sizes="196x196" href="{{ site.baseurl }}/img/favicon.png?1">
 
@@ -23,11 +23,11 @@
           <div class="col-xs-12 p-t-2">
             <div class="sidebar-header">
               <a href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/images/moz-logo-main-rgb.png" alt="Mozilla" class="moz-logo" />
-                <h2>Web Literacy</h2>
+                <!-- <img src="{{ site.baseurl }}/images/moz-logo-main-rgb.png" alt="Mozilla" class="moz-logo" /> -->
+                <h2>{{ site.title }}</h2>
               </a>
               <div>
-                <a class="btn btn-pop" href="https://github.com/{{ site.github.repo }}"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;GitHub</a></i>
+                <a class="btn btn-pop" href="{{ site.github.base }}/{{ site.github.repo }}"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;Git</a></i>
               </div>
             </div>
             <hr class="hr-gradient m-t-1"/>
@@ -63,7 +63,7 @@
             <p class="help-us">
                 <edit></edit>
                 Help us improve content and
-                <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
+                <a target="_blank" href="{{ site.github.base }}/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
             </p>
           </div>
         </div>
