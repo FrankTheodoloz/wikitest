@@ -1,6 +1,6 @@
 ---
 layout: page
-following: _articles/crowdsourcing-on-the-web.md
+following: _articles/cUrbanisme et développement territorial.md
 toc:
 - "Introduction"
 - "Pixels"
