@@ -1,6 +1,6 @@
 ---
 layout: page
-following: _articles/santé.md
+following: _articles/Santé.md
 title: "Santé"
 key: custom
 is_main: true
