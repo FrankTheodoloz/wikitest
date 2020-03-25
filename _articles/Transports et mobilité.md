@@ -1,7 +1,7 @@
 ---
 layout: page
 following: _articles/tagging-101.md
-title: "Urbanisme et développement territorial"
+title: "Transports et mobilité"
 key: custom
 is_main: true
 toc:
