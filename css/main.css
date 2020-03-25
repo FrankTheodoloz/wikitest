@@ -851,3 +851,7 @@ video {
 .sidebar-menu li {
   line-height: 1em;
 }
+
+.sidebar-subitems a {
+  display: inline;
+}
