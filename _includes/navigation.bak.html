@@ -1,0 +1,27 @@
+
+<ul class="sidebar-menu list-unstyled">
+  <li {% if page.url == "/" %} class="selected"{% endif %}><span></span> <a href="{{ site.baseurl }}/">Overview</a></li>
+
+  {% assign item = site.pages | where: "path", "contents.html" | first %}
+{% for path in item.contents %}
+  {% assign subpage = site.articles | where: "path", path | first %}
+  {% if page.url contains subpage.url or page.url == "/" %}
+  <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
+    <span></span>
+    <a href="{{ subpage.url | prepend: site.baseurl }}">{% if subpage.module %}{{ subpage.module }}.{% endif %} {{ subpage.title }}</a>
+      {% if page.url contains subpage.url %}
+        {% if subpage.contents %}
+          {% include contents.html item=subpage %}
+        {% endif %}
+      {% endif %}
+  </li>
+  {% endif %}
+  {% if subpage.toc %}
+  {% if page.url contains subpage.url %}
+    {% include contents.html item=subpage %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+<li style="color: black"><a href="https://foundation.mozilla.org/opportunity/web-literacy/core-curriculum">See Core Curriculum</a></li>
+</ul>

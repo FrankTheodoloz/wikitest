@@ -827,3 +827,16 @@ video {
   color: #3bb7ef;
   padding: 0 0.5rem;
 }
+
+/* CUSTOM */
+.sidebar-menu li.back span:before {
+    color: #000;
+    content: "\f104";
+    font-family: "FontAwesome";
+    display: inline-block;
+    text-decoration: none;
+}
+
+.sidebar-menu {
+  position: sticky;
+}
