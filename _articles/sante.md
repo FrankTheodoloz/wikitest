@@ -1,8 +1,7 @@
 ---
 layout: page
-following: _articles/tagging-101.md
-title: "Transports et mobilité"
-key: custom
+title: "Santé"
+key: sante
 is_main: true
 toc:
 - "Contexte"

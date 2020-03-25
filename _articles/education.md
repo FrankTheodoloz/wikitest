@@ -1,8 +1,8 @@
 ---
 layout: page
 following: _articles/tagging-101.md
-title: "Custom subject"
-key: custom
+title: "Éducation"
+key: education
 is_main: true
 toc:
 - "Contexte"

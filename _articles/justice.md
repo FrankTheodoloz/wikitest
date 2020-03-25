@@ -1,8 +1,7 @@
 ---
 layout: page
-following: _articles/Santé.md
-title: "Santé"
-key: custom
+title: "Justice"
+key: justice
 is_main: true
 toc:
 - "Contexte"
