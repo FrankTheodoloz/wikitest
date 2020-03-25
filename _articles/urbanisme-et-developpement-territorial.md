@@ -2,7 +2,7 @@
 layout: page
 following: _articles/tagging-101.md
 title: "Urbanisme et développement territorial"
-key: custom
+key: urbanisme-et-developpement-territorial
 is_main: true
 toc:
 - "Contexte"

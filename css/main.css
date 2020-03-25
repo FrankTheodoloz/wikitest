@@ -840,3 +840,10 @@ video {
 .sidebar-menu {
   position: sticky;
 }
+
+.sidebar-menu > li.selected > a,
+.sidebar-menu > li.back > a,
+.sidebar-menu > li:hover > a
+ {
+  display: inline;
+}
