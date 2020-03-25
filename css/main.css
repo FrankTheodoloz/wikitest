@@ -847,3 +847,7 @@ video {
  {
   display: inline;
 }
+
+.sidebar-menu li {
+  line-height: 1em;
+}
