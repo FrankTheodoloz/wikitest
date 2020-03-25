@@ -855,3 +855,7 @@ video {
 .sidebar-subitems a {
   display: inline;
 }
+
+.sidebar a {
+  line-height: 1.2;
+}
