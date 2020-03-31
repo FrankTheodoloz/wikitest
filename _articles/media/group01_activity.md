@@ -1,7 +1,7 @@
 ---
-layout: page
-key: custom
-title: Group 02 activity
+layout: activity
+key: media
+title: Group 01 activity
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
@@ -10,6 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+tags: ['tag c', 'tag d', 'tag e']
 ---
 
 ### Situation actuelle

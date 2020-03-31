@@ -1,21 +1,40 @@
 
 <ul class="sidebar-menu list-unstyled">
-  <li {% if page.url == "/" %} class="selected"{% endif %}><span></span> <a href="{{ site.baseurl }}/">Overview</a></li>
+  <li {% if page.url == "/" %} class="selected"{% endif %}><span></span> <a href="{{ site.baseurl }}/">Accueil</a></li>
 
-  {% if page.is_main %}
-    {% assign item = site.pages | where: "path", "contents.html" | first %}
-    {% for path in item.contents %}
-      {% assign subpage = site.articles | where: "path", path | first %}
-      {% if page.url contains subpage.url or page.url == "/" %}
-        <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
-        <span></span>
-        <a href="{{ subpage.url | prepend: site.baseurl }}">{% if subpage.module %}{{ subpage.module }}.{% endif %} {{ subpage.title }}</a>
-        {% if page.url contains subpage.url %}
-          {% if subpage.contents %}
-            {% include contents.html item=subpage %}
+  {% if page.layout == 'tags' %}
+    {% assign tags =  site.articles | map: 'tags' | join: ','  | split: ',' | uniq %}
+    <li class="selected">
+      <span></span> <a href="">Tags</a>
+    </li>
+    <ul class="sidebar-subitems">
+      {% for tag in tags %}
+        <li>&nbsp;&nbsp;
+          <a
+            class="jump-link"
+            href="{{ tag | slugify | prepend: '#' }}">{{ tag }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if page.layout != 'tags' %}
+
+    {% if page.is_main %}
+      {% assign item = site.pages | where: "path", "contents.html" | first %}
+      {% for path in item.contents %}
+        {% assign subpage = site.articles | where: "path", path | first %}
+        {% if page.url contains subpage.url or page.url == "/" %}
+          <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
+          <span></span>
+          <a href="{{ subpage.url | prepend: site.baseurl }}">{% if subpage.module %}{{ subpage.module }}.{% endif %} {{ subpage.title }}</a>
+          {% if page.url contains subpage.url %}
+            {% if subpage.contents %}
+              {% include contents.html item=subpage %}
+            {% endif %}
           {% endif %}
-        {% endif %}
-      </li>
+        </li>
       {% endif %}
       {% if subpage.toc %}
         {% if page.url contains subpage.url %}
@@ -26,7 +45,6 @@
   {% endif %}
 
   {% if page.is_main != true %}
-
     {% for main in site.articles %}
       {% if main.is_main %}
         {% if main.key == page.key %}
@@ -49,18 +67,27 @@
               {% for p in page.toc %}
                 <li>
                   <a
-                    class="jump-link"
-                    href="{{ p | slugify | prepend: '#' }}">{{ p }}
-                  </a>
-                </li>
-              {% endfor %}
-            </ol>
+                  class="jump-link"
+                  href="{{ p | slugify | prepend: '#' }}">{{ p }}
+                </a>
+              </li>
+            {% endfor %}
+            {% if page.tags.size > 0 %}
+              <li>
+                <a
+                class="jump-link"
+                href="#mots-clés">Mots clés
+              </a>
+            </li>
           {% endif %}
-        {% endif %}
+        </ol>
       {% endif %}
-    {% endfor %}
-
+    {% endif %}
   {% endif %}
+{% endfor %}
+
+{% endif %}
+{% endif %}
 
 
 <!-- <li style="color: black"><a href="https://foundation.mozilla.org/opportunity/web-literacy/core-curriculum">See Core Curriculum</a></li> -->

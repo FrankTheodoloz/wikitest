@@ -1,20 +1,10 @@
 ---
 layout: page
-following: _articles/tagging-101.md
-title: "Transports et mobilité"
-key: custom
-is_main: true
-toc:
-- "Contexte"
-- "Activités"
-- "Mots clés"
 ---
 
-### Contexte
+{{content}}
 
-Texte
-
-### Activités
+<h3 id="activités">Activités</h3>
 
 <ul>
   {% for activity in site.articles %}
@@ -30,6 +20,13 @@ Texte
   {% endfor %}
 </ul>
 
-### Mots clés
+{%if page.tags.size > 0 %}
+  <h3 id="mots-clés">Mots&nbsp;clés</h3>
 
-Texte
+  <p class="tags">
+    {% for tag in page.tags %}
+      <a href="{{site.baseurl}}/tags#{{tag | slugify}}">{{tag}}</a>
+    {% endfor %}
+  </p>
+{% endif %}
+

@@ -1,6 +1,6 @@
 ---
-layout: page
-key: custom
+layout: activity
+key: justice
 title: Group 01 activity
 toc:
 - "Situation actuelle"
@@ -10,6 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+tags: ['tag c', 'tag d', 'tag e']
 ---
 
 ### Situation actuelle

@@ -14,6 +14,10 @@ ul ul {
   margin-left: 40px;
 }
 
+ul.sidebar-subitems {
+  margin-left: 0px;
+}
+
 .lesson-content blockquote {
   background: rgba(255,237,0,.25);
   list-style-position: inside;
@@ -445,6 +449,10 @@ html.no-js .sidebar .collapsible-content {
   margin-right: 0.5em;
 }
 
+ul.sidebar-subitems li:before {
+  content: "";
+}
+
 .sidebar-subitems li:last-child {
   margin-bottom: 0;
 }
@@ -839,4 +847,38 @@ video {
 
 .sidebar-menu {
   position: sticky;
+}
+
+.sidebar-menu > li.selected > a,
+.sidebar-menu > li.back > a,
+.sidebar-menu > li:hover > a
+ {
+  display: inline;
+}
+
+.sidebar-menu li {
+  line-height: 1em;
+}
+
+.sidebar-subitems a {
+  display: inline;
+}
+
+.sidebar a {
+  line-height: 1.2;
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.tags > *:not(:first-child) {
+  margin-left: 1em;
+}
+
+.tags > *:not(:last-child)::after {
+  margin-left: 1em;
+  content: "|";
 }

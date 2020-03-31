@@ -15,5 +15,6 @@
 * Elections (votations)
 * Environnement
 * Sécurité - Criminalité
+* Médias
 * Plateformes
 * Sports – Culture
