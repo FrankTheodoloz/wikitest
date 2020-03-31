@@ -5,8 +5,7 @@ key: elections-votations
 is_main: true
 toc:
 - "Contexte"
-- "Activités"
-- "Mots clés"
+tags: ['tag a', 'tag b', 'tag c']
 ---
 
 ### Contexte

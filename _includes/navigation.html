@@ -1,6 +1,6 @@
 
 <ul class="sidebar-menu list-unstyled">
-  <li {% if page.url == "/" %} class="selected"{% endif %}><span></span> <a href="{{ site.baseurl }}/">Overview</a></li>
+  <li {% if page.url == "/" %} class="selected"{% endif %}><span></span> <a href="{{ site.baseurl }}/">Accueil</a></li>
 
   {% if page.is_main %}
     {% assign item = site.pages | where: "path", "contents.html" | first %}
@@ -54,6 +54,12 @@
                   </a>
                 </li>
               {% endfor %}
+              <li>
+                <a
+                  class="jump-link"
+                  href="#mots-clés">Mots clés
+                </a>
+              </li>
             </ol>
           {% endif %}
         {% endif %}

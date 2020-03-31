@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: activity
 key: gouvernance-numerique-a-gva
 title: Group 01 activity
 toc:
@@ -10,6 +10,8 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+tags: ['tag c', 'tag d', 'tag e']
+
 ---
 
 ### Situation actuelle

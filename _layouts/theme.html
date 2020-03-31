@@ -1,9 +1,5 @@
 ---
 layout: page
-toc:
-- "Contexte"
-- "Activités"
-- "Mots clés"
 ---
 
 {{content}}
@@ -24,7 +20,7 @@ toc:
   {% endfor %}
 </ul>
 
-{%if page.tags %}
+{%if page.tags | length > 0 %}
   <h3 id="mots-clés">Mots&nbsp;clés</h3>
 
   <p class="tags">

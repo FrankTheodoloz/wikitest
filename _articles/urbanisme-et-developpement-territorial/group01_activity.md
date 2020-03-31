@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: activity
 key: urbanisme-et-developpement-territorial
 title: Group 01 activity
 toc:
@@ -10,6 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+tags: ['tag c', 'tag d', 'tag e']
 ---
 
 ### Situation actuelle
