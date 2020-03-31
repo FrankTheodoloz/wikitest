@@ -6,42 +6,42 @@ layout: default
 
   {% assign tags =  site.articles | map: 'tags' | join: ','  | split: ',' | uniq %}
   {% for tag in tags %}
-  <h3 id="{{tag | slugify}}">{{ tag }}</h3>
-  <ul>
-    {% for article in site.articles %}
-    {% if article.is_main %}
-    {% if article.tags contains tag %}
-    <li>
+    <h3 id="{{tag | slugify}}">{{ tag }}</h3>
+    <ul>
+      {% for article in site.articles %}
+        {% if article.is_main %}
+          {% if article.tags contains tag %}
+            <li>
 
-      <a href="{{ site.baseurl }}{{ article.url }}">
-        {{ article.title }}
-      </a>
-    </li>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-
-    {% for article in site.articles %}
-    {% if article.is_main != true %}
-    {% if article.tags contains tag %}
-    <li>
-
-      {% for theme in site.articles %}
-      {% if theme.is_main %}
-      {% if theme.key == article.key %}
-      <small>{{theme.title}}: </small>
-      {% endif %}
-      {% endif %}
+              <a href="{{ site.baseurl }}{{ article.url }}">
+                {{ article.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endif %}
       {% endfor %}
 
-      <a href="{{ site.baseurl }}{{ article.url }}">
-        {{ article.title }}
-      </a>
-    </li>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-  </ul>
+      {% for article in site.articles %}
+        {% if article.is_main != true %}
+          {% if article.tags contains tag %}
+            <li>
+
+              {% for theme in site.articles %}
+                {% if theme.is_main %}
+                  {% if theme.key == article.key %}
+                    <small>{{theme.title}}: </small>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+
+              <a href="{{ site.baseurl }}{{ article.url }}">
+                {{ article.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ul>
   {% endfor %}
 
 </div>
