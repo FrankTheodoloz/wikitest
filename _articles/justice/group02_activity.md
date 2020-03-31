@@ -1,7 +1,7 @@
 ---
 layout: activity
-key: environnement
-title: Group 01 activity
+key: justice
+title: Group 02 activity
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
@@ -10,6 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+tags: ['tag c', 'tag d', 'tag e']
 ---
 
 ### Situation actuelle

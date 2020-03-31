@@ -1,7 +1,8 @@
 ---
 layout: activity
-key: environnement
-title: Group 01 activity
+key: education
+title: Group 02 activity
+tags: [tag c, tag d, tag e, tag f]
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"

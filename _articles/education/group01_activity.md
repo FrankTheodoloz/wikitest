@@ -2,6 +2,7 @@
 layout: activity
 key: education
 title: Group 01 activity
+tags: [tag c, tag d, tag e, tag f]
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
@@ -10,7 +11,6 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
 ---
 
 ### Situation actuelle

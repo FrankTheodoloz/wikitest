@@ -27,10 +27,12 @@
       href="#activités">Activités
     </a>
   </li>
+  {% if item.tags.size > 0 %}
   <li>
     <a
       class="jump-link"
       href="#mots-clés">Mots clés
     </a>
   </li>
+  {% endif %}
 </ol>

@@ -20,12 +20,12 @@ layout: page
   {% endfor %}
 </ul>
 
-{%if page.tags | length > 0 %}
+{%if page.tags.size > 0 %}
   <h3 id="mots-clés">Mots&nbsp;clés</h3>
 
   <p class="tags">
     {% for tag in page.tags %}
-      <a href="">{{tag}}</a>
+      <a href="{{site.baseurl}}/tags#{{tag | slugify}}">{{tag}}</a>
     {% endfor %}
   </p>
 {% endif %}
