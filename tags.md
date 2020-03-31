@@ -1,6 +1,5 @@
 ---
 layout: tags
-is_main: true
 permalink: /tags
 ---
 

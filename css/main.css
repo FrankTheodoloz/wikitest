@@ -14,6 +14,10 @@ ul ul {
   margin-left: 40px;
 }
 
+ul.sidebar-subitems {
+  margin-left: 0px;
+}
+
 .lesson-content blockquote {
   background: rgba(255,237,0,.25);
   list-style-position: inside;
@@ -443,6 +447,10 @@ html.no-js .sidebar .collapsible-content {
   content: counter(item) " ";
   counter-increment: item;
   margin-right: 0.5em;
+}
+
+ul.sidebar-subitems li:before {
+  content: "";
 }
 
 .sidebar-subitems li:last-child {
