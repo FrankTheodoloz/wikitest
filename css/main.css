@@ -859,3 +859,18 @@ video {
 .sidebar a {
   line-height: 1.2;
 }
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.tags > *:not(:first-child) {
+  margin-left: 1em;
+}
+
+.tags > *:not(:last-child)::after {
+  margin-left: 1em;
+  content: "|";
+}

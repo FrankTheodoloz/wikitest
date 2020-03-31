@@ -1,0 +1,36 @@
+---
+layout: page
+toc:
+- "Contexte"
+- "Activités"
+- "Mots clés"
+---
+
+{{content}}
+
+<h3 id="activités">Activités</h3>
+
+<ul>
+  {% for activity in site.articles %}
+    {%if activity.key == page.key %}
+      {%if activity.id != page.id %}
+  <li>
+    <a href="{{site.baseurl}}{{ activity.url }}">
+      {{ activity.title }}
+    </a>
+  </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{%if page.tags %}
+  <h3 id="mots-clés">Mots&nbsp;clés</h3>
+
+  <p class="tags">
+    {% for tag in page.tags %}
+      <a href="">{{tag}}</a>
+    {% endfor %}
+  </p>
+{% endif %}
+
