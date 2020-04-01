@@ -1,5 +1,3 @@
-**Gouvernance Numérique à Genève 2019 - 2020**
-
 > Notre objectif : 
 > Permettre à l’Etat de Genève de situer ses pratiques en matière de Gouvernance numérique dans un contexte international. 
 > Nous examinerons les actions et politiques de l’Etat vis-à-vis des technologies en constante évolution, telles que 
