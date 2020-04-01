@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: media
+key: medias
 title: Group 01 activity
 toc:
 - "Situation actuelle"

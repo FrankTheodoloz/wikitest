@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "Media"
-key: media
+title: "Médias"
+key: medias
 is_main: true
 toc:
 - "Contexte"
