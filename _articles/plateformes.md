@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "Media"
-key: media
+title: "Plateformes"
+key: plateformes
 is_main: true
 toc:
 - "Contexte"
