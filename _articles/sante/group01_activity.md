@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: sante
-title: Group 01 activity
+title: MonDossierMedical.ch
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
