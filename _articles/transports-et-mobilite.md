@@ -9,4 +9,22 @@ toc:
 
 ### Contexte
 
-Texte
+Analyse de la stratégie mise en place par le canton de Genève dans la 
+numérisation du Transport et de la mobilité.
+
+**tpgPreview**
+
+Les Transports publics genevois (TPG) propose une nouvelle application mobile 
+qui permet d’effectuer des recherches d’itinéraire en temps réel et acheter 
+des billets électroniques directement sur l’application par carte bancaire.
+
+**TP Publicité**
+
+TP Publicité propose un service permettant de faire de la publicité digitale 
+sur les écrans embarqués dans les véhicules des TPG, distributeurs, 
+application web et mobile. 
+
+**Skyguide**
+
+Skyguide propose plusieurs services dans le domaine de l'aviation à partir de
+la page web destiné à fournir des informations sur tous les types de vols.
