@@ -10,7 +10,7 @@ before_script:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public --baseurl /cours-wikinomie-2020
+  - bundle exec jekyll build -d public --baseurl /
   artifacts:
     paths:
     - public
