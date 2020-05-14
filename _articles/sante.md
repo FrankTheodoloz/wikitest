@@ -9,4 +9,4 @@ toc:
 
 ### Contexte
 
-Texte
+L'objectif de notre étude est l'analyse de la stratégie de l’État de Genève en ce qui concerne la transformation numérique dans le domaine de la santé.
