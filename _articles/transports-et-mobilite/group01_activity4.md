@@ -1,0 +1,53 @@
+---
+layout: activity
+key: transports-et-mobilite
+title: TPG Open Data
+toc:
+- "Situation actuelle"
+- "Besoins à remplir"
+- "Règles de gouvernance"
+- "Résultats ou Utilisation"
+- "Objectifs annoncés"
+- "Analyse Wikinomie"
+tags: ['tag c', 'tag d', 'tag e']
+---
+
+### Situation actuelle
+
+La population a à sa disposition des données de l’API Horaire en temps réel des
+Transports public genevois. Les détails sur l’utilisation des données sont 
+fournis dans le document qui est disponible sur le site des TPG.
+
+### Besoins à remplir
+
+Faire de la "publicité" afin que la population fasse connaissance de cet outil,
+et qui puisse proposer des potentielles améliorations.
+
+### Règles de gouvernance
+
+N'importe qui peut accéder aux données, cependant il est nécessaire d'accepter
+les conditions générales d'utilisation de ces données. De plus, le site partagé
+pour consulter les conditions générales n'est plus à jour, c'est-à-dire que 
+quelqu'un qui souhaite faire connaissance de ces conditions ne peut y accéder.
+
+### Résultats ou Utilisation
+
+Les données partagés sont accessibles en format XML et JSON.
+Le terme journée d'exploitation est très utilisé dans les documents à 
+disposition. En effet, une journée d'exploitation commence à 4h00 du matin et 
+se termine à 3h30 le lendemain. Entre 3h30 et 4h15 du matin les données ne 
+sont pas accessibles, pour des raisons d'initialisation des données dans le 
+système temps réel. La dernière mise à jour des documents a été faite en 2015.
+
+### Objectifs annoncés
+
+Favoriser la transparence et la participation
+Accroître l'efficacité des services proposés
+Encourager l'innovation
+
+### Analyse Wikinomie
+
+Pour le moment, la population peut accéder à l'information, mais ne peut pas 
+participer et/ou aider dans les recherches qui sont faites avec les données de 
+l'API. Il serait judicieux de donner la liberté de participer dans ces 
+recherches.
