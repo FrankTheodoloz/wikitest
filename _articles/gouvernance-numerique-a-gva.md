@@ -31,9 +31,9 @@ La ville de Genève a établi une stratégie numérique en 2018 sur le rapport r
  
 Notre but est de permettre à l’Etat de Genève de situer ses pratiques en matière de Gouvernance numérique dans un contexte international. 
 
-Bibliographie
+*Bibliographie
 1.  Hite J. (1999). Learning in chaos. Houston, TX: Gulf Publishing Company.
-2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger 
+2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger *
 
 ### Etat de l'art
 
@@ -57,10 +57,11 @@ qui définissent l’étal de l’art dans ce domaine, notamment, la stratégie 
 le 25 avril 2018, la stratégie de la géoinformation à Genève, adoptée en janvier 2018, la Stratégie des systèmes d’information et de communication de l’administration cantonale, adoptée par le Conseil d’Etat le 25 mai 2016  
 et la Stratégie économique cantonale 2030, adoptée par le Conseil d’Etat le 24 juin 2015.
 
-Bibliographie
+*Bibliographie
 
 1. Wallerstein, Nina & Duran, Bonnie. (2006). Using Community-Based Participatory Research to Address Health Disparities. Health promotion practice. 7. 312-23. 10.1177/1524839906289376.
 2. Anadón M., Couture Ch. (2007). Présentation : la recherche participative, une préoccupation toujours vivace. In M. Anadón (coord.). La recherche participative : multiples regards. Québec : PUQ, p. 1-7.
 3. Faure G., Gasselin P., Triomphe B., Temple L., Hocdé H. (dir.), 2010, Innover avec les acteurs du monde rural : la recherche-action en partenariat, Versailles, Quae.
 4. Duchesne, Claire. « Altet M., Desjardins J., Étienne R., Paquay L., Perrenoud P. (dir.)(2013). Former des enseignants réflexifs : Obstacles et résistances. Bruxelles : De Boeck, 277 p. », Recherche & formation, vol. 72, no. 1, 2013, pp. 149-150.
-5. La stratégie numérique de la ville de Genève (2018), disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger
+5. La stratégie numérique de la ville de Genève (2018), disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger*
+
