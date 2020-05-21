@@ -5,6 +5,7 @@ key: gouvernance-numerique-a-gva
 is_main: true
 toc:
 - "Contexte"
+- "Etat de l'art"
 tags: ['Wikinomie', 'compétences numériques', 'digitalisation']
 ---
 
