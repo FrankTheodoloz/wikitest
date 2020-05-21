@@ -6,7 +6,7 @@ is_main: true
 toc:
 - "Contexte"
 - "Etat de l'art"
-tags: ['Wikinomie', 'compétences numériques', 'digitalisation']
+tags: ['wikinomie', 'compétences numériques', 'digitalisation']
 ---
 
 ### Contexte
