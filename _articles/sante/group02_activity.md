@@ -3,6 +3,7 @@ layout: activity
 key: sante
 title: DiabeteForum
 toc:
+- "Introduction"
 - "Situation actuelle"
 - "Objectifs annoncé"
 - "Besoins à remplir"
