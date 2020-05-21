@@ -36,6 +36,7 @@ Bibliographie
 2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger 
 
 ### Etat de l'art
+
 La recherche participative (la recherche-action et la recherche-action participative) est un moyen d’impliquer les citoyens dans la recherche scientifique : 
 une approche qui met l'accent sur les relations entre les partenaires des milieux de recherche et de pratique, les principes de co-apprentissage, 
 de bénéfices mutuels et d'engagement à long terme et qui intègrent les théories, la participation et les pratiques dans le processus de recherche 
@@ -44,18 +45,16 @@ Dans notre cas, elles visent à élargir le nombre des acteurs de la recherche s
 Ces approches « permettent d’établir des liens entre la recherche et l’action, entre la théorie et la pratique, entre la logique du chercheur 
 et celle des praticiens » (Anadon et Couture 2007). 
 
-Ce type de recherche vise la production de connaissances nouvelles, 
-la résolution d’un problème identifié par les acteurs et le renforcement des capacités de ces acteurs pour une plus grande autonomie. Cette production de 
-connaissances nouvelles, voire d’outils utiles aux praticiens permet de transformer la réalité (Faure et al. 2010).
+Ce type de recherche vise la production de connaissances nouvelles, la résolution d’un problème identifié par les acteurs et le renforcement des capacités 
+de ces acteurs pour une plus grande autonomie. Cette production de connaissances nouvelles, voire d’outils utiles aux praticiens permet de transformer la réalité (Faure et al. 2010).
 Ce point nous permet de connecter recherche participative avec l'apprentissage par la pratique qui est obtenu par les étudiants grâce à leur propre expérience. 
 Dans l'apprentissage par la pratique, il est essentiel que l'expérience soit une relation à double sens, où l'étudiant d'une part, est actif par rapport au monde 
 autour de lui. Mais d'autre part, il doit assumer lui-même les conséquences de ses propres priorités, décisions et actions (Altet 2013). 
 
 Comme déjà indiqué, notre projet vise à appliquer la recherche participative et l'apprentissage par la pratique dans un cas de recherche concret : 
 situer les pratiques de Gouvernance numérique de l’Etat de Genève dans un contexte international. L’Etat de Genève a déjà quelques documents clés 
-qui définissent l’étal de l’art dans ce domaine, notamment, la stratégie numérique de la ville (2018) , la Stratégie Open Data, 
-adoptée par le Conseil d’Etat le 25 avril 2018, la stratégie de la géoinformation à Genève, adoptée en janvier 2018,  
-la Stratégie des systèmes d’information et de communication de l’administration cantonale, adoptée par le Conseil d’Etat le 25 mai 2016  
+qui définissent l’étal de l’art dans ce domaine, notamment, la stratégie numérique de la ville (2018) , la Stratégie Open Data, adoptée par le Conseil d’Etat 
+le 25 avril 2018, la stratégie de la géoinformation à Genève, adoptée en janvier 2018, la Stratégie des systèmes d’information et de communication de l’administration cantonale, adoptée par le Conseil d’Etat le 25 mai 2016  
 et la Stratégie économique cantonale 2030, adoptée par le Conseil d’Etat le 24 juin 2015.
 
 Bibliographie
