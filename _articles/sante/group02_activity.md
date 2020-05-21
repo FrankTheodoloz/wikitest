@@ -4,9 +4,11 @@ key: sante
 title: DiabeteForum
 toc:
 - "Situation actuelle"
+- "Objectifs annoncé"
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
