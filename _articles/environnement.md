@@ -10,4 +10,6 @@ tags: [tag a, tag b, tag c]
 
 ### Contexte
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+L'environnement a une place de plus en plus grande dans notre société.
+Notre démarche consistera à étudier ce qui est fait de nos jours en terme de gouvernance numérique sur des sujets comme l'air, l'eau, la faune et flore.
+Relever certains points comme les types d'information diffusée, leurs outils de diffusion et leurs formats ainsi la participation citoyenne et les diverses implications de l'Etat.
