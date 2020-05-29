@@ -11,12 +11,14 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Interview"
-tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'coopération']
+tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'substantiel']
 ---
 
 ### Situation actuelle
 
 Dossier médical électronique partagé en ligne, de patient habitant le canton de Genève. Outil sécurisé et garantissant le secret médical. Cette plateforme a été développée par la Poste. Il y a encore des personnes réticentes à ce système.
+
+>  Actuellement, MonDossierMédical.ch comporte plus de 45'000 patients et 3000 professionnels de la santé. 
 
 ### Besoins à remplir
 
@@ -26,9 +28,11 @@ Améliorer la qualité et l’efficience des soins du patient. Accès rapide à 
 
 Le patient décide avec qui il partage les droits d’accès à ses données. Collaboration et coopération entre différents professionnels de la santé et des patients qui acceptent de mettre en ligne leurs dossiers médicaux.
 
+>  La plateforme fonctionne sur la confiance, donc sur qui a accès aux données et la sécurité de celles-ci.
+
 ### Résultats ou Utilisation
 
-Actuellement plus de 46'000 patients inscrits, ainsi que 2400 professionnels de la santé dont 1000 médecins. Début du projet en 2008 dans 4 communes du canton, puis étendu sur l’ensemble du canton de Genève depuis le 13 mai 2013.
+Actuellement plus de 45'000 patients inscrits, ainsi que 3000 professionnels de la santé dont 1000 médecins. Début du projet en 2008 dans 4 communes du canton, puis étendu sur l’ensemble du canton de Genève depuis le 13 mai 2013.
 
 ### Responsables
 
@@ -44,11 +48,11 @@ Bien qu’ayant prouvé son efficacité, cette solution n’est pas encore adopt
 
 ### Interview
 
-Lors de notre interview avec Monsieur X et Y, nous avons pu avoir une idée beaucoup plus claire de la plateforme MonDossierMedicale.ch. Ils ont accepté de répondre à différentes questions que nous avions préparés. Ils ont pu nous dire comment la plateforme se portait actuellement, les objectifs de celle-ci à long terme et comment ils se projetaient dans 5 ans.
+Lors de notre interview avec Monsieur Zawodnik et Monsieur Sepulchre, nous avons pu avoir une idée beaucoup plus claire de la plateforme MonDossierMedicale.ch. Ils ont accepté de répondre à différentes questions que nous avions préparés. Ils ont pu nous dire comment la plateforme se portait actuellement, les objectifs de celle-ci à long terme et comment ils se projetaient dans 5 ans.
 
 >  La loi fédérale sur le dossier électronique du patient oblige toutes les institutions avec des lits à se former et de s’affilier à une communauté de référence qui propose un dossier médicale secondaire avec des règles très strictes.
 
->  Actuellement, MonDossierMédical.ch comporte plus de 45'000 patients et 3000 professionnels de la santé. Elle sera bientôt remplacée par une autre plateforme, CARA, qui incluera cinq cantons romands sauf Neuchâtel.
+>  MDM sera bientôt remplacée par une autre plateforme, CARA, qui incluera cinq cantons romands sauf Neuchâtel.
 
 >  D'autres services sont prévus, notamment le module de transfert sécurisé de document entre différents médecins, le module de soins partagés ainsi que le plan de médication partagé.
 
@@ -71,8 +75,6 @@ Nous les avons interrogé sur l'émergence d'applications mobiles diverses et va
 >  Beaucoup de personnes qui se sont inscrites à MonDossierMedical demandaient si les assurances avaient accès à leurs données, on peut donc sentir une certaine méfiance de la part de la population concernant les assurances et les données auxquelles elles ont accès.
 
 Le thème de la sécurité de la plateforme a été abordé
-
->  La plateforme fonctionne sur la confiance, donc sur qui a accès aux données et la sécurité de celles-ci.
 
 >  Actuellement, la plateforme est sécurisée et possède une authentification à double facteur.
 
