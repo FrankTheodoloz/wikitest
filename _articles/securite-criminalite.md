@@ -5,7 +5,6 @@ key: securite-criminalite
 is_main: true
 toc:
 - "Contexte"
-tags: ['Cyber-sécurité', 'Cyber-criminalité', 'Cyber-attaque']
 ---
 
 ### Contexte
