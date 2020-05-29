@@ -6,7 +6,7 @@ is_main: true
 toc:
 - "Contexte"
 - "Questions posées au DIP"
-tags: [tag a, tag b, tag c]
+
 ---
 
 ### Contexte
