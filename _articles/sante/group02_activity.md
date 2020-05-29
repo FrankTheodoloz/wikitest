@@ -13,7 +13,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['connectivite', 'santé', 'collaboration', 'transparence', 'coopération']
+tags: ['connectivite', 'santé', 'collaboration', 'transparence', 'limité']
 ---
 
 ### Introduction
