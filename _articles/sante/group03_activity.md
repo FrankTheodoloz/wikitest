@@ -18,7 +18,7 @@ tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'substantiel'
 ### Introduction
 
 Mesvaccins.ch est une plateforme qui permet d’avoir un carnet de vaccination électronique
-sur son navigateur. Elle permet de savoir quels vaccins sont utiles ou inutiles suivant la
+sur son navigateur. Elle permet d'avoir un suivi exacte du patients afin de savoir quels vaccins sont utiles ou inutiles suivant la
 situation personnelle ainsi que les recommandations du plan Suisse de vaccination, notamment en cas de voyage prévu. Il est
 possible de partager son carnet de vaccination électronique avec divers professionnels de
 la santé afin que ceux-ci puissent intéragir avec le carnet électronique.
@@ -27,9 +27,8 @@ la santé afin que ceux-ci puissent intéragir avec le carnet électronique.
 
 Cette plateforme permet d’avoir un carnet de vaccination électronique. Il permet de voir assez rapidement si tous les vaccins utiles ont
 été fait afin de savoir si l’on est bien protégé ou non. Il est possible de choisir avec quels médecins ou pharmaciens on souhaite partager notre
-carnet de vaccination. Un assistant électronique est mis à disposition afin de nous aider à remplir de carnet électronique. Les médecins qui ont accès au carnet peuvent 
-avertir le patient en cas de retard de vaccin.
-
+carnet de vaccination. Un assistant électronique est mis à disposition afin de nous aider à remplir de carnet électronique. 
+Ce carnet électronique est également d'une grande aide pour les médecins car le plan de vaccination peut être amené à changer chaque année et ainsi devenir de plus en plus complexe. A l'aide ce cet outil, ils ont accès aux carnets de leurs patients (s'ils en ont l'autorisation) et peuvent les avertir en cas de rappel de vaccin par mail ou par SMS.
 Il existe également une application mobile à laquelle nous pouvons y accéder à l'aide des mêmes identifiants et qui offrent les même fonctionnalités que la plateforme. Celle-ci se prénomme MyViavac
 
 ### Objectifs annoncés
@@ -48,9 +47,13 @@ informations personnelles pour la création de son compte (nom, prénom,
 date de naissance, téléphone portable, sexe, adresse courriel, code postal). Ces données sont traitées à tout moment
 de manière confidentielle et sont enregistrées en Suisse. 
 
+Il est important de préciser que l'OSFP (Office fédéral de la santé publique) n'a pas accès à ces données et chaque citoyen choisi avec quels professionels de la santé il souhaite donné accès à son carnet. 
+
 ### Résultats ou Utilisation
 
 Le nombre d'utilisateur de la plateforme n'est pas indiqué mais il y a actuellement, plus de 5'000 téléchargements de l'application mobile sur le PlayStore. Les chiffres sont également inconnus pour l'AppStore.
+
+En 2019, environ 214'000 personnes utilisaient un carnet de vaccination électronique en Suisse et 150'000 en 2018 selon l'OFSP.
 
 ### Responsables
 
@@ -59,6 +62,7 @@ La fondation mesvaccins
 ### Autres acteurs
 
 Les différents professionnels de la santé ayant accès aux carnets électroniques
+Le carnet de vaccination électronique est soutenu par l'office fédéral de la santé publique.
 
 ### Recommandations
 
