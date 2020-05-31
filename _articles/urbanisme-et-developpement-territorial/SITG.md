@@ -4,8 +4,9 @@ key: urbanisme-et-developpement-territorial
 title: SITG
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
+- "Ojectifs annoncés"
 - "Règles de gouvernance"
+- "Besoins à remplir"
 - "Résultats ou Utilisation"
 - "Analyse Wikinoomie"
 - "Responsables"
@@ -34,9 +35,11 @@ Le site permet donc à plein de corps de métier relatifs à l’urbanisme et à
 
 Le SITG propose également des cours gratuits pour apprendre à utiliser les fonctionnalités plus complexes misent à disposition sur leur site.
 
-### Besoins à remplir
 
-L’État de Genève a pris conscience que pour suivre l’évolution et la croissance du Grand Genève il fallait faire évoluer en parallèle le développement du numérique et la transformation urbaine.
+### Objectifs annoncés
+
+Le but de ce site est de rassembler les données pour les mettre à disposition du plus grand nombre pour favoriser l’innovation sur le sujet de l’urbanisation et de l’aménagement du territoire. La mise à disposition de ces données veut promouvoir le développement numérique de nouveaux outils par toute personne intéressée par les enjeux de l’évolution du territoire genevois.
+
 
 ### Règles de gouvernance
 
@@ -65,22 +68,32 @@ Le SITG propose différentes méthodes d’utilisation des données. Les service
 
 Ils ont mis en place une charte qui est libre et volontairement acceptée des partenaires et qui fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG.
 
+
+### Besoins à remplir
+
+L’État de Genève a pris conscience que pour suivre l’évolution et la croissance du Grand Genève il fallait faire évoluer en parallèle le développement du numérique et la transformation urbaine.
+
+
 ### Résultats ou Utilisation
 
 Le résultat est en adéquation avec les objectifs énoncés. Le site est très utilisé par les personnes des métiers de l’urbanisation et les personnes intéressées par ses enjeux.
+
 
 ### Analyse Wikinoomie
 
 On peut donc constater que la Wikinomie est très avancé sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaire de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, « Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle. » ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos « Le SITG dans sa vision stratégique évoque aussi un renforcement de l’interaction avec les citoyens et la production de données communautaires, mais cela est encore à l’État d’intentions. ». On constate donc de la part de l’état de Genève un vrai désir de faire évoluer l’urbanisme grace à la mise en commun des connaissances et du savoir de chaque entité.
 
+
 ### Responsables
 
 DIT (Direction de l'Information du Territoire - Service de géomatique dépendant du Département du territoire (DT)
+
 
 ### Autres acteurs
 
 Partenaires (Entreprise dans le domaine de l'aménagement du territoire)  
 Tous les citoyens genevois
+
 
 ### Recommandations
 
