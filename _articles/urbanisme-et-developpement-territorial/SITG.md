@@ -7,6 +7,7 @@ toc:
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
+- "Analyse Wikinoomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
