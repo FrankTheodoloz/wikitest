@@ -21,15 +21,15 @@ Le Système d’Information du Territoire de Genève (SITG) offre une variété 
 Il constitue en même temps :
 
 
-* •	Une mémoire du territoire
+*	Une mémoire du territoire
 
-* •	Un outil de recherche, de traitement et de diffusion des informations géolocalisées
+*	Un outil de recherche, de traitement et de diffusion des informations géolocalisées
 
-* •	Un outil de communication entre les partenaires de la gestion du territoire
+*	Un outil de communication entre les partenaires de la gestion du territoire
 
-* •	Un outil d’aide à la décision fournissant une image flexible et dynamique du territoire de ses contraintes
+*   Un outil d’aide à la décision fournissant une image flexible et dynamique du territoire de ses contraintes
 
-* •	Un vecteur d’innovation et de dynamisme autour du territoire 
+*	Un vecteur d’innovation et de dynamisme autour du territoire 
 
 Le site permet donc à plein de corps de métier relatifs à l’urbanisme et à l’aménagement du territoire de partager ces données avec, en fonction des données, différents droits. Ces données sont ensuite réperetoriées sur le site qui est consultable par tous. Il existe trois modes d’utilisation des données qui sont décrites ci-dessous au point « Règles de gouvernance ».
 
@@ -47,15 +47,15 @@ Les données open data sont téléchargeables sous forme d’un fichier .zip, qu
 Les données peuvent être téléchargées directement à partir du catalogue dans les cinq formats suivants :
 
 
-* •	SHAPE (ESRI)
+*   SHAPE (ESRI)
 
-* •	Geodatabase-file (ESRI)
+*   Geodatabase-file (ESRI)
 
-* •	GML
+*   GML
 
-* •	KML
+*   KML
 
-* •	CSV
+*   CSV
 
 Les formats raster et lidar sont également disponibles mais doivent faire l’objet d’une commande spéciale due à leur volume trop important.  
 
