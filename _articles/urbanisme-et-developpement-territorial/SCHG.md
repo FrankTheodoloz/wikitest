@@ -4,8 +4,9 @@ key: urbanisme-et-developpement-territorial
 title: Une coopérative pour et par ses sociétaires
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
+- "Objectifs annoncés"
 - "Règles de gouvernance"
+- "Besoins à remplir"
 - "Résultats ou Utilisation"
 - "Analyse Wikinoomie"
 - "Responsables"
@@ -54,7 +55,7 @@ Sociétaires, conseils d’administration
 
 ### Autres acteurs
 
-les habitants de la ville de Genève
+Les habitants de la ville de Genève
 
 
 ### Recommandations
