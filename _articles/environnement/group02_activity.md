@@ -19,7 +19,6 @@ Nous avons rapidement trouvé cette information auprès des SIG (Services Indust
 de la zone d'habitation, de plus ils fournissent les données d'analyse de l'eau de l'année 2019, son traitement, et le nombre de prélèvement réalisés.
 Les SIG communiquent également sur le traitement des eaux usées.
 
-
 Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades
 
 ### Besoins à remplir
@@ -31,17 +30,14 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long
     * Garantir l'approvisionnement en eau potable sur le périmèetre du Grand Genève
     * Transport et traitement des eaux usées (contrôle et assainissement du réseau d'évacuation)
     
-
 - 2030
     * Atteindre un état biologique supérieur pour 70% des cours d'eau genevois
     * Mise en oeuvre des PGEE et construction des infrastructures nécessaires
     * Limitation drastique des micro-polluants rejetés par les stations d'épuration
 
-
 ### Règles de gouvernance () analyse effectué par l'état consultation des résultat libre
 
 L'état sanitaire des eaux de baignade sont faites par le canton(SECOE) toutes les 2 semaines
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Résultats ou Utilisation () quels sont les données comment elle sont partagé
 Les données sont disponibles via une carte interactive qui indique selon la couleur la qualité de l'eau.
@@ -51,10 +47,8 @@ Il y également des informations comme la mise à disposition de différentes in
 ### Responsables ()
 Le service de l'écologie de l'eau (SECOE)
 
-
 ### Autres acteurs (sig)
 Les SIG (Services Industriels de Genève)
-
 
 ### Recommandations
 
