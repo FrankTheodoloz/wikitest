@@ -2,9 +2,10 @@
 layout: activity
 key: education
 title: Le numérique à l’école
-tags: [tag c, tag d, tag e, tag f]
+tags: ['information', 'limité', 'enseignement', 'projets pilotes']
 toc:
 - "Situation actuelle"
+- "Questions"
 - "Objectifs annoncés"
 - "Besoins à remplir"
 - "Règles de gouvernance"
@@ -29,6 +30,16 @@ Les 2 projets de loi ont donc été abandonnés en décembre 2019.
 Madame Anne Emery-Torracinta, Conseillère d’Etat en charge du DIP, a reconnu une erreur sur ces projets de loi dans l’émission Infrarouge de la RTS en décembre 2019. Elle y explique que 2 axes étaient travaillés en même temps, à la fois celui des outils et des équipements des classes et à la fois celui des aspects relatifs aux adaptations des plans d’études au lieu de se concentrer sur le projet pédagogique et sur les forces nécessaires pour le mettre en œuvre.
 
 Une nouvelle démarche visant à déposer un rapport au Grand Conseil est en cours. Ce rapport devra détailler un plan pédagogique, par degré et par filière puis lister l’équipement nécessaire pour sa mise en œuvre. Les projets de loi suivront.
+
+### Questions
+
+-	Après l’abandon, en décembre 2019, des 2 projets de loi ayant pour but d’équiper l’école primaire et le cycle d’orientation de tablettes et de Wi-Fi, où en est le projet du numérique à l’école ?
+-	Comment se déroule la collaboration avec les parties prenantes ? Quels sont les acteurs impliqués (syndicats, enseignants, étudiants, spécialistes du numérique, …) ?
+-	Selon vous, est-ce qu’une démarche participative citoyenne, comme cela a été fait avec la consultation publique "politique numérique" en 2018, serait réalisable dans le cadre de la création de l’école de la citoyenneté numérique ?
+
+Ces questions ont été communiquées au DIP le 5 mai 2020. Malheureusement après plusieurs échanges, le SRED n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
+>La demande n'offre ainsi pas de notre point de vue les garanties scientifiques et conceptuelles de l'utilisation des interviews qui seront effectuées auprès des acteurs du département
+
 
 ### Objectifs annoncés
 
