@@ -23,7 +23,7 @@ Les SIG communiquent également sur le traitement des eaux usées.
 Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades
 
 ### Besoins à remplir
-Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme
+Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme.
 
 - Long terme
     * Améliorer la qualité des cours d'eau
@@ -38,25 +38,27 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long
     * Limitation drastique des micro-polluants rejetés par les stations d'épuration
 
 
-### Règles de gouvernance
+### Règles de gouvernance () analyse effectué par l'état consultation des résultat libre
 
+L'état sanitaire des eaux de baignade sont faites par le canton(SECOE) toutes les 2 semaines
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Résultats ou Utilisation
+### Résultats ou Utilisation () quels sont les données comment elle sont partagé
+Les données sont disponibles via une carte interactive qui indique selon la couleur la qualité de l'eau.
+Il y également des informations comme la mise à disposition de différentes infrastructures comme par exemple des douches et toilettes. Le site [geneveterroir](https://www.geneveterroir.ch/fr/map?a=1143) fournit des informations plus précises sur les infrastructures misent à disposition.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Responsables
+### Responsables ()
+Le service de l'écologie de l'eau (SECOE)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Autres acteurs
+### Autres acteurs (sig)
+Les SIG (Services Industriels de Genève)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Recommandations
 
 Les informations concernant l'eau potable sont faibles, en effet fournir une moyenne annuelle de la composition de l'eau ne reflète pas vraiment de sa qualité pendant une période plus précise, comme une semaine en particulié.
 Il faudrait fournir des informations plus détaillé et permettre également l'exportation de ces données pour qu'elles puissent être utilisé et traité par des logiciels.
 Il serait intéressant de mieux communiquer entre la confédération et le canton, car nous avons remarqué que la confédération ne possède pas certaines informations détenu par le canton [qualité des eaux de baignades](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/info-specialistes/etat-des-eaux/etat-des-cours-deau/qualite-des-cours-deau/qualite-des-eaux-de-baignade.html)
-La navigation des applications web doient être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolète [cliquer sur l'onglet eau](https://vhg.ch/xt_vh/index.php), il faudrait facilité le signalement des données corrompue/manquante.
+La navigation des applications web doivent être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolètes [cliquer sur l'onglet eau](https://vhg.ch/xt_vh/index.php), il faudrait faciliter le signalement des données corrompues/manquantes.
