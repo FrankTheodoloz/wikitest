@@ -15,11 +15,14 @@ toc:
 ### Situation actuelle
 
 Nos premières interrogations sur l'eau on été de savoir si le canton communiquait sur la qualité de l'eau potable, nous n'avons pas trouvé d'informatons concernant la potabilité de l'eau.
-Nous avons rapidement trouvé cette information auprès des SIG (Services Industriels de Genève)
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nous avons rapidement trouvé cette information auprès des SIG (Services Industriels de Genève), Les SIG nous fournissent des informations concernant l'origine de l'eau potable en fonction
+de la zone d'habitation, de plus ils fournissent les données d'analyse de l'eau de l'année 2019, son traitement, et le nombre de prélèvement réalisés.
+Les SIG communiquent également sur le traitement des eaux usées.
 
 
-### Objectifs annoncés
+Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades
+
+### Besoins à remplir
 Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme
 
 - Long terme
@@ -34,15 +37,6 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long
     * Mise en oeuvre des PGEE et construction des infrastructures nécessaires
     * Limitation drastique des micro-polluants rejetés par les stations d'épuration
 
-
-
-
-
-### Besoins à remplir
-
-Le canton de Genève veut préserver la qualité et la quantité d'eau disponible, et lutter contre les micro-polluants [Source](https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger)
-Le canton de Genève s'est fixé les objectifs suivant
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Règles de gouvernance
 
@@ -62,4 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Recommandations
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Les informations concernant l'eau potable sont faibles, en effet fournir une moyenne annuelle de la composition de l'eau ne reflète pas vraiment de sa qualité pendant une période plus précise, comme une semaine en particulié.
+Il faudrait fournir des informations plus détaillé et permettre également l'exportation de ces données pour qu'elles puissent être utilisé et traité par des logiciels.
+Il serait intéressant de mieux communiquer entre la confédération et le canton, car nous avons remarqué que la confédération ne possède pas certaines informations détenu par le canton [qualité des eaux de baignades](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/info-specialistes/etat-des-eaux/etat-des-cours-deau/qualite-des-cours-deau/qualite-des-eaux-de-baignade.html)
+La navigation des applications web doient être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolète [cliquer sur l'onglet eau](https://vhg.ch/xt_vh/index.php), il faudrait facilité le signalement des données corrompue/manquante.
