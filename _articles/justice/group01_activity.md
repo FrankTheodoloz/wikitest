@@ -40,10 +40,15 @@ Marius Erni, chef de projet / responsable presse, info@justitia.swiss
 Organisations impliqués :
 
 Tribunaux de la Confédération
+
 Ministère public de la Confédération
+
 Office fédéral de la justice
+
 Ordres judiciaires cantonaux
+
 Parquets cantonaux
+
 Services d'exécution
 ### Recommandations
 
