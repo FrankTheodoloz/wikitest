@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: urbanisme-et-developpement-territorial
-title: APA numérique
+title: APA numéique
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
