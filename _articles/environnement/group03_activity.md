@@ -11,14 +11,15 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 ---
-test
+
 ### Situation actuelle
 **Faune**
 
 Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 
 **Flore**
-
+Le canton de Genève utilise un site web
+Les informations concernant la flore Genevoise sont accessibles via le site [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
 
 **Initiative du canton**
