@@ -25,70 +25,89 @@ https://edu.ge.ch/sem/
 Depuis la plateforme du SEM, Boîtes à outils MITIC, nous retrouvons L'Ecole en ligne (EEL) qui regroupe un ensemble d'applications pédagogiques en ligne proposées aux enseignants, aux élèves et aux membres du personnel administratif et technique (PAT) du DIP genevois. Voici la liste exhaustive des applications proposées par l’EEL:
 
 -	BiblioDIP: Portail du réseau des bibliothèques scolaires
+
 Public cible: EP(sauf élèves)-CO-ESII
 
 -	Compilatio: Logiciel anti-plagiat
+
 Public cible: enseignants ESII
 
 -	Cortex: Application ludique pour l’apprentissage par cœur du DIP
+
 Public cible: CO
 Accès étendu à: EP, ESII
 
 -	Disciplines CO: Site pédagogique officiel du CO
+
 Public cible: enseignants CO
 Accès étendu: enseignants EP, enseignants ESII
 
 -	Disciplines EP: Site pédagogique officiel de l'EP
+
 Public cible: enseignants EP
 Accès étendu: enseignants CO
 
 -	eduge.ch (Google Apps): Plate-forme collaborative
+
 Public cible: EP(sauf élèves)-CO-ESII
 
 -	Encyclopédie Universalis Junior et EDU
+
 Pour le CO : Universalis Junior
 Pour l'ESII : Universalis EDU
 Public cible: CO, ESII
 Accès étendu: enseignants EP
 
 -	Enseignement du fait religieux: Ressources pour l’enseignement du fait religieux
+
 Public cible: enseignants d'histoire EP-CO
 Accès étendu: enseignants EP-CO-ESII
 
 -	ESPER: Espace des moyens d’enseignement romands de la CIIP
+
 Public cible: enseignants EP-CO
 
 -	Formation continue MITIC: Site de formation en ligne du SEM-Formation
+
 Public cible: enseignants EP-CO-ESII
 
 -	laPlattform: Ressources numériques du SEM-Documentation
+
 Public cible: enseignants EP-CO
 Accès étendu: personnel du DIP
 
 -	Liens courts et codes QR: Générateur de liens courts et de codes QR pérennes
+
 Public cible: enseignants EP-CO-ESII
 
 -	Petit-Bazar: Portail pédagogique de l'enseignement primaire
+
 Public cible: enseignants & élèves EP
 Accès étendu: enseignants CO
 
 -	Moodle Apprentissage: Plate-forme d'apprentissage et d'évaluation
+
 Public cible: EP(sauf élèves)-CO-ESII
 
 -	Portail des langues: Portail de ressources pour l'enseignement des langues
+
 Public cible: enseignants CO-ESII
 
 -	PPER: Plate-forme du plan d'études romand
+
 Public cible: enseignants EP-CO
 
 -	Sites publics EDU: Sites web pédagogiques WordPress
+
 Public cible: enseignants EP-CO-ESII
 
 -	SEC (service enseignement évaluation certifications) - DGESII
+
 Elèves - Enseignement - Evaluation DGES II
 Public cible: enseignants ESII
 
 -	TAMTAM: Réseau social du DIP
+
 Public cible: enseignants EP-CO-ESII
 Accès étendu: membres du PAT du DIP
 

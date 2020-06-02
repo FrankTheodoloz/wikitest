@@ -5,7 +5,6 @@ key: education
 is_main: true
 toc:
 - "Contexte"
-- "Questions posées au DIP"
 tags: ['système éducatif', 'transition numérique', 'politique numérique', 'citoyenneté numérique', 'école']
 ---
 
