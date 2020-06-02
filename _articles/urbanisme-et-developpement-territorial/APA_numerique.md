@@ -8,11 +8,11 @@ toc:
 - "Règles de gouvernance"
 - "Besoins à remplir"
 - "Résultats ou Utilisation"
-- "Analyse Wikinoomie"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['autorisation', 'construire', 'suivi' 'participation', 'complete']
+tags: ['autorisation', 'construire', 'suivi', 'participation', 'complete']
 ---
 
 ### Situation actuelle
@@ -46,7 +46,7 @@ De plus, tous les projets sont répertoriés dans la même plate-forme ce qui pe
 Comme l’ensemble des prestations e-démarches, elle est de plus en plus utilisée. L’État de Genève développant constamment les services de cet outil, elle est de plus en plus connue et utilisée. De plus, l’État de Genève continue à la faire évoluer dans le sens des utilisateurs et demandes donc régulièrement leurs avis à ceux-ci par le biais de questionnaires par exemple. Le but étant de l’adapter au mieux aux besoinx des citoyens genevois.
 
 
-### Analyse Wikinoomie
+### Analyse Wikinomie
 
 Cette procédure va dans le sens de la wikinomie pour l’aspect du partage d’information et de la transparence qu’elle amène sur le suivit des projets. Elle n’est en revanche pas délibérative et donc encore moins collaborative. 
 

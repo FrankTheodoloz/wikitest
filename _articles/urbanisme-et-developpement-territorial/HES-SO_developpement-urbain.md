@@ -8,11 +8,11 @@ toc:
 - "Règles de gouvernance"
 - "Besoins à remplir"
 - "Résultats ou Utilisation"
-- "Analyse Wikinoomie"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['projet', 'université', 'agglomération' 'co-opération', 'substantielle']
+tags: ['projet', 'université', 'agglomération', 'co-opération', 'substantielle']
 ---
 
 ### Situation actuelle
@@ -41,7 +41,7 @@ Pour l’instant il est uniquement possible de consulter ou de demander des rech
 Le résultat est en adéquation avec les objectifs énoncés.
 
 
-### Analyse Wikinoomie
+### Analyse Wikinomie
 
 Cette plateforme collaborative regroupe plusieurs éléments de la wikinomie. Il est possible de consulter toutes le données présentent sur le site, sans avoir à s’identifier. 
 
@@ -59,4 +59,3 @@ collectivités publiques, milieux professionnels et universités et écoles poly
 ### Recommandations
 
 Comme mentionné ci-dessus, la plateforme pourrait évoluer et faire place à un peu plus de collaboration.
-

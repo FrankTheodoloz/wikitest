@@ -9,11 +9,11 @@ toc:
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
-- "Analyse Wikinoomie"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['concertation' 'co-opération', 'complete']
+tags: ['concertation', 'co-opération', 'complete']
 ---
 
 ### Situation actuelle
@@ -62,7 +62,7 @@ Le site participer.ge.ch a également des conditions générales qu’il faut ac
 La plateforme numérique propose un récapitulatif des participations et propositions qui ont été faites sur le site. Elle expose également le nombre de commentaires, rencontres, articles, etc..., relatif aux projets présents sur le site. Cela permet d’avoir une bonne image de l’utilisation de ce site et de son évolution. Le site n’étant que très récent il y a pour l’instant que peu de projet et de participation. Cependant, l’État de Genève voulant clairement mettre en avant la collaboration sur les enjeux de développement urbain, on peut s’attendre à ce que cette plateforme soit mise en avant et devienne donc de plus en plus utilisée.
 
 
-### Analyse Wikinoomie
+### Analyse Wikinomie
 
 On remarque que ce projet est très avancé du point de vue de la wikinomie. Il montre, comme le site du SITG, la volonté de l’État de Genève de faire participer sa population à l’évolution de l’urbanisation du Grand Genève. Dans un premier temps les rencontres avec les professionnels, puis des habitants et des associations et récemment le site participer.ge.ch montre clairement l’intérêt à une collaboration citoyenne pour l’évolution de la ville. La plateforme numérique ajoute l’envie d’intégrer les technologies actuelles pour aider ces objectifs de concertation de la population.
 

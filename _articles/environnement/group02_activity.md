@@ -38,21 +38,21 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long
     * Limitation drastique des micro-polluants rejetés par les stations d'épuration
 
 
-### Règles de gouvernance () analyse effectué par l'état consultation des résultat libre
+### Règles de gouvernance
 
 L'état sanitaire des eaux de baignade sont faites par le canton(SECOE) toutes les 2 semaines
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Résultats ou Utilisation () quels sont les données comment elle sont partagé
+### Résultats ou Utilisation
 Les données sont disponibles via une carte interactive qui indique selon la couleur la qualité de l'eau.
 Il y également des informations comme la mise à disposition de différentes infrastructures comme par exemple des douches et toilettes. Le site [geneveterroir](https://www.geneveterroir.ch/fr/map?a=1143) fournit des informations plus précises sur les infrastructures misent à disposition.
 
 
-### Responsables ()
+### Responsables
 Le service de l'écologie de l'eau (SECOE)
 
 
-### Autres acteurs (sig)
+### Autres acteurs
 Les SIG (Services Industriels de Genève)
 
 
