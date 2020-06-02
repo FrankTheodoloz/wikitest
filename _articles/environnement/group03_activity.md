@@ -13,16 +13,13 @@ toc:
 ---
 test
 ### Situation actuelle
-
 **Faune**
-Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [fauneGenève](https://www.faunegeneve.ch/).
+Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 **Flore**
 
 
 ### Besoins à remplir
-
 Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le long terme.
-
 * Long terme
     * Garantir des sites et des écosystèmes naturels portant une biodiversité optimale selon des critères de gestion durable.
     * Assurer une protection durable des sites et milieux les plus riches en biodiversité.
@@ -41,16 +38,21 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
 
 
 ### Règles de gouvernance
+**Faune**
+L'association Faune Genève mets à disposition son site s'informer et participer sur la faune genevoise. 
+**Flore**
+
 
 
 ### Résultats ou Utilisation
-
+**Faune**
+Le [site](https://www.faunegeneve.chwi) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
 
 ### Responsables
-
+L'association à but non lucratif Faune Genève.
 
 ### Autres acteurs
-
+Le canton, les membres et visiteurs du site Faune Genève.
 
 ### Recommandations
 
