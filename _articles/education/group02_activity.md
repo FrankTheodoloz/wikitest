@@ -2,9 +2,10 @@
 layout: activity
 key: education
 title: Prévention contre le (cyber)harcèlement
-tags: [tag c, tag d, tag e, tag f]
+tags: ['participation', 'substantiel', 'prévention', 'harcèlement', 'formation', 'communication']
 toc:
 - "Situation actuelle"
+- "Questions"
 - "Objectifs annoncés"
 - "Besoins à remplir"
 - "Règles de gouvernance"
@@ -26,10 +27,10 @@ Afin de combattre le (cyber)harcèlement entre élèves, qui constitue la forme 
 Il a été lancé officiellement par le DIP en 2016. Entre 2013 et 2016, une dizaine d’établissements ont participé à une phase pilote de déploiement.
 
 Le plan d’action et de prévention contre le (cyber)harcèlement entre élèves comporte quatre mesures spécifiques:
-1.	Mesurer le phénomène;
-2.	Former les professionnels;
-3.	Agir en cas de harcèlement;
-4.	Informer un large public.
+-	Mesurer le phénomène;
+-	Former les professionnels;
+-	Agir en cas de harcèlement;
+-	Informer un large public.
 
 La première mesure, «Mesurer le harcèlement», a pour objectifs d’évaluer l’importance du phénomène de harcèlement en milieu scolaire et d’en apprécier l’évolution afin de permettre au DIP de mettre en œuvre des actions ciblées. À cette fin, une première enquête a été menée en 2012 auprès d’un échantillon d’élèves de l’enseignement secondaire. Selon cette première enquête publiée en 2013, 6% des élèves sont victimes de harcèlement.
 
@@ -42,13 +43,22 @@ Elle est suivie d’un travail d’accompagnement de l’établissement pour met
 La troisième mesure, «Agir en cas de harcèlement», constitue un travail effectué de manière individuelle par chaque école pour développer un protocole d’intervention, c’est-à-dire une marche à suivre en cas de harcèlement sur la base du protocole type développé par le DIP.
 
 Le Groupe-Prévention de l'établissement qui a pour mission de mettre en place le plan d’actions et de prévention de l’établissement, en ayant les tâches suivantes: 
-•	L’organisation des actions de formation continue auprès des collaborateurs de l’école; 
-•	La coordination des actions de prévention visant à informer les élèves et à développer leurs compétences sociales et émotionnelles ; 
-•	La coordination des actions d’information à destination des parents.
+-	L’organisation des actions de formation continue auprès des collaborateurs de l’école; 
+-	La coordination des actions de prévention visant à informer les élèves et à développer leurs compétences sociales et émotionnelles ; 
+-	La coordination des actions d’information à destination des parents.
 
 La prise en charge de situation par le Groupe-Prévention lors du protocole type prévoit l'activation d'une cellule d'intervention en cas de situation de harcèlement. Si l’hypothèse d’un harcèlement se confirme, sa mission consiste alors à piloter le suivi du traitement éducatif des situations de harcèlement et à assurer le relais auprès des partenaires, en lien avec les directions générales. La cellule d'intervention veille à ce que le cas soit traité dans le cadre du droit.
 
 La quatrième et dernière mesure du plan d’action concerne «Informer sur le (cyber)harcèlement à destination des professionnels, des élèves et des parents». L’objectif de cette mesure est de communiquer, d’informer et de sensibiliser un large public aux situations de (cyber)harcèlement à l’école et de faire connaître le plan d’action et de prévention de l’État de Genève pour orienter et donner des conseils pratiques aux personnes confrontées à ce problème. À cette fin, des fiches d’information pour les trois publics concernés ont été créées et diffusées.
+
+### Questions
+
+-	Dans le cadre de la lutte contre le cyberharcèlement, avez-vous des exemples de cas concrets qui vous ont été rapportés ?
+-	De quelle manière ces cas ont été pris en charge ? Est-ce que les personnes harcelées ont pu obtenir une réponse satisfaisante ? 
+-	Pensez-vous qu’une démarche participative citoyenne pourrait aider à l’amélioration continue de ces processus ?
+
+Ces questions ont été communiquées au DIP le 5 mai 2020. Malheureusement après plusieurs échanges, le SRED n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
+>La demande n'offre ainsi pas de notre point de vue les garanties scientifiques et conceptuelles de l'utilisation des interviews qui seront effectuées auprès des acteurs du département
 
 ### Objectifs annoncés
 
