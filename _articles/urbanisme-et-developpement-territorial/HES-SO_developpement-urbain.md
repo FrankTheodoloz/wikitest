@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['projet', 'université', 'agglomération' 'co-opération', 'substantielle']
+tags: ['projet', 'université', 'agglomération', 'co-opération', 'substantielle']
 ---
 
 ### Situation actuelle
@@ -59,4 +59,3 @@ collectivités publiques, milieux professionnels et universités et écoles poly
 ### Recommandations
 
 Comme mentionné ci-dessus, la plateforme pourrait évoluer et faire place à un peu plus de collaboration.
-

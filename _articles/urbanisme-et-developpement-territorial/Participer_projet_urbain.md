@@ -13,7 +13,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['concertation' 'co-opération', 'complete']
+tags: ['concertation', 'co-opération', 'complete']
 ---
 
 ### Situation actuelle
