@@ -31,6 +31,12 @@ Madame Anne Emery-Torracinta, Conseillère d’Etat en charge du DIP, a reconnu 
 
 Une nouvelle démarche visant à déposer un rapport au Grand Conseil est en cours. Ce rapport devra détailler un plan pédagogique, par degré et par filière puis lister l’équipement nécessaire pour sa mise en œuvre. Les projets de loi suivront.
 
+*Bibliographie
+1. Une vision pour l’instruction publique et le système de formation genevois disponible à https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger
+2. Genève enterre le numérique à l'école, Le Temps, le 4 décembre 2019 disponible à https://www.letemps.ch/suisse/geneve-enterre-numerique-lecole
+3. Interview de Madame Anne Emery-Torracinta, Infrarouge RTS, le 4 décembre 2019, https://www.rts.ch/play/tv/lactu-en-video/video/anne-emery-torracinta-reconnat-dans-infrarouge-une-erreur-dans-les-projets-du-numerique-a-lecole-a-geneve?id=10920487
+
+
 ### Questions
 
 -	Après l’abandon, en décembre 2019, des 2 projets de loi ayant pour but d’équiper l’école primaire et le cycle d’orientation de tablettes et de Wi-Fi, où en est le projet du numérique à l’école ?
