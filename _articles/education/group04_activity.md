@@ -2,7 +2,7 @@
 layout: activity
 key: education
 title: Annuaire statistique de l’enseignement public et privé à Genève
-tags: [tag c, tag d, tag e, tag f]
+tags: ['information', 'substantiel', 'recherche', 'statistiques', 'enseignement public', 'enseignement privé']
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
