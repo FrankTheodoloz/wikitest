@@ -37,3 +37,8 @@ Pour atteindre ces objectifs le DIP a établi un certain nombre de principes vis
 -	Participation : Pour construire l’école de la citoyenneté numérique, le DIP favorise et organise la participation de ses partenaires internes et externes pour que chaque partie prenante puisse s’approprier la transition numérique.
 
 Ce rapport a pour but de sélectionner un échantillon d’activités en lien avec le numérique et le système éducatif Genevois au regard de la Wikinomie. 
+
+*Bibliographie
+1. Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger
+2. Une vision pour l’instruction publique et le système de formation genevois disponible à https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger
+
