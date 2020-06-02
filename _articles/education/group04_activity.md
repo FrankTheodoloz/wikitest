@@ -18,6 +18,7 @@ toc:
 ### Situation actuelle
 
 Le service de la recherche en éducation (SRED) contribue au pilotage et au suivi du système genevois d’enseignement et de formation. Il produit des repères et indicateurs statistiques sur l'enseignement à Genève, des statistiques publiques sur l’enseignement et la formation, des prévisions annuelles des effectifs scolaires, des recherches et des évaluations en lien direct avec les prestations et activités du DIP. Le SRED publie ses résultats sur la plateforme suivante :
+
 https://www.ge.ch/dossier/analyser-education
 
 Dans le cadre de cette étude nous avons sélectionné l’un des services de cette plateforme, l’annuaire statistique de l’enseignement public et privé à Genève.
