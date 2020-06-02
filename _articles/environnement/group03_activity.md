@@ -15,7 +15,14 @@ test
 ### Situation actuelle
 **Faune**
 Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
+
 **Flore**
+
+
+
+**Initiative du canton**
+Le canton veut stimuler l'initiative personnelle des citoyens via le site web [1001 sites nature en ville](https://www.1001sitesnatureenville.ch/) 
+
 
 
 ### Besoins à remplir
@@ -39,14 +46,28 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
 
 ### Règles de gouvernance
 **Faune**
-L'association Faune Genève mets à disposition son site s'informer et participer sur la faune genevoise. 
+L'association Faune Genève mets à disposition son site s'informer et participer à établir des statistiques sur la faune genevoise. 
 **Flore**
+Les informations concernant la flore Genevoise sont accessibles via le site [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
 
 
 ### Résultats ou Utilisation
 **Faune**
 Le [site](https://www.faunegeneve.chwi) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
+
+**Flore**
+le [site](https://www.patrimoine-vert-geneve.ch/) possède beaucoups d'indicateurs.
+
+[Tableau de bord](https://villege.maps.arcgis.com/apps/opsdashboard/index.html#/89a5ddd8a51c45348251c6db13383ae2) avec des statistiques comme le pourcentage de surface imperméable, la biodiversité menacée avec un affinage sur les communes
+
+[Carte des arbres du canton](https://ge.ch/tericaconsultation/)
+
+Une [liste](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) de ressource supplémentaire est à venir:
+* Tableau de bord des arbres isolés hors forêt
+* Tableau de bord des plantes vasculaires genevoises
+* Tableau de bord des lichens genevois
+* Tableau de bord des bryophytes genevoises
 
 ### Responsables
 L'association à but non lucratif Faune Genève.
