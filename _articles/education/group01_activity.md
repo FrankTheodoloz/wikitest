@@ -33,7 +33,7 @@ Une nouvelle démarche visant à déposer un rapport au Grand Conseil est en cou
 
 *Bibliographie
 1. Une vision pour l’instruction publique et le système de formation genevois disponible à https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger
-2. Genève enterre le numérique à l'école, Le Temps, le 4 décembre 2019 disponible à https://www.letemps.ch/suisse/geneve-enterre-numerique-lecole
+2. Article Genève enterre le numérique à l'école, Le Temps, le 4 décembre 2019 disponible à https://www.letemps.ch/suisse/geneve-enterre-numerique-lecole
 3. Interview de Madame Anne Emery-Torracinta, Infrarouge RTS, le 4 décembre 2019, https://www.rts.ch/play/tv/lactu-en-video/video/anne-emery-torracinta-reconnat-dans-infrarouge-une-erreur-dans-les-projets-du-numerique-a-lecole-a-geneve?id=10920487
 
 
@@ -78,6 +78,9 @@ Quelques projets pilotes sont en cours dans des écoles Genevoises, en voici 2 e
 -	Une classe de l’école primaire de Chandieu utilise des tablettes numériques pour permettre l’apprentissage de plusieurs matières : médias et images, français, expression orale, etc…
 -	Une classe de 4e et 5e primaire de l’école du Seujet utilise un robot développé par l’EPFL appelé Thymio. Doté de capteurs, ce robot peut parcourir un trajet en évitant des obstacles, il permet l’apprentissage des notions d’espace, d’aire et de périmètre et également de développer des compétences de collaboration et de communication entre élèves.
 
+*Bibliographie
+1. Site internet Le numérique à l'école disponible à https://edu.ge.ch/ecolenumerique/
+
 ### Analyse Wikinomique
 
 Le souhait exprimé par les enseignants et les syndicats d’être plus impliqués dans la mise en place du numérique à l’école va dans le sens d’une approche Wikinomique.
@@ -104,3 +107,6 @@ Les enseignants, les syndicats, les étudiants, les professionnels du numérique
 Dans le but de se rapprocher d’une vision wikinomique, nous recommandons au DIP de continuer la démarche qui avait été adoptée par le Conseil d’Etat dans le cadre de la rédaction de la gouvernance numérique c’est-à-dire permettre à tout citoyen de collaborer dans le cadre de la réalisation de l’enseignement du numérique à Genève.
 
 Et ce dans le but de pouvoir bénéficier de l’intelligence collective en transformant les citoyens en partenaire pour co-construire efficacement l’école de demain.
+
+*Bibliographie
+1. Site internet Consultation citoyenne disponible à https://consultation.ge.ch/
