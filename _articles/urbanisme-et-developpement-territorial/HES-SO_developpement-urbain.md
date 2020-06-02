@@ -8,7 +8,7 @@ toc:
 - "Règles de gouvernance"
 - "Besoins à remplir"
 - "Résultats ou Utilisation"
-- "Analyse Wikinoomie"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -41,7 +41,7 @@ Pour l’instant il est uniquement possible de consulter ou de demander des rech
 Le résultat est en adéquation avec les objectifs énoncés.
 
 
-### Analyse Wikinoomie
+### Analyse Wikinomie
 
 Cette plateforme collaborative regroupe plusieurs éléments de la wikinomie. Il est possible de consulter toutes le données présentent sur le site, sans avoir à s’identifier. 
 

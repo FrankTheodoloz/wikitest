@@ -8,7 +8,7 @@ toc:
 - "Règles de gouvernance"
 - "Besoins à remplir"
 - "Résultats ou Utilisation"
-- "Analyse Wikinoomie"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -43,7 +43,7 @@ Pour l’instant seul les informations sont disponibles pour tous, pour pouvoir 
 Le résultat est en adéquation avec les objectifs énoncés. Le site est utilisé par les personnes de la coopérative et les personnes intéressées par ses enjeux.
 
 
-### Analyse Wikinoomie
+### Analyse Wikinomie
 
 La SCHG met déjà en oeuvre de nombreux aspects de la wikinomie, en permettant aux propriétaires de participer aux assemblés et en leur offrant la possibilité de présenter de nouvelles idées à la coopérative. Cependant, elle pourrait offrir une plus grande liberté d’utilisation des informations collectées lors des assemblées ou des informations collectées sur le site internet dans l’espace prévu à cet effet.
 
@@ -61,5 +61,3 @@ Les habitants de la ville de Genève
 ### Recommandations
 
 Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données.
-
-
