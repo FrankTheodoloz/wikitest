@@ -14,6 +14,7 @@ toc:
 test
 ### Situation actuelle
 **Faune**
+
 Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 
 **Flore**
@@ -21,6 +22,7 @@ Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faun
 
 
 **Initiative du canton**
+
 Le canton veut stimuler l'initiative personnelle des citoyens via le site web [1001 sites nature en ville](https://www.1001sitesnatureenville.ch/) 
 
 
