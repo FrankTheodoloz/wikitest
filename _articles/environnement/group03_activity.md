@@ -15,11 +15,13 @@ toc:
 ### Situation actuelle
 **Faune**
 
+
 Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 
 **Flore**
 
-Le canton de Genève utilise un [site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur la flore.
+La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigant les utilisateurs sur le nouveau site
+[site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
 
 **Initiative du canton**
 
@@ -49,6 +51,7 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
 ### Règles de gouvernance
 **Faune**
 L'association Faune Genève mets à disposition son site s'informer et participer à établir des statistiques sur la faune genevoise. 
+
 **Flore**
 Les informations concernant la flore Genevoise sont accessibles via le site [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
@@ -72,10 +75,36 @@ Une [liste](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) de ress
 * Tableau de bord des bryophytes genevoises
 
 ### Responsables
+**Faune**
 L'association à but non lucratif Faune Genève.
+**Flore**
+le projet est piloté par un comité directeur avec les partenaires suivants:
+
+* Conservatoire et Jardin botaniques (CJB - VdG);
+* Direction de la Biodiversité de l'Office Cantonal de l'Agriculture et de la Nature (OCAN - DT);
+* Direction des Systèmes d'Informations et de Communication (DSIC - VdG);
+* La Haute Ecole du Paysage, d'Ingénierie et d'Architecture de Genève (HEPIA);
+* Service de Géomatique (SGéo - DT);
+* Service des Espaces Verts (SEVE - VdG).
 
 ### Autres acteurs
+**Faune**
 Le canton, les membres et visiteurs du site Faune Genève.
 
+**Flore**
+* le Service d'Urbanisme (SU - VdG);
+* le Service de l'aménagement, du génie-civil et de la mobilité (AGCM - VdG);
+* l'Association des Communes Genevoises (ACG) et notamment son Service Intercommunal d'Informatique (SIACG);
+* différentes communes (Meyrin, Carouge, Vernier, ....);
+* Info Flora;
+* le Réseau Mondial des Centres d'Informations sur l'Environnement (GRID du PNUE);
+* l'Association de l'Arboretum national du Vallon de l'Aubonne (AAVA).
+
+[source](https://www.patrimoine-vert-geneve.ch/node/4723)
+
 ### Recommandations
+
+**Faune**
+
+**Flore**
 
