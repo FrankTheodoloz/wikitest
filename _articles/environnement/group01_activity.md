@@ -28,14 +28,14 @@ Ces derniers vont traiter plusieurs composant pour nous donner des résultats su
 
 ### Besoins à remplir
 
-Les objectifs de [Environnement 2030](https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger) ainsi que l'[Ordonnance sur la protection de l’air](https://www.admin.ch/opc/fr/classified-compilation/19850321/index.html) montrent que, aussi bien à échelle Cantonal que national, nous visons à une amélioration de la qualité de l'air en diminuant les principaux polluants.
+Les objectifs d'[Environnement 2030](https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger) ainsi que l'[Ordonnance sur la protection de l’air](https://www.admin.ch/opc/fr/classified-compilation/19850321/index.html) montrent que, aussi bien à échelle Cantonal que national, nous visons à une amélioration de la qualité de l'air en diminuant les principaux polluants.
 
 Un plan de communication autour des pics de pollution est en train d'être mise en place autour du contexte de la circulation différenciée.
 
 ### Règles de gouvernance
 
 Les analyses sont effectuées par le Réseau d’Observation de la Pollution Atmosphérique à Genève, Département de l'environnement.
-Les résultats peuvent être consultés librement sur le site [ge.ch]( https://www.ge.ch/connaitre-qualite-air-geneve/)
+Les résultats peuvent être consultés librement sur le site [ge.ch]( https://www.ge.ch/connaitre-qualite-air-geneve/).
 
 ### Résultats ou Utilisation
 
@@ -45,7 +45,7 @@ Sur ce dernier, [ge.ch]( https://www.ge.ch/connaitre-qualite-air-geneve/) va nou
 * Un tableau de recherche détaillé avec différents critères modifiable comme le type de milieu, les polluants, la période de temps et les moyennes. Nous pouvons exporter nos résultats en format CSV
 * Un rapport annuel complet format PDF
 
-D’autre part, plusieurs applications sont disponibles comme [airCHeck]( https://cerclair.ch/fr/aircheck) et [Air2G2]( https://air2g2.app/)
+D’autre part, plusieurs applications sont disponibles comme [airCHeck]( https://cerclair.ch/fr/aircheck) et [Air2G2]( https://air2g2.app/).
 
 ### Responsables
 
@@ -64,7 +64,7 @@ Agrandir le nombre de stations de mesure afin d’avoir une approche plus local.
 #### Contenu
 Améliorer la diffusion de données.
 En diversifiant les moyens d'obtenir des informations sur la qualité de l'air nous pourrions permettre aux citoyens de diversifier la manière de les consulter ou les étudier.
-L'utilisation d'un service API pourrait permettre d'implémenter les résultats dans des applications ou meme à d'autres données et ceci de manière instantanée.
+L'utilisation d'un service API pourrait permettre d'implémenter les résultats dans des applications ou même à d'autres données et ceci de manière instantanée.
 
 #### Plateforme Environnement
 L'idée d'une plateforme Environnement pourrait permettre de centraliser et normalisé toutes les informations autour du sujet. Ceci permettrait un accès plus rapide a toute personne intéressé.
@@ -73,10 +73,10 @@ L'idée d'une plateforme Environnement pourrait permettre de centraliser et norm
 La mise à disposition d’un forum sur la plateforme citée plus haut pourrait permettre une sorte de "Brainstorming communautaire" qui pourrait déboucher avec la création  d'initiatives locales comme cantonal. Des modérateurs/experts ainsi qu'un système d'auto modération pourrait permettre de filtrer, d'orienter et d'aider les citoyens dans leurs recherches ou initiatives.
 
 ### Interview
-Lors de nos recherche nous avons pu poser quelques questions à XXX, résponsable XXX.  
-Voici ce que nous avons pu récolté au sujet de la qualité de l'air
+Lors de nos recherches, nous avons pu poser quelques questions à XXX, responsable XXX.  
+Voici ce que nous avons pu récolter au sujet de la qualité de l’air
 
-#### Qu'elle est la situation actuelle sur la mise à disposition d'information destinée aux citoyens?
+#### Qu'elle est la situation actuelle sur la mise à disposition d'information destinée aux citoyens ?
 Nous avons remarqué qu'il y a 3 stations météorologiques à Genève. Nous avons accès aux données de ces stations grâce au rapport annuel, une situation de la journée sur le site ge.ch et ainsi qu'une recherche détaillée avec possibilité de l'exporter en CSV. Est-ce que ces informations sont complètes ?
 >  Je pense que vous faites référence aux stations de mesure de la qualité de l'air (ce ne sont pas des stations météorologiques). Il y en a 4 (2 pour la zone suburbaine). Les éléments cités sont corrects. En termes de mise à disposition numérique des information, il y a par ailleurs des données diffusées par le biais de 2 applis : AirCHeck et Air2G2. Enfin, comme pour toutes les thématiques environnementales, les actualités du site ge.ch ainsi que la page Facebook GE-Environnement relaient les annonces liées à l'air.
 
