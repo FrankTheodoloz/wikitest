@@ -73,8 +73,7 @@ L'idée d'une plateforme Environnement pourrait permettre de centraliser et norm
 La mise à disposition d’un forum sur la plateforme citée plus haut pourrait permettre une sorte de "Brainstorming communautaire" qui pourrait déboucher avec la création  d'initiatives locales comme cantonal. Des modérateurs/experts ainsi qu'un système d'auto modération pourrait permettre de filtrer, d'orienter et d'aider les citoyens dans leurs recherches ou initiatives.
 
 ### Interview
-Lors de nos recherche nous avons pu poser quelques questions à XXX, résponsable XXX.
-
+Lors de nos recherche nous avons pu poser quelques questions à XXX, résponsable XXX.  
 Voici ce que nous avons pu récolté au sujet de la qualité de l'air
 
 #### Qu'elle est la situation actuelle sur la mise à disposition d'information destinée aux citoyens?
