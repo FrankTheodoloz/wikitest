@@ -13,12 +13,12 @@ toc:
 ---
 
 ### Situation actuelle
-**Faune**
+#### Faune
 
 
 Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 
-**Flore**
+#### Flore
 
 La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigant les utilisateurs sur le nouveau site
 [site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
@@ -49,18 +49,22 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
 
 
 ### Règles de gouvernance
-**Faune**
+#### Faune
+
 L'association Faune Genève mets à disposition son site s'informer et participer à établir des statistiques sur la faune genevoise. 
 
-**Flore**
+#### Flore
+
 Les informations concernant la flore Genevoise sont accessibles via le site [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
 
 ### Résultats ou Utilisation
-**Faune**
+#### Faune
+
 Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
 
-**Flore**
+#### Flore
+
 le [site web](https://www.patrimoine-vert-geneve.ch/) possède beaucoups d'indicateurs.
 
 [Tableau de bord](https://villege.maps.arcgis.com/apps/opsdashboard/index.html#/89a5ddd8a51c45348251c6db13383ae2) avec des statistiques comme le pourcentage de surface imperméable, la biodiversité menacée avec un affinage sur les communes
@@ -74,9 +78,11 @@ Une [liste](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) de ress
 * Tableau de bord des bryophytes genevoises
 
 ### Responsables
-**Faune**
+#### Faune
+
 L'association à but non lucratif Faune Genève.
-**Flore**
+#### Flore
+
 le projet est piloté par un comité directeur avec les partenaires suivants:
 
 * Conservatoire et Jardin botaniques (CJB - VdG)
@@ -87,10 +93,12 @@ le projet est piloté par un comité directeur avec les partenaires suivants:
 * Service des Espaces Verts (SEVE - VdG)
 
 ### Autres acteurs
-**Faune**
+#### Faune
+
 Le canton, les membres et visiteurs du site Faune Genève.
 
-**Flore**
+#### Flore
+
 * le Service d'Urbanisme (SU - VdG);
 * le Service de l'aménagement, du génie-civil et de la mobilité (AGCM - VdG)
 * l'Association des Communes Genevoises (ACG) et notamment son Service Intercommunal d'Informatique (SIACG)
@@ -103,7 +111,8 @@ Acteurs de la Flore selon le [site web](https://www.patrimoine-vert-geneve.ch/no
 
 ### Recommandations
 
-**Faune**
+#### Faune
+
 #### Contenant
 Améliorer l'aspect visuel et l'organisation du site web [Faune Genève](https://www.faunegeneve.ch/) et le promouvoir auprès de la population.
 #### Contenu
@@ -113,7 +122,8 @@ Il faudrait que le canton s'engage dans un partenariat plus fort avec l'associat
 #### Participation Citoyenne
 La mise à disposition d’un forum sur le [site web](https://www.faunegeneve.ch) pourrait permettre à la population d'échanger avec des personnes plus renseignées.
 
-**Flore**
+#### Flore
+
 #### Contenant
 Le site web est très esthétique et la navigation est  d’avoir une approche plus local. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
 #### Contenu
