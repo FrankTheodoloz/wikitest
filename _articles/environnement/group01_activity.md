@@ -57,13 +57,30 @@ Réseau d’Observation de la Pollution Atmosphérique à Genève (ROPAG) et le 
 
 ### Recommandations
 Afin d'orienter l'état à une gouvernance numérique voici divers points de recommandations que nous proposons
+
 #### Contenant
 Agrandir le nombre de stations de mesure afin d’avoir une approche plus local. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
+
 #### Contenu
 Améliorer la diffusion de données.
 En diversifiant les moyens d'obtenir des informations sur la qualité de l'air nous pourrions permettre aux citoyens de diversifier la manière de les consulter ou les étudier.
 L'utilisation d'un service API pourrait permettre d'implémenter les résultats dans des applications ou meme à d'autres données et ceci de manière instantanée.
+
 #### Plateforme Environnement
 L'idée d'une plateforme Environnement pourrait permettre de centraliser et normalisé toutes les informations autour du sujet. Ceci permettrait un accès plus rapide a toute personne intéressé.
+
 #### Participation Citoyenne
 La mise à disposition d’un forum sur la plateforme citée plus haut pourrait permettre une sorte de "Brainstorming communautaire" qui pourrait déboucher avec la création  d'initiatives locales comme cantonal. Des modérateurs/experts ainsi qu'un système d'auto modération pourrait permettre de filtrer, d'orienter et d'aider les citoyens dans leurs recherches ou initiatives.
+
+### Interview
+Lors de nos recherche nous avons pu poser quelques questions à XXX, résponsable XXX.
+
+Voici ce que nous avons pu récolté au sujet de la qualité de l'air
+
+#### Qu'elle est la situation actuelle sur la mise à disposition d'information destinée aux citoyens?
+Nous avons remarqué qu'il y a 3 stations météorologiques à Genève. Nous avons accès aux données de ces stations grâce au rapport annuel, une situation de la journée sur le site ge.ch et ainsi qu'une recherche détaillée avec possibilité de l'exporter en CSV. Est-ce que ces informations sont complètes ?
+>  Je pense que vous faites référence aux stations de mesure de la qualité de l'air (ce ne sont pas des stations météorologiques). Il y en a 4 (2 pour la zone suburbaine). Les éléments cités sont corrects. En termes de mise à disposition numérique des information, il y a par ailleurs des données diffusées par le biais de 2 applis : AirCHeck et Air2G2. Enfin, comme pour toutes les thématiques environnementales, les actualités du site ge.ch ainsi que la page Facebook GE-Environnement relaient les annonces liées à l'air.
+
+#### Est-ce que d'autres plans sont prévus dans la diffusion de ces informations ?
+> Concernant les données (mesures des polluants), non. En revanche il y a un plan de communication lié aux pics de pollution (ainsi qu'une campagne pour faire connaître les enjeux en lien avec Stick'AIR).
+
