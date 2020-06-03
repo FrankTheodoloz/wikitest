@@ -124,9 +124,17 @@ Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrai
 
 #### Contact 
 
-Pendant notre projet nous avons échangés avec Mme De Salis, qui est une répondantes communications à l'état de Genève.
+Pendant notre projet nous avons échangés avec Mme Xx Xx, qui est une répondantes communications à l'état de Genève.
 
 A quel point le canton est-il impliqué sur FauneGeneve et Patrimoine-Vert-Geneve ?
 
 >l'Etat de Genève est un partenaire - notamment en tant que gestionnaire du patrimoine - aux côtés des acteurs scientifiques que le projet réuni.
+
+S'il y a une implication, comment sont géré les initiatives ?
+
+>Des échanges dans le cadre de groupe de travail assurent la gouvernance de ces plateformes.
+
+Est-ce qu'un projet est prévu pour les prochaines années ?
+
+>Une nouvelle plateforme dédiée à l'offre de nature à Genève est en projet. Elle vise à offrir au grand public une information relative aux animations en lien avec la nature (en partenariat avec les acteurs associatifs et institutionnels concernés), aux milieux naturels et aux espèces emblématiques (faune et flore).
 
