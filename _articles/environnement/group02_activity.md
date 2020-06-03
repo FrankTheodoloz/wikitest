@@ -56,7 +56,11 @@ Les SIG (Services Industriels de Genève)
 
 ### Recommandations
 
+#### L'eau potable
 Les informations concernant l'eau potable sont faibles, en effet fournir une moyenne annuelle de la composition de l'eau ne reflète pas vraiment de sa qualité pendant une période plus précise, comme une semaine en particulié.
+
 Il faudrait fournir des informations plus détaillé et permettre également l'exportation de ces données pour qu'elles puissent être utilisé et traité par des logiciels.
+#### Confédération/Canton
 Il serait intéressant de mieux communiquer entre la confédération et le canton, car nous avons remarqué que la confédération ne possède pas certaines informations détenu par le canton [qualité des eaux de baignades](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/info-specialistes/etat-des-eaux/etat-des-cours-deau/qualite-des-cours-deau/qualite-des-eaux-de-baignade.html)
+#### Tenir à jour le site web
 La navigation des applications web doivent être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolètes [(cliquer sur l'onglet eau en haut)](https://vhg.ch/xt_vh/index.php), il faudrait faciliter le signalement des données corrompues/manquantes.
