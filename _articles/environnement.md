@@ -8,6 +8,7 @@ toc:
 - "Qualité de l'air"
 - "Qualité de l'eau"
 - "Faune et Flore"
+tags: [environnement, association, participation citoyenne, citoyenneté numérique, coopéeration, information, communication, stick'air]
 ---
 
 ### Contexte
@@ -23,7 +24,6 @@ Les Associations font un travail important dans l'implication des citoyens autou
 
 ### Qualité de l'air
 Quel est l'état actuel de la situation sur les mesures de la qualité de notre air et les informations partagées 
-
 ### Qualité de l'eau
 Comment et à quelle fréquence les informations sont partagés
 ### Faune et Flore
