@@ -65,7 +65,7 @@ Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en
 
 #### Flore
 
-le [site web](https://www.patrimoine-vert-geneve.ch/) possède beaucoups d'indicateurs.
+Le [site web](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) possède beaucoups d'indicateurs.
 
 [Tableau de bord](https://villege.maps.arcgis.com/apps/opsdashboard/index.html#/89a5ddd8a51c45348251c6db13383ae2) avec des statistiques comme le pourcentage de surface imperméable, la biodiversité menacée avec un affinage sur les communes
 
@@ -135,6 +135,8 @@ Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrai
 #### Contact 
 
 Pendant notre projet nous avons échangés avec Mme Xx Xx, qui est une répondantes communications à l'état de Genève.
+
+**Voici les questions portant sur le thème de la faune et la flore:**
 
 A quel point le canton est-il impliqué sur FauneGeneve et Patrimoine-Vert-Geneve ?
 
