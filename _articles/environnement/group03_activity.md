@@ -59,7 +59,7 @@ Les informations concernant la flore Genevoise sont accessibles via le site [Pat
 
 ### Résultats ou Utilisation
 **Faune**
-Le [site](https://www.faunegeneve.chwi) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
+Le [site](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
 
 **Flore**
 le [site](https://www.patrimoine-vert-geneve.ch/) possède beaucoups d'indicateurs.
@@ -80,12 +80,12 @@ L'association à but non lucratif Faune Genève.
 **Flore**
 le projet est piloté par un comité directeur avec les partenaires suivants:
 
-* Conservatoire et Jardin botaniques (CJB - VdG);
-* Direction de la Biodiversité de l'Office Cantonal de l'Agriculture et de la Nature (OCAN - DT);
-* Direction des Systèmes d'Informations et de Communication (DSIC - VdG);
-* La Haute Ecole du Paysage, d'Ingénierie et d'Architecture de Genève (HEPIA);
-* Service de Géomatique (SGéo - DT);
-* Service des Espaces Verts (SEVE - VdG).
+* Conservatoire et Jardin botaniques (CJB - VdG)
+* Direction de la Biodiversité de l'Office Cantonal de l'Agriculture et de la Nature (OCAN - DT)
+* Direction des Systèmes d'Informations et de Communication (DSIC - VdG)
+* La Haute Ecole du Paysage, d'Ingénierie et d'Architecture de Genève (HEPIA)
+* Service de Géomatique (SGéo - DT)
+* Service des Espaces Verts (SEVE - VdG)
 
 ### Autres acteurs
 **Faune**
@@ -93,18 +93,35 @@ Le canton, les membres et visiteurs du site Faune Genève.
 
 **Flore**
 * le Service d'Urbanisme (SU - VdG);
-* le Service de l'aménagement, du génie-civil et de la mobilité (AGCM - VdG);
-* l'Association des Communes Genevoises (ACG) et notamment son Service Intercommunal d'Informatique (SIACG);
-* différentes communes (Meyrin, Carouge, Vernier, ....);
-* Info Flora;
-* le Réseau Mondial des Centres d'Informations sur l'Environnement (GRID du PNUE);
-* l'Association de l'Arboretum national du Vallon de l'Aubonne (AAVA).
+* le Service de l'aménagement, du génie-civil et de la mobilité (AGCM - VdG)
+* l'Association des Communes Genevoises (ACG) et notamment son Service Intercommunal d'Informatique (SIACG)
+* différentes communes (Meyrin, Carouge, Vernier, ...)
+* Info Flora
+* le Réseau Mondial des Centres d'Informations sur l'Environnement (GRID du PNUE)
+* l'Association de l'Arboretum national du Vallon de l'Aubonne (AAVA)
 
-[source](https://www.patrimoine-vert-geneve.ch/node/4723)
+Acteurs de la Flore selon le [site web](https://www.patrimoine-vert-geneve.ch/node/4723)
 
 ### Recommandations
 
 **Faune**
+#### Contenant
+Améliorer l'aspect visuel et l'organisation du site web [Faune Genève](https://www.faunegeneve.ch/) et le promouvoir auprès de la population.
+#### Contenu
+Structurer la diffusion de données via des catégories sur la page d'accueil.
+#### Plateforme en collaboration avec le canton
+Il faudrait que le canton s'engage dans un partenariat plus fort avec l'association. 
+#### Participation Citoyenne
+La mise à disposition d’un forum sur le [site web](https://www.faunegeneve.ch) pourrait permettre à la population d'échanger avec des personnes plus renseignées.
 
 **Flore**
+#### Contenant
+Le site web est très esthétique et la navigation est  d’avoir une approche plus local. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
+#### Contenu
+Le contenu du site web est très vaste,mais il est bien structuré.
+
+#### Plateforme participative avec la pupulation
+Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrait donc donner plus de possibilités d'intéragir avec la population, actuellement on ne peut que envoyer un [commentaire](https://www.patrimoine-vert-geneve.ch/) en bas de page.
+
+
 
