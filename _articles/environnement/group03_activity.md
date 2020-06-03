@@ -23,7 +23,7 @@ Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faun
 La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigant les utilisateurs sur le nouveau site
 [site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
 
-**Initiative du canton**
+#### Initiative du canton
 
 Le canton veut stimuler l'initiative personnelle des citoyens via le site web [1001 sites nature en ville](https://www.1001sitesnatureenville.ch/) 
 
