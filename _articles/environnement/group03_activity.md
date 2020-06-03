@@ -31,7 +31,7 @@ Le canton veut stimuler l'initiative personnelle des citoyens via le site web [1
 
 ### Besoins à remplir
 Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le long terme.
-* Long terme
+* Objectifs à long terme
     * Garantir des sites et des écosystèmes naturels portant une biodiversité optimale selon des critères de gestion durable.
     * Assurer une protection durable des sites et milieux les plus riches en biodiversité.
     * Développer des actions permettant le maintien des espèces indigènes sauvages.
@@ -40,9 +40,9 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
     * Faire connaître et valoriser le patrimoine naturel genevois et les services rendus par la biodiversité au profit de la population.
     * Définir les zones protégées et favoriser leur mise en réseau.
 
-* 2030
+* Objectifs 2030
     * La forêt, le lac, les cours d'eau sont intégralement couverts par des plans de gestion intégrant la gestion durable de la biodiversité.
-    * Les "hots spots" sont désignés, tous les périmètres de réserves ont été révisés et sont fixés par arrêté du CE (3% du territoire cantonal).
+    * Les "hots spots" sont désignés, tous les périmètres de réserves ont été révisés et sont fixés par arrêté du CE    (3% du territoire cantonal).
     * Toutes les espèces prioritaires et exploitées possèdent un plan d'actions ou de gestion durable.
     * Un programme d'actions de sensibilisation à la nature pour les écoles et le grand public est développé et mis en œuvre.
     * Une comptabilité globale des prestations écosystémiques est établie.
@@ -56,13 +56,12 @@ L'association Faune Genève mets à disposition son site s'informer et participe
 Les informations concernant la flore Genevoise sont accessibles via le site [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
 
-
 ### Résultats ou Utilisation
 **Faune**
-Le [site](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
+Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
 
 **Flore**
-le [site](https://www.patrimoine-vert-geneve.ch/) possède beaucoups d'indicateurs.
+le [site web](https://www.patrimoine-vert-geneve.ch/) possède beaucoups d'indicateurs.
 
 [Tableau de bord](https://villege.maps.arcgis.com/apps/opsdashboard/index.html#/89a5ddd8a51c45348251c6db13383ae2) avec des statistiques comme le pourcentage de surface imperméable, la biodiversité menacée avec un affinage sur les communes
 
@@ -123,5 +122,11 @@ Le contenu du site web est très vaste,mais il est bien structuré.
 #### Plateforme participative avec la pupulation
 Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrait donc donner plus de possibilités d'intéragir avec la population, actuellement on ne peut que envoyer un [commentaire](https://www.patrimoine-vert-geneve.ch/) en bas de page.
 
+#### Contact 
 
+Pendant notre projet nous avons échangés avec Mme De Salis, qui est une répondantes communications à l'état de Genève.
+
+A quel point le canton est-il impliqué sur FauneGeneve et Patrimoine-Vert-Geneve ?
+
+>l'Etat de Genève est un partenaire - notamment en tant que gestionnaire du patrimoine - aux côtés des acteurs scientifiques que le projet réuni.
 
