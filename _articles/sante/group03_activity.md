@@ -21,7 +21,7 @@ Mesvaccins.ch est une plateforme qui permet d’avoir un carnet de vaccination �
 sur son navigateur. Elle permet d'avoir un suivi exacte du patients afin de savoir quels vaccins sont utiles ou inutiles suivant la
 situation personnelle ainsi que les recommandations du plan Suisse de vaccination, notamment en cas de voyage prévu. Il est
 possible de partager son carnet de vaccination électronique avec divers professionnels de
-la santé afin que ceux-ci puissent intéragir avec le carnet électronique.
+la santé afin que ceux-ci puissent interagir avec le carnet électronique.
 
 ### Situation actuelle
 
