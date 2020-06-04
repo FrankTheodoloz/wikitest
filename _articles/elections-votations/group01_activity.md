@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: elections-votations
-title: Group 01 activity
+title: CHVote
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
