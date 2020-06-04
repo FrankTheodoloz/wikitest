@@ -109,4 +109,4 @@ Dans le but de se rapprocher d’une vision wikinomique, nous recommandons au DI
 Et ce dans le but de pouvoir bénéficier de l’intelligence collective en transformant les citoyens en partenaire pour co-construire efficacement l’école de demain.
 
 *Bibliographie
-1. Site internet Consultation citoyenne disponible à https://consultation.ge.ch/
+1. Plateforme de consultation citoyenne de l'Etat de Genève disponible à https://consultation.ge.ch/
