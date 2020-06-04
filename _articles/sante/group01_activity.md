@@ -3,6 +3,7 @@ layout: activity
 key: sante
 title: MonDossierMedical.ch
 toc:
+- "Introduction"
 - "Situation actuelle"
 - "Besoins à remplir"
 - "Règles de gouvernance"
@@ -13,6 +14,13 @@ toc:
 - "Interview"
 tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'substantiel']
 ---
+
+### Introduction
+
+Plateforme proposée par l’État de Genève qui permet de mettre son dossier médical en
+ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la
+santé s’occupant d’un même patient. Il s’agit en quelque sorte d’un passeport médical
+accessible en ligne par les professionnels de la santé. 
 
 ### Situation actuelle
 
