@@ -22,7 +22,7 @@ Les réseaux sociaux ont augmenté la cirulation d'informations du fait que chaq
 Par conséquent, la diffusion de fausses informations a augmenté.
 
 En terme de lutte contre les "fake news", l'OMS à mis au point un "chatbot" en collaboration avec le réseau social WhatsApp, visant à endiguer la propagation de fausses informations au sujet de la pandémie COVID19.
-Au travers d'un numéro spécial, il est possible d'accéder à 9 options fournissant des renseignements fiables sur la crise sanitaire. Le point 4 par exemple, nommé "En finir avec les idées reçues", répond spécifiquement au besoin de clarifier les fausses informations circulant dans les médias. 
+Au travers d'un numéro spécial, il est possible d'accéder à 9 options fournissant des renseignements fiables sur la crise sanitaire. Le point 4 par exemple, nommé "En finir avec les idées reçues", répond spécifiquement au besoin de clarifier les fausses informations qui  circulent dans les médias. 
 
 Dans ce contexte, des limites sont imposées aux journalistes afin d'encadrer ce travail de recherche d'informations.
 
