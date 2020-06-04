@@ -52,7 +52,7 @@ Tous les prestataires de soins du canton de Genève, ainsi que tous les patients
 
 ### Recommandations
 
-Bien qu’ayant prouvé son efficacité, cette solution n’est pas encore adopté par toute la population concerné. Il y a encore des personnes réticentes et réfractaires, concerné par le secret médical et la sécurité de ce système. Il faudra donc aller dans ce sens afin de gagner la confiance de ces personnes et ainsi rendre la chose encore plus efficace en la déployant d’office pour toute la population.
+Bien qu’ayant prouvé son efficacité, cette solution n’est pas encore adoptée par toute la population concerné. Il y a encore des personnes réticentes et réfractaires, concerné par le secret médical et la sécurité de ce système. Il faudra donc aller dans ce sens afin de gagner la confiance de ces personnes et ainsi rendre la chose encore plus efficace en la déployant d’office pour toute la population.
 
 ### Interview
 
