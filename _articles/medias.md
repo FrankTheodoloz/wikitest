@@ -5,7 +5,7 @@ key: medias
 is_main: true
 toc:
 - "Contexte"
-tags: [connectivité, santé, collaboration, transparence, coopération]
+tags: [information, médias, collaboration, transparence, numérisation]
 ---
 
 ### Contexte
