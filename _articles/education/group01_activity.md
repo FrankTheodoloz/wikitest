@@ -43,7 +43,7 @@ Une nouvelle démarche visant à déposer un rapport au Grand Conseil est en cou
 -	Comment se déroule la collaboration avec les parties prenantes ? Quels sont les acteurs impliqués (syndicats, enseignants, étudiants, spécialistes du numérique, …) ?
 -	Selon vous, est-ce qu’une démarche participative citoyenne, comme cela a été fait avec la consultation publique "politique numérique" en 2018, serait réalisable dans le cadre de la création de l’école de la citoyenneté numérique ?
 
-Ces questions ont été communiquées au DIP le 5 mai 2020. Malheureusement après plusieurs échanges, le SRED n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
+Ces questions ont été communiquées au département de l'instruction publique (DIP) le 5 mai 2020. Malheureusement après plusieurs échanges, le service de la recherche en éducation (SRED) n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
 >La demande n'offre ainsi pas de notre point de vue les garanties scientifiques et conceptuelles de l'utilisation des interviews qui seront effectuées auprès des acteurs du département
 
 
