@@ -120,6 +120,10 @@ Le SEM propose une formation modulaire de Moodle. De cette manière, les enseign
 
 Les formateurs du SEM vont régulièrement répondre aux questions des enseignants sur le forum Moodle.
 
+*Bibliographie
+1. Site internet du SEM disponible à https://edu.ge.ch/sem/
+2. Liste des applications de l'Ecole en ligne, site internet du SEM, disponible à https://edu.ge.ch/sem/usages/outils/toutes-les-applications-de-lecole-en-ligne-1501
+
 ### Objectifs annoncés
 
 Le SEM propose la plate-forme d’apprentissage en ligne Moodle, qui permet également de procéder à des évaluations, reliée à l'annuaire Ecole en Ligne (EEL). 
