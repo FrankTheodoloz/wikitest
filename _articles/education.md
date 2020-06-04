@@ -16,7 +16,7 @@ Les réseaux sociaux facilitent l’accès à la parole publique et bouleverse l
 
 Le système éducatif est également impacté par la transition numérique tant pour les élèves dans leur façon d’apprendre que pour les enseignant-e-s dans leur manière de transmettre les connaissances.
 
-C’est dans ce contexte que le Conseil d’Etat a établi, en 2018, une politique numérique à Genève dans laquelle le DIP joue un rôle majeur autour de 3 objectifs :
+C’est dans ce contexte que le Conseil d’Etat a établi, en 2018, une politique numérique à Genève dans laquelle le département de l'instruction publique, de la formation et de la jeunesse (DIP) joue un rôle majeur autour de 3 objectifs :
 
 -	Attribuer à l’école un rôle clé dans la transition numérique
 -	Développer les compétences et la culture numérique de la population Genevoise
