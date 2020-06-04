@@ -91,5 +91,5 @@ partie des associations romandes du diabète
 
 ### Recommandations
 
-Nous pensons qu'il faudrait démultiplier le nombre de messages d’avertissements indiquant qu'il faut se méfier des fausses informations qui pourraient circuler sur la plateforme et mettre en danger la vie d'autrui. En effet, nous pouvons constater la naïveté de certaines personnes vis-à-vis de la crise actuelle du COVID-19 qui ont tendance à ne pas vérifier l'authenticité des "informations" qui passent sous leurs yeux. Il y a certe une équipe de modération chargée de de vérifer la véracité des propos postés sur la plateforme mais ils ne peuvent pas toujours être présent. 
+Nous pensons qu'il faudrait démultiplier le nombre de messages d’avertissements indiquant qu'il faut se méfier des fausses informations qui pourraient circuler sur la plateforme et mettre en danger la vie d'autrui. En effet, nous pouvons constater la naïveté de certaines personnes vis-à-vis de la crise actuelle du COVID-19 qui ont tendance à ne pas vérifier l'authenticité des "informations" qui passent sous leurs yeux. Il y a certes une équipe de modération chargée de vérifier la véracité des propos postés sur la plateforme mais ils ne peuvent pas toujours être présent. 
 
