@@ -23,6 +23,9 @@ https://www.ge.ch/dossier/analyser-education
 
 Dans le cadre de cette étude nous avons sélectionné l’un des services de cette plateforme, l’annuaire statistique de l’enseignement public et privé à Genève.
 
+*Bibliographie
+1. Plateforme du Service de la recherche en éducation (SRED) disponible à https://www.ge.ch/organisation/service-recherche-education
+
 ### Objectifs annoncés
 
 Mettre à disposition des citoyens les statistiques descriptives des différents acteurs (étudiants et enseignants) et des diplômes de l'enseignement public et privé à Genève.
