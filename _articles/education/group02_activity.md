@@ -51,6 +51,10 @@ La prise en charge de situation par le Groupe-Prévention lors du protocole type
 
 La quatrième et dernière mesure du plan d’action concerne «Informer sur le (cyber)harcèlement à destination des professionnels, des élèves et des parents». L’objectif de cette mesure est de communiquer, d’informer et de sensibiliser un large public aux situations de (cyber)harcèlement à l’école et de faire connaître le plan d’action et de prévention de l’État de Genève pour orienter et donner des conseils pratiques aux personnes confrontées à ce problème. À cette fin, des fiches d’information pour les trois publics concernés ont été créées et diffusées.
 
+*Bibliographie
+1. Plan d'actions et de prévention des situations de harcèlement à l'école disponible à https://www.ge.ch/document/plan-actions-prevention-situations-harcelement-ecole/telecharger
+2. Page Prévenir et lutter contre le (cyber)harcèlement, site internet du DIP, disponible à https://www.ge.ch/organisation/departement-instruction-publique-formation-jeunesse-dip/prevenir-lutter-contre-cyberharcelement
+
 ### Questions
 
 -	Dans le cadre de la lutte contre le cyberharcèlement, avez-vous des exemples de cas concrets qui vous ont été rapportés ?
