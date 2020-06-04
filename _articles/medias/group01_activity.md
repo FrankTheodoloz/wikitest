@@ -8,7 +8,6 @@ toc:
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
 - "Responsables"
-- "Autres acteurs"
 - "Recommandations"
 tags: ['organisations internationales', 'journalisme']
 ---
@@ -33,7 +32,8 @@ Les articles sont publiés par des journalistes choisis par Geneva Solutions/Hei
 
 ### Résultats ou Utilisation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Les articles publiés sur la plateforme seront accessibles gratuitement au travers sur site web genevasolutions.news.
+En attendant, un aperçu est disponible sur le site [Heidi.news](https://www.heidi.news/geneva-solutions).
 
 ### Responsables
 
