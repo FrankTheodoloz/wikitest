@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['pièges médiatiques', 'fake news', 'sources d'informations']
+tags: ['pièges médiatiques', 'fake news', 'sources d\'informations']
 ---
 
 ### Situation actuelle
