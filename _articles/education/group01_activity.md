@@ -79,7 +79,7 @@ Quelques projets pilotes sont en cours dans des écoles Genevoises, en voici 2 e
 -	Une classe de 4e et 5e primaire de l’école du Seujet utilise un robot développé par l’EPFL appelé Thymio. Doté de capteurs, ce robot peut parcourir un trajet en évitant des obstacles, il permet l’apprentissage des notions d’espace, d’aire et de périmètre et également de développer des compétences de collaboration et de communication entre élèves.
 
 *Bibliographie
-1. Site internet Le numérique à l'école disponible à https://edu.ge.ch/ecolenumerique/
+1. Portail du numérique à l'école disponible à https://edu.ge.ch/ecolenumerique/
 
 ### Analyse Wikinomique
 
