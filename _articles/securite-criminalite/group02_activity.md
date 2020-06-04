@@ -20,15 +20,15 @@ Actuellement, certaines habitudes à prendre pour améliorer sa cybersécurité 
 
 ### Besoins à remplir
 
-Sensibiliser la population aux gestes simples qui permettent d’améliorer cette sécuritée. Prévenir les incidents et réduire la cybercriminalité.
+Sensibiliser la population, mais en particulier les PME, aux gestes simples qui permettent d’améliorer cette sécuritée. Prévenir les incidents et réduire la cybercriminalité.
 
 ### Règles de gouvernance
 
-Des analystes détèctent les phénomènes.
+Des informations sont mises à disposition de la population.
 
 ### Résultats ou Utilisation
 
-A venir
+Les informations concernant le nombre d'entreprise et le nombre de personnes ayant suivit cette formation n'ont pas pu être obtenues.
 
 ### Responsables
 
