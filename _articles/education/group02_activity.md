@@ -57,8 +57,8 @@ La quatrième et dernière mesure du plan d’action concerne «Informer sur le 
 -	De quelle manière ces cas ont été pris en charge ? Est-ce que les personnes harcelées ont pu obtenir une réponse satisfaisante ? 
 -	Pensez-vous qu’une démarche participative citoyenne pourrait aider à l’amélioration continue de ces processus ?
 
-Ces questions ont été communiquées au DIP le 5 mai 2020. Malheureusement après plusieurs échanges, le SRED n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
->La demande n'offre ainsi pas de notre point de vue les garanties scientifiques et conceptuelles de l'utilisation des interviews qui seront effectuées auprès des acteurs du département
+Ces questions ont été communiquées au département de l'instruction publique (DIP) le 5 mai 2020. Malheureusement après plusieurs échanges, le service de la recherche en éducation (SRED) n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
+>La demande n'offre ainsi pas de notre point de vue les garanties scientifiques et conceptuelles de l'utilisation des interviews qui seront effectuées auprès des acteurs du département.
 
 ### Objectifs annoncés
 
