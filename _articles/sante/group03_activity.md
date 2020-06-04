@@ -47,7 +47,7 @@ informations personnelles pour la création de son compte (nom, prénom,
 date de naissance, téléphone portable, sexe, adresse courriel, code postal). Ces données sont traitées à tout moment
 de manière confidentielle et sont enregistrées en Suisse. 
 
-Il est important de préciser que l'OSFP (Office fédéral de la santé publique) n'a pas accès à ces données et chaque citoyen choisi avec quels professionels de la santé il souhaite donné accès à son carnet. 
+Il est important de préciser que l'OSFP (Office fédéral de la santé publique) n'a pas accès à ces données et chaque citoyen choisi avec quels professionnels de la santé il souhaite donner accès à son carnet. 
 
 ### Résultats ou Utilisation
 
