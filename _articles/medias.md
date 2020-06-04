@@ -21,6 +21,9 @@ Par ailleurs, en raison de l'importante quantité d'informations publiée chaque
 Les réseaux sociaux ont augmenté la cirulation d'informations du fait que chaque personne est abilité à partager un message ou un avis sur un sujet. 
 Par conséquent, la diffusion de fausses informations a augmenté.
 
+En terme de lutte contre les "fake news", l'OMS à mis au point un "chatbot" en collaboration avec le réseau social WhatsApp, visant à endiguer la propagation de fausses informations au sujet de la pandémie COVID19.
+Au travers d'un numéro spécial, il est possible d'accéder à 9 options fournissant des renseignements fiables sur la crise sanitaire. Le point 4 par exemple, nommé "En finir avec les idées reçues" répond spécifiquement au besoin de clarifier les informations. 
+
 Dans ce contexte, des limites sont imposées aux journalistes afin d'encadrer ce travail de recherche d'informations.
 
 Nous étudierons donc dans ce rapport, certaines activités en lien avec la gouvernance numérique, entreprise par l'Etat à l'égard des médias.
