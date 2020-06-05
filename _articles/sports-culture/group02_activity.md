@@ -17,7 +17,7 @@ tags: ['tag c', 'tag d', 'tag e']
 
 ### Situation actuelle
 
-Le stade de Genève contient 30'000 places et dispose de 27 loges VIP. Le troisième stade de Suisse en termes de capacité loue au Servette FC ses infrastructures. Ce qui est intéressant de mentionner est que le Servette FC est pratiquement le seul locataire de ce stade.
+Le Stade de Genève contient 30'000 places et dispose de 27 loges VIP. Le troisième stade de Suisse en termes de capacité loue au Servette FC ses infrastructures. Ce qui est intéressant de mentionner est que le Servette FC est pratiquement le seul locataire de ce stade.
 
 Durant la fin de l'année 2019, le stade, en collaboration avec les SIG, a installé plus de 5000 m2 de panneaux solaires. 30% de cette énergie est consommée par le stade directement et le reste est injecté dans le réseau. Les genevois ont eu également la possibilité d'acheter des m2 de panneaux pour leur propre consommation. Pour chaque m2 acheté au prix de 330.-, l'acheteur a une réduction de 100kw par année sur sa facture pendant 20 ans. Cela permet de réduire les coûts d'installation tout en collaborant avec les citoyens.
 
@@ -27,7 +27,7 @@ Le Stade accueille principalement les matches du Servette FC, mais organise éga
 
 ### Besoins à remplir
 
-Proposer des événements avec une utilisation  infrastructurelle maximale du stade. Offrir une meilleure expérience possible aux clients des locataires. 
+Proposer des événements avec une utilisation infrastructurelle maximale du stade. Offrir une meilleure expérience possible aux clients des locataires. 
 
 ### Règles de gouvernance
 
@@ -44,7 +44,7 @@ Le Stade délègue finalement la gestion durant les évènements à des entrepri
 
 ### Analyse Wikinomie
 
-Le stade n’offre que très peu de données en libre accès, excepté les données infrastructurelles de son bâtiment. Le reste est de la responsabilité des organisateurs d’évènements. Toutefois, depuis le début de l’année, des panneaux solaires ont été installés sur le toit en collaboration avec les SIG et les habitants genevois. Ces derniers pouvaient acquérir des mètres carrés de panneaux pour faire diminuer leur facture d'électricité à leur domicile. Une sorte de récompense à leurs contribution cantonal.
+Le stade n’offre que très peu de données en libre accès, excepté les données infrastructurelles de son bâtiment. Le reste est de la responsabilité des organisateurs d’évènement. Toutefois, depuis le début de l’année, des panneaux solaires ont été installés sur le toit en collaboration avec les SIG et les habitants genevois. Ces derniers pouvaient acquérir des mètres carrés de panneaux pour faire diminuer leur facture d'électricité à leur domicile. Une sorte de récompense à leur contribution cantonal.
 Le Stade délègue finalement la gestion durant les évènements à des entreprises privées.
 
 
@@ -58,4 +58,4 @@ Les locataires occasionnels, les entreprises externes (buvettes, sécurité, ...
 
 ### Recommandations
 
-Plusieurs recommandations ont été proposées aux responsable du Stade de Genève : offrir un accès plus simple aux retours des spectateurs, proposer le Cashless aux clients des buvettes, proposer des outils d'intelligence artificiel au Servette FC ou encore créer des données liées au stade. Mais finalement, ce sont aux organisateurs de mettre en place ces idées. Aussi bien aux responsables des buvettes qu'au Servette FC.
+Plusieurs recommandations ont été proposées aux responsable du Stade de Genève : offrir un accès plus simple aux retours des spectateurs, proposer le Cashless aux clients des buvettes, proposer des outils d'intelligence artificiel au Servette FC ou encore créer des données liées au stade. Mais finalement, ce sont aux organisateurs de mettre en place ces idées. Aussi bien aux responsables des buvettes qu'au Servette FC par exemple.
