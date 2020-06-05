@@ -27,7 +27,7 @@ Compléter et mettre à jour la SNPC de 2012 et protéger la Suisse des cyber-ri
 
 ### Règles de gouvernance
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mise en commun des connaissances des différents acteurs.
 
 ### Résultats ou Utilisation
 
@@ -43,4 +43,4 @@ Cantons, HES
 
 ### Recommandations
 
-Rendre le lan de mise en oeuvre plus clair et indiquer les fruits du premier plan.
+Rendre le plan de mise en oeuvre plus clair et indiquer les fruits du premier plan.
