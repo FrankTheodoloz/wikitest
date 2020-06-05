@@ -17,16 +17,15 @@ tags: [information, substantiel, participation citoyenne, faune genève, associa
 #### Faune
 
 
-Le [site](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
+Le [site web](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 
 #### Flore
 
-La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigant les utilisateurs sur le nouveau site
-[site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
+La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigant les utilisateurs sur le nouveau [site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
 
 #### Initiative du canton
 
-Le canton veut stimuler l'initiative personnelle des citoyens via le site web [1001 sites nature en ville](https://www.1001sitesnatureenville.ch/) 
+Le canton veut stimuler l'initiative personnelle des citoyens via la plateforme internet [1001 sites nature en ville](https://www.1001sitesnatureenville.ch/) 
 
 
 
@@ -52,11 +51,11 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
 ### Règles de gouvernance
 #### Faune
 
-L'association Faune Genève mets à disposition son site pour s'informer et participer à établir des statistiques sur la faune genevoise. 
+L'association Faune Genève met à disposition son site web pour s'informer et participer à établir des statistiques sur la faune genevoise. 
 
 #### Flore
 
-Les informations concernant la flore Genevoise sont accessibles via le site [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
+Les informations concernant la flore Genevoise sont accessibles via [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
 
 ### Résultats ou Utilisation
@@ -66,7 +65,7 @@ Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en
 
 #### Flore
 
-Le [site web](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) possède beaucoups d'indicateurs.
+Le [site web](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) possède les indicateurs suivants:
 
 [Tableau de bord](https://villege.maps.arcgis.com/apps/opsdashboard/index.html#/89a5ddd8a51c45348251c6db13383ae2) avec des statistiques comme le pourcentage de surface imperméable, la biodiversité menacée avec un affinage sur les communes
 
