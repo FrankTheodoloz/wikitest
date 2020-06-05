@@ -74,4 +74,6 @@ PS : dans ce genre de  domaine  on trouve  pas la participation des personnes d'
 
 ### Recommandations
 
-revoir la présentation des graphe parce que c'est tres condensé
+Fevoir la présentation des graphe parce que c'est tres condensé
+
+Faie une application mobille pour faciltéla racherche et l'affichage et même faire une application par théme.
