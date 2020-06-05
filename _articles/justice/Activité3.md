@@ -1,63 +1,2 @@
----
-layout: activity
-key: justice
-title: JUSTICIA
-toc:
-- "Situation actuelle"
-- "Besoins Ã  remplir"
-- "RÃ¨gles de gouvernance"
-- "RÃ©sultats ou Utilisation"
-- "Responsables"
-- "Autres acteurs"
-- "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
----
-
-### Situation actuelle
-
-Un rÃ©fÃ©rendum populaire facultatif peut Ãªtre lancÃ© par tout citoyen ou citoyenne ayant le droit de vote â€“ Suisses et Suissesses de lâ€™Ã©tranger inclus. 
-Il nâ€™est pas nÃ©cessaire de faire partie dâ€™un comitÃ© pour lancer un rÃ©fÃ©rendum, mais cela facilite la tÃ¢che.
-
-Avant de lancer un referendum il est conseillÃ© de contacter la chancellerie fÃ©dÃ©rale. Cette derniÃ¨re donnera toute les informations nÃ©cessaire pour la marche Ã  suivre.
-
-Par la suite, il faut prÃ©parer une liste de signatures avec un nombre dÃ©finis de signature minimum.
-
-La chancellerie fÃ©dÃ©ral mets Ã  disposition des modÃ¨les de liste de signatures. voir ci-dessous :
-
-
-
-
-
-### Besoins Ã  remplir
-
-Mettre Ã  disposition les informations suivantes Ã  la population ainsi qu'aux diffÃ©rents parties politiques Genevois
-* RÃ©fÃ©rendum en cours
-* VÃ©rification des signature
-* Date de de votation Ã  fixer
-* Votation Ã  venir
-* Pouvoir consulter les archives des referendums totalement traitÃ©.
-
-### RÃ¨gles de gouvernance
-
-Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/ 
-
-### RÃ©sultats ou Utilisation
-
-Nous supposons que ce site est utilisÃ© par les parties politiques et par toutes les personnes sâ€™intÃ©ressant au dÃ©tail a toutes les Ã©chÃ©ances dâ€™une procÃ©dure de rÃ©fÃ©rendum.
-
-Le site est mis a jour rÃ©guliÃ¨rement si lâ€™on constate les derniÃ¨res date insÃ©rer sur le site.
-
-### Responsables
-Etat de GenÃ¨ve - Direction GÃ©nÃ©rale des SystÃ¨mes d'Information - Equipe Internet
-
-### Autres acteurs
-
-le Grand Conseil
-
-### Recommandations
-
-Nous recommandons de mettre en place un systÃ¨me de collecte de signature en ligne. En utilisant lâ€™E-ID, qui va trÃ¨s surement Ãªtre mis en place ces prochaines annÃ©es, comme moyen dâ€™identification. 
-
-A titre d'information : Monsieur GRÃœTER FRANZ du Groupe de l'Union dÃ©mocratique du Centre avait dÃ©posÃ© en mars 2018 une motion pour Autoriser la collecte de signatures en lignes. Cette motion a Ã©tÃ© rejetÃ© par le conseil national deux mois plus tard en mai 2018.
-
-Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
+•¬¨ºÖœ¶+â·)Ê;¬¶'¶+ex•L€ˆÚJ+njØ¨§-¹éex¬¢)ì­é©–*Ñ‚W¬uè(º÷«©Üy.–Ö­²‹”¶)b±«b¢t^²š'±¦åzÀ.¶·¬iË^º»yÊ&™©ÝjØ¨žËZ‚ËZËZÛZä¢¶æ­Š‰ÚrÛž–Wµ-ç(š+k~·§u¨«zšéj·®çè®k¥y×«r‰myÊ'µéÚžÙ^²)ß¢¹š¶*'²X•ë"Øª¹ë%j»|í×¥h±>ú"®j•ç"Žˆ§·bÞr‰¢¶·ëzwZŠ·Ÿj+ij»Þž*ÚºÇ«¾'uë/¢Ö­Š‰ìzÙ^rØ¨žÉZ~ŠæºWz·(–×zË"‚v­º·¬¦‹«¾¸Ÿ‰Æ­Š‰Þµªi®†Ú¶*'	ç(žÚåyë-y÷ÞrÛ®ž*®zg§¶Ë«•êÞ²—œµ×¬¦·¬r¸©¶*'±×Ÿ¢¹ž²Ø©ºW¬•ªí‰É^ó²ÄýËzÆ®µë«±Û§y×¦jw^uêß­éÝºghŠ÷§µ«Úž×^¦ºuêåj«­y×¬²('jÛ«zÈ§~ŠæzºZ­Êâ¶W‚¢{ŠWDµ«]zW®­×"²*'z×lŠ	Þ®éæjwZµ¨«yÈZ®Z‚*ÞžW®®z&zÖ®ªç¥•ë¢i®ž'¶*'²‡ß‰Èž–W¬±êèžÖ­ë,zËÚ•¦åzg§·€¨ú+šg§¶V«¶'%{¯zVœ¢{-ŠÛ­Š‰ÝzV‘¦æåŠ«žz×žÚ'uážž÷»^(rÚ­í´×i^vV¢¦‹«•çiµ×¬²('jÛ«zÉZ¦›¢vêß­éÝºg¬µ×¸Ò:.®Ç­r‰¦zwr‹«Š·l•ªnnXœjØ¨×¥iË^ä·¦jwZµ¨«z‹¬¢zÞš™Zj{izëÞžÚk¡Ç^®éÝ¦ÚZ®Øž•Û«j{ejšâ¡×z·(–×¬ººÞ×³¾‹¬zÛ–‰åzÇ(Ø­Š‰ì~,^²–«•ªíóÒÄþ‹yÚm~)Ú•Ú"¶ÚÞy÷ÞrÛšº™n²Ö«vVŸŠwnvV¢uêÜ¢[^z{§zÇ®•çèŠÆ®±êï‰ÇzËèµ«b¢{¶Wœ¶*'°¬¢)ì­é©–*ÌzÛkyØ¬¦‹"¶*'•ë"ú+™«b¢{,º+Úž×¬•ªh¦éZ¶*'j)ìŠ«š»b}úÞžÛ)j»bzÊh–+bªç¬éÞ¾ˆ¬EúÞÛ¦zw(º»®'âq«b¢w^²È «n­àÚµç^uëèµ«b¢wâÅêÕ¢Ö­Š‰ïzx«>‹¯¢*Ü¢{.–×«•ë­Èb½ëzÊÞ}êÞÛ¦²Ú-jW¦z{m­¨­F	^±× ¢ëÞ®v§qâÞ²)ß¢¹š¶*'²Ê'µØ¬¦‰ânW¬zy^rÛ«zË«•ë"µèm¶›?ÿ0ç!þW ŠÉZ¶*'þ·Ÿz·§vé¿FË¥µ«l¢å-ŠX¬jØ¨œÚ.²Ë©¦‹(žÊ®yÇ¬Š×ž²Û­ŠX¬¥ªåzÊZ®Øž²š%ŠØª¹ë¶–«¶‹­zÉ^²—«²‰çzË"žÚÞ²Æ§µ«µ¨¥jÚ.µë%zÇ!jw±Û§zšèqÛ«y×«~·§vé‹zÈ­yë-š+Ž‹«®¥Š·¦z{lŠZ'r‰ìµ«^•ëz¹â­ëj×¢žÊÞ®Ë«•ë"µä^²š'±¦åzÁ-j×^éïx8«yËb¢q§­©^uëÊËfzÇHú+™«b¢q*º*^"{^®w­ëkzÆœµë«²W†­©Ý
+‰ìz)QyÊ&™©ÝjØ¨žÃhºÊÞr‰¦jwhžÇ^™ëm­ç§¦VœzéìÊËfy×œ¢Y^r×zÈ «n­ç§–('xIî¶)b±©í”Bªè¯jÚì²êÞ™éí¶·¦ŠÇ§¦VœyÇ¬¦º…¨§zÆ§ë¢ižšŒžØz{b~'¶*'Ø­­çbú+™«b¢s(žÈžº±‘LDEDYvá«¢ê^uéTž*'vj­«bªç¸'§¶·š½¨­vš,zyš®Í´×Ë§zj-Š‰é¢êÀºÚ+ŠÇ«•§(–Wœµç^²('jÛ«zÇ§–('zÀž¶×¦¢Ø¨«kz7­¥ªåyÊ'±è¥«b¢v¥uë±šˆ¬¦[¬µªÝzyš‹m5ñZ"®m¦ÏÿÃ)j¹Z™éírß¯úÚ¶ÆÞ¶¸žoû.rœº¸š¾+-kø±ÈZyû@}ö¢¬‡
