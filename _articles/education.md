@@ -40,5 +40,5 @@ Ce rapport a pour but de sélectionner un échantillon d’activités en lien av
 
 *Bibliographie
 1. Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger
-2. Une vision pour l’instruction publique et le système de formation genevois disponible à https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger
+2. Une vision pour l’instruction publique et le système de formation genevois disponible à https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger*
 
