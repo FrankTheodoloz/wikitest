@@ -17,9 +17,12 @@ tags: ['tag c', 'tag d', 'tag e']
 
 Le stade de Genève contient 30'000 places et dispose de 27 loges VIP. Le troisième stade de Suisse en termes de capacité loue au Servette FC ses infrastructures. Ce qui est intéressant de mentionner est que le Servette FC est pratiquement le seul locataire de ce stade.
 
+Durant la fin de l'année 2019, le stade, en collaboration avec les SIG, a installé plus de 5000 m2 de panneaux solaires. 30% de cette énergie est consommée par le stade directement et le reste est injecté dans le réseau. Les genevois ont eu également la possibilité d'acheter des m2 de panneaux pour leur propre consomation. Pour chaque m2 acheté au prix de 330.-, l'acheteur a une réduction de 100kw par année sur sa facture pendant 20 ans. Cela permet de réduire les coûts d'installation tout en collaborant avec les citoyens.
+
 ### Besoins à remplir
 
-Le Stade accueille principalement les matches du Servette FC, mais organise également des matches amicaux et des matches internationaux. Selon les statuts de la Fondation du Stade de Genève, son but est de favoriser la pratique et le développement en général des sports athlétiques dans le canton de Genève, et plus particulièrement ceux par le Servette FC, par l'aménagement des terrains et des batiments.
+Le Stade accueille principalement les matches du Servette FC, mais organise également des matches amicaux et des matches internationaux. Selon les statuts de la Fondation du Stade de Genève, son but est de favoriser la pratique et le développement en général des sports athlétiques dans le canton de Genève, et plus particulièrement ceux par le Servette FC, par l'aménagement des terrains et des batiments. 
+
 
 ### Règles de gouvernance
 
@@ -30,7 +33,7 @@ La gestion des événements revient aux organisateurs. Le stade répond uniqueme
 ### Résultats ou Utilisation
 
 Le Servette FC, qui a joué plus de 20 matches en 2019, représente 95% de l'activité du stade et les 5% restant sont la location du stade - louer les coursives du stade sont possible - en dehors du terrain.
- Le stade subvient à sa propre consommation électrique via les panneaux solaires installées sur son toit. Il est également prévu l’installation des pompes à chaleur pour que le stade soit auto-suffisant.  
+Le Stade subvient à sa propre consommation électrique via les panneaux solaires installées sur son toit. Il est également prévu l’installation des pompes à chaleur pour que le stade soit auto-suffisant.  
 Le Stade contient également 1228 sièges VIP ainsi que de 12 entrées.
 
 
