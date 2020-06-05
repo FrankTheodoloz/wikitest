@@ -27,11 +27,11 @@ Les privés et particuliers peuvent partager leur signalement, ce qui permet à 
 
 ### Résultats ou Utilisation
 
-*En attente de réponse*
+*Question à poser au responsable de la brigade de criminalité informatique de la police*
 
 ### Responsables
 
-La police Genevoise
+La brigade de criminalité informatique de la police
 
 ### Autres acteurs
 
