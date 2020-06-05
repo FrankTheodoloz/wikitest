@@ -20,6 +20,14 @@ Il n’est pas nécessaire de faire partie d’un comité pour lancer un référ
 
 Avant de lancer un referendum il est conseillé de contacter la chancellerie fédérale. Cette dernière donnera toute les informations nécessaire pour la marche à suivre.
 
+Par la suite, il faut préparer une liste de signatures avec un nombre définis de signature minimum.
+
+La chancellerie fédéral mets à disposition des modèles de liste de signatures. voir ci-dessous :
+
+
+
+
+
 ### Besoins à remplir
 
 Mettre à disposition les informations suivantes à la population ainsi qu'aux différents parties politiques Genevois
