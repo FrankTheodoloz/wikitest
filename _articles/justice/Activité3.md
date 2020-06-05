@@ -52,4 +52,6 @@ Parquets cantonaux
 Services d'exécution
 ### Recommandations
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nous recommandons de mettre en place un système de collecte de signature en ligne. En utilisant l’E-ID, qui va très surement être mis en place ces prochaines années, comme moyen d’identification. 
+A titre d'information : Monsieur GRÜTER FRANZ Groupe de l'Union démocratique du Centre avait déposé en mars 2018 une motion pour Autoriser la collecte de signatures en lignes. Cette motion a été rejeté par le conseil national deux mois plus tard en mai 2018.
+Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
