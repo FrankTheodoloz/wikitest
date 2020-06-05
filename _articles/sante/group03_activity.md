@@ -74,7 +74,7 @@ L'application mobile n'est pas très optimisée, ni esthétique. En effet, elle 
 * mesvaccins.ch > Pour tous. In : [en ligne]. [Consulté le 22 mai 2020]. Disponible à l’adresse : https://www.mesvaccins.ch/. 
 * Une nouvelle campagne pour le carnet de vaccination électronique. In : rts.ch [en ligne]. 25 avril 2019. [Consulté le 22 mai 2020]. Disponible à l’adresse : https://www.rts.ch/info/sciences-tech/medecine/10388566-une-nouvelle-campagne-pour-le-carnet-de-vaccination-electronique.html. 
 * Carnet de vaccination électronique. In : [en ligne]. [Consulté le 22 mai 2020]. Disponible à l’adresse : https://www.infovac.ch/fr/infovac/actualites/41-carnet-de-vaccination-electronique-suisse.html. 
-* Le carnet de vaccination électronique | GE.CH – République et canton de Genève. In : [en ligne]. [Consulté le 29 mai juin 2020]. Disponible à l’adresse : https://www.ge.ch/carnet-vaccination-electronique. 
+* Le carnet de vaccination électronique GE.CH – République et canton de Genève. In : [en ligne]. [Consulté le 29 mai juin 2020]. Disponible à l’adresse : https://www.ge.ch/carnet-vaccination-electronique. 
 * Carnet de vaccination électronique : nombre d’utilisateurs en hausse. In : [en ligne]. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-70502.html. 
 * Vos vaccins toujours à jour grâce à myViavac - Le premier carnet de vaccination électronique suisse pour iPhone est lancé par les HUG et l’UNIGE - Communiqués de presse - UNIGE. In : [en ligne]. 20 avril 2011. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.unige.ch/communication/communiques/2011/cdp110420/. 
 
