@@ -17,7 +17,7 @@ tags: ['tag c', 'tag d', 'tag e']
 
 Le stade de Genève contient 30'000 places et dispose de 27 loges VIP. Le troisième stade de Suisse en termes de capacité loue au Servette FC ses infrastructures. Ce qui est intéressant de mentionner est que le Servette FC est pratiquement le seul locataire de ce stade.
 
-Durant la fin de l'année 2019, le stade, en collaboration avec les SIG, a installé plus de 5000 m2 de panneaux solaires. 30% de cette énergie est consommée par le stade directement et le reste est injecté dans le réseau. Les genevois ont eu également la possibilité d'acheter des m2 de panneaux pour leur propre consomation. Pour chaque m2 acheté au prix de 330.-, l'acheteur a une réduction de 100kw par année sur sa facture pendant 20 ans. Cela permet de réduire les coûts d'installation tout en collaborant avec les citoyens.
+Durant la fin de l'année 2019, le stade, en collaboration avec les SIG, a installé plus de 5000 m2 de panneaux solaires. 30% de cette énergie est consommée par le stade directement et le reste est injecté dans le réseau. Les genevois ont eu également la possibilité d'acheter des m2 de panneaux pour leur propre consommation. Pour chaque m2 acheté au prix de 330.-, l'acheteur a une réduction de 100kw par année sur sa facture pendant 20 ans. Cela permet de réduire les coûts d'installation tout en collaborant avec les citoyens.
 
 ### Besoins à remplir
 
