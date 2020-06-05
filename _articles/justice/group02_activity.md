@@ -30,9 +30,8 @@ cette platfrorme est nomé https://www.ge.ch/statistique (STATISTIQUES CANTONALE
 
 cette plaformr propose 21 domaines déffeérents  genre population, santé etc et parmi ces domaines en trouve la justice
 
-La rubrique justice propose des information concernant la JUSTICE, SÉCURITÉ ET CRIMINALITÉ sous forme de XLS ou PDF et même des graphiques quand peut les visualiser sur le site directemet
 
-exemple de grphique :
+
 ### Besoins à remplir
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -43,7 +42,24 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Résultats ou Utilisation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La rubrique justice propose des information concernant la JUSTICE, SÉCURITÉ ET CRIMINALITÉ sous forme de XLS ou PDF et même des graphiques quand peut les visualiser sur le site directemet
+
+exemple des 
+[grphiques:](https://www.ge.ch/statistique/domaines/apercu.asp?dom=19_02)
+[ et XLS et PDF:](https://www.ge.ch/statistique/graphiques/affichage.asp?filtreGraph=19_02&dom=1)
+
+![Graphe](images/magidtrstJudiciareSelonLesSexe.PNG)
+
+![XLS](images/T_19_02_1_01.xls)
+
+
+
+
+
+
+
+
+
 
 ### Responsables
 
@@ -51,8 +67,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Autres acteurs
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Responsable du domaine : Mie Inoue
+
 
 ### Recommandations
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+revoir la présentation des graphe parce que c'est tres condensé
