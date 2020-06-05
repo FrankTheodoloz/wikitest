@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['INFORMATION', ' LIMITE', 'COMPLET']
 ---
 
 ### Situation actuelle
