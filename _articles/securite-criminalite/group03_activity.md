@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: securite-criminalite
-title: Group 01 activity
+title: Centre de compétences pour la cyber-sécurité
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
