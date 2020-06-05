@@ -102,7 +102,8 @@ Et finalement, n'ayant pas pu créer de compte sur la plateforme en raison de la
 >  En ce qui concerne la collaboration entre les patients et les médecins, le patient choisit avec quels médecins il souhaite partager son dossier médicale.
 
 ### Bibliographie
-* Article - TDG - « Dossier médical sur le Net: Genève avance » | MonDossierMedical.ch. In : [en ligne]. [Consulté le 7 mars 2020]. Disponible à l’adresse : https://www.mondossiermedical.ch/article/2016/10/13/artile-tdg-dossier-medical-sur-le-net-geneve-avance. 
+
+* Article - TDG - « Dossier médical sur le Net: Genève avance » MonDossierMedical.ch. In : [en ligne]. [Consulté le 7 mars 2020]. Disponible à l’adresse : https://www.mondossiermedical.ch/article/2016/10/13/artile-tdg-dossier-medical-sur-le-net-geneve-avance. 
 * « monDossierMedicalProchainementCara.pdf ». Consulté le 1 mars 2020. https://www.ge.ch/document/colloque-du-reseau-soins-2019/annexe/6.
 * Mon dossier médical: inscrivez-vous! In : [en ligne]. [Consulté le 8 mars 2020]. Disponible à l’adresse : https://www.hug-ge.ch/actualite/mon-dossier-medical-inscrivez-vous. 
 * Avoir accès à son dossier médical. In : NEPHROHUG [en ligne]. 10 octobre 2014. [Consulté le 8 mars 2020]. Disponible à l’adresse : https://www.nephrohug.ch/2014/10/10/avoir-acces-a-son-dossier-medical/. 
