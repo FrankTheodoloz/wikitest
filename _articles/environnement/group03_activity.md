@@ -53,7 +53,7 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le 
 ### Règles de gouvernance
 #### Faune
 
-L'association Faune Genève mets à disposition son site s'informer et participer à établir des statistiques sur la faune genevoise. 
+L'association Faune Genève mets à disposition son site pour s'informer et participer à établir des statistiques sur la faune genevoise. 
 
 #### Flore
 
