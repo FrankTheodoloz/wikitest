@@ -4,13 +4,14 @@ key: transports-et-mobilite
 title: Skyguide
 toc:
 - "Situation actuelle"
+- "Objectifs annoncés"
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
+- "Analyse Wikinomie"
 - "Responsables"
-- "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['Information']
 ---
 
 ### Situation actuelle
@@ -18,6 +19,11 @@ tags: ['tag c', 'tag d', 'tag e']
 La population a à sa disposition une page sur le site internet pour
 trouver des informations sur les différents types de vols
 disponibles.
+
+### Objectifs annoncés
+
+L’objectif principal de Skyguide est de garantir une gestion sûre,
+fluide et économique du trafic aérien suisse.
 
 ### Besoins à remplir
 
@@ -36,10 +42,16 @@ processus de recrutement en ligne. L’exploitation de ces données
 En 2019, 96,7% des vols ont été ponctuels. Environ 1'300'000 vols
 ont été effectuées. L’effectif monte à 1500 en 2019.
 
+### Analyse Wikinomie
+
+Ce projet permet au public de s’informer plus facilement sur les
+différents services aériens sur le Canton de Genève.
+
 ### Responsables
 
 Klaus Meier (Engineering & Technology)
 
-### Autres acteurs
-
 ### Recommandations
+
+Créer une plateforme qui permettra aux gens de donner leur feedback
+concernant les vols
