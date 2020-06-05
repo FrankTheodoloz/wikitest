@@ -11,7 +11,6 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 tags: [information, limitée, SIG, environnement]
-
 ---
 
 ### Situation actuelle
