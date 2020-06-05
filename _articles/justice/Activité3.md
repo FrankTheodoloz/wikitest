@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Besoins à remplir
 
-Mettre à disposition les informations suivantes a la population ainsi qu'aux différents parties politiques Genevois
+Mettre à disposition les informations suivantes à la population ainsi qu'aux différents parties politiques Genevois
 * Référendum en cours
 * Vérification des signature
 * Date de de votation à fixer
