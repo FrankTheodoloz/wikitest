@@ -33,3 +33,9 @@ la page web destiné à fournir des informations sur tous les types de vols.
 
 Les TPG mettent à disposition les données des transports publics en temps réel
 sur leur site internet.
+
+**OpenData Swiss**
+
+OpenData Swiss est le portail des données ouvertes et est disponible en libre 
+accès. Ces données concernent tous les domaines de l'administration, les 
+transports et la mobilité inclus.
