@@ -18,6 +18,8 @@ tags: ['tag c', 'tag d', 'tag e']
 Un référendum populaire facultatif peut être lancé par tout citoyen ou citoyenne ayant le droit de vote – Suisses et Suissesses de l’étranger inclus. 
 Il n’est pas nécessaire de faire partie d’un comité pour lancer un référendum, mais cela facilite la tâche.
 
+Avant de lancer un referendum il est conseillé de contacter la chancellerie fédérale. Cette dernière donnera toute les informations nécessaire pour la marche à suivre.
+
 ### Besoins à remplir
 
 Mettre à disposition les informations suivantes à la population ainsi qu'aux différents parties politiques Genevois
