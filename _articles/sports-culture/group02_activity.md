@@ -4,6 +4,7 @@ key: sports-culture
 title: Group 01 activity
 toc:
 - "Situation actuelle"
+- "Objectifs annoncés"
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
@@ -20,10 +21,13 @@ Le stade de Genève contient 30'000 places et dispose de 27 loges VIP. Le troisi
 
 Durant la fin de l'année 2019, le stade, en collaboration avec les SIG, a installé plus de 5000 m2 de panneaux solaires. 30% de cette énergie est consommée par le stade directement et le reste est injecté dans le réseau. Les genevois ont eu également la possibilité d'acheter des m2 de panneaux pour leur propre consommation. Pour chaque m2 acheté au prix de 330.-, l'acheteur a une réduction de 100kw par année sur sa facture pendant 20 ans. Cela permet de réduire les coûts d'installation tout en collaborant avec les citoyens.
 
+### Objectifs annoncés
+
+Le Stade accueille principalement les matches du Servette FC, mais organise également des matches amicaux et des matches internationaux. Selon les statuts de la Fondation du Stade de Genève, son but est de favoriser la pratique et le développement en général des sports athlétiques dans le canton de Genève, et plus particulièrement ceux par le Servette FC, par l'aménagement des terrains et des bâtiments.
+
 ### Besoins à remplir
 
-Le Stade accueille principalement les matches du Servette FC, mais organise également des matches amicaux et des matches internationaux. Selon les statuts de la Fondation du Stade de Genève, son but est de favoriser la pratique et le développement en général des sports athlétiques dans le canton de Genève, et plus particulièrement ceux par le Servette FC, par l'aménagement des terrains et des batiments. 
-
+Proposer des événements avec une utilisation  infrastructurelle maximale du stade. Offrir une meilleure expérience possible aux clients des locataires. 
 
 ### Règles de gouvernance
 
