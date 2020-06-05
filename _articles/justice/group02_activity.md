@@ -78,9 +78,14 @@ PS : dans ce genre de  domaine  on trouve  pas la participation des personnes d'
 
 
 ### Recommandations
+Faire un onglet pour partager des expriences des citoyenne.
 
-Fevoir la présentation des graphe parce que c'est tres condensé
+Faire un onglet favori.
+
+Revoir la présentation des graphe parce que c'est tres condensé
 
 Faie une application mobille pour faciltéla racherche et l'affichage et même faire une application par théme.
-plateforme complet
+
+Mettre un plateforme complet
+
 Usage des termes plus simple a comprendre (termes juridiques ne sont pas facile a compredrendre )
