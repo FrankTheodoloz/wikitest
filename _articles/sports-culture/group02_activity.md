@@ -7,6 +7,7 @@ toc:
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -35,6 +36,11 @@ La gestion des événements revient aux organisateurs. Le stade répond uniqueme
 Le Servette FC, qui a joué plus de 20 matches en 2019, représente 95% de l'activité du stade et les 5% restant sont la location du stade - louer les coursives du stade sont possible - en dehors du terrain.
 Le Stade subvient à sa propre consommation électrique via les panneaux solaires installées sur son toit. Il est également prévu l’installation des pompes à chaleur pour que le stade soit auto-suffisant.  
 Le Stade contient également 1228 sièges VIP ainsi que de 12 entrées.
+Le Stade délègue finalement la gestion durant les évènements à des entreprises privées.
+
+### Analyse Wikinomie
+
+Le stade n’offre que très peu de données en libre accès, excepté les données infrastructurelles de son bâtiment. Le reste est de la responsabilité des organisateurs d’évènements. Toutefois, depuis le début de l’année, des panneaux solaires ont été installés sur le toit en collaboration avec les SIG et les habitants genevois. Ces derniers pouvaient acquérir des mètres carrés de panneaux pour faire diminuer leur facture d'électricité à leur domicile. Une sorte de récompense à leurs contribution cantonal.
 Le Stade délègue finalement la gestion durant les évènements à des entreprises privées.
 
 
