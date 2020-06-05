@@ -10,11 +10,10 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: [information, limitée, SIG, environnement]
 ---
 
 ### Situation actuelle
-
+test
 Nos premières interrogations sur l'eau ont été de savoir si le canton communiquait sur la qualité de l'eau potable, nous n'avons pas trouvé d'informations concernant la povtabilité de l'eau.
 Nous avons rapidement trouvé cette information auprès des SIG (Services Industriels de Genève), Les SIG nous fournissent des informations concernant l'origine de l'eau potable en fonction
 de la zone d'habitation, de plus, ils fournissent les données d'analyse de l'eau de l'année 2019, son traitement, et le nombre de prélèvements réalisés.
