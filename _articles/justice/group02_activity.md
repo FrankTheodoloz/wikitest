@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: justice
-title: Group 02 activity
+title: STATISTIQUES CANTONALES
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
@@ -34,11 +34,9 @@ cette plaformr propose 21 domaines déffeérents  genre population, santé etc e
 
 ### Besoins à remplir
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Règles de gouvernance
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Résultats ou Utilisation
 
@@ -58,19 +56,26 @@ exemple des
 
 
 
-
-
-
 ### Responsables
 
 Responsable du domaine : Mie Inoue
 
 ### Autres acteurs
 
+La direction de l'office se compose de cinq personnes : un directeur, un responsable du système d'information statistique cantonal et deux chefs de service, en charge respectivement du Service production et ressources (SPR) et du Service études et diffusion (SED).
 
-Les citoyennes ne sont pas appliquer sur le site directement 
+Le SED compte en outre deux experts métier : le responsable des études et des méthodes et le responsable des produits de diffusion.
+
+Collaborateurs et collaboratrices de l'office
+L'office emploie environ 30 personnes, dont une partie à temps partiel. De plus, il accueille des analystes-programmeurs ainsi qu'un concepteur web départemental de l'OCSIN.
+
+Les citoyennes ne sont pas appliquer sur le site directement (donc on a pas  la notion wikinomie  dans ce domaine  )==> informationnelle 
 les citoyennes pouvent faire que des recherches et  des affichages de l'inforations 
+
 PS : dans ce genre de  domaine  on trouve  pas la participation des personnes d'hors de domaine
+
+
+
 
 ### Recommandations
 
