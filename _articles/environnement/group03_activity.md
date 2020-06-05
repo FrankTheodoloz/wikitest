@@ -134,7 +134,7 @@ Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrai
 
 #### Contact 
 
-Pendant notre projet nous avons échangés par le biais d'un formulaire google forms avec.
+Pendant notre projet nous avons échangés par le biais d'un formulaire google forms avec Pauline De Salis, porte-parole du Département du territoire (DT).
 
 **Voici les questions portant sur le thème de la faune et la flore:**
 
