@@ -10,6 +10,8 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+tags: [information, limitée, SIG]
+
 ---
 
 ### Situation actuelle
