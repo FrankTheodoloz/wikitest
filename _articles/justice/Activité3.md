@@ -40,11 +40,8 @@ Nous supposons que ce site est utilisé par les parties politiques et par toutes
 Le site est mis a jour régulièrement si l’on constate les dernières date insérer sur le site.
 
 ### Responsables
-Monsieur Patrick Becker, Generalsekretär Justizleitung GE
+Etat de Genève - Direction Générale des Systèmes d'Information - Equipe Internet
 
-Balawijitha Waeber, cheffe de projet / responsable presse, info@justitia.swiss
-
-Marius Erni, chef de projet / responsable presse, info@justitia.swiss
 ### Autres acteurs
 
 Organisations impliqués :
