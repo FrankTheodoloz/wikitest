@@ -19,7 +19,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Besoins à remplir
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mettre à disposition les informations suivantes a la population ainsi qu'aux différents parties politiques Genevois
+* Référendum en cours
+* Vérification des signature
+* Date de de votation à fixer
+* Votation à venir
+* Pouvoir consulter les archives des referendums totalement traité.
 
 ### Règles de gouvernance
 
@@ -27,7 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Résultats ou Utilisation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant au détail a toutes les échéances d’une procédure de référendum.
+
+Le site est mis a jour régulièrement si l’on constate les dernières date insérer sur le site.
 
 ### Responsables
 Monsieur Patrick Becker, Generalsekretär Justizleitung GE
