@@ -30,7 +30,7 @@ Les résultats des votations et Élections de Genève sont gérés par la Chance
 
 ### Résultats et Utilisation
 
-Les résultats des votations et élections peuvent être obtenu par les journaux et ainsi diffuser en temps réelle à la population de manière simplifié. Les données sont aussi utilisés par les partis politiques à fin de faire des projections sur le second tour des candidats.
+Les résultats des votations et élections peuvent être obtenu par les journaux et ainsi diffuser en temps réelle à la population de manière simplifié. Les données sont aussi utilisés par les partis politiques à fin de faire des projections sur le second tour des candidats. On retrouve les résultats de votations élection de Genève de 2016 à fin 2019 aux formats JSON, XML, XLS et CSV. 
 L’application VoteInfo de la Confédération récupère directement les données opendata du Canton de Genève et permet leur consultation aux citoyens via l’application.
 
 ### Responsables
@@ -43,7 +43,7 @@ HEG mandaté par la Chancellerie pour concevoir et mettre en place la nouvelle v
 
 ### Recommandations
 
-En vue de la différence d’accès aux données entre les votations et les élections, il serait peut être nécessaire d’adapter les votations pour être au même niveau que les élections en terme de lisibilité et d’informations opendata partagées. Le Chef de service adjoint du Service des votations et élections, nous a dit que lui et son équipe se pencheront sur ce cas l’adapter. 
+En vue de la différence d’accès aux données entre les votations et les élections, il serait peut être nécessaire d’adapter les votations pour être au même niveau que les élections en terme de lisibilité et d’informations opendata partagées. Le Chef de service adjoint du Service des votations et élections a prévu avec son équipe de se pencher sur ce cas afin de l’adapter. 
 Dans l’approche de partager plus d’informations sur les élections, on se heurte sur la question de la vie privée des candidats rendant l’approche difficile. D’autres idées telles que la numérisation de la brochure de votations et élections dans un futur proche pourrait ajouter une nouvelle possibilité à l’Etat de partager plus rapidement les informations.
 
 
