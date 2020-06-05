@@ -12,6 +12,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Interview"
+- "Bibliographie"
 tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'substantiel']
 ---
 
@@ -99,3 +100,22 @@ Et finalement, n'ayant pas pu créer de compte sur la plateforme en raison de la
 >  MDM est en partenariat fort entre les HUG, l'IMAD, les pharmacies, les laboratoires. Ces partenariats prennent de l'ampleur avec CARA. Nous aurons désormais un système inter-cantonal avec l'ajout des 5 cantons.
 
 >  En ce qui concerne la collaboration entre les patients et les médecins, le patient choisit avec quels médecins il souhaite partager son dossier médicale.
+
+### Bibliographie
+* Article - TDG - « Dossier médical sur le Net: Genève avance » | MonDossierMedical.ch. In : [en ligne]. [Consulté le 7 mars 2020]. Disponible à l’adresse : https://www.mondossiermedical.ch/article/2016/10/13/artile-tdg-dossier-medical-sur-le-net-geneve-avance. 
+* « monDossierMedicalProchainementCara.pdf ». Consulté le 1 mars 2020. https://www.ge.ch/document/colloque-du-reseau-soins-2019/annexe/6.
+* Mon dossier médical: inscrivez-vous! In : [en ligne]. [Consulté le 8 mars 2020]. Disponible à l’adresse : https://www.hug-ge.ch/actualite/mon-dossier-medical-inscrivez-vous. 
+* Avoir accès à son dossier médical. In : NEPHROHUG [en ligne]. 10 octobre 2014. [Consulté le 8 mars 2020]. Disponible à l’adresse : https://www.nephrohug.ch/2014/10/10/avoir-acces-a-son-dossier-medical/. 
+* Le canton de Genève lance le dossier médical informatisé. In : rts.ch [en ligne]. 13 mai 2013. [Consulté le 3 avril 2020]. Disponible à l’adresse : https://www.rts.ch/info/regions/geneve/4898245-le-canton-de-geneve-lance-le-dossier-medical-informatise-.html. 
+* CARA, www cara ch, Association. Avec CARA, restez connecté à votre santé. In : [en ligne]. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.cara.ch/fr/Accueil/Avec-CARA-restez-connecte-a-votre-sante.html. 
+
+
+
+
+
+
+
+
+
+
+
