@@ -1,7 +1,7 @@
 ---
 layout: activity
-key: justice
-title: JUSTICIA
+key: referendum
+title: Référendum cantonal
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
