@@ -42,6 +42,8 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long
 ### Règles de gouvernance
 
 L'état sanitaire des eaux de baignade est fait par le canton(SECOE) toutes les 2 semaines.
+Les SIG fournissent des [informations annuelles](https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve) sur de la qualité de l'eau potable selon la zone de provenance.
+
 ### Résultats ou Utilisation
 
 Les données sont disponibles via une carte interactive qui indique selon la couleur la qualité de l'eau.
