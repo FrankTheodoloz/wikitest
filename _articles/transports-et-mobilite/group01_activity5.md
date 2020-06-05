@@ -15,9 +15,9 @@ tags: ['Information']
 ### Situation actuelle
 
 Opendata.swiss est le portail des données ouvertes et est disponible en libre 
-accès de l’administration publique suisse telles que les primes d’assurances, 
-les statistiques démographiques, etc. Opendata.swiss propose aussi des API 
-pour pouvoir utiliser des données sur des applications. 
+accès de l’administration publique suisse telles que les informations sur les 
+transports publics. Les lignes et les arrêts avec l’horaire de l’année 
+actuelle sont présents sur le portail. 
 
 ### Objectifs annoncés
 
