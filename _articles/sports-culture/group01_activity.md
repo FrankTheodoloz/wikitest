@@ -17,7 +17,7 @@ tags: ['tag c', 'tag d', 'tag e']
 
 ### Situation actuelle
 
-Les genevois ont la chance d’avoir un canton qui s’investit dans une grande quantitée de sports. ( plus de 50 variétés). La ville de genève propose aux genevois des cours de sports sur une durée déterminée (et par tranches d'âges), durant l’année et les vacances scolaires et ce, en commun avec des infrastructures sportives privées et publics.
+Les genevois ont la chance d’avoir un canton qui s’investit dans une grande quantitée de sports (plus de 50 variétés). La Ville de Genève propose aux genevois des cours de sports sur une durée déterminée (et par tranches d'âges), durant l’année et les vacances scolaires et ce, en commun avec des infrastructures sportives privées et publics.
 
 ### Objectifs annoncés
 
@@ -29,7 +29,7 @@ Offrir une passerelle entre les associations sportives et les habitants. En effe
 
 ### Règles de gouvernance
 
-La Ville de Genève met à disposition une plateforme web listant les différentes prestation sportives offerte (quel sport, tranche d'âge, date). Lorsque le cours voulus est sélectionné, on peut réserver une place auprès du cours et obtenir les contacts de la structure sportive organisant l'organisation. Malheureusement la gouvernance numérique s'arrête ici puisque pour la suite c’est avec la structure sportive que tout se fait. La ville de genève ne rentre plus dans l’équation.
+La Ville de Genève met à disposition une plateforme web listant les différentes prestations sportives offerts (quel sport, tranche d'âge, date). Lorsque le cours voulu est sélectionné, on peut réserver une place auprès du cours et obtenir les contacts de la structure sportive organisant ce sport. Malheureusement la gouvernance numérique s'arrête ici puisque pour la suite c’est avec la structure sportive que tout se fait. La Ville de Genève ne rentre plus dans l’équation.
 
 ### Résultats ou Utilisation
 
@@ -37,7 +37,7 @@ Plus de 50 sports sont proposés durant l’année.
 
 ### Analyse Wikinomie
 
-Malgré une faible gouvernance numérique sur le sujet, le canton est très ouvert aux clubs de sport souhaitant mettre à disposition leurs cours auprès des genevois. Nous pouvons observer une forte collaboration entre les structure sportive privée et public afin d’être toujours le plus disponible possible (essentiellement aux jeunes sportifs). Par exemple, Genève Unihockey, association cantonale genevoise, propose des cours et des stages durant les vacances d’été.
+Malgré une faible gouvernance numérique sur le sujet, le canton est très ouvert aux clubs de sport souhaitant mettre à disposition leurs cours auprès des genevois. Nous pouvons observer une forte collaboration entre les structures sportives privées et publics afin d’être toujours le plus disponible possible (essentiellement aux jeunes sportifs). Par exemple, Genève Unihockey, association cantonale genevoise, propose des cours et des stages durant les vacances d’été.
 
 ### Responsables
 
