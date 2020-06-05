@@ -1,2 +1,75 @@
-•¬¨ºÖœ¶+â·)Ê;¬¶'¶+ex•L€ˆÚJ+njØ¨§-¹éex¬¢)ì­é©–*Ñ‚W¬uè(º÷«©Üy.–Ö­²‹”¶)b±«b¢t^²š'±¦åzÀ.¶·¬iË^º»yÊ&™©İjØ¨ËZ‚ËZËZÛZä¢¶æ­Š‰ÚrÛ–Wµ-ç(š+k~·§u¨«zšéj·®çè®k¥y×«r‰myÊ'µéÚÙ^²)ß¢¹š¶*'²X•ë"Øª¹ë%j»|í×¥h±>ú"®j•ç"ˆ§·bŞr‰¢¶·ëzwZŠ·Ÿj+ij»Ş*ÚºÇ«¾'uë/¢Ö­Š‰ìzÙ^rØ¨ÉZ~ŠæºWz·(–×zË"‚v­º·¬¦‹«¾¸Ÿ‰Æ­Š‰Şµªi®†Ú¶*'	ç(Úåyë-y÷ŞrÛ®*®zg§¶Ë«•êŞ²—œµ×¬¦·¬r¸©¶*'±×Ÿ¢¹²Ø©ºW¬•ªí‰É^ó²ÄıËzÆ®µë«±Û§y×¦jw^uêß­éİºghŠ÷§µ«Ú×^¦ºuêåj«­y×¬²('jÛ«zÈ§~ŠæzºZ­Êâ¶W‚¢{ŠWDµ«]zW®­×"²*'z×lŠ	Ş®éæjwZµ¨«yÈZ®Z‚*ŞW®®z&zÖ®ªç¥•ë¢i®'¶*'²‡ß‰È–W¬±êèÖ­ë,zËÚ•¦åzg§·€¨ú+šg§¶V«¶'%{¯zVœ¢{-ŠÛ­Š‰İzV‘¦æåŠ«z×Ú'uá÷»^(rÚ­í´×i^vV¢¦‹«•çiµ×¬²('jÛ«zÉZ¦›¢vêß­éİºg¬µ×¸Ò:.®Ç­r‰¦zwr‹«Š·l•ªnnXœjØ¨×¥iË^ä·¦jwZµ¨«z‹¬¢zŞš™Zj{izëŞÚk¡Ç^®éİ¦ÚZ®Ø•Û«j{ejšâ¡×z·(–×¬ººŞ×³¾‹¬zÛ–‰åzÇ(Ø­Š‰ì~,^²–«•ªíóÒÄş‹yÚm~)Ú•Ú"¶ÚŞy÷ŞrÛšº™n²Ö«vVŸŠwnvV¢uêÜ¢[^z{§zÇ®•çèŠÆ®±êï‰ÇzËèµ«b¢{¶Wœ¶*'°¬¢)ì­é©–*ÌzÛkyØ¬¦‹"¶*'•ë"ú+™«b¢{,º+Ú×¬•ªh¦éZ¶*'j)ìŠ«š»b}úŞÛ)j»bzÊh–+bªç¬éŞ¾ˆ¬EúŞÛ¦zw(º»®'âq«b¢w^²È «n­àÚµç^uëèµ«b¢wâÅêÕ¢Ö­Š‰ïzx«>‹¯¢*Ü¢{.–×«•ë­Èb½ëzÊŞ}êŞÛ¦²Ú-jW¦z{m­¨­F	^±× ¢ëŞ®v§qâŞ²)ß¢¹š¶*'²Ê'µØ¬¦‰ânW¬zy^rÛ«zË«•ë"µèm¶›?ÿ0ç!şW ŠÉZ¶*'ş·Ÿz·§vé¿FË¥µ«l¢å-ŠX¬jØ¨œÚ.²Ë©¦‹(Ê®yÇ¬Š×²Û­ŠX¬¥ªåzÊZ®Ø²š%ŠØª¹ë¶–«¶‹­zÉ^²—«²‰çzË"ÚŞ²Æ§µ«µ¨¥jÚ.µë%zÇ!jw±Û§zšèqÛ«y×«~·§vé‹zÈ­yë-š+‹«®¥Š·¦z{lŠZ'r‰ìµ«^•ëz¹â­ëj×¢ÊŞ®Ë«•ë"µä^²š'±¦åzÁ-j×^éïx8«yËb¢q§­©^uëÊËfzÇHú+™«b¢q*º*^"{^®w­ëkzÆœµë«²W†­©İ
-‰ìz)QyÊ&™©İjØ¨ÃhºÊŞr‰¦jwhÇ^™ëm­ç§¦VœzéìÊËfy×œ¢Y^r×zÈ «n­ç§–('xIî¶)b±©í”Bªè¯jÚì²êŞ™éí¶·¦ŠÇ§¦VœyÇ¬¦º…¨§zÆ§ë¢išŒØz{b~'¶*'Ø­­çbú+™«b¢s(Èº±‘LDEDYvá«¢ê^uéT*'vj­«bªç¸'§¶·š½¨­vš,zyš®Í´×Ë§zj-Š‰é¢êÀºÚ+ŠÇ«•§(–Wœµç^²('jÛ«zÇ§–('zÀ¶×¦¢Ø¨«kz7­¥ªåyÊ'±è¥«b¢v¥uë±šˆ¬¦[¬µªİzyš‹m5ñZ"®m¦ÏÿÃ)j¹Z™éírß¯úÚ¶ÆŞ¶¸oû.rœº¸š¾+-kø±ÈZyû@}ö¢¬‡
+---
+layout: activity
+key: justice
+title: JUSTICIA
+toc:
+- "Situation actuelle"
+- "Besoins Ã  remplir"
+- "RÃ¨gles de gouvernance"
+- "RÃ©sultats ou Utilisation"
+- "Responsables"
+- "Autres acteurs"
+- "Recommandations"
+tags: ['tag c', 'tag d', 'tag e']
+---
+
+### Situation actuelle
+1. Le comitÃ© rÃ©fÃ©rendaire prÃ©pare une formule de rÃ©colte contenant les informations lÃ©gales
+indiquÃ©es Ã  l'art. 87 de la LEDP (voir modÃ¨le ci-joint)
+
+2. Le comitÃ© rÃ©fÃ©rendaire fait parvenir au service des votations et Ã©lections la formule de
+rÃ©colte des signatures pour vÃ©rification et approbation. Ce contrÃ´le est effectuÃ© uniquement
+sur le respect des prescriptions de forme stipulÃ©es Ã  l'article 87 LEDP.
+
+3. Les auteurs d'une demande de rÃ©fÃ©rendum doivent, avant de procÃ©der Ã  la quÃªte des
+signatures informer par Ã©crit le Conseil d'Etat de leur dÃ©cision et dÃ©signer un mandataire
+chargÃ© d'agir en leur nom et auquel les communications officielles seront adressÃ©es
+valablement.
+
+4. ConformÃ©ment Ã  l'article 68 de la constitution de la RÃ©publique et canton de GenÃ¨ve du 14
+octobre 2012, le dÃ©lai pour le dÃ©pÃ´t des signatures Ã  l'appui du rÃ©fÃ©rendum est de 40 jours et
+commence Ã  courir dÃ¨s la publication de l'acte.
+
+5. Le mandataire ou son remplaÃ§ant peuvent procÃ©der Ã  un dÃ©pÃ´t partiel durant la pÃ©riode de
+rÃ©colte, sur rendez-vous et selon les conditions fixÃ©es par l'art. 89 LEDP.
+
+6. Le dÃ©pÃ´t final doit Ãªtre effectuÃ© au plus tard Ã  la fin du dÃ©lai de rÃ©colte, en une seule fois, au
+service des votations et Ã©lections. 
+
+TirÃ© du document : https://www.ge.ch/document/procedure-depot-referendum-cantonal/telecharger
+
+### Besoins Ã  remplir
+
+Mettre Ã  disposition les informations suivantes Ã  la population ainsi quâ€™aux diffÃ©rents parties politiques Genevois
+
+* RÃ©fÃ©rendum en cours
+* VÃ©rification des signature
+* Date de de votation Ã  fixer
+* Votation Ã  venir
+* Pouvoir consulter les archives des referendums totalement traitÃ©.
+
+### RÃ¨gles de gouvernance
+
+Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/
+
+### RÃ©sultats ou Utilisation
+
+Nous supposons que ce site est utilisÃ© par les parties politiques et par toutes les personnes sâ€™intÃ©ressant au dÃ©tail a toutes les Ã©chÃ©ances dâ€™une procÃ©dure de rÃ©fÃ©rendum.
+
+Le site est mis a jour rÃ©guliÃ¨rement si lâ€™on constate les derniÃ¨res date insÃ©rer sur le site.
+
+### Responsables
+
+Etat de GenÃ¨ve - Direction GÃ©nÃ©rale des SystÃ¨mes dâ€™Information - Equipe Internet
+
+### Autres acteurs
+
+le Grand Conseil
+
+### Recommandations
+
+Nous recommandons de mettre en place un systÃ¨me de collecte de signature en ligne. En utilisant lâ€™E-ID, qui va trÃ¨s surement Ãªtre mis en place ces prochaines annÃ©es, comme moyen dâ€™identification.
+
+A titre dâ€™information : Monsieur GRÃœTER FRANZ du Groupe de lâ€™Union dÃ©mocratique du Centre avait dÃ©posÃ© en mars 2018 une motion pour Autoriser la collecte de signatures en lignes. Cette motion a Ã©tÃ© rejetÃ© par le conseil national deux mois plus tard en mai 2018.
+
+Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
