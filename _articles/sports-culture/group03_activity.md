@@ -16,7 +16,7 @@ tags: ['tag c', 'tag d', 'tag e']
 
 ### Situation actuelle
 Une importante structure liée à l’esport a vu le jour en 2014 : la Geneva Esport Federation (https://geneva-e-sport.com/). 
-La fédération n’est pas géré par l’état mais est constituée de plus de 600 membres physiques et de 10 membres moraux , ce qui fait d’elle la plus grosse structure genevoise dans ce domaine. La fédération a déjà organisé plus de 28 tournois, et organise des évènements à Palexpo.
+La fédération n’est pas gérée par l’état mais est constituée de plus de 600 membres physiques et de 10 membres moraux, ce qui fait d’elle la plus grosse structure genevoise dans ce domaine. La fédération a déjà organisé plus de 28 tournois, et organise des évènements à Palexpo.
 
 ### Objectifs annoncés
 Les structures genevoises liées à l’esport essayent d’oeuvrer dans un concept d'accessibilité, dans le sens où ce sport a besoin de se populariser, de s'affirmer. Il se trouve que beaucoup de genevois ont du potentiel dans le monde de l’esport mais peu tentent réellement d'entrer dans ce monde, et ce même à un niveau amateur. Peut être par manque de connaissance dans le domaine. La fédération ainsi que les structures avec lesquelles elle travaille, essayent donc de rendre l’entrée dans le monde de l’esport la plus accessible possible au public.
