@@ -35,6 +35,7 @@ La gestion des événements revient aux organisateurs. Le stade répond uniqueme
 Le Servette FC, qui a joué plus de 20 matches en 2019, représente 95% de l'activité du stade et les 5% restant sont la location du stade - louer les coursives du stade sont possible - en dehors du terrain.
 Le Stade subvient à sa propre consommation électrique via les panneaux solaires installées sur son toit. Il est également prévu l’installation des pompes à chaleur pour que le stade soit auto-suffisant.  
 Le Stade contient également 1228 sièges VIP ainsi que de 12 entrées.
+Le Stade délègue finalement la gestion durant les évènements à des entreprises privées.
 
 
 ### Responsables
