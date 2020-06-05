@@ -16,10 +16,10 @@ tags: [information, limitée, SIG, environnement]
 
 ### Situation actuelle
 
-Nos premières interrogations sur l'eau on été de savoir si le canton communiquait sur la qualité de l'eau potable, nous n'avons pas trouvé d'informations concernant la portabilité de l'eau.
+Nos premières interrogations sur l'eau ont été de savoir si le canton communiquait sur la qualité de l'eau potable, nous n'avons pas trouvé d'informations concernant la povtabilité de l'eau.
 Nous avons rapidement trouvé cette information auprès des SIG (Services Industriels de Genève), Les SIG nous fournissent des informations concernant l'origine de l'eau potable en fonction
 de la zone d'habitation, de plus, ils fournissent les données d'analyse de l'eau de l'année 2019, son traitement, et le nombre de prélèvements réalisés.
-Les SIG communiquent également sur le traitement des eaux usées.
+Les SIG communiquent également sur le traitement des [eaux usées](https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees).
 
 Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades
 
