@@ -14,6 +14,9 @@ tags: ['tag c', 'tag d', 'tag e']
 ---
 
 ### Situation actuelle
+
+Procédure de dépôt d'un référendum cantonal 
+
 1. Le comité référendaire prépare une formule de récolte contenant les informations légales
 indiquées à l'art. 87 de la LEDP (voir modèle ci-joint)
 
