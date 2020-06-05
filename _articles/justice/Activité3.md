@@ -52,19 +52,8 @@ Etat de Genève - Direction Générale des Systèmes d'Information - Equipe Inte
 
 ### Autres acteurs
 
-Organisations impliqués :
+le Grand Conseil
 
-Tribunaux de la Confédération
-
-Ministère public de la Confédération
-
-Office fédéral de la justice
-
-Ordres judiciaires cantonaux
-
-Parquets cantonaux
-
-Services d'exécution
 ### Recommandations
 
 Nous recommandons de mettre en place un système de collecte de signature en ligne. En utilisant l’E-ID, qui va très surement être mis en place ces prochaines années, comme moyen d’identification. 
