@@ -10,6 +10,8 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+- tags: [information, substantiel, participation citoyenne, Faune Genève, association, environnement]
+
 ---
 
 ### Situation actuelle
