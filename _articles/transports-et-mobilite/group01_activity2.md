@@ -4,13 +4,14 @@ key: transports-et-mobilite
 title: TP Publicité
 toc:
 - "Situation actuelle"
+- "Objectifs annoncés"
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
+- "Analyse Wikinomie"
 - "Responsables"
-- "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['Information']
 ---
 
 ### Situation actuelle
@@ -18,6 +19,11 @@ tags: ['tag c', 'tag d', 'tag e']
 La population a à sa disposition une page web et mobile pour
 trouver des informations sur les différentes méthodes de
 publicités.
+
+### Objectifs annoncés
+
+L’objectif principal de TP Publicité est d’augmenter l’impact des
+messages sur le territoire genevois.
 
 ### Besoins à remplir
 
@@ -36,10 +42,16 @@ La publicité affichée sur les 1000 écrans embarqués dans les
 véhicules des TPG et les 600 distributeurs. 179 millions de
 consommateurs touchés.
 
+### Analyse Wikinomie
+
+Ce projet permet au public de s’informer des nouveautés à travers
+la publicité.
+
 ### Responsables
 
 Tamara Rojas (Coordinatrice de vente)
 
-### Autres acteurs
-
 ### Recommandations
+
+* Permettre à la population de collaborer dans le projet
+* Partager plus d'informations
