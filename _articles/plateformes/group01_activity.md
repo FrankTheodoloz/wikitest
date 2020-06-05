@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['Uber', 'AirBnB', 'Taxi', 'LTVTC']
 ---
 
 ### Situation actuelle
