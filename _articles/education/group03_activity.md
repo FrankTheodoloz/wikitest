@@ -122,7 +122,7 @@ Les formateurs du SEM vont régulièrement répondre aux questions des enseignan
 
 *Bibliographie
 1. Site internet du SEM disponible à https://edu.ge.ch/sem/
-2. Liste des applications de l'Ecole en ligne, site internet du SEM, disponible à https://edu.ge.ch/sem/usages/outils/toutes-les-applications-de-lecole-en-ligne-1501
+2. Liste des applications de l'Ecole en ligne, site internet du SEM, disponible à https://edu.ge.ch/sem/usages/outils/toutes-les-applications-de-lecole-en-ligne-1501*
 
 ### Objectifs annoncés
 
