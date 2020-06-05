@@ -4,12 +4,12 @@ key: transports-et-mobilite
 title: TPG Open Data
 toc:
 - "Situation actuelle"
+- "Objectifs annoncés"
 - "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
-- "Objectifs annoncés"
 - "Analyse Wikinomie"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['Participation']
 ---
 
 ### Situation actuelle
@@ -17,6 +17,12 @@ tags: ['tag c', 'tag d', 'tag e']
 La population a à sa disposition des données de l’API Horaire en temps réel des
 Transports public genevois. Les détails sur l’utilisation des données sont 
 fournis dans le document qui est disponible sur le site des TPG.
+
+### Objectifs annoncés
+
+Favoriser la transparence et la participation
+Accroître l'efficacité des services proposés
+Encourager l'innovation
 
 ### Besoins à remplir
 
@@ -38,12 +44,6 @@ disposition. En effet, une journée d'exploitation commence à 4h00 du matin et
 se termine à 3h30 le lendemain. Entre 3h30 et 4h15 du matin les données ne 
 sont pas accessibles, pour des raisons d'initialisation des données dans le 
 système temps réel. La dernière mise à jour des documents a été faite en 2015.
-
-### Objectifs annoncés
-
-Favoriser la transparence et la participation
-Accroître l'efficacité des services proposés
-Encourager l'innovation
 
 ### Analyse Wikinomie
 
