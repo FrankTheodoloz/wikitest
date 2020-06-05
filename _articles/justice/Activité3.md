@@ -75,3 +75,4 @@ Nous recommandons de mettre en place un système de collecte de signature en lig
 
 A titre d’information : Monsieur GRÜTER FRANZ du Groupe de l’Union démocratique du Centre avait déposé en mars 2018 une motion pour Autoriser la collecte de signatures en lignes. Cette motion a été rejeté par le conseil national deux mois plus tard en mai 2018.
 Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
+(Veuillez re-cliquez sur le lien si le message )
