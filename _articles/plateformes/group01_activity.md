@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: plateformes
-title: Group 01 activity
+title: Uber et taxis
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Uber', 'AirBnB', 'Taxi', 'LTVTC']
+tags: ['Uber', 'Taxi', 'LTVTC']
 ---
 
 ### Situation actuelle
