@@ -28,10 +28,10 @@ Même si l'État de Genève aimerait pouvoir résoudre 100% des cas, il est trè
 La LIPAD date de 2003 et est basée sur la Loi fédérale sur la Protection des Données (LPD) qui date de 1992. La LIPAD n'a rien à voir avec la RGPD, mais la LPD est en cours de révision et la IPAD sera mise à jour. La RGPD ne s'applique pas en Suisse, mais la LPD reprend certains points.
 
 ### Gestion des outils
-## En interne
+#### En interne
 L'État envoie des newsletter régulières et fait des campagnes de sensibilisation. Ces outils sont limités aux collaborateurs de l'État. Le DIP, par exemple, peut lancer des campagnes internes pour sensibiliser les élèves des écoles du canton.
 
-## En externe
+#### En externe
 Le Département du Développement Economique (DDE) a mis en place une forme d'aide à la cyber-sécurité pour les PME avec un site dédié. Il est destiné aux PME et créé en collaboration avec la Fédération des Entreprises Romandes (FER). [Voir activité "Formation en ligne"] 
 
 Pour les citoyens, il n’y a rien de spécifique. Mais il se peut que la sensibilisation soit étendue dans le futur. C'est compliqué car les citoyens font ce qu’ils veulent et qu'il n'y a pas de suivi ni de système pour répondre aux questions. L'État de Genève n'a pas les ressources pour gérer un tel système. 
