@@ -53,7 +53,7 @@ La quatrième et dernière mesure du plan d’action concerne «Informer sur le 
 
 *Bibliographie
 1. Plan d'actions et de prévention des situations de harcèlement à l'école disponible à https://www.ge.ch/document/plan-actions-prevention-situations-harcelement-ecole/telecharger
-2. Page Prévenir et lutter contre le (cyber)harcèlement, site internet du DIP, disponible à https://www.ge.ch/organisation/departement-instruction-publique-formation-jeunesse-dip/prevenir-lutter-contre-cyberharcelement
+2. Page Prévenir et lutter contre le (cyber)harcèlement, site internet du DIP, disponible à https://www.ge.ch/organisation/departement-instruction-publique-formation-jeunesse-dip/prevenir-lutter-contre-cyberharcelement*
 
 ### Questions
 
