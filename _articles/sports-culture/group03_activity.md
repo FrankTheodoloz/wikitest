@@ -16,11 +16,13 @@ tags: ['tag c', 'tag d', 'tag e']
 
 ### Situation actuelle
 
-
-### Besoins à remplir
+### Objectifs annoncés
 
 
 ### Règles de gouvernance
+
+
+### Besoins à remplir
 
 
 ### Résultats ou Utilisation
