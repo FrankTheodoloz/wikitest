@@ -55,19 +55,20 @@ la disposition des informations sur le traffic en ville.
 
 ### Responsables
 
-Jenoe Shulepov (Head of Communication)
-Thierry Wagenknecht (Technique)
+* David Evequoz (Responsable marketing digital)
+* Jenoe Shulepov (Head of Communication)
+* Thierry Wagenknecht (Technique)
 
 ### Autres acteurs
 
-Guillaume Meyer (Systèmes d’information et télécommunications)
-Denis Berdoz (Directeur général)
+* Guillaume Meyer (Systèmes d’information et télécommunications)
+* Denis Berdoz (Directeur général)
 
 ### Recommandations
 
-Accès à la position des véhicules de transports publics
-Digitaliser les abonnements
-Donner le possibilité aux clients de collaborer dans le projet
-Utiliser les capteurs installés sur les tranports afin de détecter le nombre de
-passagers dans les véhicules
-Partager ce nombre de passagers avec les clients sur l'application
+* Accès à la position des véhicules de transports publics
+* Digitaliser les abonnements
+* Donner le possibilité aux clients de collaborer dans le projet
+* Utiliser les capteurs installés sur les tranports afin de détecter le nombre de
+* passagers dans les véhicules
+* Partager ce nombre de passagers avec les clients sur l'application
