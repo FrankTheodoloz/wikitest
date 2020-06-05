@@ -29,7 +29,7 @@ Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long
 - Long terme
     * Améliorer la qualité des cours d'eau
     * Réduire l'exposition des zones à batir aux risques d'inondations
-    * Garantir l'approvisionnement en eau potable sur le périmèetre du Grand Genève
+    * Garantir l'approvisionnement en eau potable sur le périmètre du Grand Genève
     * Transport et traitement des eaux usées (contrôle et assainissement du réseau d'évacuation)
     
 
