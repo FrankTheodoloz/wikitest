@@ -10,6 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+- tags: [information, substantiel, environnement, communication, stick'air]
 ---
 
 ### Situation actuelle
