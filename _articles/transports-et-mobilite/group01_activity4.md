@@ -20,9 +20,10 @@ fournis dans le document qui est disponible sur le site des TPG.
 
 ### Objectifs annoncés
 
-Favoriser la transparence et la participation
-Accroître l'efficacité des services proposés
-Encourager l'innovation
+* Favoriser la transparence et la participation
+* Accroître l'efficacité des services proposés
+* Encourager l'innovation
+
 
 ### Besoins à remplir
 
