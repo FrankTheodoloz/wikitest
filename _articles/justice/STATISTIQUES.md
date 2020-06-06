@@ -75,6 +75,5 @@ les citoyens ne peuvent donc faire que des recherches et des affichages d'inform
 * Faire un onglet pour partager les expériences des citoyens.
 * Faire un onglet favori.
 * Revoir la présentation des graphes parce que c'est très condensé.
-* Faie une application mobille pour facilter la recherche et l'affichage et même faire une application par thème.
-* Mettre un plateforme complet
-* Utilsation de termes simple. Les termes juridiques ne sont pas facile à comprendre.
+* Faie une application mobille pour facilter la recherche et l'affichage et faire une application par thème.
+* Utilsation de termes simple.Il n'est pas aisé de comprendre les thermes juridiques.
