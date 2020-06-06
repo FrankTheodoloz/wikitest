@@ -48,7 +48,7 @@ La rubrique justice propose des informations concernant la Justice, la s√©curit√
 
 exemple de graphique :
 
-[grphiques:](https://www.ge.ch/statistique/domaines/apercu.asp?dom=19_02)
+[graphique :](https://www.ge.ch/statistique/domaines/apercu.asp?dom=19_02)
 [ et XLS et PDF:](https://www.ge.ch/statistique/graphiques/affichage.asp?filtreGraph=19_02&dom=1)
 
 ![Graphe](images/magidtrstJudiciareSelonLesSexe.PNG)
