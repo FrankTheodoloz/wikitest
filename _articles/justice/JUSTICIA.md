@@ -78,8 +78,7 @@ Services d'exécution
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une amélioration du système.
 
 ## Interview
-Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons pu transmettre nos question à Mme Waeber qui la cheffe du projet Justicia 4.0. Elle sait charger de transmettres nos questions à M. Bühler qui à vraiment pris le temps d'y répondre.
-
+Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons contacter Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler c/o chef de projet qui s’est chargé de nous répondre. L’aperçu de l’interview ci-dessous : 
 
 ##Annexe
 
