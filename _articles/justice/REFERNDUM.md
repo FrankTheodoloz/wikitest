@@ -1,7 +1,6 @@
 ---
 layout: activity
- key: justice
-
+key: justice
 title: Référendum cantonal
 toc:
 - "Situation actuelle"
