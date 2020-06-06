@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: justice
-title: STATISTIQUES CANTONALES
+title: STATISTIQUES CANTONALE
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
