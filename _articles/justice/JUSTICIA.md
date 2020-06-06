@@ -61,24 +61,20 @@ Balawijitha Waeber, cheffe de projet / responsable presse, info@justitia.swiss
 
 Marius Erni, chef de projet / responsable presse, info@justitia.swiss
 ### Autres acteurs
-•	Tribunaux
-•	les ministères publics
-•	les barreaux
-•	les autorités d’exécution à l’échelon cantonal et fédéral
+* Tribunaux
+* les ministères publics
+* les barreaux
+* les autorités d’exécution à l’échelon cantonal et fédéral
 
 Organisations impliqués :
 
-Tribunaux de la Confédération
+* Tribunaux de la Confédération
+* Ministère public de la Confédération
+* Office fédéral de la justice
+* Ordres judiciaires cantonaux
+* Parquets cantonau
+* Services d'exécution
 
-Ministère public de la Confédération
-
-Office fédéral de la justice
-
-Ordres judiciaires cantonaux
-
-Parquets cantonau
-
-Services d'exécution
 ### Recommandations
 
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une éventuelle amélioration du système.
