@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['INFORMATION c', 'PAS COMMENCE d', 'Justitia 4.0 e']
+tags: ['INFORMATION ', 'PAS COMMENCE ', 'Justitia 4.0 ']
 ---
 
 ### Situation actuelle
