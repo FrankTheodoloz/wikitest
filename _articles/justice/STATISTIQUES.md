@@ -15,21 +15,21 @@ tags: ['INFORMATION', ' LIMITE', 'COMPLET ']
 
 ### Situation actuelle
 
-La justice et ses 3 filières
+La justice et ses 3 filières.
 
 Composé du Ministère public et des tribunaux de première et seconde instance, le Pouvoir judiciaire regroupe l'ensemble des autorités judiciaires civiles, pénales et de droit public, chargées de rendre la justice à Genève.
 
 On distingue ainsi trois domaines principaux de la justice:
 
-la justice civile
-la justice pénale
-la justice de droit public (ou administrative)
+* la justice civile
+* la justice pénale
+* la justice de droit public (ou administrative)
 
-Apres des recherche on trouvé une platefrome qui fourni des statistiques  dans ce domain 
-cette platfrorme est nomé https://www.ge.ch/statistique (STATISTIQUES CANTONALES)
 
-cette plaformr propose 21 domaines déffeérents  genre population, santé etc et parmi ces domaines en trouve la justice
+Après quelques recherches, on a trouvé une platefrome qui fourni des statistiques dans ce domaine. 
+cette platfrorme est nommé :  https://www.ge.ch/statistique (STATISTIQUES CANTONALES)
 
+cette plaforme propose 21 domaines différents comme la population, santé etc. Et parmi ces domaines en trouve la justice.
 
 
 ### Besoins à remplir
@@ -40,25 +40,20 @@ cette plaformr propose 21 domaines déffeérents  genre population, santé etc e
 
 ### Règles de gouvernance
 
-Chacun peut télécharger les données directement sur le site internet.
+chaque utilisateur peut télécharger les données directement vie le site internet.
 
 ### Résultats ou Utilisation
 
-La rubrique justice propose des information concernant la JUSTICE, SÉCURITÉ ET CRIMINALITÉ sous forme de XLS ou PDF et même des graphiques quand peut les visualiser sur le site directemet
+La rubrique justice propose des informations concernant la Justice, la sécurité et la criminalité sous le format .xls ou .pdf ainsi que des graphiques qu'on peut visualiser directement sur le site internet.
 
-exemple des 
+exemple de graphique :
+
 [grphiques:](https://www.ge.ch/statistique/domaines/apercu.asp?dom=19_02)
 [ et XLS et PDF:](https://www.ge.ch/statistique/graphiques/affichage.asp?filtreGraph=19_02&dom=1)
 
 ![Graphe](images/magidtrstJudiciareSelonLesSexe.PNG)
 
 ![XLS](images/T_19_02_1_01.xls)
-
-
-
-
-
-
 
 ### Responsables
 
@@ -73,23 +68,15 @@ Le SED compte en outre deux experts métier : le responsable des études et des 
 Collaborateurs et collaboratrices de l'office
 L'office emploie environ 30 personnes, dont une partie à temps partiel. De plus, il accueille des analystes-programmeurs ainsi qu'un concepteur web départemental de l'OCSIN.
 
-Les citoyennes ne sont pas appliquer sur le site directement (donc on a pas  la notion wikinomie  dans ce domaine  )==> informationnelle 
-les citoyennes pouvent faire que des recherches et  des affichages de l'inforations 
+Les citoyens ne sont pas appliquer sur le site directement (donc on a pas  la notion wikinomie  dans ce domaine  ) ==> informationnelle.
+les citoyens pouvent faire que des recherches et  des affichages de l'inforations 
 
-PS : dans ce genre de  domaine  on trouve  pas la participation des personnes d'hors de domaine
-
-
-
+PS : dans ce genre de  domaine  on trouve pas la participation des personnes d'hors de domaine
 
 ### Recommandations
-Faire un onglet pour partager des expriences des citoyenne.
-
-Faire un onglet favori.
-
-Revoir la présentation des graphe parce que c'est tres condensé
-
-Faie une application mobille pour faciltéla racherche et l'affichage et même faire une application par théme.
-
-Mettre un plateforme complet
-
-Usage des termes plus simple a comprendre (termes juridiques ne sont pas facile a compredrendre )
+* Faire un onglet pour partager les expériences des citoyens.
+* Faire un onglet favori.
+* Revoir la présentation des graphes parce que c'est très condensé.
+* Faie une application mobille pour facilter la recherche et l'affichage et même faire une application par thème.
+* Mettre un plateforme complet
+* Utilsation de termes simple. Les termes juridiques ne sont pas facile à comprendre.
