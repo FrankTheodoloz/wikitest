@@ -19,10 +19,10 @@ Projet en phase d'inception
 Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au numérique dans les domaines du droit pénal, civil et administratif. D’ici 2026, toutes les parties d’une procédure judiciaire pourront communiquer par voie électronique via un portail central hautement sécurisé avec quelque 300 tribunaux, les ministères publics, les barreaux et les autorités d’exécution à l’échelon cantonal et fédéral. Cette transformation entraîne le remplacement des dossiers physiques actuels par des dossiers électroniques et l’optimisation de l’environnement de travail de la justice ainsi que de l’infrastructure. Simultanément, une base légale est élaborée pour introduire une obligation (comprenant des exceptions) de communiquer par voie électronique entre les parties impliquées dans une procédure. Ce travail se déroule sous l’égide de l’Office fédéral de la justic
 ### Besoins à remplir
 
-L'accès au droit sans avoir à déplacer des montagnes de papier
-Avoir un portail unique de la justice
-Pouvoir remplacer l'intégrlalité des dossier papier par les dossiers électronique
-Supprimer l'acheminement postal par l'échange électronique de données et de se faite pouvoir avoir accès en ligne au dossier
+1. Avoir un portail unique de la justice
+2. Pouvoir remplacer l'intégrlalité des dossier papier par les dossiers électronique
+3. Supprimer l'acheminement postal par l'échange électronique de données et de se faite pouvoir avoir accès en ligne au dossier
+
 
 ### Règles de gouvernance
 
