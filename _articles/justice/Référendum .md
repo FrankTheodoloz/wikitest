@@ -15,11 +15,10 @@ tags: ['COMPLET c', 'PARTICIPATION d', 'Référendum cantonal e']
 
 ### Situation actuelle
 
-Il existe actuellement deux site pour s'informer sur les différents référendum à Genève. 
+Il existe actuellement un site principal pour s'informer sur les différents référendums à Genève. 
 
-Les informations sont disponibles sur les site suivants : 
+Les informations sont disponibles sur le site suivant : 
 
-https://www.ge.ch/initiatives-referendums-petitions
 https://www.ge.ch/legislation/
 
 
