@@ -29,8 +29,7 @@ Consensus de décideurs politiques et de dirigeants opérationnels qui se réuni
 
 ### Résultats ou Utilisation
 
-MELANI fait partie du réseau à qui le Centre for Cybersecurity partage des recommendations et l'Etat de Genève est affilié à MELANI.
-
+MELANI fait partie du réseau auquel le Centre for Cybersecurity partage des recommendations. L'Etat de Genève applique ce qui est indiqué par MELANI.
 
 ### Responsables
 
@@ -38,8 +37,8 @@ Le WEF
 
 ### Autres acteurs
 
-La confédération, MELANI
+La confédération Suisse, MELANI
 
 ### Recommandations
 
-Appliquer les recommendation du Centre for Cybersecurity.
+Continuer d'appliquer les recommendation du Centre for Cybersecurity, via MELANI, et les partager avec les citoyens.
