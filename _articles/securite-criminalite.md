@@ -41,3 +41,10 @@ La question qui se pose est "est-ce vraiment à l'État de gérer la sensibilisa
 
 ### Autres outils en Suisse
 La confédération a mis en place MELANI pour la sécurité de l’information. C'est l’équivalent de l'activité "[Formulaire pour signaler un événement](https://2020.wikipolitics.ch/securite-criminalite/group01_activity/)", au niveau national. MELANI est un portail pour tout ce qui concerne la cybersécurité en Suisse. La confédération donne un cadre et les cantons doivent s'aligner.
+
+### Bibliographie
+ÉTAT DE GENÈVE, 2017. Signaler un cyber-incident à la police. *GE.CH – République et canton de Genève* [en ligne]. 12 juin 2017. Dernière modification le 8 mars 2018 [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.ge.ch/criminalite-internet/signaler-cyber-incident-police](https://www.ge.ch/criminalite-internet/signaler-cyber-incident-police). 
+CONFÉDÉRATION SUISSE, [sans date]. Nouvelle étape dans la mise en place du Centre de compétences pour la cybersécurité. *ADMIN.CH* [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-75046.html](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-75046.html). 
+WEF, [sans date]. Shaping the Future of Cybersecurity and Digital Trust. *World Economic Forum* [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.weforum.org/platforms/shaping-the-future-of-cybersecurity-and-digital-trust/](https://www.weforum.org/platforms/shaping-the-future-of-cybersecurity-and-digital-trust/). 
+WEF, 2020. How are the Forum and partners shaping the future of cybersecurity and digital trust? [enregistrement vidéo] *YouTube* [en ligne]. 24 février 2020 [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=411Cw0ykZ80&feature=emb_logo](https://www.youtube.com/watch?v=411Cw0ykZ80&feature=emb_logo). 
+
