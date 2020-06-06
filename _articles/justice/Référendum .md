@@ -15,27 +15,30 @@ tags: ['COMPLET c', 'PARTICIPATION d', 'Référendum cantonal e']
 
 ### Situation actuelle
 
+Il existe actuellement deux site pour s'informer sur les différents référendum à Genève. 
+
+Les informations sont disponibles sur les site suivants : 
+
+https://www.ge.ch/initiatives-referendums-petitions
+https://www.ge.ch/legislation/
+
+
 Procédure de dépôt d'un référendum cantonal :
 
 1. Le comité référendaire prépare une formule de récolte contenant les informations légales
-indiquées à l'art. 87 de la LEDP (voir modèle ci-joint)
-
+indiquées à l'art. 87 de la LEDP
 2. Le comité référendaire fait parvenir au service des votations et élections la formule de
 récolte des signatures pour vérification et approbation. Ce contrôle est effectué uniquement
 sur le respect des prescriptions de forme stipulées à l'article 87 LEDP.
-
 3. Les auteurs d'une demande de référendum doivent, avant de procéder à la quête des
 signatures informer par écrit le Conseil d'Etat de leur décision et désigner un mandataire
 chargé d'agir en leur nom et auquel les communications officielles seront adressées
 valablement.
-
 4. Conformément à l'article 68 de la constitution de la République et canton de Genève du 14
 octobre 2012, le délai pour le dépôt des signatures à l'appui du référendum est de 40 jours et
 commence à courir dès la publication de l'acte.
-
 5. Le mandataire ou son remplaçant peuvent procéder à un dépôt partiel durant la période de
 récolte, sur rendez-vous et selon les conditions fixées par l'art. 89 LEDP.
-
 6. Le dépôt final doit être effectué au plus tard à la fin du délai de récolte, en une seule fois, au
 service des votations et élections. 
 
@@ -53,13 +56,13 @@ Mettre à disposition les informations suivantes à la population ainsi qu’aux
 
 ### Règles de gouvernance
 
-Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/
+Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/. 
 
 ### Résultats ou Utilisation
 
-Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant au détail a toutes les échéances d’une procédure de référendum.
-
+Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant au détail a toutes les échéances d’une procédure de référendum. Nous ne conaissons pas le nombre exacte d'utilisateur.
 Le site est mis a jour régulièrement si l’on constate les dernières date insérer sur le site.
+
 
 ### Responsables
 
