@@ -34,9 +34,13 @@ cette plaformr propose 21 domaines déffeérents  genre population, santé etc e
 
 ### Besoins à remplir
 
+* Informer la population.
+* Mettre a disposition des données utilisable et disponible à tous.
+
 
 ### Règles de gouvernance
 
+Chacun peut télécharger les données directement sur le site internet.
 
 ### Résultats ou Utilisation
 
