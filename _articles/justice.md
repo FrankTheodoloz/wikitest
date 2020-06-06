@@ -12,7 +12,7 @@ La justice suisse n’a certes pas attendu la pandémie pour amorcer sa numéris
 
 Dans une institution qui travaille actuellement toujours avec des dossiers papier, et qui n’est saisie de recours électroniques, via une plateforme dédiée, que dans un peu moins de 50 cas sur 8000 par an, la tâche est d’envergure.
 
-Au niveau de la wikinomie dans la justicie suisse, il y encore beaucoup à faire tant au niveau cantonal que fédéral. Le projet Justicia 4.0 apportera surement une avancée certaine mais la culture collaborative qu'apporte la wikinomie est clairement pas un objectif dans ce nouveau système.
+Au niveau de la wikinomie dans la justicie suisse, il y encore beaucoup à faire tant au niveau cantonal que fédéral. Le projet Justicia 4.0 apportera surement une avancée certaine mais la culture collaborative qu'apporte la wikinomie n'est clairement pas implementé dans ce nouveau système.
 
 ### Bibliographie
 
