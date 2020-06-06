@@ -54,6 +54,6 @@ WEF, [sans date]. Shaping the Future of Cybersecurity and Digital Trust. *World 
 WEF, 2020. How are the Forum and partners shaping the future of cybersecurity and digital trust? [enregistrement vidéo] *YouTube* [en ligne]. 24 février 2020 [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=411Cw0ykZ80&feature=emb_logo](https://www.youtube.com/watch?v=411Cw0ykZ80&feature=emb_logo). 
 
 
-Formation en ligne gratuite pour mieux protéger ses données | *GE.CH* – République et canton de Genève, [no date]. [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.ge.ch/dossier/cybersecurite-passons-action/formation-ligne-gratuite-mieux-proteger-ses-donnees](https://www.ge.ch/dossier/cybersecurite-passons-action/formation-ligne-gratuite-mieux-proteger-ses-donnees)
+ÉTAT DE GENÈVE, [sans date]. Formation en ligne gratuite pour mieux protéger ses données | *GE.CH* – République et canton de Genève, [no date]. [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.ge.ch/dossier/cybersecurite-passons-action/formation-ligne-gratuite-mieux-proteger-ses-donnees](https://www.ge.ch/dossier/cybersecurite-passons-action/formation-ligne-gratuite-mieux-proteger-ses-donnees)
 
 
