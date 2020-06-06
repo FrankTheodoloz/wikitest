@@ -27,9 +27,9 @@ Au travers d'un numéro spécial, il est possible d'accéder à 9 options fourni
 
 Une brochure nommée [MIXLINFO](https://www.geneve.ch/sites/default/files/2020-02/mixlinfo-brochure-fakenews-promotion-citoyenne-ville-geneve_0.PDF), destinée à la prévention des pièges médiatiques, a été mise à disposition des citoyens. On peut y trouver un description de 4 journaux de la région, des explications sur l'importance de comparer les sources d'une information ainsi que des schémas et statistiques sur la consommation d'informations.
 
-Pour prévenir la jeunesse suisse, la Confédération a mis en ligne [un portail d'information](https://www.jeunesetmedias.ch/fr.html) consacré à la promotion des compétences médiatiques. Des thématiques comme le cyberharcèlement, les "fake news" et la sexualité sur le web y sont traitées afin de donner des conseils aux jeunes ainsi qu'aux parents.
+Pour sensibiliser la jeunesse suisse, la Confédération a mis en ligne [un portail d'information](https://www.jeunesetmedias.ch/fr.html) consacré à la promotion des compétences médiatiques. Des thématiques comme le cyberharcèlement, les "fake news" et la sexualité sur le web y sont traitées afin de donner des conseils aux jeunes ainsi qu'aux parents.
 
-Dans ce contexte, des limites sont posées aux journalistes afin d'encadrer ce travail de recherche d'informations. En effet, un [fichier PDF](https://www.ge.ch/ppdt/fiches-info/doc/limites-journalistes.pdf) listant des articles de lois à ce sujet a été publié par le Canton de Genève.
+D'autre part, des limites sont posées aux journalistes afin d'encadrer ce travail de recherche d'informations. En effet, un [fichier PDF](https://www.ge.ch/ppdt/fiches-info/doc/limites-journalistes.pdf) listant des articles de lois à ce sujet a été publié par le Canton de Genève.
 La Confédération a également mis à disposition un [article](https://www.ubi.admin.ch/inhalte/pdf/Dokumentation/Artikel/Artikel_FR/UBI_Jubilaeumsbroschuere_FR.pdf) concernant la liberté des médias et la protection du public.
 
-Nous étudierons donc dans ce rapport, certaines activités en lien avec la gouvernance numérique entreprise par l'Etat, à l'égard des médias.
+Nous étudierons donc dans ce rapport, certaines activités en lien avec la gouvernance numérique entreprises par l'Etat, à l'égard des médias.
