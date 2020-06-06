@@ -40,7 +40,7 @@ cette plaforme propose 21 domaines différents comme la population, santé etc. 
 
 ### Règles de gouvernance
 
-chaque utilisateur peut télécharger les données directement vie le site internet.
+Chaque utilisateur peut télécharger les données directement vie le site internet.
 
 ### Résultats ou Utilisation
 
