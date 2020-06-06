@@ -47,6 +47,7 @@ La platform Justicia.swiss ne stockera pas durablement les documents en relation
 ### Résultats ou Utilisation
 Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations, 
 La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026.
+
 !['plan'](images/MasterplanFR-1024x590.png )
 
 Le plan directeur donne un aperçu de la structure substantielle et temporelle de la procédure et met en évidence les principales dépendances. Il constitue également la base pour planifier et traiter de manière plus approfondie les différents sous-projets.
