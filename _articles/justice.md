@@ -15,4 +15,5 @@ Dans une institution qui travaille actuellement toujours avec des dossiers papie
 
 Au niveau de la wikinomie dans la Justicie Suisse, il y encore beaucoup à faire tant au niveau cantonal que fédéral. Le projet Justicia 4.0 appartera surement une avancé certaine mais la culture collaborative qu'apporte la wikinomie est clairement pas un objectif dans ce nouveau système.
 
+### Bibliographie
 
