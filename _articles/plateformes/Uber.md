@@ -31,7 +31,7 @@ Le canton de Genève veut que la plateforme se soumette aux règles de jeu en re
 
 ### Règles de gouvernance
 
-- Loi sur les taxis et voitures de transport avec chauffeur
+- Loi sur les taxis et voitures de transport avec chauffeur (https://www.ge.ch/legislation/rsg/f/s/rsg_H1_31.html)
 
 ### Résultats ou Utilisation
 
