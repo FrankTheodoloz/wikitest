@@ -9,10 +9,10 @@ toc:
 
 ### Contexte
 
+La Suisse est clairement en retard sur la numérisatin de sa justice surout si l'on se compare avec de nos pays voison comme l'Atriche ou bien l'Allemagne qui sont vraissemblament beaucoup plus avancé sur ce sujet que nous. 
+
 Dans une institution qui travaille actuellement toujours avec des dossiers papier, et qui n’est saisie de recours électroniques, via une plateforme dédiée, que dans un peu moins de 50 cas sur 8000 par an, la tâche est d’envergure.
 
-Les avantages de la justice numérique sont notamment un accès facilité en tout temps et en tout lieu aux pièces d’un dossier,
-une garantie plus grande de retrouver les passages ou les pièces topiques dans les dossiers volumineux ou complexes, un raccourcissement du délai de traitement des affaires par une mise à
-disposition simultanée du dossier ou de pièces du dossier dans le cadre de l’instruction de l’affaire
-(échange d’écritures).
+Au niveau de la wikinomie dans la Justicie Suisse, il y encore beaucoup à faire tant au niveau cantonal que fédéral. Le projet Justicia 4.0 appartera surement une avancé certaine mais la culture collaborative qu'apporte la wikinomie est clairement pas un objectif dans ce nouveau système.
+
 
