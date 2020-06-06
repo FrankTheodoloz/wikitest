@@ -26,7 +26,7 @@ Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au num�
 
 ### Règles de gouvernance
 
-* **Règle de gouvernance du projet : **
+* **Règle de gouvernance du projet:**
 
 Il existe une organisation de projet à trois niveaux :
 1. comité de pilotage (8 membres): décisions stratégiques (finances, grandes orientations du projet, etc.)
@@ -38,7 +38,7 @@ Un management selon la méthode scrum à été adopter permettant de tenir compt
 Le processus législatif en cours constitue une dépendance externe importante. 
 La législation prévue décrètera l’obligation d’utiliser le dossier judiciaire électronique et la tenue des dossiers judiciaires sous forme numérique, avec certaines exceptions.
 
-* **Regle de gouvernance du système : **
+* **Regle de gouvernance du système:**
 
 Les utilisateurs devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'importe ou dans le monde.
 
