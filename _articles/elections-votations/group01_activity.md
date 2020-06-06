@@ -55,6 +55,12 @@ Parmi les citoyens genevois cependant, le taux d’utilisation était plus faibl
 
 État de genève
 
+M. Daniel Kupper - Chef de service SCLI
+
+Prof. Dr. Rolf Haenni - Responsable adjoint de la reprise du projet CHVote
+
+M. Oliver Leclère - Chef de service adjoint Chancellerie d'État - Service Votations et élections
+
 ### Autres acteurs
 
 Actuellement la Haute école spécialisée de Berne
