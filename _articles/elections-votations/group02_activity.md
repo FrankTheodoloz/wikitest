@@ -62,7 +62,6 @@ Glaris
 Saint-Gall
 
 * Utilisation depuis 2020
-
 * Collaboration depuis 2019
 
 
