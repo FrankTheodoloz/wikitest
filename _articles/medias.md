@@ -32,4 +32,4 @@ Pour prévenir la jeunesse suisse, la Confédération a mis en ligne [un portail
 Dans ce contexte, des limites sont posées aux journalistes afin d'encadrer ce travail de recherche d'informations. En effet, un [fichier PDF](https://www.ge.ch/ppdt/fiches-info/doc/limites-journalistes.pdf) listant des articles de lois à ce sujet a été publié par le Canton de Genève.
 La Confédération a également mis à disposition un [article](https://www.ubi.admin.ch/inhalte/pdf/Dokumentation/Artikel/Artikel_FR/UBI_Jubilaeumsbroschuere_FR.pdf) concernant la liberté des médias et la protection du public.
 
-Nous étudierons donc dans ce rapport, certaines activités en lien avec la gouvernance numérique, entreprise par l'Etat à l'égard des médias.
+Nous étudierons donc dans ce rapport, certaines activités en lien avec la gouvernance numérique entreprise par l'Etat, à l'égard des médias.
