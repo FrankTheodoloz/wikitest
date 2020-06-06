@@ -75,8 +75,10 @@ Parquets cantonau
 Services d'exécution
 ### Recommandations
 
+Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une amélioration du système.
 
 ## Interview
+Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons pu transmettre nos question à Mme Waeber qui la cheffe du projet Justicia 4.0. Elle sait charger de transmettres nos questions à M. Bühler qui à vraiment pris le temps d'y répondre.
 
 
 ##Annexe
