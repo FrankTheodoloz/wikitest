@@ -16,6 +16,7 @@ toc:
 - "Réponses du professeur Haenni"
 - "Questions posées lors de l’interview avec M. Kupper"
 - "Réponses de M. Kupper"
+- "Bibliographie"
 tags: ['votations', 'numérique', 'élections', 'vote électronique']
 ---
 
@@ -116,6 +117,10 @@ En relation l’arrêt du projet, M. Kupper relève que le projet n’était pas
 Concernant une application/plateforme permettant aux citoyens de voter des idées/initiatives, celui est sceptique. Il ne pense pas que ce soit la solution ultime.
 
 Enfin, dans le cas d’un possible retour de CHVote, celui-ci nous indique que rien n’est prévu à l’heure actuelle. Son département attend que le cadre légal s'éclaircisse en Suisse afin de considérer la reprise du projet
+
+### Bibliographie
+
+ANON., 2018. Le canton de Genève renonce à sa plate-forme de vote électronique. In : rts.ch [en ligne]. 28 novembre 2018. [Consulté le 6 juin 2020]. Disponible à l’adresse : https://www.rts.ch/info/regions/geneve/10028542-le-canton-de-geneve-renonce-a-sa-plate-forme-de-vote-electronique.html.
 
 
 
