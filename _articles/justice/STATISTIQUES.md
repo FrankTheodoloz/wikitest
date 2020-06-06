@@ -61,17 +61,15 @@ Responsable du domaine : Mie Inoue
 
 ### Autres acteurs
 
-La direction de l'office se compose de cinq personnes : un directeur, un responsable du système d'information statistique cantonal et deux chefs de service, en charge respectivement du Service production et ressources (SPR) et du Service études et diffusion (SED).
+La direction de l'office se compose de cinq personnes : un directeur, un responsable du système d'information statistique cantonal et deux chefs de service, en charge respectivement du service production et ressources (SPR) et du service études et diffusion (SED).
 
 Le SED compte en outre deux experts métier : le responsable des études et des méthodes et le responsable des produits de diffusion.
 
 Collaborateurs et collaboratrices de l'office
 L'office emploie environ 30 personnes, dont une partie à temps partiel. De plus, il accueille des analystes-programmeurs ainsi qu'un concepteur web départemental de l'OCSIN.
 
-Les citoyens ne sont pas appliquer sur le site directement (donc on a pas  la notion wikinomie  dans ce domaine  ) ==> informationnelle.
-les citoyens pouvent faire que des recherches et  des affichages de l'inforations 
-
-PS : dans ce genre de  domaine  on trouve pas la participation des personnes d'hors de domaine
+Les citoyens ne peuvent pas apporter une contribution au site internet donc la notion de wikinomie y est absente ==> titre informationnelle.
+les citoyens ne peuvent donc faire que des recherches et des affichages d'informations
 
 ### Recommandations
 * Faire un onglet pour partager les expériences des citoyens.
