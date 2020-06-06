@@ -75,7 +75,7 @@ Parquets cantonau
 Services d'exécution
 ### Recommandations
 
-Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une amélioration du système.
+Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une éventuelle amélioration du système.
 
 ## Interview
 Dans l'objectif de clarifier certaines intérogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
