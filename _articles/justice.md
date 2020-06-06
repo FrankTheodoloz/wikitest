@@ -25,7 +25,7 @@ Au niveau de la wikinomie dans la Justicie Suisse, il y encore beaucoup à faire
 
 **Référendum cantonales**
 
-* ge.ch/legislation/
+* http://www.ge.ch/legislation/
 * https://www.ge.ch/initiatives-referendums-petitions/referendum-facultatif-cantonal
 
 **Satistiques cantonales**
