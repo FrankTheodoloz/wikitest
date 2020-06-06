@@ -39,7 +39,7 @@ Selon un article publié par Le Temps vendredi 1 novembre 2019, la plateforme di
 
 ### Responsables
 
-- Mauro Poggia
+- Le GRAND CONSEIL de la République et canton de Genève
 - Jean-Pascal Aribot, directeur d'Uber Suisse
 - Me Rayan Houdrouge, avocat de Uber Suisse
 
