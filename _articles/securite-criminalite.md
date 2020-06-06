@@ -25,7 +25,7 @@ Même si l'État de Genève aimerait pouvoir résoudre 100% des cas, il est trè
 À l'interne, les collaborateurs de l'État de Genève doivent suivre un quiz. Chaque département choisit les modules que les collaborateurs doivent obligatoirement réussir, parmi une liste de 10 modules concernant la cyber-sécurité. 
 
 ### LIPAD
-La LIPAD date de 2003 et est basée sur la Loi fédérale sur la Protection des Données (LPD) qui date de 1992. La LIPAD n'a rien à voir avec la RGPD, mais la LPD est en cours de révision et la IPAD sera mise à jour. La RGPD ne s'applique pas en Suisse, mais la LPD reprend certains points.
+La LIPAD date de 2003 et est basée sur la Loi fédérale sur la Protection des Données (LPD) qui date de 1992. La LIPAD n'a rien à voir avec la RGPD, mais la LPD est en cours de révision et la LIPAD sera mise à jour. La RGPD ne s'applique pas en Suisse, mais la LPD reprend certains points.
 
 ### Gestion des outils
 #### En interne
