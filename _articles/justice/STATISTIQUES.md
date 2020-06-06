@@ -27,7 +27,7 @@ On distingue ainsi trois domaines principaux de la justice:
 
 
 Après quelques recherches, on a trouvé une platefrome qui fourni des statistiques dans ce domaine. 
-cette platfrorme est nommé :  https://www.ge.ch/statistique (STATISTIQUES CANTONALES)
+cette platforme est nommé :  https://www.ge.ch/statistique (STATISTIQUES CANTONALES)
 
 cette plaforme propose 21 domaines différents comme la population, santé etc. Et parmi ces domaines en trouve la justice.
 
