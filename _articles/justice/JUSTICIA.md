@@ -36,6 +36,8 @@ Un management selon la méthode scrum à été adopter permettant de tenir compt
 Le processus législatif en cours constitue une dépendance externe importante. 
 La législation prévue décrètera l’obligation d’utiliser le dossier judiciaire électronique et la tenue des dossiers judiciaires sous forme numérique, avec certaines exceptions.
 
+Les utilisateur devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'impote ou dans le monde.
+
 ### Résultats ou Utilisation
 Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations, 
 La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026.
@@ -51,8 +53,6 @@ Le plan directeur donne un aperçu de la structure substantielle et temporelle d
 Les expériences tirées des «bacs à sable» seront intégrées à l’adjudication.
 
 * La mise en œuvre et le déploiement à l’échelle nationale sont prévus en plusieurs étapes de 2022 à 2026.
-
-
 
 ### Responsables
 Monsieur Patrick Becker, Generalsekretär Justizleitung GE
