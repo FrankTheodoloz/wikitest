@@ -6,10 +6,11 @@ toc:
 - "Situation actuelle"
 - "Besoins à remplir"
 - "Règles de gouvernance"
+- "Interview"
 - "Résultats ou Utilisation"
 - "Responsables"
 - "Recommandations"
-tags: ['organisations internationales', 'journalisme']
+tags: ['organisations internationales', 'journalisme', 'plateforme numérique']
 ---
 
 ### Situation actuelle
@@ -29,6 +30,13 @@ Informer la population du travail effectué par les organisations internationale
 ### Règles de gouvernance
 
 Les articles sont publiés par des journalistes choisis par Geneva Solutions/Heidi.news. Des experts et personnalités sont égalements invités à rédiger des articles d'opinion.
+
+
+### Interview
+
+
+
+
 
 ### Résultats ou Utilisation
 
