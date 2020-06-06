@@ -8,7 +8,7 @@ toc:
 ---
 
 ### Contexte
-La justice suisse n’a certes pas attendu la pandémie pour amorcer sa numérisation, mais celle-ci devient maintenant – la situation actuelle en est un exemple – urgente. Le passage au numérique du système judiciaire suisse  devient aujourd’hui une nécessité car la Suisse est clairement en retard sur la numérisatin de sa justice surout si l'on se compare avec de nos pays voison comme l'Atriche ou bien l'Allemagne qui sont vraissemblament beaucoup plus avancé sur ce sujet que nous. 
+La justice suisse n’a certes pas attendu la pandémie pour amorcer sa numérisation, mais celle-ci devient maintenant – la situation actuelle en est un exemple – urgente. Le passage au numérique du système judiciaire suisse  devient aujourd’hui une nécessité car la Suisse est clairement en retard sur la numérisatin de sa justice surout si l'on se compare avec de nos pays voison comme l'Atriche ou bien l'Allemagne qui sont vraissemblablement beaucoup plus avancé sur ce sujet que nous. 
 
 Dans une institution qui travaille actuellement toujours avec des dossiers papier, et qui n’est saisie de recours électroniques, via une plateforme dédiée, que dans un peu moins de 50 cas sur 8000 par an, la tâche est d’envergure.
 
