@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['INFORMATION', ' LIMITE', 'COMPLET ']
+tags: ['INFORMATION', 'LIMITE', 'COMPLET ']
 ---
 
 ### Situation actuelle
