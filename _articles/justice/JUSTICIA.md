@@ -78,7 +78,7 @@ Services d'exécution
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une amélioration du système.
 
 ## Interview
-Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons contacter Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler c/o chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview en suivant le liens :
+Dans l'objectif de clarifier certaines intérogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
 [Interview du 8 mai 2020](/_documents/HES_Questions_Justitia4_0_reponses_JBU.pdf)
 
 ##Annexe
