@@ -48,7 +48,7 @@ Tiré du document : https://www.ge.ch/document/procedure-depot-referendum-canton
 Mettre à disposition les informations suivantes à la population ainsi qu’aux différents parties politiques Genevois
 
 * Référendum en cours
-* Vérification des signature
+* Vérification des signatures
 * Date de de votation à fixer
 * Votation à venir
 * Pouvoir consulter les archives des referendums totalement traité.
@@ -59,8 +59,8 @@ Les informations sont disponibles en lecture sur le site : https://www.ge.ch/leg
 
 ### Résultats ou Utilisation
 
-Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant au détail a toutes les échéances d’une procédure de référendum. Nous ne conaissons pas le nombre exacte d'utilisateur.
-Le site est mis a jour régulièrement si l’on constate les dernières date insérer sur le site.
+Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant en détail à toutes les échéances d’une procédure de référendum. Nous ne conaissons pas le nombre exacte d'utilisateur.
+Le site est mis a jour régulièrement si l’on constate les dernières dates insérées sur le site.
 
 
 ### Responsables
@@ -75,5 +75,5 @@ le Grand Conseil
 
 Nous recommandons de mettre en place un système de collecte de signature en ligne. En utilisant l’E-ID, qui va très surement être mis en place ces prochaines années, comme moyen d’identification.
 
-A titre d’information : Monsieur GRÜTER FRANZ du Groupe de l’Union démocratique du Centre avait déposé en mars 2018 une motion pour Autoriser la collecte de signatures en lignes. Cette motion a été rejeté par le conseil national deux mois plus tard en mai 2018.
+A titre d’information : Monsieur GRÜTER FRANZ du Groupe de l’Union démocratique du Centre avait déposé en mars 2018 une motion pour autoriser la collecte de signatures en lignes. Cette motion a été rejeté par le conseil national deux mois plus tard en mai 2018.
 Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
