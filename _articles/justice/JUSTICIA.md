@@ -78,23 +78,7 @@ Services d'exécution
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une amélioration du système.
 
 ## Interview
-Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons contacter Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler c/o chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview ci-dessous : 
-
-1.	a) Globalement, dans quelles mesures ce nouveau système impactera la population dans l’administration de procédures judiciaires ? 
-b) Quels sont les principaux changements ? 
-c) Selon vous quels sont les bénéfices/contraintes pour la population ? 
-d) Est-ce que par exemple, ce nouveau système entrainera une diminution des frais de justice ? 
-e) Est-ce que les démarches administratives seront simplifiées pour la population ?
-
-a) Les principales personnes concernées par le projet Justitia 4.0 sont les représentants professionnels des parties (avocats, agents d'affaires, etc.). En Suisse il y a environ 12'000 avocats inscrits dans les barreaux cantonaux. Dans ce sens la population n'est pas directement concernée. Elle continuera d'avoir le choix de communiquer par voie électronique ou postale avec les autorités judiciaires.
-b) – Pour les représentants professionnels des parties il existera une obligation de communiquer par voie électronique avec les autorités judiciaires.
-- Les autorités judiciaires seront tenues de gérer leurs dossiers électroniques au format électronique et de communiquer électroniquement avec les représentants professionnels.
-- Les autorités administratives impliquées dans des procédures judiciaires doivent aussi communiquer par voie électronique avec les autorités judiciaires.
-- La consultation des dossiers devra aussi avoir lieu par la voie électronique pour les personnes et les autorités soumises à l'obligation de communiquer par voie électronique.
-- La communication électronique avec les autorités judiciaires devra impérativement avoir lieu via une plateforme de communication " Justitia.Swiss ".
-c) Pour la population il n'y aura aucune contrainte mais la possibilité sera offerte de communiquer par voie électronique avec les autorités judiciaires dans le cadre de procédure.
-d) Le tarif des frais de justice est de la compétence des autorités cantonales et non du projet Justitia 4.0.
-e) Oui dans la mesure où une personne pourra communiquer valablement par voie électronique avec les autorités judiciaires 24h s/ 24 et 7 jours s/7 depuis n'importe où dans le monde. Une seule contrainte cette personne aura dû s'identifier de façon valable au préalable sur la plateforme de communication " Justitia.Swiss ".
+Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons contacter Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler c/o chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview en suivant le liens :
 
 ##Annexe
 
