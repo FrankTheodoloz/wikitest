@@ -78,7 +78,7 @@ Services d'exécution
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une amélioration du système.
 
 ## Interview
-Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons contacter Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler c/o chef de projet qui s’est chargé de nous répondre. L’aperçu de l’interview ci-dessous : 
+Dans l'objectif de clarifier certaine intérogation que nous avions sur le projet, nous avons contacter Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler c/o chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview ci-dessous : 
 
 ##Annexe
 
