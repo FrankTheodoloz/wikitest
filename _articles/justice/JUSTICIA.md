@@ -38,6 +38,8 @@ La législation prévue décrètera l’obligation d’utiliser le dossier judic
 
 Les utilisateur devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'importe ou dans le monde.
 
+La platform Justicia.swiss ne stockera pas durablement les documents en relation avec une procédure judiciaire. Une fois que les autorités judiciaires les auront téléchargées et intégrées au dossier, le fichier sur la platforme ne sera pas conservé.
+
 ### Résultats ou Utilisation
 Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations, 
 La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026.
