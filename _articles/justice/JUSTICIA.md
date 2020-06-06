@@ -20,6 +20,10 @@ Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au num�
 ### Besoins à remplir
 
 L'accès au droit sans avoir à déplacer des montagnes de papier
+Avoir un portail unique de la justice
+Pouvoir remplacer l'intégrlalité des dossier papier par les dossiers électronique
+Supprimer l'acheminement postal par l'échange électronique de données et de se faite pouvoir avoir accès en ligne au dossier
+
 ### Règles de gouvernance
 
 Le processus législatif en cours constitue une dépendance externe importante. 
