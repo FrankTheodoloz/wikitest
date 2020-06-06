@@ -19,6 +19,8 @@ Tout le monde est une cible potentielle de cyber-attaque :
 
 En Europe, les Suisses sont parmi les plus touchés, notemment par des fraudes en ligne à la carte de crédit et des usages malveillant des données personnelles. Les Suisses ne prennent pas de mesures adéquates pour se protéger, ainsi un tiers de la population indique ne pas protéger son ordinateur, 82% déclare ne pas protéger son smartphone et seulement 54% de la population réalise des sauvegardes régulièrement.
 
+Présentation du sujet et des activités du 22 mai 2020 : [https://docs.google.com/presentation/d/11cVWxjNSE5oW9XUwTk56beDiQvqzOskN8kvhrOMIBlA/edit?usp=sharing](https://docs.google.com/presentation/d/11cVWxjNSE5oW9XUwTk56beDiQvqzOskN8kvhrOMIBlA/edit?usp=sharing)
+
 ### Objectifs de l'État de Genève
 Même si l'État de Genève aimerait pouvoir résoudre 100% des cas, il est très difficile d'atteindre cet objectif puisqu'une attaque réussie est invisible. Les objectif sont plutôt axés sur la formation des collaborateurs. 
 
