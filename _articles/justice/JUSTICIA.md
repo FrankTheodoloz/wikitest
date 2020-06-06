@@ -83,7 +83,12 @@ Services d'exécution
 
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une éventuelle amélioration du système.
 
-## Interview
+Nous avons cependant des idées de fonctionnalité qui selon nous serait intérressane à mettre en place. 
+
+* Que les citoyens dispose d'un espace de stockage pour ainsi consulter a tout moments leurs documents judiciaires.
+* Mettre en place un forum sur la platform Justicia.swiss qui permettrait au particulier des posers des questions et d'avoir des réponses rapidement et sans avoir beson de se rendre dans une permanence juridique.
+
+### Interview
 Dans l'objectif de clarifier certaines intérogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
 [Interview du 8 mai 2020](/_documents/HES_Questions_Justitia4_0_reponses_JBU.pdf)
 
