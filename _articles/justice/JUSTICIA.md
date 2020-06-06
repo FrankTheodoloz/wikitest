@@ -26,6 +26,8 @@ Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au num�
 
 ### Règles de gouvernance
 
+**Règle de gouvernance du projet**
+
 Il existe une organisation de projet à trois niveaux :
 1. comité de pilotage (8 membres): décisions stratégiques (finances, grandes orientations du projet, etc.)
 2. comité de projet (12 membres): décisions opérationnelles au niveau supérieur (préparation du budget et gestion financière avec la direction de projet, libération des phases de projet (jalons), approbation des concepts et cahiers des charges présentés par la direction de projet
@@ -36,7 +38,9 @@ Un management selon la méthode scrum à été adopter permettant de tenir compt
 Le processus législatif en cours constitue une dépendance externe importante. 
 La législation prévue décrètera l’obligation d’utiliser le dossier judiciaire électronique et la tenue des dossiers judiciaires sous forme numérique, avec certaines exceptions.
 
-Les utilisateur devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'importe ou dans le monde.
+**Regle de gouvernance du système**
+
+Les utilisateurs devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'importe ou dans le monde.
 
 La platform Justicia.swiss ne stockera pas durablement les documents en relation avec une procédure judiciaire. Une fois que les autorités judiciaires les auront téléchargées et intégrées au dossier, le fichier sur la platforme ne sera pas conservé.
 
