@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: plateformes
-title: Uber et taxis
+title: Airbnb et hôtels
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Uber', 'Taxi', 'LTVTC']
+tags: ['Airbnb', 'Hôtel', 'Hôtellerie']
 ---
 
 ### Situation actuelle
