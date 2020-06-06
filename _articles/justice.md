@@ -22,9 +22,12 @@ Au niveau de la wikinomie dans la Justicie Suisse, il y encore beaucoup à faire
 * https://www.justitia40.ch/fr/pourquoi-justitia-4-0/
 * https://blogs.letemps.ch/miriam-mazou/2020/05/12/le-tribunal-federal-et-la-justice-suisse-accelerent-leur-numerisation/
 * https://www.swissinfo.ch/fre/societe/justitia-4.0_la-suisse-au-devant-d-un-chantier-colossal--la-num%C3%A9risation-de-sa-justice/45593156
+
 **Référendum cantonales**
 
 * ge.ch/legislation/
 * https://www.ge.ch/initiatives-referendums-petitions/referendum-facultatif-cantonal
+
 **Satistiques cantonales**
-https://www.ge.ch/statistique/domaines/19/19_02/liens.asp#1
+
+* https://www.ge.ch/statistique/domaines/19/19_02/liens.asp#1
