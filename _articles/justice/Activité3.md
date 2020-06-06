@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['COMPLET c', 'PARTICIPATION d', 'Référendum cantonal e']
 ---
 
 ### Situation actuelle
