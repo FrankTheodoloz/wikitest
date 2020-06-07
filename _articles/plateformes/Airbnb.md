@@ -47,7 +47,7 @@ En 2020, 2222 logements sont listés sur le Canton de Genève.
 
 La plateforme pourrait eventuellement aller plus loin dans une optique de collaboration avec l'Etat et de lui ouvrir ses données récoltées sur les logements et leurs utilisation, par exemple. 
 
-### Sources
+### Bibliographie
 
 Communiqué de presse Airbnb : Chiffres d'exploitation en Suisse 2018 - https://press.airbnb.com/wp-content/uploads/sites/4/2018/11/Airbnb-Reisebericht-Schweiz-2018.pdf
 
