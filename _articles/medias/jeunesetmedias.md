@@ -17,7 +17,7 @@ tags: ['jeunesse', 'prévention', 'enseignement']
 
 Jeunes et médias est une plateforme de promotion des compétences médiatiques mise en place par l’Office fédéral des assurances sociales sur mandat du Conseil fédéral. 
 Un [site web](https://www.jeunesetmedias.ch/fr.html) est disponible sous le nom de domaine jeunesetmedias.ch. Des thèmes touchant particulièrement la jeunesse y sont traités. Comme par exemple le cyberharcèlement, les "fake news" et la sexualité sur Internet.
-La plupart conseils sont adressés directement aux jeunes, mais nous pouvons également en retrouver certains destinés aux parents. Chaque thème est particulièrement bien développé. En effet, ils sont alimentés par des statistiques, des descriptions de risques, vidéos et conseils pertinents.
+La plupart des conseils sont adressés directement aux jeunes, mais nous pouvons également en retrouver certains destinés aux parents. Chaque thème est particulièrement bien développé. En effet, ils sont alimentés par des statistiques, des descriptions de risques, vidéos et conseils appropriés.
 
 ### Besoins à remplir
 
