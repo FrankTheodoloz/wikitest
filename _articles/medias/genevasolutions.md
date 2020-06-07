@@ -35,7 +35,7 @@ Les articles sont publiés par des journalistes choisis par Geneva Solutions/Hei
 
 ### Interview
 
-Dans le cadre de cette recherche, nous avons eu la chance de pouvoir questionner par mail, des membres du projet Geneva News. Ci-dessous, vous trouverez la liste des questions que nous avons posées, ainsi que leurs réponses : 
+Dans le cadre de cette recherche, nous avons eu la chance de pouvoir questionner par mail, des membres du projet Geneva Solutions. Ci-dessous, vous trouverez la liste des questions que nous avons posées, ainsi que leurs réponses : 
 
  - Quel est le rôle de l’Etat et de la ville de Genève dans le projet Geneva Solutions ?
 
