@@ -15,7 +15,7 @@ Le sport genevois est un sujet très intéressant dans ce canton. Les cours de s
 
 Un grand merci à Monsieur Rasca, Directeur du Stade de Genève, pour nous avoir répondu à nos questions.
 
-stade.ch
+https://stade.ch
 
 ### Cours de la Ville de Genève
 
