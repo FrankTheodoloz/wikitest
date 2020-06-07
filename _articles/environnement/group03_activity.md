@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: environnement
-title: Etat de la faune et la flore
+title: Etat de la faune et de la flore
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
