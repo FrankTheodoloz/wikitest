@@ -66,7 +66,7 @@ Pour chaque article, une présentation de la personne l'ayant écrit est disponi
 
 ### Responsables
 
-L'équipe Geneva Solutions
+Mission permanente de la Suisse auprès de l'ONUG et l'équipe Geneva Solutions
 
 ### Autres acteurs
 
