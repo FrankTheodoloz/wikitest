@@ -127,7 +127,7 @@ La mise à disposition d’un forum sur le [site web](https://www.faunegeneve.ch
 #### Contenant
 Le site web est très esthétique et la navigation est  d’avoir une approche plus local. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
 #### Contenu
-Le contenu du site web est très vaste,mais il est bien structuré.
+Le contenu du site web est très vaste, mais la navigation reste facile car il est bien structuré.
 
 #### Plateforme participative avec la pupulation
 Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrait donc donner plus de possibilités d'intéragir avec la population, actuellement on ne peut que envoyer un [commentaire](https://www.patrimoine-vert-geneve.ch/) en bas de page.
@@ -151,9 +151,9 @@ Est-ce qu'un projet est prévu pour les prochaines années ?
 >Une nouvelle plateforme dédiée à l'offre de nature à Genève est en projet. Elle vise à offrir au grand public une information relative aux animations en lien avec la nature (en partenariat avec les acteurs associatifs et institutionnels concernés), aux milieux naturels et aux espèces emblématiques (faune et flore).
 
 *Bibliographie
-- Objectif 2030 et à long terme https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
 
-- Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
-
-- blablablablabla https://www.ge.ch/document/rapports-qualite-air-geneve-ropag *
+* Objectif environnement 2030 et à long terme https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
+* Site de l'association Faune Genève https://www.faunegeneve.ch/
+* Informations sur la flore  https://www.patrimoine-vert-geneve.ch/
+* Renseignement sur les projets urbains dans le thème de la nature https://www.1001sitesnatureenville.ch/
 
