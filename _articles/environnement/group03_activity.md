@@ -155,5 +155,5 @@ Est-ce qu'un projet est prévu pour les prochaines années ?
 * Objectif environnement 2030 et à long terme https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
 * Site de l'association Faune Genève https://www.faunegeneve.ch/
 * Informations sur la flore  https://www.patrimoine-vert-geneve.ch/
-* Renseignement sur les projets urbains dans le thème de la nature https://www.1001sitesnatureenville.ch/
+* Renseignements sur les divers projets urbains en lien avec la nature https://www.1001sitesnatureenville.ch/
 
