@@ -39,9 +39,9 @@ Par contre, l’indication de la source est obligatoire.
 
 ### Résultats ou Utilisation
 
-Actuellement 7487 jeux de données sont disponbile sur le portail, publiées 
-par 83 organisations, dispersée dans 24 catégories. De plus, 48 applications 
-utilisent des données référencées sur opendata.swiss (API).
+Actuellement environ 600 jeux de données sont disponbile sur le portail 
+concernant la mobilité et  les transports. De plus, 48 applications utilisent 
+des données référencées sur opendata.swiss (API).
 
 ### Analyse Wikinomie
 
