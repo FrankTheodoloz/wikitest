@@ -68,11 +68,13 @@ La navigation des applications web doivent être maintenu, nous avons constaté 
 
 
 *Bibliographie
-- Informations sur la qualité de l'eau à Genève https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve
 
-- Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
+* Informations sur la qualité de l'eau potable à Genève https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve
 
-- T https://www.ge.ch/document/rapports-qualite-air-geneve-ropag *
+* Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
 
+* Carte interactive sur la qualité de l'eau des plages https://www.ge.ch/dossier/acces-publics-au-lac-baignade-eaux-vives/qualite-eau-plages 
+
+* Veille Hydrologique du Canton de Genève https://vhg.ch/xt_vh/index.php
 
 
