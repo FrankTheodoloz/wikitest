@@ -65,3 +65,14 @@ Il faudrait fournir des informations plus détaillé et permettre également l'e
 Il serait intéressant de mieux communiquer entre la confédération et le canton, car nous avons remarqué que la confédération ne possède pas certaines informations détenu par le canton [qualité des eaux de baignades](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/info-specialistes/etat-des-eaux/etat-des-cours-deau/qualite-des-cours-deau/qualite-des-eaux-de-baignade.html).
 #### Tenir à jour le site web
 La navigation des applications web doivent être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolètes [cliquer sur l'onglet eau en haut](https://vhg.ch/xt_vh/index.php), il faudrait faciliter le signalement des données corrompues/manquantes.
+
+
+*Bibliographie
+- Informations sur la qualité de l'eau à Genève https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve
+
+- Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
+
+- T https://www.ge.ch/document/rapports-qualite-air-geneve-ropag *
+
+
+
