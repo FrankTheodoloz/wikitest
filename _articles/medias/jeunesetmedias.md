@@ -25,14 +25,14 @@ L'objectif de ce portail d'information est de sensibiliser les jeunes sur l'util
 
 ### Activités
 
-Jeunes et Médias s'occupe d'informer et sensibiliser en plus de soutenir les acteurs clé de ce domaine.
+Jeunes et médias s'occupe d'informer et sensibiliser en plus de soutenir les acteurs clé de ce domaine.
 
 ### Règles de gouvernance
 
 Il n'est pas possible de créer de compte ou de renseigner des informations personelles sur le site. Celui-ci est pour le moment, destiné à la diffusion d'informations visant à sensibiliser la jeunesse.
 
-L'OFAS souhaite maitenir un collaborations avec divers acteurs comme les services fédéraux, les cantons et les acteurs privés afin d’améliorer la diffusion des connaissances ainsi que les échanges d’expériences.
-Cette collaboration se concrétise par la mise sur pied d’un groupe stratégique et de groupes de travail thématiques ainsi que par l’organisation de réunions de réseaux pour les acteurs et de conférences nationales spécialisées.
+L'OFAS souhaite maitenir une collaboration avec divers acteurs comme les services fédéraux, les cantons et les acteurs privés afin d’améliorer la diffusion des connaissances ainsi que les échanges d’expériences.
+Pour concrétiser cette collaboration, la mise en place de groupes stratégiques et de travail thématiques, en addition à l’organisation de réunions de réseaux pour les acteurs et de conférences nationales spécialisées.
 
 ### Résultats ou Utilisation
 
