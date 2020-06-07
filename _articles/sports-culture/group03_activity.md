@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: sports-culture
-title: Group 01 activity
+title: l'Esport genevois
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
