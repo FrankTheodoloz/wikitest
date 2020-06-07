@@ -12,6 +12,7 @@ toc:
 - "Autres acteurs"
 - "Analyse Wikinomie"
 - "Recommandations"
+- "Bibliographie"
 tags: ['organisations internationales', 'journalisme', 'plateforme numérique']
 ---
 
@@ -83,3 +84,7 @@ Il serait certainement compliqué d'implémenter une telle fonctionnalité, car 
 
 L'ajout de commentaires, vérifiés et réservés aux spécialistes ou experts, peut être également pertinent. En effet, cette fonctionnalité permettrait d'alimenter le sujet de l'article et construire une réflexion entre spécialistes.
 Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expert du domaine ou interne à Geneva Solutions, ne pourra pas y participer. Cette dernière condition permettrait de garder une certaine "sûreté de l'information".
+
+### Bibliographie
+
+ - 
