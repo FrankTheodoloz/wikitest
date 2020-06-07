@@ -5,6 +5,7 @@ title: Jeunes et médias
 toc:
 - "Situation actuelle"
 - "Besoins à remplir"
+- "Activités"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
 - "Responsables"
@@ -21,6 +22,10 @@ La plupart conseils sont adressés directement aux jeunes, mais nous pouvons ég
 ### Besoins à remplir
 
 L'objectif de ce portail d'information est de sensibiliser les jeunes sur l'utilisation des médias numériques.
+
+### Activités
+
+Jeunes et Médias s'occupe d'informer et sensibiliser en plus de soutenir les acteurs clé de ce domaine.
 
 ### Règles de gouvernance
 
