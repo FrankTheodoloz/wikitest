@@ -9,6 +9,7 @@ toc:
 - "Résultats ou Utilisation"
 - "Responsables"
 - "Recommandations"
+- "Bibliographie"
 tags: ['pièges médiatiques', 'fake news', 'sources', 'journaux locaux']
 ---
 
@@ -38,3 +39,9 @@ Publication du Département de la culture et du sport (DCS).
 
 Sur le long terme, il serait intéressant de développer une application mobile interactive. Un questionnaire de type "Qui veut gagner des millions", sur les pièges médiatiques, ou un jeu dans cet esprit pourrait être amusant et instructif.
 Une telle application pourrait certainement apporter un côté plus ludique, et donc attirer plus de jeunes à se documenter sur le sujet.
+
+### Bibliographie
+
+ - Ville de Genève - MIXLINFO : https://www.geneve.ch/fr/mixlinfo
+ - MIXLINFO (fichier PDF) : https://www.geneve.ch/sites/default/files/2020-02/mixlinfo-brochure-fakenews-promotion-citoyenne-ville-geneve_0.PDF
+ - Vidéo Youtube - Ville de Genève : https://www.youtube.com/watch?v=3n5-WiXeano&feature=emb_logo
