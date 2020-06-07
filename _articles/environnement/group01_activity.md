@@ -86,7 +86,7 @@ Nous avons remarqué qu'il y a 3 stations météorologiques à Genève. Nous avo
 
 *Bibliographie
 
-* Site du Canton de Geneve sur la qualité de l'air - https://www.ge.ch/dossier/qualite-air
+* Site du Canton de Genève sur la qualité de l'air - https://www.ge.ch/dossier/qualite-air
 * Rapports annuel de la ROPAG - https://www.ge.ch/document/rapports-qualite-air-geneve-ropag
-* Environnemnt 2030 - https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
+* Environnement 2030 - https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
 * Site de la Conféderation, Ordonnance sur la protection de l’air - https://www.admin.ch/opc/fr/classified-compilation/19850321/index.html*
