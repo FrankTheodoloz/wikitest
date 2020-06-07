@@ -9,13 +9,13 @@ toc:
 - "Résultats ou Utilisation"
 - "Responsables"
 - "Recommandations"
-tags: ['pièges médiatiques', 'fake news', 'sources']
+tags: ['pièges médiatiques', 'fake news', 'sources', 'journaux locaux']
 ---
 
 ### Situation actuelle
 
 MIXLINFO est une brochure disponible sur le [site de la ville de Genève](https://www.geneve.ch/fr/mixlinfo), qui a pour but d'informer et donner des conseils au sujet des pièges médiatiques.
-On peut effectivement y trouver des descriptions de journaux locaux, des statistiques sur la jeunesse et les médias ainsi que des commentaires d'acteurs du paysage politique suisse.
+On peut effectivement y trouver des descriptions de journaux locaux, des statistiques sur la jeunesse et les médias, ainsi que des commentaires d'acteurs du paysage politique suisse.
 
 ### Besoins à remplir
 
@@ -24,11 +24,11 @@ On peut effectivement y trouver des descriptions de journaux locaux, des statist
 
 ### Règles de gouvernance
 
-MIXLINFO est disponible à tous les citoyens genevois au travers du site de la ville.  
+Le fichier PDF de la brochure MIXLINFO est disponible au téléchargement à tous les citoyens genevois, sur le site de la ville.  
 
 ### Résultats ou Utilisation
 
-Les informations présentes sur la brochures sont concises et pertinentes. Celle-ci est agréable à lire en raison de sa structure et des différents schémas/images.
+Les informations présentes sur le document sont concises et pertinentes. La brochure est agréable à lire en raison de sa structure et des différents schémas/images.
 
 ### Responsables
 
@@ -36,5 +36,5 @@ Publication du Département de la culture et du sport (DCS).
 
 ### Recommandations
 
-Sur le long terme, il serait intéressant de développer une application mobile interactive. 
+Sur le long terme, il serait intéressant de développer une application mobile interactive. Un questionnaire de type "Qui veut gagner des millions", sur les pièges médiatiques, ou un jeu dans cet esprit pourrait être amusant et instructif.
 Une telle application pourrait certainement apporter un côté plus ludique, et donc attirer plus de jeunes à se documenter sur le sujet.
