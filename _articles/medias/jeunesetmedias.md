@@ -38,7 +38,7 @@ Pour concrétiser cette collaboration, la mise en place de groupes stratégiques
 
 Le site présente des thématiques pour lesquelles il est fondamental de sensibiliser la jeunesse.
 
-Il est possible de naviguer entre les thèmes, les médias, les compétences médiatiques ainsi que les offres et conseils. 
+Il est possible de naviguer entre les thèmes, les différents médias, les compétences médiatiques ainsi que les offres et conseils. 
 En effet, Jeunes et Médias propose de commander des [brochures](https://www.jeunesetmedias.ch/fr/offres-conseils/commande-de-publications.html), régulèrement mises à jour, adressées aux parents, au personnel enseignant et aux autres personnes travaillant avec les jeunes, dans le but de promouvoir les compétences médiatiques.
 
 ### Responsables
@@ -47,10 +47,10 @@ L'Office Fédéral des Assurances Sociales (OFAS), sous mandat du Conseil fédé
 
 ### Recommandations
 
-Nous pensons qu'un onglet permettant aux parents et aux jeunes de pouvoir témoigner anonymement ou non de leur propre expérience sur un les thèmes du site contribuerait à améliorer la plateforme. 
-Effectivement, cela pourrait explicité de faits réels, les thématiques du site. Par conséquent, dans le cadre d'une sensibilisation au sujet, les visiteurs du portail pourront lire ces expériences et se faire un idée plus précise des conséquences engendrées et subies par certains. 
+Nous pensons qu'un onglet permettant aux parents et aux jeunes de pouvoir témoigner anonymement ou non de leur propre expérience sur les thèmes du site contribuerait à améliorer la plateforme. 
+Effectivement, cela pourrait expliciter de faits réels, les thématiques abordées. Par conséquent, dans le cadre d'une sensibilisation au sujet, les visiteurs du portail pourront lire ces récits et se faire un idée plus précise des conséquences engendrées et subies par certains. 
 Bien évidemment, il faudrait que les textes soient controlés avant publication.
 
-Il est annoncé sur jeunesetmedias.ch que l'OFAS souhaite améliorer l'échange d'expérience. Il ne serait donc pas étonnant de retrouver une fonctionnalité sembable dans les mois avenir.
+Il est annoncé sur jeunesetmedias.ch que l'OFAS souhaite améliorer l'échange d'expérience. Il ne serait donc pas étonnant de retrouver une fonctionnalité sembable dans les mois à venir.
 
 Finalement, nous estimons qu'une petite application mobile intéractive proposerait un apprentissage plus "fun" aux jeunes internautes. Celle-ci pourrait être un jeu qui instruirait sur les dangers des médias et surtout d'internet.
