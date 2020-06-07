@@ -9,6 +9,8 @@ toc:
 - "Interview"
 - "Résultats ou Utilisation"
 - "Responsables"
+- "Autres acteurs"
+- "Analyse Wikinomie"
 - "Recommandations"
 tags: ['organisations internationales', 'journalisme', 'plateforme numérique']
 ---
@@ -21,11 +23,11 @@ peu de communication est effectuée à ce niveau et aucune plateforme regroupant
 Retenue suite à l'appel à projets lancé par la Confédération, le Canton et la Ville de Genève le 20 décembre 2019, Geneva Solutions sera une plateforme journalistique rassemblant l'ensemble des articles de journalistes indépendants, experts et personnalités publiques sur le travail des ONG.
 
 Pour le moment, seul un onglet sur le site Heidi.news est disponible afin de présenter le projet : https://www.heidi.news/geneva-solutions.
-Le site web sera donc mis en ligne sous le nom de Genevasolutions.news en août 2020.
+Le site web sera donc mis en ligne sous le nom de domaine Genevasolutions.news en août 2020.
 
 ### Besoins à remplir
 
-Informer la population du travail effectué par les organisations internationales, au travers d'articles contructifs.
+Informer la population du travail effectué par les organisations internationales, au travers d'articles contructifs. 
 
 ### Règles de gouvernance
 
@@ -59,13 +61,26 @@ https://www.constructivejournalism.org/about/"
 ### Résultats ou Utilisation
 
 Les articles publiés sur la plateforme seront accessibles gratuitement au travers sur site web genevasolutions.news.
-En attendant, un aperçu est disponible sur le site [Heidi.news](https://www.heidi.news/geneva-solutions).
+En attendant, un aperçu est disponible sur le site [Heidi.news](https://www.heidi.news/geneva-solutions). Des articles sont déjà ajoutés chaque jour afin d'alimenter l'onglet. Ceux-ci sont en anglais, bien structurés et nous donnent des informations constructives.
+Pour chaque article, une présentation de la personne l'ayant écrit est disponible en cliquant sur son nom. Il est également possible de partager l'article sur les réseaux sociaux "classiques".
 
 ### Responsables
 
-Confédération, Canton et Ville de Genève ainsi que Heidi.news.
+L'équipe Geneva Solutions
 
+### Autres acteurs
+
+Confédération, Canton et Ville de Genève ainsi que Heidi.news. 
+
+### Analyse Wikinomie
+
+Malgré le fait que la plateforme soit petinente et captivante, nous pensons que celle-ci n'a pas réellement de lien avec la Wikinomie, mis à part le fait qu'elle diffuse de l'information. De notre point de vue, il est compliqué pour une plateforme journalistique, de pouvoir ajouter des fonctionnalités en lien avec la Wikinomie à la plateforme.
+En effet, les informations publiées sur le site doivent être rigoureusement vérifiées, et cela ne peut être effectué uniquement par des spécialistes. Nous proposerons toutefois deux fonctionnalités qui pourraient tisser améliorer le côté Wikinomique de la plateforme.
 
 ### Recommandations
 
 Nous pensons que la mise en place d'une fonctionnalité permettant de faire valider auprès de la communauté Geneva Solutions, la véracité des articles proposés pourrait être bénéfique pour la plateforme.
+Il serait certainement compliqué d'implémenter une telle fonctionnalité, car les articles publiés doivent faire l'objet d'une vérification particulière, faites par des spécialistes.
+
+L'ajout de commentaires, vérifiés et réservés aux spécialistes et experts, peut être interessant également. En effet, cette fonctionnalité pourrait permettre d'étendre le sujet et construire une réflexion, entre spcialistes, sur le sujet traité dans l'article. 
+Cette réflexion pourra donc être visible par lecteur de l'article.
