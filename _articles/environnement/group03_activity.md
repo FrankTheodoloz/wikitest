@@ -150,3 +150,10 @@ Est-ce qu'un projet est prévu pour les prochaines années ?
 
 >Une nouvelle plateforme dédiée à l'offre de nature à Genève est en projet. Elle vise à offrir au grand public une information relative aux animations en lien avec la nature (en partenariat avec les acteurs associatifs et institutionnels concernés), aux milieux naturels et aux espèces emblématiques (faune et flore).
 
+*Bibliographie
+- Objectif 2030 et à long terme https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
+
+- Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
+
+- blablablablabla https://www.ge.ch/document/rapports-qualite-air-geneve-ropag *
+
