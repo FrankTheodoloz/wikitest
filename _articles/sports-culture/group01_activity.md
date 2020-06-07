@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['Sport', 'Ville de Genève', 'Cours']
 ---
 
 ### Situation actuelle
