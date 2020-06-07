@@ -10,6 +10,7 @@ toc:
 - "Résultats ou Utilisation"
 - "Responsables"
 - "Recommandations"
+- "Bibliographie"
 tags: ['jeunesse', 'prévention', 'enseignement']
 ---
 
@@ -54,3 +55,8 @@ Bien évidemment, il faudrait que les textes soient controlés avant publication
 Il est annoncé sur jeunesetmedias.ch que l'OFAS souhaite améliorer l'échange d'expérience. Il ne serait donc pas étonnant de retrouver une fonctionnalité sembable dans les mois à venir.
 
 Finalement, nous estimons qu'une petite application mobile intéractive proposerait un apprentissage plus "fun" aux jeunes internautes. Celle-ci pourrait être un jeu qui instruirait sur les dangers des médias et surtout d'internet.
+
+### Bibliographie
+
+ - La plupart des onglets du site Jeunes et médias : https://www.jeunesetmedias.ch/fr.html
+
