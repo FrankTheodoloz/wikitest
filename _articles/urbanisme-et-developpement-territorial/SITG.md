@@ -63,17 +63,19 @@ Ils ont mis en place une charte qui est libre et volontairement acceptée des pa
 
 ### Besoins à remplir
 
-L’État de Genève a pris conscience que pour suivre l’évolution et la croissance du Grand Genève il fallait faire évoluer en parallèle le développement du numérique et la transformation urbaine.
+Ils ont mis en place une charte que les partenaires ont accepté de manière libre et volontaire. Elle fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle est trouvable sur le site au même titre que les condition d’utilisation qui doivent être accéptées par toute personne voulant utiliser des données. (https://ge.ch/sitg/le-sitg/organisation/bases-legales)
 
 
 ### Résultats ou Utilisation
 
 Le résultat est en adéquation avec les objectifs énoncés. Le site est très utilisé par les personnes des métiers de l’urbanisation et les personnes intéressées par ses enjeux.
 
+Les données sont disponibles dans un grand nombre de format ce qui facilite encore plus leurs utilisations. De plus, comme expliquer ci-dessous, ils ont pour projet de faire davantage participer les citoyens à la collecte des données ce qui mènerait à un encore plus grand nombre de données disponibles.
+
 
 ### Analyse Wikinomie
 
-On peut donc constater que la Wikinomie est très avancé sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaire de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, « Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle. » ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos « Le SITG dans sa vision stratégique évoque aussi un renforcement de l’interaction avec les citoyens et la production de données communautaires, mais cela est encore à l’État d’intentions. ». On constate donc de la part de l’état de Genève un vrai désir de faire évoluer l’urbanisme grace à la mise en commun des connaissances et du savoir de chaque entité.
+On peut donc constater que la Wikinomie est très avancé sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaire de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail, « Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle. » ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos « Le SITG dans sa vision stratégique évoque aussi un renforcement de l’interaction avec les citoyens et la production de données communautaires, mais cela est encore à l’État d’intentions. ». On constate donc de la part de l’état de Genève un vrai désir de faire évoluer l’urbanisme grace à la mise en commun des connaissances et du savoir de chaque entité..
 
 
 ### Responsables
