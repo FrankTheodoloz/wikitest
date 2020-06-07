@@ -50,7 +50,8 @@ La SCHG met déjà en oeuvre de nombreux aspects de la wikinomie, en permettant 
 
 ### Responsables
 
-Sociétaires, conseils d’administration
+« Le Conseil d'administration est élu par l'Assemblée générale pour une durée de trois ans. Il prend les décisions importantes et définit les stratégies. Il délègue certaines tâches au Comité de direction qui traite les affaires de la Société, surveille l'activité de la Direction et fait tout ce qui est dans l'intérêt de la Coopérative. La Direction gère les dossiers courants, en s'appuyant sur une équipe d'une quarantaine de collaboratrices et collaborateurs. » 
+https://www.schg.ch/fr/presentation-representants
 
 
 ### Autres acteurs
