@@ -75,7 +75,13 @@ Les données sont disponibles dans un grand nombre de format ce qui facilite enc
 
 ### Analyse Wikinomie
 
-On peut donc constater que la Wikinomie est très avancé sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaire de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail, « Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle. » ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos « Le SITG dans sa vision stratégique évoque aussi un renforcement de l’interaction avec les citoyens et la production de données communautaires, mais cela est encore à l’État d’intentions. ». On constate donc de la part de l’état de Genève un vrai désir de faire évoluer l’urbanisme grace à la mise en commun des connaissances et du savoir de chaque entité..
+On peut donc constater que la Wikinomie est très avancé sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaire de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail, 
+> Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle.
+
+ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos 
+> « Le SITG dans sa vision stratégique évoque aussi un renforcement de l’interaction avec les citoyens et la production de données communautaires, mais cela est encore à l’État d’intentions. »
+
+On constate donc de la part de l’état de Genève un vrai désir de faire évoluer l’urbanisme grace à la mise en commun des connaissances et du savoir de chaque entité..
 
 
 ### Responsables
