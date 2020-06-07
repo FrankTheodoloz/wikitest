@@ -23,7 +23,7 @@ Airbnb met à disposition une plateforme de location d'habitation très simple d
 
 ### Règles de gouvernance
 
-Afin de protéger le marché local traditionnel, le Conseil d'Etat genevois à limité le nombre de jours de location à 60 jours. Après recours, la Justice à alongé cette période à 90 jours. 
+Afin de protéger le marché local traditionnel, le Conseil d'Etat genevois à limité le nombre de jours de location à 60 jours. Après recours, la Justice à alongé cette période à 90 jours. Les modalités pour les locataires et propriétaires sont mises à disposition sur le site de l'Etat (https://www.ge.ch/louer-mon-logement-plateforme-hebergement-type-airbnb) 
 
 ### Résultats ou Utilisation
 
