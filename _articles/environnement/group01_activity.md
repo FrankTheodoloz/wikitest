@@ -84,3 +84,9 @@ Nous avons remarqué qu'il y a 3 stations météorologiques à Genève. Nous avo
 #### Est-ce que d'autres plans sont prévus dans la diffusion de ces informations ?
 > Concernant les données (mesures des polluants), non. En revanche il y a un plan de communication lié aux pics de pollution (ainsi qu'une campagne pour faire connaître les enjeux en lien avec Stick'AIR).
 
+*Bibliographie
+
+Site du Canton de Geneve sur la qualité de l'air - https://www.ge.ch/dossier/qualite-air
+Rapports annuel de la ROPAG - https://www.ge.ch/document/rapports-qualite-air-geneve-ropag
+Environnemnt 2030 - https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
+Site de la Conféderation, Ordonnance sur la protection de l’air - https://www.admin.ch/opc/fr/classified-compilation/19850321/index.html*
