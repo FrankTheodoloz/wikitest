@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: sports-culture
-title: Group 01 activity
+title: Les cours de sport de la Ville de Genève
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
