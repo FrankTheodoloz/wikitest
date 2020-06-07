@@ -87,4 +87,5 @@ Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expe
 
 ### Bibliographie
 
- - 
+ - Heidi.news - Geneva Solutions : https://www.heidi.news/geneva-solutions
+ - Canton de Genève - Geneva Solutions: la plateforme journalistique sur la Genève internationale : https://www.ge.ch/document/geneva-solutions-plateforme-journalistique-geneve-internationale
