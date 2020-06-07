@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['SITG', 'territoire', 'transparence', 'données', 'cartes', 'co-opération', 'complete']
+tags: ['territoire', 'transparence', 'données', 'cartes', 'co-opération', 'complete']
 ---
 
 ### Situation actuelle
