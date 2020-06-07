@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['tag c', 'tag d', 'tag e']
+tags: ['Stade de Genève', 'panneaux solaires', 'collaboration']
 ---
 
 ### Situation actuelle
