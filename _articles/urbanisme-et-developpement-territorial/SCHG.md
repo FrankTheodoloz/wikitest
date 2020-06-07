@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: urbanisme-et-developpement-territorial
-title: Une coopérative pour et par ses sociétaires
+title: SCHG une coopérative d'habitation
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
