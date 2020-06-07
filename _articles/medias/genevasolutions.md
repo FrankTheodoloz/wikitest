@@ -82,5 +82,5 @@ En effet, les informations publiées sur le site doivent être rigoureusement v�
 Nous pensons que la mise en place d'une fonctionnalité permettant de faire valider auprès de la communauté Geneva Solutions, la véracité des articles proposés pourrait être bénéfique pour la plateforme.
 Il serait certainement compliqué d'implémenter une telle fonctionnalité, car les articles publiés doivent faire l'objet d'une vérification particulière, faites par des spécialistes.
 
-L'ajout de commentaires, vérifiés et réservés aux spécialistes et experts, peut être interessant également. En effet, cette fonctionnalité pourrait permettre d'étendre le sujet et construire une réflexion, entre spcialistes, sur le sujet traité dans l'article. 
-Cette réflexion pourra donc être visible par lecteur de l'article.
+L'ajout de commentaires, vérifiés et réservés aux spécialistes ou experts, peut être également pertinent. En effet, cette fonctionnalité pourrait permettre d'alimenter le sujet de l'article et construire une réflexion entre spécialistes.
+Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expert du domaine ou interne à Geneva Solutions, ne pourra pas y participer. Cette dernière condition permettrait de garder une certaine "sureté de l'information".
