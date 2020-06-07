@@ -60,4 +60,4 @@ Les habitants de la ville de Genève
 
 ### Recommandations
 
-Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données.
+Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données. Comme expliqué dans « Analyse Wikinomie » la SCGH exploite beaucoup d’aspects de la Wikinomie mais partage uniquement toutes ses informations avec des membres de la copropriété. Il serait bien de leur part de faire profiter tout le monde de leurs découvertes et recherche. Comme c’est une copropriété, on aurait tendance à se dire que les demandes et recommandations devraient venir de la part des propriétaires mais il y des bonnes idées partout, autant ouvrir le débat publiquement.
