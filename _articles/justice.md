@@ -5,6 +5,7 @@ key: justice
 is_main: true
 toc:
 - "Contexte"
+- "Bibliographie"
 ---
 
 ### Contexte
