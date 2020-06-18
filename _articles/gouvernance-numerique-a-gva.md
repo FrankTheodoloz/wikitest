@@ -31,7 +31,7 @@ La ville de Genève a établi une stratégie numérique en 2018 sur le rapport r
  
 Notre but est de permettre à l’Etat de Genève de situer ses pratiques en matière de Gouvernance numérique dans un contexte international. 
 
-*Bibliographie
+*Bibliographie*
 1.  Hite J. (1999). Learning in chaos. Houston, TX: Gulf Publishing Company.
 2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger *
 
@@ -57,7 +57,7 @@ qui définissent l’étal de l’art dans ce domaine, notamment, la stratégie 
 le 25 avril 2018, la stratégie de la géoinformation à Genève, adoptée en janvier 2018, la Stratégie des systèmes d’information et de communication de l’administration cantonale, adoptée par le Conseil d’Etat le 25 mai 2016  
 et la Stratégie économique cantonale 2030, adoptée par le Conseil d’Etat le 24 juin 2015.
 
-*Bibliographie
+*Bibliographie*
 
 1. Wallerstein, Nina & Duran, Bonnie. (2006). Using Community-Based Participatory Research to Address Health Disparities. Health promotion practice. 7. 312-23. 10.1177/1524839906289376.
 2. Anadón M., Couture Ch. (2007). Présentation : la recherche participative, une préoccupation toujours vivace. In M. Anadón (coord.). La recherche participative : multiples regards. Québec : PUQ, p. 1-7.
@@ -65,3 +65,19 @@ et la Stratégie économique cantonale 2030, adoptée par le Conseil d’Etat le
 4. Duchesne, Claire. « Altet M., Desjardins J., Étienne R., Paquay L., Perrenoud P. (dir.)(2013). Former des enseignants réflexifs : Obstacles et résistances. Bruxelles : De Boeck, 277 p. », Recherche & formation, vol. 72, no. 1, 2013, pp. 149-150.
 5. La stratégie numérique de la ville de Genève (2018), disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger*
 
+### LIPAD du canton de Genève
+Depuis 2002, le canton de Genève dispose d’une loi qui règle l’accès aux informations des administrations, du Parlement, du gouvernement et des communes 
+(Loi sur l’information du public, l’accès aux documents et la protection des données personnelles (LIPAD). Une particularité : Les personnes morales 
+dont l’Etat possède plus de 50% du capital-actions ou finance leur budget pour plus de 50%, sont aussi soumises à cette législation. 
+
+La loi s’applique:
+a) aux institutions cantonales et communales
+b) aux organisations du secteur privé
+– détenues à au moins 50% par l’Etat,
+– ou dont les fonds sont d’au moins 50% des contributions du secteur public
+– ou alors dont les organes de décision comprennent des représentants du secteur public.
+c) aux privés qui assument des tâches publiques
+
+*Bibliographie*
+1. La plateforme pour la transparence dans l'administration disponible à https://www.oeffentlichkeitsgesetz.ch/francais/les-cantons/geneve/
+2. PRÉPOSÉ CANTONAL À LA PROTECTION DES DONNÉES ET À LA TRANSPARENCE (PPDT) disponible à https://www.ge.ch/ppdt/lipad-bd.asp 
