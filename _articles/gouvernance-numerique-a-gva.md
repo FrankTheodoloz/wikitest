@@ -80,5 +80,6 @@ b) aux organisations du secteur privé
 c) aux privés qui assument des tâches publiques
 
 *Bibliographie*
+
 1. La plateforme pour la transparence dans l'administration disponible à https://www.oeffentlichkeitsgesetz.ch/francais/les-cantons/geneve/
 2. PRÉPOSÉ CANTONAL À LA PROTECTION DES DONNÉES ET À LA TRANSPARENCE (PPDT) disponible à https://www.ge.ch/ppdt/lipad-bd.asp 
