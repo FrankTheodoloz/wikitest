@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: [ 'coopérative', 'logement', 'participation', 'substantielle']
+tags: [ 'coopérative', 'logement', 'participation']
 ---
 
 ### Situation actuelle
