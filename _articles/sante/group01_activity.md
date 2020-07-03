@@ -13,7 +13,7 @@ toc:
 - "Recommandations"
 - "Interview"
 - "Bibliographie"
-tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'substantiel']
+tags: ['connectivité', 'santé', 'collaboration', 'transparence', 'dossier méedical']
 ---
 
 ### Introduction
