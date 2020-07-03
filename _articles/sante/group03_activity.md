@@ -13,7 +13,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['connectivité', 'santé', 'participation', 'service d'intérêtcpublic']
+tags: ['connectivité', 'santé', 'participation', 'service d'intérêt public']
 ---
 
 ### Introduction
