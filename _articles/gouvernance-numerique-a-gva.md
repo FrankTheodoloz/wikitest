@@ -7,7 +7,7 @@ toc:
 - "Contexte"
 - "Etat de l'art"
 - "LIPAD du canton de Genève"
-tags: ['wikinomie', 'compétences numériques', 'digitalisation', gouvernement ouverte]
+tags: ['wikinomie', 'compétences numériques', 'digitalisation', 'gouvernement ouverte']
 ---
 
 ### Contexte
