@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['autorisation', 'construire', 'suivi', 'participation', 'complete']
+tags: ['autorisation', 'construire', 'service', 'participation']
 ---
 
 ### Situation actuelle
@@ -63,4 +63,5 @@ tous les demandeurs d’une APA
 
 ### Recommandations
 
-Ce type de plate-forme ne peuvent pas vraiment être plus wikinomique. En effet, comme c'est un suivit des acceptations des autorités, il n'y a pas lieu d'avoir une délibération ou une collaboration sur de tel acceptation. Les entités responsables et compétentes appliquent les réglementations en vigueur après analyse d'un dossier. Cela apporte beaucoup de transparence et facilite les suivis mais ne pourra à notre rien apporter de plus. 
+Ce type de service apporte beaucoup de transparence et facilite les suivis des demandes de contructions. EElle pourrait être complété par des donnée ouvertes disponibles à tous pour une meilleure compréhension et suivi à la fois du service, 
+mais aussi de la politique de la ville sur l’urbanisme. 
