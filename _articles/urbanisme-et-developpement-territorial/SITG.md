@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['territoire', 'transparence', 'données', 'cartes', 'co-opération', 'complete']
+tags: ['territoire', 'transparence', 'données', 'service public', 'collaboration']
 ---
 
 ### Situation actuelle
