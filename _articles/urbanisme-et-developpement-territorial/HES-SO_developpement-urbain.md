@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['projet', 'université', 'agglomération', 'co-opération', 'substantielle']
+tags: ['projet', 'université', 'agglomération', 'partcipation']
 ---
 
 ### Situation actuelle
@@ -53,7 +53,7 @@ HES-SO
 
 ### Autres acteurs
 
-collectivités publiques, milieux professionnels et universités et écoles polytechniques en Suisse et en France voisine.
+Collectivités publiques, milieux professionnels et universités et écoles polytechniques en Suisse et en France voisine.
 
 
 ### Recommandations
