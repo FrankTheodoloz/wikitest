@@ -9,7 +9,7 @@ toc:
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
 - "Analyse Wikinomie"
-tags: ['Participation']
+tags: ['Participation', 'service public', 'données ouvertes']
 ---
 
 ### Situation actuelle
@@ -27,8 +27,11 @@ fournis dans le document qui est disponible sur le site des TPG.
 
 ### Besoins à remplir
 
-Faire de la "publicité" afin que la population fasse connaissance de cet outil,
-et qui puisse proposer des potentielles améliorations.
+Les données proviennent du système SAEIV des tpg (Système d’Aide à l’Exploitation et à l’Information Voyageurs) des tpg.
+Un document qui détaille les fonctions mises à disposition par l’API Horaires temps réel des tpg est disponible ici :  
+https://www.tpg.ch/sites/default/files/2019-11/Opendata_tpg_documentation_utilisateurs_v12.pdf
+Il explique comment consommer et comment structurer les appels aux web services et détaille le format des réponses 
+mais le document n'est pas été mis à jour (les examples et liens ne fonctionnent pas). La dernière mise à jour des documents a été faite en 2015.
 
 ### Règles de gouvernance
 
@@ -44,7 +47,7 @@ Le terme journée d'exploitation est très utilisé dans les documents à
 disposition. En effet, une journée d'exploitation commence à 4h00 du matin et 
 se termine à 3h30 le lendemain. Entre 3h30 et 4h15 du matin les données ne 
 sont pas accessibles, pour des raisons d'initialisation des données dans le 
-système temps réel. La dernière mise à jour des documents a été faite en 2015.
+système temps réel. 
 
 ### Analyse Wikinomie
 
