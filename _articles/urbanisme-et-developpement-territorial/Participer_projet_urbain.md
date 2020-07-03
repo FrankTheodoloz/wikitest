@@ -13,7 +13,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['concertation', 'co-opération', 'complete']
+tags: ['concertation', 'participation', 'service public']
 ---
 
 ### Situation actuelle
@@ -55,6 +55,9 @@ Le site participer.ge.ch a également des conditions générales qu’il faut ac
 
 ### Besoins à remplir
 
+Participer.ge.ch est une plateforme numérique mise à disposition par la République et canton de Genève pour promouvoir le dialogue public et la participation citoyenne 
+à l'échelle de la région. participer.ge.ch expérimente de nouveaux canaux de participation citoyenne en utilisant le numérique. Cette plateforme se base sur l'outil open source Decidim 
+qui est développé par une communauté soutenue par la mairie de Barcelone.
 
 
 ### Résultats ou Utilisation
@@ -69,7 +72,7 @@ On remarque que ce projet est très avancé du point de vue de la wikinomie. Il 
 
 ### Responsables
 
-Les autorités publiques
+Le Service de concertation communication du département du territoire et le Genève Lab sont chargés de la coordination de la plateforme.
 
 
 ### Autres acteurs
