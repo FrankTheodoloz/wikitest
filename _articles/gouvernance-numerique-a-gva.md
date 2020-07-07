@@ -2,7 +2,7 @@
 layout: page
 title: "Gouvernance numérique à GVA"
 key: gouvernance-numerique-a-gva
-is_main: true
+is_main: false
 toc:
 - "Contexte"
 - "Etat de l'art"
