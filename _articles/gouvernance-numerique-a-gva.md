@@ -1,5 +1,5 @@
 ---
-layout: theme
+layout: page
 title: "Gouvernance numérique à GVA"
 key: gouvernance-numerique-a-gva
 is_main: true
