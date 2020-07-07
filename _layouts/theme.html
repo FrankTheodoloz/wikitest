@@ -4,6 +4,8 @@ layout: page
 
 {{content}}
 
+
+{%if page.no_activity != true %}
 <h3 id="activités">Activités</h3>
 
 <ul>
@@ -19,6 +21,7 @@ layout: page
     {% endif %}
   {% endfor %}
 </ul>
+{% endif %}
 
 {%if page.tags.size > 0 %}
   <h3 id="mots-clés">Mots&nbsp;clés</h3>
