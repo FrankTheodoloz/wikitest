@@ -14,7 +14,7 @@ toc:
 - "Nos recommendations"
 - "Nos conclusions"
 - "L'équipe de recherche"
-tags: ['wikinomie', 'compétences numériques', 'digitalisation', 'gouvernement ouverte' 'recommendations' 'conclusions']
+tags: ['wikinomie', 'compétences numériques', 'digitalisation', 'gouvernement ouverte', 'recommendations', 'conclusions']
 ---
 
 ### Contexte
