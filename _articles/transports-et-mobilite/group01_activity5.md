@@ -9,7 +9,7 @@ toc:
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
 - "Analyse Wikinomie"
-tags: ['Participation' 'données ouvertes', 'service public']
+tags: ['Participation', 'données ouvertes', 'service public']
 ---
 
 ### Situation actuelle
