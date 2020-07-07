@@ -13,7 +13,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: [santé', 'partcipation', 'dialogue', 'service d'intérêt public', 'forum']
+tags: [santé', 'partcipation', 'dialogue', "service d'intérêt public", 'forum']
 ---
 
 ### Introduction
