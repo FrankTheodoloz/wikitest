@@ -116,7 +116,8 @@ d)	Coopération : activité avec des règles de gouvernance qui définissent et 
 | Sports                                 | Les cours de sport de la Ville de Genève Stade de Genève E-sport genevois                                                                                                                | **Participation Information Information**                                               | Ville et Canton de Genève La Fondation du stade de Genève Structures d’esport approuvée par l’état                                                                                           | Formations en ligne Collecter les propositions du public Plateforme de la gouvernance                                                                                                                              |
 | Activités revues                       | 37                                                                                                                                                                                       |                                                                                         |                                                                                                                                                                                              |                                                                                                                                                                                                                    |
 
-
+*Source*
+- Gouvernance Numérique à Genève 2019 - 2020, https://2020.wikipolitics.ch/
 
 ### Le benchmaking de l'initiative Open Government Partnership (OGP)
 
