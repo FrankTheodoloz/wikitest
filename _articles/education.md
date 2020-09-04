@@ -5,7 +5,7 @@ key: education
 is_main: true
 toc:
 - "Contexte"
-tags: ['système éducatif', 'transition numérique', 'politique numérique', 'citoyenneté numérique', 'école']
+
 ---
 
 ### Contexte
