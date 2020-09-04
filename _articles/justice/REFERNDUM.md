@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Participation ', 'Référendum cantonal ']
+tags: ['Participation ', 'Référendum cantonal', 'Service public']
 ---
 
 ### Situation actuelle
