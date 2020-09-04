@@ -45,12 +45,7 @@ Les utilisateurs devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les a
 La platform Justicia.swiss ne stockera pas durablement les documents en relation avec une procédure judiciaire. Une fois que les autorités judiciaires les auront téléchargées et intégrées au dossier, le fichier sur la platforme ne sera pas conservé.
 
 ### Résultats ou Utilisation
-Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations, 
-La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026.
-
-!['plan'](images/MasterplanFR-1024x590.png )
-
-Le plan directeur donne un aperçu de la structure substantielle et temporelle de la procédure et met en évidence les principales dépendances. Il constitue également la base pour planifier et traiter de manière plus approfondie les différents sous-projets.
+Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations. La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026. Le plan directeur donne un aperçu de la structure substantielle et temporelle de la procédure et met en évidence les principales dépendances. Il constitue également la base pour planifier et traiter de manière plus approfondie les différents sous-projets.
 
 * Un recensement détaillé des exigences sera réalisé de 2018 à 2020. Pour ce faire, des groupes spécialisés et d’accompagnement différents sont mis sur pied pour épauler les travaux du projet.
 
@@ -67,6 +62,7 @@ Monsieur Patrick Becker, Generalsekretär Justizleitung GE
 Balawijitha Waeber, cheffe de projet / responsable presse, info@justitia.swiss
 
 Marius Erni, chef de projet / responsable presse, info@justitia.swiss
+
 ### Autres acteurs
 * Tribunaux
 * les ministères publics
@@ -85,7 +81,6 @@ Organisations impliqués :
 ### Recommandations
 
 Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une éventuelle amélioration du système.
-
 Nous avons cependant des idées de fonctionnalité qui selon nous seraient intérressantes à implémenter. 
 
 * Que les citoyens disposent d'un espace de stockage pour consulter à tout moment leurs documents judiciaires.
