@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['INFORMATION ', 'PAS COMMENCE ', 'Justitia 4.0 ']
+tags: ['Participation ', 'Pas commencé ', 'Justitia 4.0 ']
 ---
 
 ### Situation actuelle
@@ -88,5 +88,5 @@ Nous avons cependant des idées de fonctionnalité qui selon nous seraient inté
 
 ### Interview
 Dans l'objectif de clarifier certaines intérogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
-[Interview du 8 mai 2020](/_documents/HES_Questions_Justitia4_0_reponses_JBU.pdf)
+[Interview du 8 mai 2020](https://framagit.org/thanough/cours-wikinomie-2020/-/blob/master/_documents/HES_Questions_Justitia4_0_reponses_JBU.pdf)
 
