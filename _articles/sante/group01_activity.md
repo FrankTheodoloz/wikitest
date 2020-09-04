@@ -13,7 +13,7 @@ toc:
 - "Recommandations"
 - "Interview"
 - "Bibliographie"
-tags: ['service public', 'santé', 'collaboration', 'transparence', 'dossier méedical']
+tags: ['service public', 'santé', 'collaboration', 'dossier médical']
 ---
 
 ### Introduction
