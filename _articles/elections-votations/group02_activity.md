@@ -12,12 +12,12 @@ toc:
 - "Recommandations"
 - "Analyse Wikinomie"
 - "Bibliographie"
-tags: ['vote électronique', 'privé', 'collaboration']
+tags: ['vote électronique', 'service d'utilité publique, 'participation']
 ---
 
 ### Situation actuelle
 
-La Poste propose de son côté un système de vote électronique au niveau fédéral. La Chancellerie Fédérale a émis de nouvelle directives sur le vote électronique. Obligeant la Poste à revoir son système.
+La Poste propose de son côté un système de vote électronique au niveau fédéral. La Chancellerie Fédérale a émis de nouvelle directives sur le vote électronique, obligeant la Poste à revoir son système.
 
 Actuellement, le vote électronique de la Poste est à l’arrêt  après que des tests de sécurité de leur plateforme montraient des failles critiques. Une nouvelle version est prévue pour fin 2020 et répondra aux nouvelles exigences de la Chancellerie fédérale.
 
@@ -34,36 +34,27 @@ La Poste met en place le système dans les cantons souhaitant l’utiliser.
 ### Résultats ou Utilisation
 
 Fribourg 
-
-
 * Utilisation depuis 2016
 * Collaboration depuis 2016
 
 Neuchâtel 
-
-
 * Utilisation depuis 2017
 * Collaboration depuis 2015
 
 Thurgovie 
-
 * Utilisation depuis 2018
 * Collaboration 2017
 
 Bâle-Ville
-
 * Utilisation depuis 2019
 * Collaboration depuis 2017
 
 Glaris
-
 * Collaboration depuis 2018
 
 Saint-Gall
-
 * Utilisation depuis 2020
 * Collaboration depuis 2019
-
 
 Pour le développement de la nouvelle version de son système de vote électronique, La Poste entend coopérer plus avec les universités et hautes écoles suisses pour mieux répondre aux exigences de la Chancellerie Fédérale.
 
