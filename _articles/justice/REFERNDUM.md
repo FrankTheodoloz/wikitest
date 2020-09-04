@@ -15,14 +15,7 @@ tags: ['COMPLET ', 'PARTICIPATION ', 'Référendum cantonal ']
 
 ### Situation actuelle
 
-Il existe actuellement un site principal pour s'informer sur les différents référendums à Genève. 
-
-Les informations sont disponibles sur le site suivant : 
-
-https://www.ge.ch/legislation/
-
-
-Procédure de dépôt d'un référendum cantonal :
+Il existe actuellement un site principal pour s'informer sur les différents référendums à Genève. Les informations sont disponibles sur le site suivant : https://www.ge.ch/legislation/. La procédure de dépôt d'un référendum cantonal est la suivante :
 
 1. Le comité référendaire prépare une formule de récolte contenant les informations légales
 indiquées à l'art. 87 de la LEDP
@@ -55,12 +48,11 @@ Mettre à disposition les informations suivantes à la population ainsi qu’aux
 
 ### Règles de gouvernance
 
-Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/. 
+Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/. Le site organise differentes information comme les Référendums en cours de traitement, les Référendums totalement traités ou les résultates des récoltes des signatures, mais n'accompagne pas l'utilisateur avec des informations pratiques sur le traitement ou l'organisation des données.
 
 ### Résultats ou Utilisation
 
-Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant en détail à toutes les échéances d’une procédure de référendum. Nous ne conaissons pas le nombre exacte d'utilisateur.
-Le site est mis a jour régulièrement si l’on constate les dernières dates insérées sur le site.
+Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant en détail à toutes les échéances d’une procédure de référendum. Nous ne conaissons pas le nombre exacte d'utilisateur. Le site est mis a jour régulièrement si l’on constate les dernières dates insérées sur le site.
 
 
 ### Responsables
@@ -69,7 +61,7 @@ Etat de Genève - Direction Générale des Systèmes d’Information - Equipe In
 
 ### Autres acteurs
 
-le Grand Conseil
+Le Grand Conseil
 
 ### Recommandations
 
