@@ -8,7 +8,7 @@ toc:
 - "Qualité de l'air"
 - "Qualité de l'eau"
 - "Faune et Flore"
-tags: [environnement, association, participation citoyenne, citoyenneté numérique, coopéeration, information, communication, stick'air]
+
 ---
 
 ### Contexte
