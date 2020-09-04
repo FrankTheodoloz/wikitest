@@ -11,7 +11,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Interview"
-tags: ['open-source', 'opendata','transparence', 'résultats','partage', 'numérisation','élection']
+tags: ['données ouvertes', 'participation', 'service public']
 ---
 
 ### Situation actuelle
