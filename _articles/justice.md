@@ -29,16 +29,16 @@ surement une avancée certaine mais la culture collaborative de la wikinomie n'e
 
 **Justicia 4.0**
 
-* http://ge.ch/justice/dans-la-jurisprudence?
-* https://www.justitia40.ch/fr/pourquoi-justitia-4-0/
-* https://blogs.letemps.ch/miriam-mazou/2020/05/12/le-tribunal-federal-et-la-justice-suisse-accelerent-leur-numerisation/
-* https://www.swissinfo.ch/fre/societe/justitia-4.0_la-suisse-au-devant-d-un-chantier-colossal--la-num%C3%A9risation-de-sa-justice/45593156
+* LA JURISPRUDENCE GENEVOISE accessible à http://ge.ch/justice/dans-la-jurisprudence?
+* Les site du projet Justicia 4.0 est accessible à https://www.justitia40.ch/fr/pourquoi-justitia-4-0/
+* Miriam Mazou Le Tribunal fédéral et la justice suisse accélèrent leur numérisation, 12 mai 2020, disponible à https://blogs.letemps.ch/miriam-mazou/2020/05/12/le-tribunal-federal-et-la-justice-suisse-accelerent-leur-numerisation/
+* Sibilla Bondolfi, La Suisse au-devant d’un chantier colossal: la numérisation de sa justice, 06 Mars 2020, disponible à https://www.swissinfo.ch/fre/societe/justitia-4.0_la-suisse-au-devant-d-un-chantier-colossal--la-num%C3%A9risation-de-sa-justice/45593156
 
 **Référendum cantonales**
 
-* http://www.ge.ch/legislation/
-* https://www.ge.ch/initiatives-referendums-petitions/referendum-facultatif-cantonal
+* Chancellerie d'Etat, Service de la législation accessible à http://www.ge.ch/legislation/
+* République et canton de Genève, Initiatives, référendums et pétitions accessible à https://www.ge.ch/initiatives-referendums-petitions/referendum-facultatif-cantonal
 
 **Satistiques cantonales**
 
-* https://www.ge.ch/statistique/domaines/19/19_02/liens.asp#1
+* République et canton de Genève, LES 21 DOMAINES : 19. JUSTICE, SÉCURITÉ ET CRIMINALITÉ accessible à https://www.ge.ch/statistique/domaines/19/19_02/liens.asp#1
