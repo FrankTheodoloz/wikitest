@@ -58,7 +58,7 @@ L’office des autorisations de construire
 
 ### Autres acteurs
 
-tous les demandeurs d’une APA
+Tous les demandeurs d’une APA et les professionnels associées à cette demande
 
 
 ### Recommendations
