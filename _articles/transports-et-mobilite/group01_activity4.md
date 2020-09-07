@@ -8,7 +8,7 @@ toc:
 - "Règles de gouvernance"
 - "Résultats et utilisation"
 - "Analyse Wikinomie"
-tags: ['participation', 'service public', 'données ouvertes', 'transports]
+tags: ['participation', 'service public', 'données ouvertes', 'transports']
 ---
 
 ### Situation actuelle
