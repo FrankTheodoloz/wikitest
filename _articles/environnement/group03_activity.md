@@ -4,18 +4,17 @@ key: environnement
 title: Etat de la faune et de la flore
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: [information, substantiel, participation citoyenne, faune genève, association, environnement]
+- "Bibliographie"
+tags: ['information', 'faune genève', service public']
 ---
 
 ### Situation actuelle
 #### Faune
-
 
 Le [site web](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
 
@@ -27,9 +26,6 @@ La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/con
 
 Le canton veut stimuler l'initiative personnelle des citoyens via la plateforme internet [1001 sites nature en ville](https://www.1001sitesnatureenville.ch/) 
 
-
-
-### Besoins à remplir
 Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et sur le long terme.
 * Objectifs à long terme
     * Garantir des sites et des écosystèmes naturels portant une biodiversité optimale selon des critères de gestion durable.
@@ -58,7 +54,7 @@ L'association Faune Genève met à disposition son site web pour s'informer et p
 Les informations concernant la flore Genevoise sont accessibles via [Patrimoine Vert Genève](https://www.patrimoine-vert-geneve.ch/).
 
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 #### Faune
 
 Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
@@ -150,7 +146,7 @@ Est-ce qu'un projet est prévu pour les prochaines années ?
 
 >Une nouvelle plateforme dédiée à l'offre de nature à Genève est en projet. Elle vise à offrir au grand public une information relative aux animations en lien avec la nature (en partenariat avec les acteurs associatifs et institutionnels concernés), aux milieux naturels et aux espèces emblématiques (faune et flore).
 
-*Bibliographie
+### Bibliographie
 
 * Objectif environnement 2030 et à long terme https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger
 * Site de l'association Faune Genève https://www.faunegeneve.ch/
