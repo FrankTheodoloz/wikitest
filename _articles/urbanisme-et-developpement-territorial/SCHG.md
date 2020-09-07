@@ -6,13 +6,12 @@ toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
 - "Règles de gouvernance"
-- "Besoins à remplir"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['coopérative', 'logement', 'participation']
+tags: ['coopérative d'intérêt public', 'logement', 'participation']
 ---
 
 ### Situation actuelle
@@ -33,14 +32,9 @@ Il y a également sur le site un espace dédié pour partager ses impressions, s
 La SCHG met à disposition un « journal d’informations » y relatant les décisions prises lors des assemblées générales. N’importe qui, en se rendant sur le site internet, peut prendre connaissance des sujets abordés lors de ces séances. Les dernières informations concernant la coopérative se trouvent également dans ce journal.
 
 
-### Besoins à remplir
+### Résultats et utilisation
 
-Pour l’instant seul les informations sont disponibles pour tous, pour pouvoir interagir avec la SCHG il faut doit en être membre soit s’inscrire. Les données ne sont pas encore accessibles à tous. On ne peut pas extraire des données pour les utiliser à des fins privés ou publics.
-
-
-### Résultats ou Utilisation
-
-Le résultat est en adéquation avec les objectifs énoncés. Le site est utilisé par les personnes de la coopérative et les personnes intéressées par ses enjeux.
+Le site est utilisé par les personnes de la coopérative et les personnes intéressées par ses enjeux. Pour l’instant seul les informations sont disponibles pour tous, pour pouvoir interagir avec la SCHG il faut doit en être membre soit s’inscrire. Les données ne sont pas encore accessibles à tous. On ne peut pas extraire des données pour les utiliser à des fins privés ou publics.
 
 
 ### Analyse Wikinomie
@@ -50,9 +44,7 @@ La SCHG met déjà en oeuvre de nombreux aspects de la wikinomie, en permettant 
 
 ### Responsables
 
-« Le Conseil d'administration est élu par l'Assemblée générale pour une durée de trois ans. Il prend les décisions importantes et définit les stratégies. Il délègue certaines tâches au Comité de direction qui traite les affaires de la Société, surveille l'activité de la Direction et fait tout ce qui est dans l'intérêt de la Coopérative. La Direction gère les dossiers courants, en s'appuyant sur une équipe d'une quarantaine de collaboratrices et collaborateurs. » 
-
-https://www.schg.ch/fr/presentation-representants
+« Le Conseil d'administration est élu par l'Assemblée générale pour une durée de trois ans. Il prend les décisions importantes et définit les stratégies. Il délègue certaines tâches au Comité de direction qui traite les affaires de la Société, surveille l'activité de la Direction et fait tout ce qui est dans l'intérêt de la Coopérative. La Direction gère les dossiers courants, en s'appuyant sur une équipe d'une quarantaine de collaboratrices et collaborateurs. » (Source : https://www.schg.ch/fr/presentation-representants)
 
 
 ### Autres acteurs
@@ -62,4 +54,4 @@ Les habitants de la ville de Genève
 
 ### Recommandations
 
-Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données. Comme expliqué dans « Analyse Wikinomie » la SCGH exploite beaucoup d’aspects de la Wikinomie mais partage uniquement toutes ses informations avec des membres de la copropriété. Il serait bien de leur part de faire profiter tout le monde de leurs découvertes et recherche. Comme c’est une copropriété, on aurait tendance à se dire que les demandes et recommandations devraient venir de la part des propriétaires mais il y des bonnes idées partout, autant ouvrir le débat publiquement.
+Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données. La SCGH exploite beaucoup d’aspects de la Wikinomie mais partage uniquement toutes ses informations avec des membres de la copropriété. Il serait bien de leur part de faire profiter tout le monde de leurs découvertes et recherche. Comme c’est une copropriété, on aurait tendance à se dire que les demandes et recommandations devraient venir de la part des propriétaires mais il y des bonnes idées partout, autant ouvrir le débat publiquement.
