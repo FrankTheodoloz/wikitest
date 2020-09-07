@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Sport', 'Ville de Genève', 'Cours']
+tags: ['sport et formation', 'service public', 'participation']
 ---
 
 ### Situation actuelle
