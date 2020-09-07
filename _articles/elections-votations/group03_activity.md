@@ -4,9 +4,8 @@ key: elections-votations
 title: Opendata et les Résultats de votations et élections
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats et Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -21,15 +20,13 @@ L’Etat de Genève fournit sur leur site web les archives de votations et des �
 
 Le site fournit toutes les informations nécessaires qui peuvent permettre aux citoyens de participer à la vie politique du Canton (lancer des référendum/initiative/candidature). Depuis 2018, l’Etat propose les résultats des Elections et des votations en opendata, accessible facilement dans un format libre.
 
-### Besoins à remplir
-
 Le Canton de Genève désire plus de transparence dans son système de partage d’information et volonté de répondre aux normes actuelles en terme de technologie.
 
 ### Règles de gouvernance
 
 Les résultats des votations et Élections de Genève sont gérés par la Chancellerie d’Etat. Ces données peuvent être consultés gratuitement depuis le site du Canton ou Opendata.swiss .
 
-### Résultats et Utilisation
+### Résultats et utilisation
 
 Les résultats des votations et élections peuvent être obtenu par les journaux et ainsi diffuser en temps réelle à la population de manière simplifié. Les données sont aussi utilisés par les partis politiques à fin de faire des projections sur le second tour des candidats. On retrouve les résultats de votations élection de Genève de 2016 à fin 2019 aux formats JSON, XML, XLS et CSV. 
 
@@ -68,6 +65,4 @@ Prévoyez-vous de partager plus de données ou permettre l’accès à plus de p
 > Au niveau des candidatures, les informations fournis actuelles sont au niveau minimum en donnant nom et prénom, âge ainsi qu’une photo de profil. Il y a une volonté d’ouvrir plus, mais nous nous heurtons alors à la protection de la vie privée si trop d’information est divulguée.
 
 > Un autre projet sur la dématérialisation de la brochure a été lancé. Pour cela nous attendons les standards établis par la Confédération au niveau fédéral pour adapter et offrir cette nouvelle solution. Dans un format ouvert, cela permettra aux utilisateurs de reprendre sur leur site, refaire une brochure ou faire des analyses syntaxiques.
-
-
 
