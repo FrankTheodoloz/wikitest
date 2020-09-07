@@ -6,18 +6,17 @@ toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
 - "Règles de gouvernance"
-- "Besoins à remplir"
 - "Résultats ou Utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
-- "Recommendations"
+- "Recommandations"
 tags: ['autorisations', 'construction', 'service public', 'participation']
 ---
 
 ### Situation actuelle
 
-L’office des autorisations de construire a développé une procédure numérique pour déposer et suivre les demandes d’APA (Autorisation par procédure accélérée). Cette plate-forme est intégrée aux prestation e-démarches déjà en place. 
+L’office des autorisations de construire a développé une procédure numérique pour déposer et suivre les demandes d’APA (Autorisation par procédure accélérée). Cette plate-forme est intégrée aux prestation e-démarches déjà en place. Toutes les informations et les évolutions du projet se trouvent sur la plate-forme et il n’y a plus besoin de ce rentre au guichet pour chaque nouveau document à fournir ou chaque fomulaire à signer. De plus, tous les projets sont répertoriés dans la même plate-forme ce qui permet une meilleure vision globale des projets en cours. L’avancement des projets est également plus à jour.
 
 
 ### Objectifs annoncés
@@ -33,13 +32,6 @@ Dématérialiser le traitement et le suivit des demandes d’APA, du dépôt de 
 ### Règles de gouvernance
 
 Pour déposer une APA il faut avoir un compte e-démarches qui est disponible pour tous les citoyens de l’État de Genève. Une fois inscrit aux e-démarches, il suffit d’activer la rubrique « autorisations de construire » dans l’onglet « Accéder aux prestations ». Cela prend environ 1h.
-
-
-### Besoins à remplir
-
-Faciliter et accélérer les démarches et le suivit des demandes d’APA. Toutes les informations et les évolutions du projet se trouvent sur la plate-forme et il n’y a plus besoin de ce rentre au guichet pour chaque nouveau document à fournir ou chaque fomulaire à signer.
-De plus, tous les projets sont répertoriés dans la même plate-forme ce qui permet une meilleure vision globale des projets en cours. L’avancement des projets est également plus à jour.
-
 
 ### Résultats ou Utilisation
 
@@ -61,6 +53,6 @@ L’office des autorisations de construire
 Tous les demandeurs d’une APA et les professionnels associées à cette demande
 
 
-### Recommendations
+### Recommandations
 
 Ce type de service apporte de la transparence et facilite les suivis des demandes de contructions. Elle pourrait être complété par des donnée ouvertes disponibles à tous pour une meilleure compréhension et suivi à la fois du service, mais aussi de la politique de la ville sur l’urbanisme. 
