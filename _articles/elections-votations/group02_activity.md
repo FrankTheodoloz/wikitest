@@ -4,26 +4,21 @@ key: elections-votations
 title: Vote électronique La Poste
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
 - "Analyse Wikinomie"
 - "Bibliographie"
-tags: ['vote électronique', 'service d'utilité publique, 'participation']
+tags: ['vote électronique', 'service privée d'utilité publique, 'participation']
 ---
 
 ### Situation actuelle
 
 La Poste propose de son côté un système de vote électronique au niveau fédéral. La Chancellerie Fédérale a émis de nouvelle directives sur le vote électronique, obligeant la Poste à revoir son système.
 
-Actuellement, le vote électronique de la Poste est à l’arrêt  après que des tests de sécurité de leur plateforme montraient des failles critiques. Une nouvelle version est prévue pour fin 2020 et répondra aux nouvelles exigences de la Chancellerie fédérale.
-
-### Besoins à remplir
-
-Dans l’ère du numérique, il devenait nécessaire de proposer une alternative au moyen de votes actuelles. C’est un moyen de répondre par une solution adapté au quotidien de la population.
+Actuellement, le vote électronique de la Poste est à l’arrêt après que des tests de sécurité de leur plateforme montraient des failles critiques. Une nouvelle version est prévue pour fin 2020 et répondra aux nouvelles exigences de la Chancellerie fédérale. Dans l’ère du numérique, il devenait nécessaire de proposer une alternative au moyen de votes actuelles. C’est un moyen de répondre par une solution adapté au quotidien de la population.
 
 ### Règles de gouvernance
 
