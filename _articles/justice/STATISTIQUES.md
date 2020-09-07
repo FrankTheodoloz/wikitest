@@ -4,9 +4,8 @@ key: justice
 title: STATISTIQUES CANTONALES
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -22,10 +21,7 @@ Composé du Ministère public et des tribunaux de première et seconde instance,
 * la justice de droit public (ou administrative)
 
 Après quelques recherches, on a trouvé une platefrome qui fourni des statistiques dans ce domaine. 
-cette platforme est nommé :  https://www.ge.ch/statistique (STATISTIQUES CANTONALES) et propose 21 domaines différents comme la population, santé etc. Et parmi ces domaines en trouve la justice.
-
-
-### Besoins à remplir
+cette platforme est nommé :  https://www.ge.ch/statistique (STATISTIQUES CANTONALES) et propose 21 domaines différents comme la population, santé etc. Et parmi ces domaines en trouve la justice. Ce service vise : 
 
 * Informer la population.
 * Mettre a disposition des données utilisable et disponible à tous.
@@ -35,7 +31,7 @@ cette platforme est nommé :  https://www.ge.ch/statistique (STATISTIQUES CANTON
 
 Chaque utilisateur peut télécharger les données directement vie le site internet. Les données sont mises à jour par différents organisations publics.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 La rubrique justice propose des informations concernant la Justice, la sécurité et la criminalité sous le format .xls ou .pdf ainsi que des graphiques qu'on peut visualiser directement sur le site internet. Voici exemple de graphique :
 
@@ -66,3 +62,5 @@ Les citoyens peuvent faire des recherches et des affichages d'informations sans 
 * Revoir la présentation des graphes parce que elle est très condensée.
 * Faie une application mobille pour facilter la recherche et l'affichage des données par thème.
 * Utilsation de termes simple pour les personnes qui ne comprennent pas les termes juridiques.
+
+
