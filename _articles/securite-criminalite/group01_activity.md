@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['collaboration', 'police', 'cyber-criminalité', 'cyber-incident']
+tags: ['participation', 'service public', 'cyber-criminalité', 'cyber-incident']
 ---
 
 ### Situation actuelle
