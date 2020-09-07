@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['formation', 'cyber-sécurité', 'information']
+tags: ['formation', 'cyber-sécurité', 'particopation', 'service public']
 ---
 
 ### Situation actuelle
