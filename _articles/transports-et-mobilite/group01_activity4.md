@@ -22,8 +22,8 @@ La population a à sa disposition des données de l’API Horaire en temps réel
 * Encourager l'innovation
 
 Les données proviennent du système SAEIV des tpg (Système d’Aide à l’Exploitation et à l’Information Voyageurs) des tpg.
-Un document qui détaille les fonctions mises à disposition par l’API Horaires temps réel des tpg est disponible ici :  
-https://www.tpg.ch/sites/default/files/2019-11/Opendata_tpg_documentation_utilisateurs_v12.pdf
+Un document qui détaille les fonctions mises à disposition par l’API Horaires temps réel des tpg est disponible [ici](https://www.tpg.ch/sites/default/files/2019-11/Opendata_tpg_documentation_utilisateurs_v12.pdf).
+
 Il explique comment consommer et comment structurer les appels aux web services et détaille le format des réponses 
 mais le document n'est pas été mis à jour (les examples et liens ne fonctionnent pas). La dernière mise à jour des documents a été faite en 2015.
 
