@@ -5,7 +5,6 @@ key: medias
 is_main: true
 toc:
 - "Contexte"
-
 ---
 
 ### Contexte
