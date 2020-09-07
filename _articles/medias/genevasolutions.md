@@ -13,6 +13,7 @@ toc:
 - "Analyse Wikinomie"
 - "Recommandations"
 - "Bibliographie"
+- "Interview"
 tags: ['service d'intérêt public', 'journalisme', 'plateforme numérique', 'participation']
 ---
 
