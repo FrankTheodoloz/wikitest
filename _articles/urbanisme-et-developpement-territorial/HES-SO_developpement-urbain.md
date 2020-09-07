@@ -6,23 +6,22 @@ toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
 - "Règles de gouvernance"
-- "Besoins à remplir"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['projet', 'université', 'agglomération', 'partcipation']
+tags: ['projet d'intèrêt public', 'développement urbain', 'participation']
 ---
 
 ### Situation actuelle
 
-La mission de cette plateforme est de coordonner, de promouvoir et de développer la cooopération entre six universités (HEPIA, HEG, HEAD, HETS, HEdS et HEM) dans le développement durable des villes et des régions. Afin de développer des projets visant à répondre aux problématiques complexes de l’agglomération franco-valdo-genevois, la plateforme collabore également avec les pouvoirs publics. Les professions libérales, les universités et les écoles polytechniques en Suisse et en France voisine.
+La mission de cette [plateforme](https://www.hesge.ch/developpement-urbain/) est de coordonner, de promouvoir et de développer la cooopération entre six universités (HEPIA, HEG, HEAD, HETS, HEdS et HEM) dans le développement durable des villes et des régions. Afin de développer des projets visant à répondre aux problématiques complexes de l’agglomération franco-valdo-genevois, la plateforme collabore également avec les pouvoirs publics. Les professions libérales, les universités et les écoles polytechniques en Suisse et en France voisine.
 
 
 ### Objectifs annoncés
 
-On peut consulter les résultats de recherche, faire une demande de mandat pour une recherche appliquée. 
+On peut consulter les résultats de recherche et faire une demande de mandat pour une recherche appliquée. 
 
 
 ### Règles de gouvernance
@@ -36,9 +35,9 @@ Aucune règle de gouvernance n’est présente sur le site.
 Pour l’instant il est uniquement possible de consulter ou de demander des recherches. Il serait bien si la plateforme était plus collaborative et permettrait la collaboration de privé avec ces six universités. Si les recherches en cours étaient indiquées et que tout le monde pouvait y participer.
 
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
-Le résultat est en adéquation avec les objectifs énoncés.
+Cinq projets sont soutenus entre 2019 et 2021 (informations disponible ici : https://www.hesge.ch/developpement-urbain/)
 
 
 ### Analyse Wikinomie
@@ -48,7 +47,7 @@ Cette plateforme collaborative regroupe plusieurs éléments de la wikinomie. Il
 
 ### Responsables
 
-HES-SO
+HES-SO (5 écoles HES, https://www.hesge.ch/developpement-urbain/)
 
 
 ### Autres acteurs
@@ -58,4 +57,4 @@ Collectivités publiques, milieux professionnels et universités et écoles poly
 
 ### Recommandations
 
-Comme mentionné ci-dessus, la plateforme pourrait évoluer et faire place à un peu plus de collaboration.
+Comme mentionné ci-dessus, la plateforme pourrait évoluer et proposer plus de collaboration entre les participants de differents projets.
