@@ -13,7 +13,7 @@ toc:
 - "Analyse Wikinomie"
 - "Recommandations"
 - "Bibliographie"
-tags: ['organisations internationales', 'journalisme', 'plateforme numérique']
+tags: ['service d'intérêt public', 'journalisme', 'plateforme numérique', 'participation']
 ---
 
 ### Situation actuelle
@@ -21,10 +21,8 @@ tags: ['organisations internationales', 'journalisme', 'plateforme numérique']
 Genève est une ville qui accueille une multitude d'organisations internationales. Bien qu'elles réalisent un travail de service public important à l'échelle mondiale, 
 peu de communication est effectuée à ce niveau et aucune plateforme regroupant l'ensemble du travail de ces ONG n'existe.
 
-Retenue suite à l'appel à projets lancé par la Confédération, le Canton et la Ville de Genève le 20 décembre 2019, Geneva Solutions sera une plateforme journalistique rassemblant l'ensemble des articles de journalistes indépendants, experts et personnalités publiques sur le travail des ONG.
+Retenue suite à l'appel à projets lancé par la Confédération, le Canton et la Ville de Genève le 20 décembre 2019, Geneva Solutions sera une plateforme journalistique rassemblant l'ensemble des articles de journalistes indépendants, experts et personnalités publiques sur le travail des ONG. Elle est accessible à https://www.genevasolutions.news/.
 
-Pour le moment, seul un onglet sur le site Heidi.news est disponible afin de présenter le projet : https://www.heidi.news/geneva-solutions.
-Le site web sera donc mis en ligne sous le nom de domaine Genevasolutions.news en août 2020.
 
 ### Besoins à remplir
 
@@ -33,30 +31,6 @@ Informer la population du travail effectué par les organisations internationale
 ### Règles de gouvernance
 
 Les articles sont publiés par des journalistes choisis par Geneva Solutions/Heidi.news. Des experts et personnalités sont égalements invités à rédiger des articles d'opinion.
-
-### Interview
-
-Dans le cadre de cette recherche, nous avons eu la chance de pouvoir questionner par mail, des membres du projet Geneva Solutions. Ci-dessous, vous trouverez la liste des questions que nous avons posées, ainsi que leurs réponses : 
-
- - Quel est le rôle de l’Etat et de la ville de Genève dans le projet Geneva Solutions ?
-
-> "Dans le domaine de la cooperation multilatérale, Genève a un énorme savoir-faire, mais elle n’excelle pas dans le « faire savoir ». Parmi les priorités de la politique d’accueil de la communauté internationale, dans laquelle Ville, Canton et Confédération collaborent étroitement, il y a aussi le renforcement de la visibilité du travail fourni par le service public global.
-Le canton et la Ville de Genève, tout comme la Confédération, avaient été approchés par différents acteurs du monde des médias, qui demandaient un soutien pour leur projets de couverture du travail des organisations et des ONG sises à Genève. Suite à ces demandes, les pouvoirs publics ont décidé de lancer conjointement un appel à projets pour choisir entre les différentes propositions et d’autres qui se sont déclarées suite à cette démarche. Après une sélection faite par des représentants des trois entités (Ville, Canton et Confédération) appuyée par des experts médias, les pouvoirs publics se sont mis d’accord pour concentrer leur soutien sur Geneva Solutions, le projet dont les caractéristiques correspondaient au mieux aux critères de l’appel à projets.
-Ville, Canton et Confédération ont donc le même rôle : celui d’apporter un soutien à une production journalistique indépendante qui a comme ligne éditoriale une couverture de qualité des activités du service public international basé à Genève."
-
- - Sur le [site du canton de Genève](https://www.ge.ch/document/geneva-solutions-plateforme-journalistique-geneve-internationale), il est mentionné que Geneva Solutions, se positionne « dans la mouvance du journalisme constructif ». Qu’entendez-vous par journalisme constructif ?
-
-> "Le journalisme constructif ou « de solutions » est une ligne éditoriale qui recherche l’équilibre de l’information en présentant aussi des nouvelles axées sur les solutions, au lieu de tourner uniquement autour d'histoires négatives et conflictuelles. Ceci n’exclut pas les papiers critiques. Pour plus d’infos :
-https://constructiveinstitute.org/Constructive-Journalism/Constructive-Journalism
-https://www.constructivejournalism.org/about/"
-
- - Est-ce que les journalistes soumettant un article doivent obligatoirement être agréer par un organisme compétent ? Est-il possible de proposer un article à publier sur la plateforme sans statut de journaliste ?
-
-> "Les journalistes sont choisis par l’équipe de Geneva Solutions et/ou Heidi.news. Des contributeurs tels que experts ou personnalités publiques sont invités occasionnellement à écrire des articles d’opinion."
-
- - Avant leur publication, les articles sont-ils vérifiés ? Si oui, le sont-ils par des experts de Heidi News ou par des journalistes disposant de droits de vérification sur Geneva Solutions ?
-
-> "Oui, tous les articles sont relus et les informations vérifiées par des journalistes internes à Geneva Solutions." 
 
 ### Résultats ou Utilisation
 
@@ -89,3 +63,27 @@ Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expe
 
  - Heidi.news - Geneva Solutions : https://www.heidi.news/geneva-solutions
  - Canton de Genève - Geneva Solutions: la plateforme journalistique sur la Genève internationale : https://www.ge.ch/document/geneva-solutions-plateforme-journalistique-geneve-internationale
+
+### Interview
+
+Dans le cadre de cette recherche, nous avons eu la chance de pouvoir questionner par mail, des membres du projet Geneva Solutions. Ci-dessous, vous trouverez la liste des questions que nous avons posées, ainsi que leurs réponses : 
+
+ - Quel est le rôle de l’Etat et de la ville de Genève dans le projet Geneva Solutions ?
+
+> "Dans le domaine de la cooperation multilatérale, Genève a un énorme savoir-faire, mais elle n’excelle pas dans le « faire savoir ». Parmi les priorités de la politique d’accueil de la communauté internationale, dans laquelle Ville, Canton et Confédération collaborent étroitement, il y a aussi le renforcement de la visibilité du travail fourni par le service public global.
+Le canton et la Ville de Genève, tout comme la Confédération, avaient été approchés par différents acteurs du monde des médias, qui demandaient un soutien pour leur projets de couverture du travail des organisations et des ONG sises à Genève. Suite à ces demandes, les pouvoirs publics ont décidé de lancer conjointement un appel à projets pour choisir entre les différentes propositions et d’autres qui se sont déclarées suite à cette démarche. Après une sélection faite par des représentants des trois entités (Ville, Canton et Confédération) appuyée par des experts médias, les pouvoirs publics se sont mis d’accord pour concentrer leur soutien sur Geneva Solutions, le projet dont les caractéristiques correspondaient au mieux aux critères de l’appel à projets.
+Ville, Canton et Confédération ont donc le même rôle : celui d’apporter un soutien à une production journalistique indépendante qui a comme ligne éditoriale une couverture de qualité des activités du service public international basé à Genève."
+
+ - Sur le [site du canton de Genève](https://www.ge.ch/document/geneva-solutions-plateforme-journalistique-geneve-internationale), il est mentionné que Geneva Solutions, se positionne « dans la mouvance du journalisme constructif ». Qu’entendez-vous par journalisme constructif ?
+
+> "Le journalisme constructif ou « de solutions » est une ligne éditoriale qui recherche l’équilibre de l’information en présentant aussi des nouvelles axées sur les solutions, au lieu de tourner uniquement autour d'histoires négatives et conflictuelles. Ceci n’exclut pas les papiers critiques. Pour plus d’infos :
+https://constructiveinstitute.org/Constructive-Journalism/Constructive-Journalism
+https://www.constructivejournalism.org/about/"
+
+ - Est-ce que les journalistes soumettant un article doivent obligatoirement être agréer par un organisme compétent ? Est-il possible de proposer un article à publier sur la plateforme sans statut de journaliste ?
+
+> "Les journalistes sont choisis par l’équipe de Geneva Solutions et/ou Heidi.news. Des contributeurs tels que experts ou personnalités publiques sont invités occasionnellement à écrire des articles d’opinion."
+
+ - Avant leur publication, les articles sont-ils vérifiés ? Si oui, le sont-ils par des experts de Heidi News ou par des journalistes disposant de droits de vérification sur Geneva Solutions ?
+
+> "Oui, tous les articles sont relus et les informations vérifiées par des journalistes internes à Geneva Solutions." 
