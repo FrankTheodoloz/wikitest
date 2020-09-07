@@ -11,8 +11,8 @@ toc:
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
-- "Recommandations"
-tags: ['autorisation', 'construire', 'service public', 'participation']
+- "Recommendations"
+tags: ['autorisations', 'construction', 'service public', 'participation']
 ---
 
 ### Situation actuelle
@@ -61,7 +61,6 @@ L’office des autorisations de construire
 tous les demandeurs d’une APA
 
 
-### Recommandations
+### Recommendations
 
-Ce type de service apporte beaucoup de transparence et facilite les suivis des demandes de contructions. EElle pourrait être complété par des donnée ouvertes disponibles à tous pour une meilleure compréhension et suivi à la fois du service, 
-mais aussi de la politique de la ville sur l’urbanisme. 
+Ce type de service apporte de la transparence et facilite les suivis des demandes de contructions. Elle pourrait être complété par des donnée ouvertes disponibles à tous pour une meilleure compréhension et suivi à la fois du service, mais aussi de la politique de la ville sur l’urbanisme. 
