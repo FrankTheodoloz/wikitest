@@ -4,13 +4,13 @@ key: environnement
 title: Qualité de l'eau
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: [information, limitée, SIG, environnement]
+- "Bibliographie"
+tags: ['information', 'service public', 'environnement']
 ---
 
 ### Situation actuelle
@@ -19,10 +19,7 @@ Nous avons rapidement trouvé cette information auprès des SIG (Services Indust
 de la zone d'habitation, de plus, ils fournissent les données d'analyse de l'eau de l'année 2019, son traitement, et le nombre de prélèvements réalisés.
 Les SIG communiquent également sur le traitement des [eaux usées](https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees).
 
-Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades
-
-### Besoins à remplir
-Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme.
+Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades. Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme.
 
 - Long terme
     * Améliorer la qualité des cours d'eau
@@ -67,7 +64,7 @@ Il serait intéressant de mieux communiquer entre la confédération et le canto
 La navigation des applications web doivent être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolètes [cliquer sur l'onglet eau en haut](https://vhg.ch/xt_vh/index.php), il faudrait faciliter le signalement des données corrompues/manquantes.
 
 
-*Bibliographie
+### Bibliographie
 
 * Informations sur la qualité de l'eau potable à Genève https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve
 * Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
