@@ -4,13 +4,12 @@ key: justice
 title: Référendum cantonal
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Participation ', 'Référendum cantonal', 'Service public']
+tags: ['participation ', 'référendum cantonal', 'service public']
 ---
 
 ### Situation actuelle
@@ -34,11 +33,7 @@ récolte, sur rendez-vous et selon les conditions fixées par l'art. 89 LEDP.
 6. Le dépôt final doit être effectué au plus tard à la fin du délai de récolte, en une seule fois, au
 service des votations et élections. 
 
-Tiré du document : https://www.ge.ch/document/procedure-depot-referendum-cantonal/telecharger
-
-### Besoins à remplir
-
-Mettre à disposition les informations suivantes à la population ainsi qu’aux différents parties politiques Genevois
+Le site met à disposition les informations suivantes à la population ainsi qu’aux différents parties politiques Genevois : 
 
 * Référendum en cours
 * Vérification des signatures
@@ -50,10 +45,12 @@ Mettre à disposition les informations suivantes à la population ainsi qu’aux
 
 Les informations sont disponibles en lecture sur le site : https://www.ge.ch/legislation/referendum/. Le site organise differentes information comme les Référendums en cours de traitement, les Référendums totalement traités ou les résultates des récoltes des signatures, mais n'accompagne pas l'utilisateur avec des informations pratiques sur le traitement ou l'organisation des données.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Nous supposons que ce site est utilisé par les parties politiques et par toutes les personnes s’intéressant en détail à toutes les échéances d’une procédure de référendum. Nous ne conaissons pas le nombre exacte d'utilisateur. Le site est mis a jour régulièrement si l’on constate les dernières dates insérées sur le site.
 
+A titre d’information : Monsieur GRÜTER FRANZ du Groupe de l’Union démocratique du Centre avait déposé en mars 2018 une motion pour autoriser la collecte de signatures en lignes. Cette motion a été rejeté par le conseil national deux mois plus tard en mai 2018.
+Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
 
 ### Responsables
 
@@ -67,5 +64,8 @@ Le Grand Conseil
 
 Nous recommandons de mettre en place un système de collecte de signature en ligne. En utilisant l’E-ID, qui va très surement être mis en place ces prochaines années, comme moyen d’identification.
 
-A titre d’information : Monsieur GRÜTER FRANZ du Groupe de l’Union démocratique du Centre avait déposé en mars 2018 une motion pour autoriser la collecte de signatures en lignes. Cette motion a été rejeté par le conseil national deux mois plus tard en mai 2018.
-Voir : https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20183062
+### Bibliographie
+
+* Chancellerie d'Etat, Service de la législation accessible à http://www.ge.ch/legislation/
+* République et canton de Genève, Initiatives, référendums et pétitions accessible à https://www.ge.ch/initiatives-referendums-petitions/referendum-facultatif-cantonal
+
