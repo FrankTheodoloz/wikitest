@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Cyber-défense', 'Cyber-risques', 'Cyber-incident', 'Collaboration']
+tags: ['cyber-défense', 'service public', 'cyber-incident', 'information']
 ---
 
 ### Situation actuelle
@@ -19,6 +19,8 @@ Le conseil fédéral adopté un plan de protection contre les cyberrisques créa
 * des nouvelles normes, 
 * l’obligation de signaler un cyber-incident
 * la création d’un groupe d’experts venant de milieu différents.
+
+L’ordonnance sur les cyberrisques adoptée par le Conseil fédéral est en vigueur depuis le 1er juillet 2020. Elle constitue la base juridique pour la création et le développement du NCSC et réglemente la structure, les tâches et les compétences des autorités impliquées. 
 
 ### Besoins à remplir
 
@@ -31,7 +33,7 @@ Mise en commun des connaissances des différents acteurs.
 
 ### Résultats ou Utilisation
 
-Trop tôt
+Trop tôt pour évaluer. 
 
 ### Responsables
 
