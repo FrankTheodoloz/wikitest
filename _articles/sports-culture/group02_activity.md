@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Stade de Genève', 'panneaux solaires', 'collaboration']
+tags: ['Stade de Genève', 'panneaux solaires', 'information']
 ---
 
 ### Situation actuelle
