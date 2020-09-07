@@ -4,24 +4,22 @@ key: justice
 title: JUSTICIA
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Participation ', 'Pas commencé ', 'Justitia 4.0 ', 'Projet pubic']
+tags: ['participation ', 'pas commencé ', 'Justitia 4.0 ', 'Projet pubic']
 ---
 
 ### Situation actuelle
 Projet en phase d'implémentation.
 
-Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au numérique dans les domaines du droit pénal, civil et administratif. D’ici 2026, toutes les parties d’une procédure judiciaire pourront communiquer par voie électronique via un portail central hautement sécurisé avec quelque 300 tribunaux, les ministères publics, les barreaux et les autorités d’exécution à l’échelon cantonal et fédéral. Cette transformation entraîne le remplacement des dossiers physiques actuels par des dossiers électroniques et l’optimisation de l’environnement de travail de la justice ainsi que de l’infrastructure. Simultanément, une base légale est élaborée pour introduire une obligation (comprenant des exceptions) de communiquer par voie électronique entre les parties impliquées dans une procédure. Ce travail se déroule sous l’égide de l’Office fédéral de la justice.
-### Besoins à remplir
+Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au numérique dans les domaines du droit pénal, civil et administratif. D’ici 2026, toutes les parties d’une procédure judiciaire pourront communiquer par voie électronique via un portail central hautement sécurisé avec quelque 300 tribunaux, les ministères publics, les barreaux et les autorités d’exécution à l’échelon cantonal et fédéral. Cette transformation entraîne le remplacement des dossiers physiques actuels par des dossiers électroniques et l’optimisation de l’environnement de travail de la justice ainsi que de l’infrastructure. Simultanément, une base légale est élaborée pour introduire une obligation (comprenant des exceptions) de communiquer par voie électronique entre les parties impliquées dans une procédure. Ce travail se déroule sous l’égide de l’Office fédéral de la justice avec les objectifs suivants :
 
-1. Avoir un portail unique de la justice.
-2. Pouvoir remplacer l'intégralité des dossiers papiers par les dossiers électroniques.
-3. Supprimer l'acheminement postal par l'échange électronique de données et de ce fait pouvoir avoir accès en ligne aux dossiers.
+- Avoir un portail unique de la justice.
+- Pouvoir remplacer l'intégralité des dossiers papiers par les dossiers électroniques.
+- Supprimer l'acheminement postal par l'échange électronique de données et de ce fait pouvoir avoir accès en ligne aux dossiers.
 
 
 ### Règles de gouvernance
@@ -44,7 +42,7 @@ Les utilisateurs devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les a
 
 La platform Justicia.swiss ne stockera pas durablement les documents en relation avec une procédure judiciaire. Une fois que les autorités judiciaires les auront téléchargées et intégrées au dossier, le fichier sur la platforme ne sera pas conservé.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations. La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026. Le plan directeur donne un aperçu de la structure substantielle et temporelle de la procédure et met en évidence les principales dépendances. Il constitue également la base pour planifier et traiter de manière plus approfondie les différents sous-projets.
 
 * Un recensement détaillé des exigences sera réalisé de 2018 à 2020. Pour ce faire, des groupes spécialisés et d’accompagnement différents sont mis sur pied pour épauler les travaux du projet.
@@ -85,6 +83,14 @@ Nous avons cependant des idées de fonctionnalité qui selon nous seraient inté
 
 * Que les citoyens disposent d'un espace de stockage pour consulter à tout moment leurs documents judiciaires.
 * Mettre en place un forum sur la platform Justicia.swiss qui permettrait aux particuliers de poser des questions et d'avoir des réponses ou conseil rapidement et sans avoir besoin de se rendre dans une permanence juridique.
+
+### Bibliographie
+
+* LA JURISPRUDENCE GENEVOISE accessible à http://ge.ch/justice/dans-la-jurisprudence?
+* Les site du projet Justicia 4.0 est accessible à https://www.justitia40.ch/fr/pourquoi-justitia-4-0/
+* Miriam Mazou Le Tribunal fédéral et la justice suisse accélèrent leur numérisation, 12 mai 2020, disponible à https://blogs.letemps.ch/miriam-mazou/2020/05/12/le-tribunal-federal-et-la-justice-suisse-accelerent-leur-numerisation/
+* Sibilla Bondolfi, La Suisse au-devant d’un chantier colossal: la numérisation de sa justice, 06 Mars 2020, disponible à https://www.swissinfo.ch/fre/societe/justitia-4.0_la-suisse-au-devant-d-un-chantier-colossal--la-num%C3%A9risation-de-sa-justice/45593156
+
 
 ### Interview
 Dans l'objectif de clarifier certaines intérogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
