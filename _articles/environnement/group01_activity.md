@@ -4,13 +4,12 @@ key: environnement
 title: Qualité de l'air
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: [information, substantiel, environnement, communication, stick'air]
+tags: ['information', 'environnement', 'service public']
 ---
 
 ### Situation actuelle
@@ -26,9 +25,6 @@ Afin d’obtenir ces mesures, il existe 4 stations de mesure dans le Canton :
 
 Ces derniers vont traiter plusieurs composant pour nous donner des résultats sur différents polluants de l’air comme le taux de poussières en suspension, le dioxyde d’azote et l’Ozone.
 
-
-### Besoins à remplir
-
 Les objectifs d'[Environnement 2030](https://www.ge.ch/document/environnement-2030-concept-cantonal-protection-environnement/telecharger) ainsi que l'[Ordonnance sur la protection de l’air](https://www.admin.ch/opc/fr/classified-compilation/19850321/index.html) montrent que, aussi bien à échelle Cantonal que national, nous visons à une amélioration de la qualité de l'air en diminuant les principaux polluants.
 
 Un plan de communication autour des pics de pollution est en train d'être mise en place autour du contexte de la circulation différenciée.
@@ -38,7 +34,7 @@ Un plan de communication autour des pics de pollution est en train d'être mise 
 Les analyses sont effectuées par le Réseau d’Observation de la Pollution Atmosphérique à Genève, Département de l'environnement.
 Les résultats peuvent être consultés librement sur le site [ge.ch]( https://www.ge.ch/connaitre-qualite-air-geneve/).
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Sur ce dernier, [ge.ch]( https://www.ge.ch/connaitre-qualite-air-geneve/) va nous permettre d'avoir plusieurs types de résultats
 
