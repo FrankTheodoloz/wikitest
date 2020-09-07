@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Recommandations"
 - "Bibliographie"
-tags: ['jeunesse', 'sensibilisation', 'enseignement', 'dangers du numérique']
+tags: ['jeunesse', 'service public', 'sensibilisation', 'information']
 ---
 
 ### Situation actuelle
