@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['information', 'service privée', 'platforme hôtellerie']
+tags: ['information', 'service privée', 'plateforme hôtellerie', 'régulation']
 ---
 
 ### Situation actuelle
