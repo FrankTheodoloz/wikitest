@@ -4,9 +4,8 @@ key: elections-votations
 title: CHVote
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -17,26 +16,20 @@ toc:
 - "Questions posées lors de l’interview avec M. Kupper"
 - "Réponses de M. Kupper"
 - "Bibliographie"
-tags: ['collaboration', 'élections', 'vote électronique', 'service public', 'CHvote']
+tags: ['collaboration', 'vote électronique', 'service public', 'CHvote']
 ---
 
 ### Situation actuelle
 
 CHVote est un système de vote électronique qui à été fonction dans le canton de Genève pendant 15 ans (2004 à 2019, à partir de 2009 pour les Suisse de l’étranger) et qui a servi pour 54 votations. Le projet à été mis à l’arrêt dû à des contraintes budgétaires. Une nouvelle version 2.0 était prévu avec des normes de sécurités plus élevées.
 
-Actuellement, le projet 2.0 à été repris par la Haute école spécialisée de Berne.
-
-### Besoins à remplir
-
-Le besoin que remplissait le système CHVote, était tout simplement la possibilité de voter en ligne sans devoir passer par le vote par correspondance.
-
-À terme, le but était d’encourager la participation de la population afin que le processus démocratique soit amélioré.
+Actuellement, le projet 2.0 à été repris par la Haute école spécialisée de Berne. Le besoin que remplissait le système CHVote, était tout simplement la possibilité de voter en ligne sans devoir passer par le vote par correspondance. À terme, le but était d’encourager la participation de la population afin que le processus démocratique soit amélioré.
 
 ### Règles de gouvernance
 
 Le système de votations électronique CHVote permettait aux citoyens de voter électroniquement. Au lieu de voter par correspondance ou en se rendant au bureaux de vote, ceux-ci recevaient les instructions pour le vote électronique dans une enveloppe pour ensuite procéder au vote sur leurs ordinateurs.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Le système CHVote à été utilisé pendant 15 ans, pour 54 votations.
 
@@ -127,6 +120,3 @@ Enfin, dans le cas d’un possible retour de CHVote, celui-ci nous indique que r
 ### Bibliographie
 
 ANON., 2018. Le canton de Genève renonce à sa plate-forme de vote électronique. In : rts.ch [en ligne]. 28 novembre 2018. [Consulté le 6 juin 2020]. Disponible à l’adresse : https://www.rts.ch/info/regions/geneve/10028542-le-canton-de-geneve-renonce-a-sa-plate-forme-de-vote-electronique.html.
-
-
-
