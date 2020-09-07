@@ -2,14 +2,13 @@
 layout: activity
 key: education
 title: Le numérique à l’école
-tags: ['information', 'limité', 'enseignement', 'projets pilotes']
+tags: ['information', 'enseignement', 'projet public', 'pilotes']
 toc:
 - "Situation actuelle"
-- "Questions"
 - "Objectifs annoncés"
 - "Règles de gouvernance"
 - "Résultats et utilisation"
-- "Analyse Wikinomique"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -49,7 +48,6 @@ Seulement s’il existe une plus-value pédagogique.
 Différenciation, respect du rythme de chacun.
 Le travail doit-être collaboratif et par projet.
 
-
 ### Résultats et utilisation
 
 Toujours en cours d’élaboration.
@@ -58,7 +56,7 @@ Quelques projets pilotes sont en cours dans des écoles Genevoises, en voici 2 e
 -	Une classe de l’école primaire de Chandieu utilise des tablettes numériques pour permettre l’apprentissage de plusieurs matières : médias et images, français, expression orale, etc…
 -	Une classe de 4e et 5e primaire de l’école du Seujet utilise un robot développé par l’EPFL appelé Thymio. Doté de capteurs, ce robot peut parcourir un trajet en évitant des obstacles, il permet l’apprentissage des notions d’espace, d’aire et de périmètre et également de développer des compétences de collaboration et de communication entre élèves.
 
-### Analyse Wikinomique
+### Analyse Wikinomie
 
 Le souhait exprimé par les enseignants et les syndicats d’être plus impliqués dans la mise en place du numérique à l’école va dans le sens d’une approche Wikinomique.
 
