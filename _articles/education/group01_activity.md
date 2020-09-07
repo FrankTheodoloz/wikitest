@@ -2,7 +2,7 @@
 layout: activity
 key: education
 title: Le numérique à l’école
-tags: ['information', 'enseignement', 'projet public', 'pilotes']
+tags: ['information', 'enseignement', 'projet public']
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
