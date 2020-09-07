@@ -9,33 +9,12 @@ toc:
 
 ### Contexte
 
-Analyse de la stratégie mise en place par le canton de Genève dans la 
-numérisation du Transport et de la mobilité.
+L’ enquête, le microrecensement mobilité et transports,  conduite tous les cinq ans par l'Office fédéral de la statistique (OFS) dans le cadre du recensement de la population modernisé (données recueillies en 2015 [disponible ici](https://www.ge.ch/document/analyse-du-microrecensement-mobilite-transports-2015-mrmt-2015)), observe : 
+- Une dynamique très lente, mais continue de démotorisation des ménages dans le canton de Genève depuis 2000. 
+- L’attrait du deux-roues motorisé reste stable sur l’ensemble de la population, mais est en progression parmi les 18-24 ans, qui sont également la classe d’âge la plus équipée
+- Les transports en commun : une croissance marquée de la part d'abonnés (de 21% à 44% d’abonnés).
 
-**tpgPreview**
+La stratégie [Mobilité 2030 ](https://www.ge.ch/dossier/organiser-avenir-transports/mobilite-2030
+)de l'Etat de Genève ordonne les projets de transport en trois étapes. L’étape 2020 sera marquée par la mise en service du réseau ferroviaire franco-valdo-genevois Léman. L’étape 2025 verra à la fois un renforcement du réseau routier, avec notamment la finalisation de l’élargissement de l’autoroute, la densification des dessertes de transport public, de nouvelles lignes de tramway et l’extension de la gare de Cornavin. Il est enfin prévu, à l’horizon 2030, la réalisation de la Traversée du Lac, d’une diamétrale ferroviaire et de nouveaux compléments de transport public.
 
-Les Transports publics genevois (TPG) propose une nouvelle application mobile 
-qui permet d’effectuer des recherches d’itinéraire en temps réel et acheter 
-des billets électroniques directement sur l’application par carte bancaire.
-
-**TP Publicité**
-
-TP Publicité propose un service permettant de faire de la publicité digitale 
-sur les écrans embarqués dans les véhicules des TPG, distributeurs, 
-application web et mobile. 
-
-**Skyguide**
-
-Skyguide propose plusieurs services dans le domaine de l'aviation à partir de
-la page web destiné à fournir des informations sur tous les types de vols.
-
-**TPG Open Data**
-
-Les TPG mettent à disposition les données des transports publics en temps réel
-sur leur site internet.
-
-**OpenData Swiss**
-
-OpenData Swiss est le portail des données ouvertes et est disponible en libre 
-accès. Ces données concernent tous les domaines de l'administration, les 
-transports et la mobilité inclus.
+Dans ce contexe, nous analyserons la stratégie mise en place par le canton de Genève dans la numérisation du Transport et de la mobilité.
