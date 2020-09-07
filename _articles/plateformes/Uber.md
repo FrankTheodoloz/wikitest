@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Uber', 'Taxi', 'LTVTC', 'VTC', 'UNIA']
+tags: ['service privée', 'plateforme Taxi', 'régulation', 'information']
 ---
 
 ### Situation actuelle
