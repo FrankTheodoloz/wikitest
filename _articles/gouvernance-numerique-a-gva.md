@@ -9,11 +9,11 @@ toc:
 - "Etat de l'art"
 - "LIPAD du canton de Genève"
 - "Les résultats de la recherche par activité"
-- "Le benchmaking de l'initiative Open Government Partnership (OGP)"
+- "Le benchmaking de l'initiative Open Government Partnership"
 - "L'état de Genève dans le benchmarking de l'OGP"
 - "Nos recommendations"
 - "Nos conclusions"
-- "L'équipe de recherche"
+- "L' équipe de recherche"
 tags: ['wikinomie', 'compétences numériques', 'digitalisation', 'gouvernement ouverte', 'recommendations', 'conclusions']
 ---
 
@@ -119,8 +119,7 @@ d)	Coopération : activité avec des règles de gouvernance qui définissent et 
 *Source*
 - Gouvernance Numérique à Genève 2019 - 2020, https://2020.wikipolitics.ch/
 
-### Le benchmaking de l'initiative Open Government Partnership (OGP)
-
+### Le benchmaking de l'initiative Open Government Partnership
 Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), 
 qui vise à améliorer l'efficacité et la responsabilité des modes de gouvernance publique. 
 Elle établit que les citoyens ont le droit et les ressources nécessaires d’accéder aux documents et aux procédures de leurs gouvernements. 
