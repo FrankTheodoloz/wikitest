@@ -10,11 +10,7 @@ toc:
 
 ### Contexte
 
-Le numérique est porteur de changements considérables dans toutes les sphères d’activités humaines.
-
-Les réseaux sociaux facilitent l’accès à la parole publique et bouleverse la presse traditionnelle, les plateformes d’intelligence collective tel que Wikipédia change le rapport au savoir et à l’expertise, le vote électronique et l’administration en ligne font évoluer la pratique démocratique, l’intelligence artificielle et les crypto-monnaies impactent le système économique, la dématérialisation des contenus transforme l’industrie culturelle et l’apprentissage, les interactions sociales sont bouleversées par de nombreuses applications de communication virtuelle.
-
-Le système éducatif est également impacté par la transition numérique tant pour les élèves dans leur façon d’apprendre que pour les enseignant-e-s dans leur manière de transmettre les connaissances.
+Le numérique est porteur de changements considérables dans toutes les sphères d’activités humaines. Les réseaux sociaux facilitent l’accès à la parole publique et bouleverse la presse traditionnelle, les plateformes d’intelligence collective tel que Wikipédia change le rapport au savoir et à l’expertise, le vote électronique et l’administration en ligne font évoluer la pratique démocratique, l’intelligence artificielle et les crypto-monnaies impactent le système économique, la dématérialisation des contenus transforme l’industrie culturelle et l’apprentissage, les interactions sociales sont bouleversées par de nombreuses applications de communication virtuelle.
 
 C’est dans ce contexte que le Conseil d’Etat a établi, en 2018, une politique numérique à Genève dans laquelle le département de l'instruction publique, de la formation et de la jeunesse (DIP) joue un rôle majeur autour de 3 objectifs :
 
@@ -35,10 +31,6 @@ Pour atteindre ces objectifs le DIP a établi un certain nombre de principes vis
 -	Prévention : L’éducation au numérique a pour objectif – outre l’apprentissage des concepts fondamentaux de la science informatique et le développement de l’esprit critique – de former les élèves contre les risques du numérique.
 -	Formation : Le développement du numérique à l’école implique tant d’adapter la formation initiale des enseignant-e-s que de mettre en place une formation continue adéquate permettant d’intégrer le numérique dans l’ensemble des enseignements.
 -	Participation : Pour construire l’école de la citoyenneté numérique, le DIP favorise et organise la participation de ses partenaires internes et externes pour que chaque partie prenante puisse s’approprier la transition numérique.
-
-Ce rapport a pour but de sélectionner un échantillon d’activités en lien avec le numérique et le système éducatif Genevois au regard de la Wikinomie. 
-
-*Bibliographie
-1. Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger
-2. Une vision pour l’instruction publique et le système de formation genevois disponible à https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger*
+(Sources: Rapport sur la politique numérique pour la ville de Genève disponible [ici](https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger) et Une vision pour l’instruction publique et le système de formation genevois disponible [ici](https://www.ge.ch/document/ecole-au-service-citoyennete-numerique/telecharger
+)).
 
