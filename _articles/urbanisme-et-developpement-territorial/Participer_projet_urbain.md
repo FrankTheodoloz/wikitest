@@ -6,14 +6,13 @@ toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
 - "Règles de gouvernance"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['concertation', 'participation', 'service public']
+tags: ['concertation', 'participation', 'service public', 'aménagement du territoire']
 ---
 
 ### Situation actuelle
@@ -60,7 +59,7 @@ Participer.ge.ch est une plateforme numérique mise à disposition par la Répub
 qui est développé par une communauté soutenue par la mairie de Barcelone.
 
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 La plateforme numérique propose un récapitulatif des participations et propositions qui ont été faites sur le site. Elle expose également le nombre de commentaires, rencontres, articles, etc..., relatif aux projets présents sur le site. Cela permet d’avoir une bonne image de l’utilisation de ce site et de son évolution. Le site n’étant que très récent il y a pour l’instant que peu de projet et de participation. Cependant, l’État de Genève voulant clairement mettre en avant la collaboration sur les enjeux de développement urbain, on peut s’attendre à ce que cette plateforme soit mise en avant et devienne donc de plus en plus utilisée.
 
