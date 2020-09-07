@@ -24,4 +24,4 @@ Les travaux portent sur le réexamen et l’adaptation des exigences applicables
 - Renforcement de la transparence et de la confiance
 - Renforcement des liens avec les milieux scientifiques
 
-(Source: Chancellerie fédérale, Vote électronique, chttps://www.bk.admin.ch/bk/fr/home/droits-politiques/groupe-experts-vote-electronique.html#:~:text=Vote%20%C3%A9lectronique%20est%20un%20projet,mobile%20et%20de%20mani%C3%A8re%20v%C3%A9rifiable)
+(Source: Chancellerie fédérale, Vote électronique, disponibe à https://www.bk.admin.ch/bk/fr/home/droits-politiques/groupe-experts-vote-electronique.html#:~:text=Vote%20%C3%A9lectronique%20est%20un%20projet,mobile%20et%20de%20mani%C3%A8re%20v%C3%A9rifiable)
