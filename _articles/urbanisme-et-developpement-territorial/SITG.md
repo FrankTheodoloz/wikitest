@@ -6,13 +6,12 @@ toc:
 - "Situation actuelle"
 - "Ojectifs annoncés"
 - "Règles de gouvernance"
-- "Besoins à remplir"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['territoire', 'transparence', 'données', 'service public', 'collaboration']
+tags: ['territoire', 'données ouvertes', 'service public', 'collaboration']
 ---
 
 ### Situation actuelle
@@ -27,9 +26,7 @@ Il constitue en même temps :
 * Un outil d'aide à la décision fournissant une image flexible et dynamique du territoire et ses contraintes
 * Un vecteur d'innovation et de dynamisme autour du territoire
 
-Le site permet donc à plein de corps de métier relatifs à l’urbanisme et à l’aménagement du territoire de partager ces données avec, en fonction des données, différents droits. Ces données sont ensuite répertoriées sur le site qui est consultable par tous. Il existe trois modes d’utilisation des données qui sont décrites ci-dessous au point « Règles de gouvernance ».
-
-Le SITG propose également des cours gratuits pour apprendre à utiliser les fonctionnalités plus complexes misent à disposition sur leur site.
+Le site permet donc à plein de corps de métier relatifs à l’urbanisme et à l’aménagement du territoire de partager ces données avec, en fonction des données, différents droits. Ces données sont ensuite répertoriées sur le site qui est consultable par tous. Il existe trois modes d’utilisation des données qui sont décrites ci-dessous au point « Règles de gouvernance ». Le SITG propose également des cours gratuits pour apprendre à utiliser les fonctionnalités plus complexes misent à disposition sur leur site.
 
 
 ### Objectifs annoncés
@@ -58,12 +55,7 @@ Les formats raster et lidar sont également disponibles mais doivent faire l’o
 
 Le SITG propose différentes méthodes d’utilisation des données. Les services Web qui permettent d’intégrer des données dans des applications à l’aide de standards, mais divers outils spécialisés permettent également d’interroger ou d’interagir avec le SITG. 
 
-Ils ont mis en place une charte qui est libre et volontairement acceptée des partenaires et qui fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG.
-
-
-### Besoins à remplir
-
-Ils ont mis en place une charte que les partenaires ont accepté de manière libre et volontaire. Elle fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle est trouvable sur le site au même titre que les condition d’utilisation qui doivent être accéptées par toute personne voulant utiliser des données. (https://ge.ch/sitg/le-sitg/organisation/bases-legales)
+Ils ont mis en place une charte qui est libre et volontairement acceptée des partenaires et qui fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle est trouvable sur le site au même titre que les condition d’utilisation qui doivent être accéptées par toute personne voulant utiliser des données. (Source : https://ge.ch/sitg/le-sitg/organisation/bases-legales)
 
 
 ### Résultats ou Utilisation
