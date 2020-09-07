@@ -2,15 +2,13 @@
 layout: activity
 key: education
 title: Prévention contre le (cyber)harcèlement
-tags: ['participation', 'substantiel', 'prévention', 'harcèlement', 'formation', 'communication']
+tags: ['participation', 'harcèlement', 'service public']
 toc:
 - "Situation actuelle"
-- "Questions"
-- "Objectifs annoncés"
-- "Besoins à remplir"
+- "Objectifs"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
-- "Analyse Wikinomique"
+- "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -51,20 +49,10 @@ La prise en charge de situation par le Groupe-Prévention lors du protocole type
 
 La quatrième et dernière mesure du plan d’action concerne «Informer sur le (cyber)harcèlement à destination des professionnels, des élèves et des parents». L’objectif de cette mesure est de communiquer, d’informer et de sensibiliser un large public aux situations de (cyber)harcèlement à l’école et de faire connaître le plan d’action et de prévention de l’État de Genève pour orienter et donner des conseils pratiques aux personnes confrontées à ce problème. À cette fin, des fiches d’information pour les trois publics concernés ont été créées et diffusées.
 
-*Bibliographie
 1. Plan d'actions et de prévention des situations de harcèlement à l'école disponible à https://www.ge.ch/document/plan-actions-prevention-situations-harcelement-ecole/telecharger
 2. Page Prévenir et lutter contre le (cyber)harcèlement, site internet du DIP, disponible à https://www.ge.ch/organisation/departement-instruction-publique-formation-jeunesse-dip/prevenir-lutter-contre-cyberharcelement*
 
-### Questions
-
--	Dans le cadre de la lutte contre le cyberharcèlement, avez-vous des exemples de cas concrets qui vous ont été rapportés ?
--	De quelle manière ces cas ont été pris en charge ? Est-ce que les personnes harcelées ont pu obtenir une réponse satisfaisante ? 
--	Pensez-vous qu’une démarche participative citoyenne pourrait aider à l’amélioration continue de ces processus ?
-
-Ces questions ont été communiquées au département de l'instruction publique (DIP) le 5 mai 2020. Malheureusement après plusieurs échanges, le service de la recherche en éducation (SRED) n'a pas souhaité donner suite à notre demande dans un mail suivant datant du 18 mai 2020 en expliquant que :
->La demande n'offre ainsi pas de notre point de vue les garanties scientifiques et conceptuelles de l'utilisation des interviews qui seront effectuées auprès des acteurs du département.
-
-### Objectifs annoncés
+### Objectifs
 
 Ce plan prévoit une coordination forte entre les intervenants et prône une approche participative de tous les acteurs en amont et en aval du phénomène (prévention et prise en charge des cas de harcèlement). L’ensemble du personnel doit être formé : les enseignants, mais aussi la bibliothécaire, les infirmières, etc., ainsi que les parents. La prévention doit être de longue durée pour être efficace. 
 
@@ -93,33 +81,18 @@ Communiquer, informer et sensibiliser un large public aux situations de (cyber)h
 Promouvoir le plan d’action et de prévention pour orienter et donner des conseils pratiques aux personnes confrontées à ce problème.
 Création de fiches d’information pour les trois publics concernés (Enseignants, Elèves et Parents).
 
-### Besoins à remplir
-
-Formation pour l’ensemble des enseignants.
-Définir les comportements à adopter en matière de prévention, de détection ou de prise en charge des cas de harcèlement.
-Informer les enseignants au sujet des dangers des nouvelles technologies.
-
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Entre 2013 et 2016, une dizaine d’établissements ont participé à une phase pilote de déploiement.
 
 La Cour des comptes, rapport n°151, octobre 2019 : «Politique de lutte contre le harcèlement entre élèves en milieu scolaire».
 
-### Analyse Wikinomique
+### Analyse Wikinomie
 
-Ce plan prévoit une coordination forte entre les intervenants et prône une approche participative de tous les acteurs en amont et en aval du phénomène (prévention et prise en charge des cas de harcèlement).
-
-Des difficultés subsistent toutefois en matière de prévention, de repérage, de prise en charge des cas et de pilotage de la politique publique. Ainsi, il existe de grandes disparités entre établissements. 
-
+Ce plan prévoit une coordination forte entre les intervenants et prône une approche participative de tous les acteurs en amont et en aval du phénomène (prévention et prise en charge des cas de harcèlement). Des difficultés subsistent toutefois en matière de prévention, de repérage, de prise en charge des cas et de pilotage de la politique publique. Ainsi, il existe de grandes disparités entre établissements. 
 La prise en charge telle que prévue dans le protocole d’intervention du DIP concerne un grand nombre d’acteurs qui doivent déployer une action coordonnée. 
 
-Après recherche, nous constatons que seulement un nombre minime d’établissement et d’enseignants ont pris part à l’évaluation de la Cour des comptes.
-
-La complexité du dispositif fait ressortir des failles dans la collaboration entre les acteurs, notamment dans la qualité des échanges d’informations. 
-
-Finalement, malgré la quantité d’acteurs étatiques impliqués dans la mise en œuvre, aucun d’entre eux n’a une vue d’ensemble des actions entreprises. 
-
-Il n’y a par exemple actuellement aucune autorité qui recueille les annonces de cas et centralise les protocoles d’intervention. 
+Après recherche, nous constatons que seulement un nombre minime d’établissement et d’enseignants ont pris part à l’évaluation de la Cour des comptes. La complexité du dispositif fait ressortir des failles dans la collaboration entre les acteurs, notamment dans la qualité des échanges d’informations.  Finalement, malgré la quantité d’acteurs étatiques impliqués dans la mise en œuvre, aucun d’entre eux n’a une vue d’ensemble des actions entreprises.  Il n’y a par exemple actuellement aucune autorité qui recueille les annonces de cas et centralise les protocoles d’intervention. 
 
 ### Responsables
 
@@ -138,3 +111,5 @@ Avoir un suivi formaliser des données relatives aux cas de harcèlement. Un mei
 L’amélioration de la coordination et de la communication entre les acteurs permettrait d’harmoniser les pratiques entre établissements et de clairement définir les éléments à communiquer : entre l’établissement et des organismes externes ainsi que des acteurs externes (parents).
 
 Dans le but de se rapprocher d’une vision wikinomique, nous recommandons au DIP de définir un acteur responsable. Cet acteur serait responsable de la centralisation des données émanant des différents établissements, ce qui lui permettrait d’avoir une vue d’ensemble des actions entreprises en matière de prévention, des cas signalés comme du harcèlement et du suivi général des cas.
+
+### Bibliographie
