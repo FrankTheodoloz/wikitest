@@ -6,7 +6,7 @@ toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
@@ -33,7 +33,7 @@ Dématérialiser le traitement et le suivit des demandes d’APA, du dépôt de 
 
 Pour déposer une APA il faut avoir un compte e-démarches qui est disponible pour tous les citoyens de l’État de Genève. Une fois inscrit aux e-démarches, il suffit d’activer la rubrique « autorisations de construire » dans l’onglet « Accéder aux prestations ». Cela prend environ 1h.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Comme l’ensemble des prestations e-démarches, elle est de plus en plus utilisée. L’État de Genève développant constamment les services de cet outil, elle est de plus en plus connue et utilisée. De plus, l’État de Genève continue à la faire évoluer dans le sens des utilisateurs et demandes donc régulièrement leurs avis à ceux-ci par le biais de questionnaires par exemple. Le but étant de l’adapter au mieux aux besoinx des citoyens genevois.
 
