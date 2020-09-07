@@ -5,7 +5,6 @@ key: justice
 is_main: true
 toc:
 - "Contexte"
-- "Bibliographie"
 ---
 
 ### Contexte
@@ -22,23 +21,3 @@ La justice suisse n’a certes pas attendu la pandémie pour amorcer sa numéris
 Le passage au numérique du système judiciaire suisse devient aujourd’hui une nécessité car la Suisse est clairement en retard sur la numérisation de sa justice.
 Au niveau de la wikinomie dans la justicie suisse, il y encore beaucoup à faire tant au niveau cantonal que fédéral. Le projet Justicia 4.0 apportera 
 surement une avancée certaine mais la culture collaborative de la wikinomie n'est clairement pas implementé dans ce nouveau système.
-
-
-### Bibliographie
-
-
-**Justicia 4.0**
-
-* LA JURISPRUDENCE GENEVOISE accessible à http://ge.ch/justice/dans-la-jurisprudence?
-* Les site du projet Justicia 4.0 est accessible à https://www.justitia40.ch/fr/pourquoi-justitia-4-0/
-* Miriam Mazou Le Tribunal fédéral et la justice suisse accélèrent leur numérisation, 12 mai 2020, disponible à https://blogs.letemps.ch/miriam-mazou/2020/05/12/le-tribunal-federal-et-la-justice-suisse-accelerent-leur-numerisation/
-* Sibilla Bondolfi, La Suisse au-devant d’un chantier colossal: la numérisation de sa justice, 06 Mars 2020, disponible à https://www.swissinfo.ch/fre/societe/justitia-4.0_la-suisse-au-devant-d-un-chantier-colossal--la-num%C3%A9risation-de-sa-justice/45593156
-
-**Référendum cantonales**
-
-* Chancellerie d'Etat, Service de la législation accessible à http://www.ge.ch/legislation/
-* République et canton de Genève, Initiatives, référendums et pétitions accessible à https://www.ge.ch/initiatives-referendums-petitions/referendum-facultatif-cantonal
-
-**Satistiques cantonales**
-
-* République et canton de Genève, LES 21 DOMAINES : 19. JUSTICE, SÉCURITÉ ET CRIMINALITÉ accessible à https://www.ge.ch/statistique/domaines/19/19_02/liens.asp#1
