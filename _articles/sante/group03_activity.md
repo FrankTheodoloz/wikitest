@@ -6,14 +6,13 @@ toc:
 - "Introduction"
 - "Situation actuelle"
 - "Objectifs annoncés"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['connectivité', 'santé', 'participation', "service d'intérêt public"]
+tags: ['connectivité', 'santé', 'participation', "service privée d'intérêt public"]
 ---
 
 ### Introduction
@@ -36,21 +35,16 @@ Il existe également une application mobile à laquelle nous pouvons y accéder 
 
 L’objectif de cette application est d’obtenir un carnet de vaccination électronique qui soit accessible en tout temps sur un navigateur, à condition d'avoir une connexion internet.
 
-### Besoins à remplir
-
-Cette application a pour but principal de créer et gérer notre carnet de
-vaccination électronique, pour ne plus jamais le perdre. Il permet également de centraliser ces carnets pour que les médecins puissent avoir un outil qui leur permette de gérer rapidement les vaccins de tous leurs patients. 
+Ellea pour but principal de créer et gérer notre carnet de vaccination électronique, pour ne plus jamais le perdre. Il permet également de centraliser ces carnets pour que les médecins puissent avoir un outil qui leur permette de gérer rapidement les vaccins de tous leurs patients. 
 
 ### Règles de gouvernance
 
-Pour avoir accès un son carnet de vaccination, l’utilisateur doit fournir des
-informations personnelles pour la création de son compte (nom, prénom,
-date de naissance, téléphone portable, sexe, adresse courriel, code postal). Ces données sont traitées à tout moment
+Pour avoir accès un son carnet de vaccination, l’utilisateur doit fournir des informations personnelles pour la création de son compte (nom, prénom, date de naissance, téléphone portable, sexe, adresse courriel, code postal). Ces données sont traitées à tout moment
 de manière confidentielle et sont enregistrées en Suisse. 
 
 Il est important de préciser que l'OSFP (Office fédéral de la santé publique) n'a pas accès à ces données et chaque citoyen choisi avec quels professionnels de la santé il souhaite donner accès à son carnet. 
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Le nombre d'utilisateur de la plateforme n'est pas indiqué mais il y a actuellement, plus de 5'000 téléchargements de l'application mobile sur le PlayStore. Les chiffres sont également inconnus pour l'AppStore.
 
@@ -77,8 +71,6 @@ L'application mobile n'est pas très optimisée, ni esthétique. En effet, elle 
 * Le carnet de vaccination électronique GE.CH – République et canton de Genève. In : [en ligne]. [Consulté le 29 mai juin 2020]. Disponible à l’adresse : https://www.ge.ch/carnet-vaccination-electronique. 
 * Carnet de vaccination électronique : nombre d’utilisateurs en hausse. In : [en ligne]. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-70502.html. 
 * Vos vaccins toujours à jour grâce à myViavac - Le premier carnet de vaccination électronique suisse pour iPhone est lancé par les HUG et l’UNIGE - Communiqués de presse - UNIGE. In : [en ligne]. 20 avril 2011. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.unige.ch/communication/communiques/2011/cdp110420/. 
-
-
 
 
 
