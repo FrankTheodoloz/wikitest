@@ -152,7 +152,7 @@ Voici quelques conclusions :
 3.	La gouvernance ouverte comme objectif implicite
 4.	… 
 
-### L'équipe de recherche
+### L' équipe de recherche
 Allan Bowman, Anouk Marti, Anthony Berrut Axel Ducraux. Baptiste Loutan, Chadi Mathieu Aebi, Charles Schmid, Christian Djoumessi Tonfack, El-hassania Nour Aissaoui, Faton Murtezi, Frederic Charbonnie,  Garmilan Aiyathurai, Herve Neuenschwander, Joao Pedro de Azevedo Ferreira, Kamil Saliji, Luc Haener, Nicolas Pittet, Marco Castagnuozzo, Marion Lorenz, Okan Kocak, Sandro Wicki, Stéphane Jermini, Valerian Haury.
 
 
