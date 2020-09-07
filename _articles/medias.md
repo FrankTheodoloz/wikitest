@@ -5,7 +5,7 @@ key: medias
 is_main: true
 toc:
 - "Contexte"
-tags: [information, médias, collaboration, numérique]
+
 ---
 
 ### Contexte
