@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Recommandations"
 - "Bibliographie"
-tags: ['pièges médiatiques', 'fake news', 'sources', 'journaux locaux']
+tags: ['sensibilisation', 'information', 'service pubic']
 ---
 
 ### Situation actuelle
