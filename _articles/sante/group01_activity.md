@@ -5,9 +5,8 @@ title: MonDossierMedical.ch
 toc:
 - "Introduction"
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
@@ -18,9 +17,7 @@ tags: ['service public', 'santé', 'collaboration', 'dossier médical']
 
 ### Introduction
 
-Plateforme proposée par l’État de Genève qui permet de mettre son dossier médical en
-ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la
-santé s’occupant d’un même patient. Il s’agit en quelque sorte d’un passeport médical
+Plateforme proposée par l’État de Genève qui permet de mettre son dossier médical en ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la santé s’occupant d’un même patient. Il s’agit en quelque sorte d’un passeport médical
 accessible en ligne par les professionnels de la santé. 
 
 ### Situation actuelle
@@ -29,9 +26,7 @@ Dossier médical électronique partagé en ligne, de patient habitant le canton 
 
 >  Actuellement, MonDossierMédical.ch comporte plus de 45'000 patients et 3000 professionnels de la santé. 
 
-### Besoins à remplir
-
-Améliorer la qualité et l’efficience des soins du patient. Accès rapide à l’ensemble de ses documents médicaux et aux informations essentielles de la santé et du suivi médical. Le système est plus sûr, il permet en effet de diminuer les erreurs médicales. Il est également plus efficace et plus confidentiel. Gain de temps pour les médecins également. Il faut que l’ensemble de la population Suisse poste son dossier médical sur la plateforme afin de tous les centraliser et ainsi faciliter l’accès aux documents aux professionnels de la santé.
+La plateforme cherche à améliorer la qualité et l’efficience des soins du patient et donner un accès rapide à l’ensemble de ses documents médicaux et aux informations essentielles de la santé et du suivi médical. Le système est plus sûr, il permet en effet de diminuer les erreurs médicales. Il est également plus efficace et plus confidentiel. Gain de temps pour les médecins également. Il faut que l’ensemble de la population Suisse poste son dossier médical sur la plateforme afin de tous les centraliser et ainsi faciliter l’accès aux documents aux professionnels de la santé.
 
 ### Règles de gouvernance
 
@@ -39,7 +34,7 @@ Le patient décide avec qui il partage les droits d’accès à ses données. Co
 
 >  La plateforme fonctionne sur la confiance, donc sur qui a accès aux données et la sécurité de celles-ci.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Actuellement plus de 45'000 patients inscrits, ainsi que 3000 professionnels de la santé dont 1000 médecins. Début du projet en 2008 dans 4 communes du canton, puis étendu sur l’ensemble du canton de Genève depuis le 13 mai 2013.
 
