@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Airbnb', 'Hôtel', 'Hôtellerie']
+tags: ['information', 'service privée', 'platforme hôtellerie']
 ---
 
 ### Situation actuelle
