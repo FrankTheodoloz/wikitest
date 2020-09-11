@@ -10,7 +10,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['information', 'service public', 'environnement']
+tags: ['information', 'service public', 'environnement', "qualité d'eau"]
 ---
 
 ### Situation actuelle
@@ -39,7 +39,7 @@ Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la
 L'état sanitaire des eaux de baignade est fait par le canton(SECOE) toutes les 2 semaines.
 Les SIG fournissent des [informations annuelles](https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve) sur de la qualité de l'eau potable selon la zone de provenance.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Les données sont disponibles via une carte interactive qui indique selon la couleur la qualité de l'eau.
 Il y également des informations comme la mise à disposition de différentes infrastructures comme par exemple des douches et toilettes. Le site [geneveterroir](https://www.geneveterroir.ch/fr/map?a=1143) fournit des informations plus précises sur les infrastructures misent à disposition.
@@ -63,9 +63,7 @@ Il serait intéressant de mieux communiquer entre la confédération et le canto
 #### Tenir à jour le site web
 La navigation des applications web doivent être maintenu, nous avons constaté des anomalies dans certaines exportations de données [pluviométrie](https://vhg.ch/xt_vh/station_view.php?cfg=display_VH_PLUVIO&measurement_set_id=63) et des liens de navigations obsolètes [cliquer sur l'onglet eau en haut](https://vhg.ch/xt_vh/index.php), il faudrait faciliter le signalement des données corrompues/manquantes.
 
-
 ### Bibliographie
-
 * Informations sur la qualité de l'eau potable à Genève https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve
 * Informations sur le traitement des eaux usées https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees
 * Carte interactive sur la qualité de l'eau des plages https://www.ge.ch/dossier/acces-publics-au-lac-baignade-eaux-vives/qualite-eau-plages 
