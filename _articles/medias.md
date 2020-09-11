@@ -33,15 +33,5 @@ La Confédération a également mis à disposition un [article](https://www.ubi.
 
 Nous étudierons donc dans ce rapport, certaines activités en lien avec la gouvernance numérique entreprises par l'Etat, à l'égard des médias.
 
-### Bibliographie
-
- - Heidi.news - Geneva Solutions : https://www.heidi.news/geneva-solutions
- - Canton de Genève - Geneva Solutions: la plateforme journalistique sur la Genève internationale : https://www.ge.ch/document/geneva-solutions-plateforme-journalistique-geneve-internationale
- - Le Temps - Sur WhatsApp, la lutte impossible de l'OMS contre la désinformation : https://www.letemps.ch/economie/whatsapp-lutte-impossible-loms-contre-desinformation
- - MIXLINFO (lien vers fichier PDF) - https://www.geneve.ch/sites/default/files/2020-02/mixlinfo-brochure-fakenews-promotion-citoyenne-ville-geneve_0.PDF
- - Ville de Genève - MIXLINFO : https://www.geneve.ch/fr/mixlinfo
- - Jeunes et médias - portail d'information consacré à la promotion des compétences médiatiques : https://www.jeunesetmedias.ch/fr.html
- - Canton de Genève - ACTIVITE DE L’ETAT ET MEDIAS Les limites posées aux journalistes (fichier pdf) : https://www.ge.ch/ppdt/fiches-info/doc/limites-journalistes.pdf
- - Confédération Suisse - Entre liberté des médias et protection du public : https://www.ubi.admin.ch/inhalte/pdf/Dokumentation/Artikel/Artikel_FR/UBI_Jubilaeumsbroschuere_FR.pdf
 
 
