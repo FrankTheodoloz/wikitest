@@ -1,13 +1,11 @@
 ---
 layout: activity
-key: sports-culture
+key: sports
 title: Stade de Genève
 toc:
 - "Situation actuelle"
-- "Objectifs annoncés"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Analyse Wikinomie"
 - "Responsables"
 - "Autres acteurs"
@@ -21,13 +19,8 @@ Le Stade de Genève contient 30'000 places et dispose de 27 loges VIP. Le troisi
 
 Durant la fin de l'année 2019, le stade, en collaboration avec les SIG, a installé plus de 5000 m2 de panneaux solaires. 30% de cette énergie est consommée par le stade directement et le reste est injecté dans le réseau. Les genevois ont eu également la possibilité d'acheter des m2 de panneaux pour leur propre consommation. Pour chaque m2 acheté au prix de 330.-, l'acheteur a une réduction de 100kw par année sur sa facture pendant 20 ans. Cela permet de réduire les coûts d'installation tout en collaborant avec les citoyens.
 
-### Objectifs annoncés
-
 Le Stade accueille principalement les matches du Servette FC, mais organise également des matches amicaux et des matches internationaux. Selon les statuts de la Fondation du Stade de Genève, son but est de favoriser la pratique et le développement en général des sports athlétiques dans le canton de Genève, et plus particulièrement ceux par le Servette FC, par l'aménagement des terrains et des bâtiments.
 
-### Besoins à remplir
-
-Proposer des événements avec une utilisation infrastructurelle maximale du stade. Offrir une meilleure expérience possible aux clients des locataires. 
 
 ### Règles de gouvernance
 
@@ -35,7 +28,7 @@ Le stade est géré par la Fondation du Stade de Genève. Le conseil de fondatio
 
 La gestion des événements revient aux organisateurs. Le stade répond uniquement aux demandes des locataires.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Le Servette FC, qui a joué plus de 20 matches en 2019, représente 95% de l'activité du stade et les 5% restant sont la location du stade - louer les coursives du stade sont possible - en dehors du terrain.
 Le Stade subvient à sa propre consommation électrique via les panneaux solaires installées sur son toit. Il est également prévu l’installation des pompes à chaleur pour que le stade soit auto-suffisant.  
