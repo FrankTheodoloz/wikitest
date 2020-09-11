@@ -4,7 +4,6 @@ key: securite-criminalite
 title: Centre de compétences pour la cyber-sécurité
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats et utilisation"
 - "Responsables"
@@ -22,9 +21,7 @@ Le conseil fédéral adopté un plan de protection contre les cyberrisques créa
 
 L’ordonnance sur les cyberrisques adoptée par le Conseil fédéral est en vigueur depuis le 1er juillet 2020. Elle constitue la base juridique pour la création et le développement du NCSC et réglemente la structure, les tâches et les compétences des autorités impliquées. 
 
-### Besoins à remplir
-
-Acquisition de compétences et de connaissances, gestion de la résilience, normalisation et réglementation, gestion des incidents, gestion des crises, poursuite pénale et cyber-défense. Compléter et mettre à jour la SNPC de 2012 et protéger la Suisse des cyber-risques et la rendre résiliente en cas de cyber-incident.  Au sein du Centre national pour la cybersécurité, il faut donner suffisamment de poids au bureau et au guichet national pour que le centre national pour la cybersécurité produise, par une communication active et des prestations étendues pour les entreprises et la population, un maximum d’effets à l’extérieur et soit réellement perçu comme le guichet unique.
+ Au sein du Centre national pour la cybersécurité, il faut donner suffisamment de poids au bureau et au guichet national pour que le centre national pour la cybersécurité produise, par une communication active et des prestations étendues pour les entreprises et la population, un maximum d’effets à l’extérieur et soit réellement perçu comme le guichet unique.
 
 Le pool d’experts se tiendra à la disposition des offices spécialisés des différents secteurs, notamment, et son expertise en matière de cybersécurité viendra compléter les connaissances sectorielles et les compétences juridiques en fonction des besoins et des projets.
 
