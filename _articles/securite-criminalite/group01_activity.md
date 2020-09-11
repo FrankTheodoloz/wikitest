@@ -10,6 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+- "Bibliographie"
 tags: ['participation', 'service public', 'cyber-criminalité', 'cyber-incident']
 ---
 
@@ -134,3 +135,13 @@ Du coup la question suivante elle est peut être un peu..., enfin on va voir, ma
 >
 > L'idée c'est de l'avoir pour que les citoyens puissent se proposer et signaler. Que ce soit aussi celui de MELANI, la je peux vous dire, MELANI j'ai déjà, en tant que citoyen et pas en tant que responsable de la sécurité à l'état de Genève, en tant que citoyen j'ai déjà signalé. J'ai eu une réponse qui était "Merci, on en prend note. Vous avez réussi à vous en sortir ?" Oui, parce que je savais comment faire. "Bon bah très bien, merci". Donc ils ont pris note, il faut être conscient, faut pas espérer un miracle ou des choses comme ça. Parce qu'il y a toujours un rapport par rapport à la quantité totale, c'est un peu difficile. 
 
+### Bibliographie
+ÉTAT DE GENÈVE, [sans date]. Formation en ligne gratuite pour mieux protéger ses données. *GE.CH – République et canton de Genève.* [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.ge.ch/dossier/cybersecurite-passons-action/formation-ligne-gratuite-mieux-proteger-ses-donnees](https://www.ge.ch/dossier/cybersecurite-passons-action/formation-ligne-gratuite-mieux-proteger-ses-donnees)
+
+ÉTAT DE GENÈVE, 2017. Signaler un cyber-incident à la police. *GE.CH – République et canton de Genève* [en ligne]. 12 juin 2017. Dernière modification le 8 mars 2018 [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.ge.ch/criminalite-internet/signaler-cyber-incident-police](https://www.ge.ch/criminalite-internet/signaler-cyber-incident-police).
+
+CONFÉDÉRATION SUISSE, [sans date]. Nouvelle étape dans la mise en place du Centre de compétences pour la cybersécurité. *ADMIN.CH* [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-75046.html](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-75046.html). 
+
+WEF, [sans date]. Shaping the Future of Cybersecurity and Digital Trust. *World Economic Forum* [en ligne]. [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.weforum.org/platforms/shaping-the-future-of-cybersecurity-and-digital-trust/](https://www.weforum.org/platforms/shaping-the-future-of-cybersecurity-and-digital-trust/). 
+
+WEF, 2020. How are the Forum and partners shaping the future of cybersecurity and digital trust? [enregistrement vidéo] *YouTube* [en ligne]. 24 février 2020 [Consulté le 6 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=411Cw0ykZ80&feature=emb_logo](https://www.youtube.com/watch?v=411Cw0ykZ80&feature=emb_logo). 
