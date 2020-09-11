@@ -9,6 +9,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
+- "Bibliographie"
 tags: ['information', 'environnement', 'service public']
 ---
 
@@ -70,8 +71,7 @@ L'idée d'une plateforme Environnement pourrait permettre de centraliser et norm
 La mise à disposition d’un forum sur la plateforme citée plus haut pourrait permettre une sorte de "Brainstorming communautaire" qui pourrait déboucher avec la création  d'initiatives locales comme cantonal. Des modérateurs/experts ainsi qu'un système d'auto modération pourrait permettre de filtrer, d'orienter et d'aider les citoyens dans leurs recherches ou initiatives.
 
 ### Interview
-Lors de nos recherches, nous avons pu poser quelques questions à Pauline De Salis, porte-parole du Département du territoire (DT), par le biais d'un formulaire google Forms.   
-Voici ce que nous avons pu récolter au sujet de la qualité de l’air
+Lors de nos recherches, nous avons pu poser quelques questions à Pauline De Salis, porte-parole du Département du territoire (DT), par le biais d'un formulaire. Voici ce que nous avons pu récolter au sujet de la qualité de l’air :
 
 #### Qu'elle est la situation actuelle sur la mise à disposition d'information destinée aux citoyens ?
 Nous avons remarqué qu'il y a 3 stations météorologiques à Genève. Nous avons accès aux données de ces stations grâce au rapport annuel, une situation de la journée sur le site ge.ch et ainsi qu'une recherche détaillée avec possibilité de l'exporter en CSV. Est-ce que ces informations sont complètes ?
@@ -80,7 +80,7 @@ Nous avons remarqué qu'il y a 3 stations météorologiques à Genève. Nous avo
 #### Est-ce que d'autres plans sont prévus dans la diffusion de ces informations ?
 > Concernant les données (mesures des polluants), non. En revanche il y a un plan de communication lié aux pics de pollution (ainsi qu'une campagne pour faire connaître les enjeux en lien avec Stick'AIR).
 
-*Bibliographie
+### Bibliographie
 
 * Site du Canton de Genève sur la qualité de l'air - https://www.ge.ch/dossier/qualite-air
 * Rapports annuel de la ROPAG - https://www.ge.ch/document/rapports-qualite-air-geneve-ropag
