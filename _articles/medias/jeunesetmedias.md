@@ -4,13 +4,10 @@ key: medias
 title: Jeunes et médias
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
-- "Activités"
 - "Règles de gouvernance"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Recommandations"
-- "Bibliographie"
 tags: ['jeunesse', 'service public', 'sensibilisation', 'information']
 ---
 
@@ -20,13 +17,7 @@ Jeunes et médias est une plateforme de promotion des compétences médiatiques 
 Un [site web](https://www.jeunesetmedias.ch/fr.html) est disponible sous le nom de domaine jeunesetmedias.ch. Des thèmes touchant particulièrement la jeunesse y sont traités. Comme par exemple le cyberharcèlement, les "fake news" et la sexualité sur Internet.
 La plupart des conseils sont adressés directement aux jeunes, mais nous pouvons également en retrouver certains destinés aux parents. Chaque thème est particulièrement bien développé. En effet, ils sont alimentés par des statistiques, des descriptions de risques, vidéos et conseils appropriés.
 
-### Besoins à remplir
-
-L'objectif de ce portail d'information est de sensibiliser les jeunes sur l'utilisation des médias numériques.
-
-### Activités
-
-Jeunes et médias s'occupe d'informer et sensibiliser en plus de soutenir les acteurs clé de ce domaine.
+L'objectif de ce portail d'information est de sensibiliser les jeunes sur l'utilisation des médias numériques. Jeunes et médias s'occupe d'informer et sensibiliser en plus de soutenir les acteurs clé de ce domaine.
 
 ### Règles de gouvernance
 
@@ -35,7 +26,7 @@ Il n'est pas possible de créer de compte ou de renseigner des informations pers
 L'OFAS souhaite maitenir une collaboration avec divers acteurs comme les services fédéraux, les cantons et les acteurs privés afin d’améliorer la diffusion des connaissances ainsi que les échanges d’expériences.
 Pour concrétiser cette collaboration, la mise en place de groupes stratégiques et de travail thématiques est faite, en addition à l’organisation de réunions de réseaux pour les acteurs et de conférences nationales spécialisées.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Le site présente des thématiques pour lesquelles il est fondamental de sensibiliser la jeunesse.
 
@@ -55,8 +46,4 @@ Bien évidemment, il faudrait que les textes soient controlés avant publication
 Il est annoncé sur jeunesetmedias.ch que l'OFAS souhaite améliorer l'échange d'expérience. Il ne serait donc pas étonnant de retrouver une fonctionnalité sembable dans les mois à venir.
 
 Finalement, nous estimons qu'une petite application mobile intéractive proposerait un apprentissage plus "fun" aux jeunes internautes. Celle-ci pourrait être un jeu qui instruirait sur les dangers des médias et surtout d'internet.
-
-### Bibliographie
-
- - La plupart des onglets du site Jeunes et médias : https://www.jeunesetmedias.ch/fr.html
 
