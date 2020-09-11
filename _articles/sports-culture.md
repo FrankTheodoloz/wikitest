@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "Sports – Culture"
-key: sports-culture
+title: "Sports"
+key: sports
 is_main: true
 toc:
 - "Contexte"
