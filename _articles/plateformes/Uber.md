@@ -4,7 +4,6 @@ key: plateformes
 title: Uber et taxis
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
 - "Responsables"
@@ -20,20 +19,14 @@ Du point de vue du canton de Genève, suite à une analyse juridique du model d'
 L'état de Genève, via le conseiller d'état à la sécurité, l'emploi et de la santé (DSES) Mauro Poggia, a pris la décision d'interdire les activités de la plateforme sur le canton de Genève depuis à partir de novembre 2019. Mauro Poggia souligne également que la plateforme étant externe, emploie des travailleurs détachés, pour plus de 90 jours en Suisse, ce qui va à l'encontre des accords de libre circulation des personnes entre la Suisse et l'union européenne. 
 Uber de son côté a fait un recours à la décision du canton de Genève, et est actuellement en litige avec ce dernier. Ce recours leur permet de poursuivre leurs activités en attendant qu'une décision soit prise, attendu pour cet été. Selon le directeur général d'Uber Suisse, la plateforme est un diffuseur de course mettant en relation un chauffeur indépendant et une personne recherchant une course sur sa plateforme. Ce litige avec le canton de Genève n'a pas empêché la plateforme de renforcer sa position à Genève. Le 04 juin 2020, elle a lancé à Genève son service de réservation de véhicule électrique dit "Green" et son offre haut de gamme dit "Comfort". L'offre "Green" permet aux utilisateurs de réserver sur la plateforme un véhicule électrique ou hybride et l'offre "Comfort" permet de réserver un véhicule récent et haut de gamme. Mauro Poggia considère que cet acte de la plateforme est a ses risques et périls.
 
+La plateforme compte tenir son sa position de numéro un des VTC sur la place genevoise, et également d'être un partenaire fiable et apprécié par le canton de Genève. Le canton de Genève veut que la plateforme se soumette aux règles de jeu en respectant la loi LTVTC. 
 La plateforme a été impacté par la crise du Covid-19. Dans le monde, le secteur des véhicules de transport avec chauffeur (VTC) a subit une baisse de 80%. A Genève, pour la plateforme, ses revenus ont diminué d'environs 40%, compensés par son service de livraison de nourriture à domicile Uber Eat.
-
-
-### Besoins à remplir
-
-La plateforme compte tenir son sa position de numéro un des VTC sur la place genevoise, et également d'être un partenaire fiable et apprécié par le canton de Genève.
-
-Le canton de Genève veut que la plateforme se soumette aux règles de jeu en respectant la loi LTVTC. 
 
 ### Règles de gouvernance
 
 - Loi sur les taxis et voitures de transport avec chauffeur (https://www.ge.ch/legislation/rsg/f/s/rsg_H1_31.html)
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Selon un article publié par Le Temps vendredi 1 novembre 2019, la plateforme dit avoir 700 chauffeurs utilisant la plateforme de façon régulière, qui se connectent environs 33 semaines par en et ont un revenu d'environs 27 CHF par heure.
 
