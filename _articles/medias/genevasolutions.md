@@ -4,17 +4,15 @@ key: medias
 title: Geneva Solutions
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
-- "Interview"
-- "Résultats ou Utilisation"
+- "Résultats et utilisation"
 - "Responsables"
 - "Autres acteurs"
 - "Analyse Wikinomie"
 - "Recommandations"
 - "Bibliographie"
 - "Interview"
-tags: ['service d'intérêt public', 'journalisme', 'plateforme numérique', 'participation']
+tags: ["service d'intérêt public", 'journalisme', 'plateforme numérique', 'participation']
 ---
 
 ### Situation actuelle
@@ -24,16 +22,11 @@ peu de communication est effectuée à ce niveau et aucune plateforme regroupant
 
 Retenue suite à l'appel à projets lancé par la Confédération, le Canton et la Ville de Genève le 20 décembre 2019, Geneva Solutions sera une plateforme journalistique rassemblant l'ensemble des articles de journalistes indépendants, experts et personnalités publiques sur le travail des ONG. Elle est accessible à https://www.genevasolutions.news/.
 
-
-### Besoins à remplir
-
-Informer la population du travail effectué par les organisations internationales, au travers d'articles contructifs. 
-
 ### Règles de gouvernance
 
 Les articles sont publiés par des journalistes choisis par Geneva Solutions/Heidi.news. Des experts et personnalités sont égalements invités à rédiger des articles d'opinion.
 
-### Résultats ou Utilisation
+### Résultats et utilisation
 
 Les articles publiés sur la plateforme seront accessibles gratuitement, au travers d'un site web nommé genevasolutions.news.
 En attendant, un aperçu est disponible sur le site [Heidi.news](https://www.heidi.news/geneva-solutions). Des articles sont déjà ajoutés chaque jour afin d'alimenter l'onglet. Ceux-ci sont en anglais, bien structurés et nous donnent des informations constructives.
@@ -64,6 +57,12 @@ Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expe
 
  - Heidi.news - Geneva Solutions : https://www.heidi.news/geneva-solutions
  - Canton de Genève - Geneva Solutions: la plateforme journalistique sur la Genève internationale : https://www.ge.ch/document/geneva-solutions-plateforme-journalistique-geneve-internationale
+ - Le Temps - Sur WhatsApp, la lutte impossible de l'OMS contre la désinformation : https://www.letemps.ch/economie/whatsapp-lutte-impossible-loms-contre-desinformation
+ - MIXLINFO (lien vers fichier PDF) - https://www.geneve.ch/sites/default/files/2020-02/mixlinfo-brochure-fakenews-promotion-citoyenne-ville-geneve_0.PDF
+ - Ville de Genève - MIXLINFO : https://www.geneve.ch/fr/mixlinfo
+ - Jeunes et médias - portail d'information consacré à la promotion des compétences médiatiques : https://www.jeunesetmedias.ch/fr.html
+ - Canton de Genève - ACTIVITE DE L’ETAT ET MEDIAS Les limites posées aux journalistes (fichier pdf) : https://www.ge.ch/ppdt/fiches-info/doc/limites-journalistes.pdf
+ - Confédération Suisse - Entre liberté des médias et protection du public : https://www.ubi.admin.ch/inhalte/pdf/Dokumentation/Artikel/Artikel_FR/UBI_Jubilaeumsbroschuere_FR.pdf
 
 ### Interview
 
