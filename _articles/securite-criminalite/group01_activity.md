@@ -4,7 +4,6 @@ key: securite-criminalite
 title: Formulaire pour signaler un cyber-incident
 toc:
 - "Situation actuelle"
-- "Besoins à remplir"
 - "Règles de gouvernance"
 - "Résultats ou Utilisation"
 - "Responsables"
@@ -17,8 +16,6 @@ tags: ['participation', 'service public', 'cyber-criminalité', 'cyber-incident'
 ### Situation actuelle
 
 Les cyber-incidents ne sont pas toujours rapportés et certains cas peuvent sembler isolés, surtout lorsqu'il n'y a pas de plainte. La police Genevoise gère donc un outil permettant de signaler un cyber-incident.
-
-### Besoins à remplir
 
 L'objectif lié à ce formulaire est de pouvoir regrouper les signalements isolés afin de détecter les séries de cas. Ces témoignages permettent ensuite de renforcer les moyens de la police pour lutter contre la cyber-criminalité.
 
