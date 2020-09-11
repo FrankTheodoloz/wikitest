@@ -24,8 +24,13 @@ L’ordonnance sur les cyberrisques adoptée par le Conseil fédéral est en vig
 
 ### Besoins à remplir
 
-Acquisition de compétences et de connaissances, gestion de la résilience, normalisation et réglementation, gestion des incidents, gestion des crises, poursuite pénale et cyber-défense.
-Compléter et mettre à jour la SNPC de 2012 et protéger la Suisse des cyber-risques et la rendre résiliente en cas de cyber-incident
+Acquisition de compétences et de connaissances, gestion de la résilience, normalisation et réglementation, gestion des incidents, gestion des crises, poursuite pénale et cyber-défense. Compléter et mettre à jour la SNPC de 2012 et protéger la Suisse des cyber-risques et la rendre résiliente en cas de cyber-incident.  Au sein du Centre national pour la cybersécurité, il faut donner suffisamment de poids au bureau et au guichet national pour que le centre national pour la cybersécurité produise, par une communication active et des prestations étendues pour les entreprises et la population, un maximum d’effets à l’extérieur et soit réellement perçu comme le guichet unique.
+
+Le pool d’experts se tiendra à la disposition des offices spécialisés des différents secteurs, notamment, et son expertise en matière de cybersécurité viendra compléter les connaissances sectorielles et les compétences juridiques en fonction des besoins et des projets.
+
+Enfin, le centre national pour la cybersécurité doit travailler en étroite collaboration avec les services disposant de l’expertise et des capacités nécessaires pour réaliser certaines tâches dans le domaine de la cybersécurité. Dans le cadre de cette collaboration, on évitera de créer des redondances entre les compétences du centre national pour la cybersécurité et celles des autres services, tout en veillant à ce que les services impliqués réalisent leurs tâches de façon coordonnée et en concertation étroite avec le Centre national pour la cybersécurité.
+
+(Source : [Le Centre national pour la cybersécurité](https://www.melani.admin.ch/melani/fr/home/ueber_ncsc/das_ncsc.html))
 
 ### Règles de gouvernance
 
