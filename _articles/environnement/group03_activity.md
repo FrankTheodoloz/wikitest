@@ -10,7 +10,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['information', 'faune genève', service public']
+tags: ['information', 'faune genève', 'service public']
 ---
 
 ### Situation actuelle
