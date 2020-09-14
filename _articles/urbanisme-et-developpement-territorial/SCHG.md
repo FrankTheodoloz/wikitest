@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['coopérative d'intérêt public', 'logement', 'participation']
+tags: ["coopérative d'intérêt public", 'logement', 'participation']
 ---
 
 ### Situation actuelle
