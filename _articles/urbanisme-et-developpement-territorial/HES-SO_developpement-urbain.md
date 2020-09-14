@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['projet d'intèrêt public', 'développement urbain', 'participation']
+tags: ["projet d'intèrêt public", 'développement urbain', 'participation']
 ---
 
 ### Situation actuelle
