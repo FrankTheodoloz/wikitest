@@ -43,7 +43,7 @@ Notre but est de permettre à l’Etat de Genève de situer ses pratiques en mat
 1.  Hite J. (1999). Learning in chaos. Houston, TX: Gulf Publishing Company.
 2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger *
 
-### Etat de l'art
+###Etat de l'art
 
 La recherche participative (la recherche-action et la recherche-action participative) est un moyen d’impliquer les citoyens dans la recherche scientifique : 
 une approche qui met l'accent sur les relations entre les partenaires des milieux de recherche et de pratique, les principes de co-apprentissage, 
