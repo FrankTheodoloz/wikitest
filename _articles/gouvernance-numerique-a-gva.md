@@ -136,11 +136,11 @@ c) Collaboration : activité avec des pratiques qui permettent une participation
 d) Coopération : activité avec des règles de gouvernance qui définissent et encouragent la collaboration systématique avec plusieurs acteurs
 
 Voici un exemple d’utilisation de ces catégories. 
-Le service des demandes APA est catégorisé comme « Participation » parce que l’activité :
+[Le service des demandes APA](https://2020.wikipolitics.ch/urbanisme-et-developpement-territorial/APA_numerique/) est catégorisé comme **« Participation »** parce que l’activité :
 -          Permet à l’utilisateur de faire une contribution (dépôt du dossier qui fournit des informations essentielles au processus) mais,
 -          L’administration ne s’engage pas à fournir des données réutilisables sur son utilisation et ses résultats, ou inclure l’utilisateur à l’amélioration du processus, ou à la prise de décisions sur son avenir.
 
-Le service MonDossierMedical.ch, par exemple, est catégorisé comme « Collaboration » parce que l’activité :
+[Le service MonDossierMedical.ch](https://2020.wikipolitics.ch/sante/group01_activity/), par exemple, est catégorisé comme **« Collaboration »** parce que l’activité :
 -          Permet à l’utilisateur de faire une contribution (dépôt d’un dossier médical en ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la santé)
 -          Le patient décide avec qui il partage les droits d’accès à ses données (l’administration s’engage dans une relation de confiance et collaboration avec le patient sur l’utilisation de ses données).
  
