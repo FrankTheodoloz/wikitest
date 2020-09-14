@@ -9,7 +9,7 @@ toc:
 - "Etat de l'art"
 - "LIPAD du canton de Genève"
 - "Les résultats de la recherche par activité"
-- "Le benchmaking de l'initiative Open Government Partnership"
+- "Notre benchmaking et l'initiative Open Government Partnership"
 - "L'état de Genève dans le benchmarking de l'OGP"
 - "Nos recommendations"
 - "Nos conclusions"
@@ -119,17 +119,31 @@ d)	Coopération : activité avec des règles de gouvernance qui définissent et 
 *Source*
 - Gouvernance Numérique à Genève 2019 - 2020, https://2020.wikipolitics.ch/
 
-### Le benchmaking de l'initiative Open Government Partnership
-Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), 
-qui vise à améliorer l'efficacité et la responsabilité des modes de gouvernance publique. 
-Elle établit que les citoyens ont le droit et les ressources nécessaires d’accéder aux documents et aux procédures de leurs gouvernements. 
-Son but est de favoriser une transparence et une responsabilisation systématiques. La Wikinomie est un mouvement socio-économique basé sur 
-l’intelligence collective et la participation citoyenne dans la production des produits et des services.
-Nous utilisons quatre mots clés pour caractériser les activités revues. Ces mots clés consistent des niveaux différents, expliqués ainsi :
-a)	Information : activité unidirectionnelle, sans possibilité de contribution    
-b)	Participation : activité qui permet une contribution sans s’engager à fournir un retour, un suivi ou une collaboration organisée
-c)	Collaboration : activité avec des pratiques qui permettent une participation organisée et suivie à diverses étapes
-d)	Coopération : activité avec des règles de gouvernance qui définissent et encouragent la collaboration systématique avec plusieurs acteurs 
+### Notre benchmaking et l'initiative Open Government Partnership
+Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), qui vise à améliorer l’efficacité et la responsabilité des modes de gouvernance publique.  Elle vise tous les domaines politiques (Reference : https://www.opengovpartnership.org/fr/policy-areas/#all). 
+Elle établit que les citoyens ont le droit et les ressources nécessaires d’accéder aux documents et aux procédures de leurs gouvernements. Son but est de favoriser une transparence et une responsabilisation systématiques. Le benchmaking de l’initiative Open Government Partnership est basé sur une analyse systématique des activités étatiques et vise à : 
+-	Documenter une activité (service, projet, formation etc) pour démontrer son évolution et l’organisation responsable.
+-	Aider les citoyens et la société civile à jouer un rôle de veille sur l’implémentation de ces activités.   
+-	Inciter les états à impliquer les citoyens pendant l’évolution de ces activités 
+
+My Overview est une plateforme danoise permettant aux citoyens d'accéder aux données que le gouvernement détient à leur sujet. Une plateforme personnalisée et conviviale sur borger.dk qui présente au citoyen un aperçu numérique combiné. Les données les plus importantes dont disposent les autorités publiques sur chaque utilisateur seront regroupées en un seul endroit.  (Source : https://www.opengovpartnership.org/fr/members/denmark/commitments/DK0068/.  La France utilise OGP pour améliorer la transparence des algorithmes publics et des codes sources et travaille au sein de son gouvernement pour développer une méthodologie commune pour l’ouverture des algorithmes et des codes contenus dans ses systèmes d’information (Transparence des algorithmes publics : https://www.opengovpartnership.org/fr/members/france/commitments/FR0035/).
+
+La Wikinomie est un mouvement socio-économique basé sur l’intelligence collective et la participation citoyenne dans la production des produits et des services. Nous utilisons quatre mots clés pour caractériser les activités revues.  Ces mots clés consistent des niveaux différents, expliqués ainsi : 
+
+a) Information : activité unidirectionnelle, sans possibilité de contribution
+b) Participation : activité qui permet une contribution sans s’engager à fournir un retour, un suivi ou une collaboration organisée 
+c) Collaboration : activité avec des pratiques qui permettent une participation organisée et suivie à diverses étapes 
+d) Coopération : activité avec des règles de gouvernance qui définissent et encouragent la collaboration systématique avec plusieurs acteurs
+
+Voici un exemple d’utilisation de ces catégories. 
+Le service des demandes APA est catégorisé comme « Participation » parce que l’activité :
+-          Permet à l’utilisateur de faire une contribution (dépôt du dossier qui fournit des informations essentielles au processus) mais,
+-          L’administration ne s’engage pas à fournir des données réutilisables sur son utilisation et ses résultats, ou inclure l’utilisateur à l’amélioration du processus, ou à la prise de décisions sur son avenir.
+
+Le service MonDossierMedical.ch, par exemple, est catégorisé comme « Collaboration » parce que l’activité :
+-          Permet à l’utilisateur de faire une contribution (dépôt d’un dossier médical en ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la santé)
+-          Le patient décide avec qui il partage les droits d’accès à ses données (l’administration s’engage dans une relation de confiance et collaboration avec le patient sur l’utilisation de ses données).
+ 
 
 ### L'état de Genève dans le benchmarking de l'OGP
 
