@@ -9,7 +9,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['service privée', 'plateforme Taxi', 'régulation', 'information']
+tags: ['service privé', 'plateforme Taxi', 'régulation', 'information']
 ---
 
 ### Situation actuelle
