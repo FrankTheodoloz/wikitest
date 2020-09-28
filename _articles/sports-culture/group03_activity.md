@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Esports', 'information', "service d'intérêt public"]
+tags: ['eSports', 'information', "service d'intérêt public"]
 ---
 
 ### Situation actuelle
