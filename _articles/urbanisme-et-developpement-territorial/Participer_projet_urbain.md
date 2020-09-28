@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['concertation', 'participation', 'service public', 'aménagement du territoire']
+tags: ['participation', 'service public', 'aménagement du territoire']
 ---
 
 ### Situation actuelle
