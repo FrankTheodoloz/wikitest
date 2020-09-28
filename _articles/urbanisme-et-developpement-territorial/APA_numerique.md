@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['autorisations', 'construction', 'service public', 'participation']
+tags: ['autorisations de construction', 'service public', 'participation']
 ---
 
 ### Situation actuelle
