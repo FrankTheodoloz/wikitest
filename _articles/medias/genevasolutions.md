@@ -12,7 +12,7 @@ toc:
 - "Recommandations"
 - "Bibliographie"
 - "Interview"
-tags: ["service d'intérêt public", 'journalisme', 'plateforme numérique', 'participation']
+tags: ["service d'intérêt public", 'journalisme', 'participation']
 ---
 
 ### Situation actuelle
