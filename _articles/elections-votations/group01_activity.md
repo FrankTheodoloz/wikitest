@@ -16,7 +16,7 @@ toc:
 - "Questions posées lors de l’interview avec M. Kupper"
 - "Réponses de M. Kupper"
 - "Bibliographie"
-tags: ['collaboration', 'vote électronique', 'service public', 'CHvote']
+tags: ['collaboration', 'vote électronique', 'service public']
 ---
 
 ### Situation actuelle
