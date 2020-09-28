@@ -10,7 +10,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['information', 'environnement', 'service public', "qualité de l'air"]
+tags: ['information', 'environnement', 'service public']
 ---
 
 ### Situation actuelle
