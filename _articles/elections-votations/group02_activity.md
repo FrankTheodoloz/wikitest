@@ -11,7 +11,7 @@ toc:
 - "Recommandations"
 - "Analyse Wikinomie"
 - "Bibliographie"
-tags: ['vote électronique', "service privé d'utilité publique", 'participation']
+tags: ['vote électronique', "service privé d'intérêt public", 'participation']
 ---
 
 ### Situation actuelle
