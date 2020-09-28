@@ -2,7 +2,7 @@
 layout: activity
 key: education
 title: Prévention contre le (cyber)harcèlement
-tags: ['participation', 'harcèlement', 'service public']
+tags: ['participation', 'cyberharcèlement', 'service public']
 toc:
 - "Situation actuelle"
 - "Objectifs"
