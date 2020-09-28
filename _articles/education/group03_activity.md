@@ -2,7 +2,7 @@
 layout: activity
 key: education
 title: Boîte à outils MITIC
-tags: ['participation', 'service public', 'enseignement à distance']
+tags: ['participation', 'service public', 'enseignement']
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
