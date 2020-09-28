@@ -10,7 +10,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['participation', 'service public', 'cyber-criminalité', 'cyber-incident']
+tags: ['participation', 'service public', 'cybercriminalité']
 ---
 
 ### Situation actuelle
