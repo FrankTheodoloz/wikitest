@@ -8,7 +8,7 @@ toc:
 - "Résultats et utilisation"
 - "Responsables"
 - "Recommandations"
-tags: ['jeunesse', 'service public', 'sensibilisation', 'information']
+tags: ['jeunesse', 'service public', 'information']
 ---
 
 ### Situation actuelle
