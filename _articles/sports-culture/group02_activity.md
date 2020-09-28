@@ -10,7 +10,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['Stade de Genève', 'panneaux solaires', 'information', 'service privé']
+tags: ['sports', 'information', 'service privé']
 ---
 
 ### Situation actuelle
