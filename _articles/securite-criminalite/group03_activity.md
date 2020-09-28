@@ -9,7 +9,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['cyber-défense', 'service public', 'cyber-incident', 'information']
+tags: ['cybersécurité', 'service public', 'information']
 ---
 
 ### Situation actuelle
