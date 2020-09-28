@@ -9,7 +9,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['participation ', 'pas commencé ', 'Justitia 4.0 ', 'Projet pubic']
+tags: ['participation ', 'justice', 'projet pubic']
 ---
 
 ### Situation actuelle
