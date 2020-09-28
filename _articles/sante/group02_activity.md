@@ -12,7 +12,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['santé', 'partcipation', "forum privé d'intérêt public"]
+tags: ['santé', 'partcipation', "forum"]
 ---
 
 ### Introduction
