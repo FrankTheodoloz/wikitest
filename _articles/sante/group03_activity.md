@@ -12,7 +12,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['santé', 'participation', "service privé d'intérêt public"]
+tags: ['santé', 'participation', "service d'intérêt public"]
 ---
 
 ### Introduction
