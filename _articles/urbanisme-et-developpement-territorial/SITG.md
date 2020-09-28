@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['territoire', 'données ouvertes', 'service public', 'collaboration']
+tags: ['données ouvertes', 'service public', 'collaboration']
 ---
 
 ### Situation actuelle
