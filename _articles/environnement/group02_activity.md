@@ -10,7 +10,7 @@ toc:
 - "Autres acteurs"
 - "Recommandations"
 - "Bibliographie"
-tags: ['information', 'service public', 'environnement', "qualité d'eau"]
+tags: ['information', 'service public', 'environnement']
 ---
 
 ### Situation actuelle
