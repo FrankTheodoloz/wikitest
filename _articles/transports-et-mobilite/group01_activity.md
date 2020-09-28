@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ['information', 'application mobile', 'service public', 'transport']
+tags: ['information', 'service public', 'transports']
 ---
 
 ### Situation actuelle
