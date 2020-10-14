@@ -5,4 +5,4 @@ permalink: /tags
 
 ## Tags
 
-Nous avons organisé la navigation de nos résultats à travers des tags, à trois niveaux : 
+Nous avons organisé la navigation de nos résultats à travers des tags, à quatre niveaux : 
