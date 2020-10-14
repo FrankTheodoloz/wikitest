@@ -4,6 +4,19 @@ layout: default
 <div class="home-page lesson-content">
   <div>{{content}}</div>
 
+  <ul>
+{% for tagCat in site.data.tags %}
+  <li>
+      {{ tagCat.name }}
+      <div> |
+        {% for tag in tagCat.tags %}
+          <a href="#{{tag | slugify}}">{{ tag }}</a> |
+        {% endfor %}
+      </div>
+  </li>
+{% endfor %}
+</ul>
+
   {% assign tags =  site.articles | map: 'tags' | join: ','  | split: ',' | uniq %}
   {% for tag in tags %}
     <h3 id="{{tag | slugify}}">{{ tag }}</h3>

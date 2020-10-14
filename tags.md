@@ -5,4 +5,4 @@ permalink: /tags
 
 ## Tags
 
-Les différents tags, leur thèmes et les activités qui y sont liées.
+Nous avons organisé la navigation de nos résultats à travers des tags, à quatre niveaux : 
