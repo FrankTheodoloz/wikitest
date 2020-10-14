@@ -1,0 +1,50 @@
+- name: Tags de gouvernement ouverte
+  tags:
+  - Information
+  - Participation
+  - Collaboration
+
+- name: Tags des activités
+  tags:
+  - Service public
+  - Service d'intérêt public
+  - Coopérative
+  - Projet public
+  - Projet d'intérêt public
+  - Réseau d'experts
+  - Forum
+
+- name: Tags liés aux thèmes
+  tags:
+  - Aménagement du territoire
+  - autorisations de construction
+  - biodiversité
+  - cyber criminalité
+  - cyber harcèlement
+  - cyber sécurité
+  - données ouvertes
+  - environnement
+  - enseignement
+  - eSports
+  - faune Genève
+  - dossier médical
+  - jeunesse
+  - journalisme
+  - justice
+  - logement
+  - régulation
+  - référendum cantonal
+  - santé
+  - sensibilisation
+  - statistiques
+  - transports
+  - vote électronique
+
+- name: Tags liés à notre rapport
+  tags:
+  - Wikinomie
+  - compétences numériques
+  - digitalisation
+  - gouvernement ouverte
+  - recommandations
+  - conclusion
