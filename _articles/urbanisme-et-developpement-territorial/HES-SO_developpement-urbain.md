@@ -11,7 +11,7 @@ toc:
 - "Responsables"
 - "Autres acteurs"
 - "Recommandations"
-tags: ["projet d'intèrêt public", 'aménagement du territoire', 'participation']
+tags: ["projet d'intérêt public", 'aménagement du territoire', 'participation']
 ---
 
 ### Situation actuelle
