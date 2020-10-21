@@ -82,6 +82,7 @@
             event.preventDefault();
             var targetAnchor = link.getAttribute('href').split('#')[1];
             document.getElementById(targetAnchor).scrollIntoView({behavior: 'smooth', block: 'start'});
+            history.pushState({}, "", "#"+targetAnchor);
           });
         });
       })();

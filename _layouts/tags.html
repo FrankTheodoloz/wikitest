@@ -10,13 +10,13 @@ layout: default
       {{ tagCat.name }}
       <div> |
         {% for tag in tagCat.tags %}
-          <a href="#{{tag | slugify}}">{{ tag }}</a> |
+          <a class="jump-link" href="#{{tag | slugify}}">{{ tag }}</a> |
         {% endfor %}
       </div>
   </li>
 {% endfor %}
 </ul>
-
+<hr/>
   {% assign tags =  site.articles | map: 'tags' | join: ','  | split: ',' | uniq %}
   {% for tag in tags %}
     <h3 id="{{tag | slugify}}">{{ tag }}</h3>
