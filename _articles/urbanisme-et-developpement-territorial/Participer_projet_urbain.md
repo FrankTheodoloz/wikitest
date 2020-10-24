@@ -38,12 +38,12 @@ C’est ce dernier point que nous allons particulièrement développer et analys
 * 	Exprimer vos envies et aspirations
 * 	S’impliquer dans la vie du quartier et renforcer les liens sociaux
 
-La nouvelle plateforme de participation numérique reprend ces même objectifs et y ajoutant la plus value des outils numériques. Elle permet ainsi une collecte d’informations facilitées et réutilisable simplement. Elle permet en outre de diversifier et d’élargir le nombre de contributeurs. 
+La nouvelle plateforme de participation numérique reprend ces mêmes objectifs et y ajoute la plus value des outils numériques. Elle permet ainsi une collecte d’informations facilitées et réutilisables simplement. Elle permet en outre de diversifier et d’élargir le nombre de contributeurs. 
 
 
 ### Règles de gouvernance
 
-les modalités de la concertation pour les plans d’aménagement sont précisément décrites dans les lois fédérales et cantonales.
+Les modalités de la concertation pour les plans d’aménagement sont précisément décrites dans les lois fédérales et cantonales.
 
 * 	Article 4 : information et participation de la loi fédérale sur l’aménagement du territoire (LAT)
 * 	Article 11 : information, article 134 : participation et article 135 : concertation de la Constitution de la République et canton de Genève
@@ -80,4 +80,4 @@ Les professionnels, associations, communes et habitants
 
 ### Recommandations
 
-Le site participer.ge.ch est encore trop méconnu de la population, même de ceux qui s’intéresse à l’urbanisme et à l’évolution du territoire sans en faire partie de par leur métier. Une compagne pour la promotion d’une telle plateforme serait extrêmement bénéfique autant pour le site que pour les personnes qui s’intéressent à ces enjeux.  
+Le site participer.ge.ch est encore trop méconnu de la population, même de ceux qui s’intéresse à l’urbanisme et à l’évolution du territoire sans en faire partie de par leur métier. Une campagne pour la promotion d’une telle plateforme serait extrêmement bénéfique autant pour le site que pour les personnes qui s’intéressent à ces enjeux.  
