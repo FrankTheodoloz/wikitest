@@ -16,7 +16,7 @@ tags: ['autorisations de construction', 'service public', 'participation']
 
 ### Situation actuelle
 
-L’office des autorisations de construire a développé une procédure numérique pour déposer et suivre les demandes d’APA (Autorisation par procédure accélérée). Cette plate-forme est intégrée aux prestation e-démarches déjà en place. Toutes les informations et les évolutions du projet se trouvent sur la plate-forme et il n’y a plus besoin de ce rentre au guichet pour chaque nouveau document à fournir ou chaque fomulaire à signer. De plus, tous les projets sont répertoriés dans la même plate-forme ce qui permet une meilleure vision globale des projets en cours. L’avancement des projets est également plus à jour.
+L’office des autorisations de construire a développé une procédure numérique pour déposer et suivre les demandes d’APA (Autorisation par procédure accélérée). Cette plate-forme est intégrée aux prestation e-démarches déjà en place. Toutes les informations et les évolutions du projet se trouvent sur la plate-forme et il n’y a plus besoin de se rendre au guichet pour chaque nouveau document à fournir ou chaque formulaire à signer. De plus, tous les projets sont répertoriés dans la même plate-forme ce qui permet une meilleure vision globale des projets en cours. L’avancement des projets est également plus à jour.
 
 
 ### Objectifs annoncés
@@ -35,12 +35,12 @@ Pour déposer une APA il faut avoir un compte e-démarches qui est disponible po
 
 ### Résultats et utilisation
 
-Comme l’ensemble des prestations e-démarches, elle est de plus en plus utilisée. L’État de Genève développant constamment les services de cet outil, elle est de plus en plus connue et utilisée. De plus, l’État de Genève continue à la faire évoluer dans le sens des utilisateurs et demandes donc régulièrement leurs avis à ceux-ci par le biais de questionnaires par exemple. Le but étant de l’adapter au mieux aux besoinx des citoyens genevois.
+Comme l’ensemble des prestations e-démarches, elle est de plus en plus utilisée. L’État de Genève développant constamment les services de cet outil, elle est de plus en plus connue et utilisée. De plus, l’État de Genève continue à la faire évoluer dans le sens des utilisateurs et demande donc régulièrement leurs avis à ceux-ci par le biais de questionnaires par exemple. Le but étant de l’adapter au mieux aux besoins des citoyens genevois.
 
 
 ### Analyse Wikinomie
 
-Cette procédure va dans le sens de la wikinomie pour l’aspect du partage d’information et de la transparence qu’elle amène sur le suivit des projets. Elle n’est en revanche pas délibérative et donc encore moins collaborative. 
+Cette procédure va dans le sens de la wikinomie pour l’aspect du partage d’information et de la transparence qu’elle amène sur le suivi des projets. Elle n’est en revanche pas délibérative et donc encore moins collaborative. 
 
 
 ### Responsables
@@ -55,4 +55,4 @@ Tous les demandeurs d’une APA et les professionnels associées à cette demand
 
 ### Recommandations
 
-Ce type de service apporte de la transparence et facilite les suivis des demandes de contructions. Elle pourrait être complété par des donnée ouvertes disponibles à tous pour une meilleure compréhension et suivi à la fois du service, mais aussi de la politique de la ville sur l’urbanisme. 
+Ce type de service apporte de la transparence et facilite les suivis des demandes de constructions. Elle pourrait être complété par des donnée ouvertes disponibles à tous pour une meilleure compréhension et suivi à la fois du service, mais aussi de la politique de la ville sur l’urbanisme. 
