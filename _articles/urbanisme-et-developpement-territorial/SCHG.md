@@ -34,7 +34,7 @@ La SCHG met à disposition un « journal d’informations » y relatant les déc
 
 ### Résultats et utilisation
 
-Le site est utilisé par les personnes de la coopérative et les personnes intéressées par ses enjeux. Pour l’instant seul les informations sont disponibles pour tous, pour pouvoir interagir avec la SCHG il faut doit en être membre soit s’inscrire. Les données ne sont pas encore accessibles à tous. On ne peut pas extraire des données pour les utiliser à des fins privés ou publics.
+Le site est utilisé par les personnes de la coopérative et les personnes intéressées par ses enjeux. Pour l’instant seul les informations sont disponibles pour tous, pour pouvoir interagir avec la SCHG il faut soit en être membre soit s’inscrire. Les données ne sont pas encore accessibles à tous. On ne peut pas extraire des données pour les utiliser à des fins privés ou publics.
 
 
 ### Analyse Wikinomie
@@ -54,4 +54,4 @@ Les habitants de la ville de Genève
 
 ### Recommandations
 
-Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données. La SCGH exploite beaucoup d’aspects de la Wikinomie mais partage uniquement toutes ses informations avec des membres de la copropriété. Il serait bien de leur part de faire profiter tout le monde de leurs découvertes et recherche. Comme c’est une copropriété, on aurait tendance à se dire que les demandes et recommandations devraient venir de la part des propriétaires mais il y des bonnes idées partout, autant ouvrir le débat publiquement.
+Comme exprimé dans les paragraphes ci-dessus, la SCHG pourrait, dans un avenir proche, proposer l’extraction de ses données. La SCGH exploite beaucoup d’aspects de la Wikinomie mais partage uniquement toutes ses informations avec des membres de la copropriété. Il serait bien de leur part de faire profiter tout le monde de leurs découvertes et recherches. Comme c’est une copropriété, on aurait tendance à se dire que les demandes et recommandations devraient venir de la part des propriétaires mais il y a de bonnes idées partout, autant ouvrir le débat publiquement.
