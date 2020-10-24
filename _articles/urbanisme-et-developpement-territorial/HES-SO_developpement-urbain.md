@@ -57,4 +57,4 @@ Collectivités publiques, milieux professionnels et universités et écoles poly
 
 ### Recommandations
 
-Comme mentionné ci-dessus, la plateforme pourrait évoluer et proposer plus de collaboration entre les participants de differents projets.
+Comme mentionné ci-dessus, la plateforme pourrait évoluer et proposer plus de collaboration entre les participants de différents projets.
