@@ -39,9 +39,9 @@ Le but de ce site est de rassembler les données pour les mettre à disposition 
 Pour respecter les lois sur la protection des données il existe trois modes d’utilisation des données :  
 Le premier est la consultation simple des données et des cartes directement sur le site. L’accès y est totalement libre et gratuit.  
 Le deuxième est le téléchargement des données pour une utilisation privée ou commerciale par des particuliers. Là il faut accepter les conditions générales d’utilisation des données mais l’accès y est toujours libre et gratuit.  
-Le troisième mode est le téléchargement de données jugées sensibles par celui qui les publie sur le site. Les données ne sont alors qu’accessibles par certains partenaires et nécéssitent une demande spéciale.  
+Le troisième mode est le téléchargement de données jugées sensibles par celui qui les publie sur le site. Les données ne sont alors accessibles que par certains partenaires et nécéssitent une demande spéciale.  
 
-Les données open data sont téléchargeables sous forme d’un fichier .zip, quel que soit le format choisi. La fiche de métadonnée ainsi que les conditions d’utilisation sont au format .pdf. Le téléchargement se fait directement depuis la fiche de métadonnée.
+Les données open data sont téléchargeables sous forme de fichier .zip, quel que soit le format choisi. La fiche de métadonnée ainsi que les conditions d’utilisation sont au format .pdf. Le téléchargement se fait directement depuis la fiche de métadonnée.
 
 Les données peuvent être téléchargées directement à partir du catalogue dans les cinq formats suivants :
 
@@ -55,25 +55,25 @@ Les formats raster et lidar sont également disponibles mais doivent faire l’o
 
 Le SITG propose différentes méthodes d’utilisation des données. Les services Web qui permettent d’intégrer des données dans des applications à l’aide de standards, mais divers outils spécialisés permettent également d’interroger ou d’interagir avec le SITG. 
 
-Ils ont mis en place une charte qui est libre et volontairement acceptée des partenaires et qui fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle est trouvable sur le site au même titre que les condition d’utilisation qui doivent être accéptées par toute personne voulant utiliser des données. (Source : https://ge.ch/sitg/le-sitg/organisation/bases-legales)
+Ils ont mis en place une charte qui est libre et volontairement acceptée des partenaires et qui fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle fixe les modalités d’organisation, d’échange des données et des responsabilités au sein du SITG. Elle est trouvable sur le site au même titre que les conditions d’utilisation qui doivent être accéptées par toute personne voulant utiliser des données. (Source : https://ge.ch/sitg/le-sitg/organisation/bases-legales)
 
 
 ### Résultats ou Utilisation
 
 Le résultat est en adéquation avec les objectifs énoncés. Le site est très utilisé par les personnes des métiers de l’urbanisation et les personnes intéressées par ses enjeux.
 
-Les données sont disponibles dans un grand nombre de format ce qui facilite encore plus leurs utilisations. De plus, comme expliquer ci-dessous, ils ont pour projet de faire davantage participer les citoyens à la collecte des données ce qui mènerait à un encore plus grand nombre de données disponibles.
+Les données sont disponibles dans un grand nombre de formats ce qui facilite encore plus leur utilisation. De plus, comme expliqué ci-dessous, ils ont pour projet de faire davantage participer les citoyens à la collecte des données, ce qui mènerait à un encore plus grand nombre de données disponibles.
 
 
 ### Analyse Wikinomie
 
-On peut donc constater que la Wikinomie est très avancé sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaire de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail, 
+On peut donc constater que la Wikinomie est très avancée sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaires de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail, 
 > Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle.
 
 ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos 
 > Le SITG dans sa vision stratégique évoque aussi un renforcement de l’interaction avec les citoyens et la production de données communautaires, mais cela est encore à l’État d’intentions.
 
-On constate donc de la part de l’état de Genève un vrai désir de faire évoluer l’urbanisme grace à la mise en commun des connaissances et du savoir de chaque entité..
+On constate donc, de la part de l’état de Genève, un vrai désir de faire évoluer l’urbanisme grâce à la mise en commun des connaissances et du savoir de chaque entité.
 
 
 ### Responsables
@@ -83,7 +83,7 @@ DIT (Direction de l'Information du Territoire - Service de géomatique dépendan
 
 ### Autres acteurs
 
-Partenaires (Entreprise dans le domaine de l'aménagement du territoire)  
+Partenaires (Entreprises dans le domaine de l'aménagement du territoire)  
 Tous les citoyens genevois
 
 
