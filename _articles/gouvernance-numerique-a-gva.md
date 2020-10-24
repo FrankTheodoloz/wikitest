@@ -149,7 +149,7 @@ Voici un exemple d’utilisation de ces catégories.
 
 Guide de benchmarking à venir
 
-### Nos recommendations
+### Nos recommandations
 
 Section à venir
 
