@@ -11,7 +11,7 @@ toc:
 - "Les résultats de la recherche par activité"
 - "Notre benchmaking et l'initiative Open Government Partnership"
 - "L'état de Genève dans le benchmarking de l'OGP"
-- "Nos recommendations"
+- "Nos recommandations"
 - "Nos conclusions"
 - "L' équipe de recherche"
 tags: ['wikinomie', 'compétences numériques', 'digitalisation', 'gouvernement ouverte', 'recommendations', 'conclusions']
