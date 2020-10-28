@@ -35,7 +35,7 @@ Pour déposer une APA il faut avoir un compte e-démarches qui est disponible po
 
 ### Résultats et utilisation
 
-Comme l’ensemble des prestations e-démarches, elle est de plus en plus utilisée. L’État de Genève développant constamment les services de cet outil, elle est de plus en plus connue et utilisée. De plus, l’État de Genève continue à la faire évoluer dans le sens des utilisateurs et demande donc régulièrement leurs avis à ceux-ci par le biais de questionnaires par exemple. Le but étant de l’adapter au mieux aux besoins des citoyens genevois.
+L’État de Genève développant constamment les services de cet outil, cette plate-forme est de plus en plus connue et utilisée, comme l’ensemble des prestations e-démarches De plus, l’État de Genève continue à la faire évoluer dans le sens des utilisateurs et demande donc régulièrement leurs avis à ceux-ci par le biais de questionnaires par exemple. Le but étant de l’adapter au mieux aux besoins des citoyens genevois.
 
 
 ### Analyse Wikinomie
