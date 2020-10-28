@@ -16,7 +16,7 @@ tags: ["projet d'intérêt public", 'aménagement du territoire', 'participation
 
 ### Situation actuelle
 
-La mission de cette [plateforme](https://www.hesge.ch/developpement-urbain/) est de coordonner, de promouvoir et de développer la cooopération entre six universités (HEPIA, HEG, HEAD, HETS, HEdS et HEM) dans le développement durable des villes et des régions. Afin de développer des projets visant à répondre aux problématiques complexes de l’agglomération franco-valdo-genevois, la plateforme collabore également avec les pouvoirs publics. Les professions libérales, les universités et les écoles polytechniques en Suisse et en France voisine.
+La mission de cette [plateforme](https://www.hesge.ch/developpement-urbain/) est de coordonner, de promouvoir et de développer la cooopération entre six universités (HEPIA, HEG, HEAD, HETS, HEdS et HEM) pour le développement durable des villes et des régions. Afin de développer des projets visant à répondre aux problématiques complexes de l’agglomération franco-valdo-genevois, la plateforme collabore également avec les pouvoirs publics. Les professions libérales, les universités et les écoles polytechniques en Suisse et en France voisine.
 
 
 ### Objectifs annoncés
