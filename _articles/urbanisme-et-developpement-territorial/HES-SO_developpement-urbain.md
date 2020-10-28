@@ -32,7 +32,7 @@ Aucune règle de gouvernance n’est présente sur le site.
 
 ### Besoins à remplir
 
-Pour l’instant il est uniquement possible de consulter ou de demander des recherches. Il serait bien si la plateforme était plus collaborative et permettrait la collaboration de privé avec ces six universités. Si les recherches en cours étaient indiquées et que tout le monde pouvait y participer.
+Pour l’instant il est uniquement possible de consulter ou de demander des recherches. Il serait bien si la plateforme était plus collaborative et permettrait la collaboration de privés avec ces six universités. Si les recherches en cours étaient indiquées et que tout le monde pouvait y participer.
 
 
 ### Résultats et utilisation
