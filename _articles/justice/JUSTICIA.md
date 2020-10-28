@@ -24,26 +24,26 @@ Le projet Justitia 4.0 permettra au système judiciaire suisse de passer au num�
 
 ### Règles de gouvernance
 
-* **Règles de gouvernance du projet:**
+* **Règles de gouvernance du projet :**
 
 Il existe une organisation de projet à trois niveaux :
-1. comité de pilotage (8 membres): décisions stratégiques (finances, grandes orientations du projet, etc.)
-2. comité de projet (12 membres): décisions opérationnelles au niveau supérieur (préparation du budget et gestion financière avec la direction de projet, libération des phases de projet (jalons), approbation des concepts et cahiers des charges présentés par la direction de projet
-3. direction de projet (5 chefs de projet, dont un chef de projet général et un chef de projet général suppléant): conduite opérationnelle du projet en collaboration avec 8 groupes d'experts et de travail thématiques comprenant au total env. 150 utilisateurs provenant des autorités judiciaires cantonales et fédérales ainsi que d'études d'avocats.
+1. Comité de pilotage (8 membres): décisions stratégiques (finances, grandes orientations du projet, etc.)
+2. Comité de projet (12 membres): décisions opérationnelles au niveau supérieur (préparation du budget et gestion financière avec la direction de projet, libération des phases de projet (jalons), approbation des concepts et cahiers des charges présentés par la direction de projet
+3. Direction de projet (5 chefs de projet, dont un chef de projet général et un chef de projet général suppléant): conduite opérationnelle du projet en collaboration avec 8 groupes d'experts et de travail thématiques comprenant au total env. 150 utilisateurs provenant des autorités judiciaires cantonales et fédérales ainsi que d'études d'avocats.
 
-Un management selon la méthode scrum à été adopter permettant de tenir compte des voeux des utilisateurs après la mise en service. De plus,150 personnes sont actives au sein des groupes de travail et de projet. Cela permet d'intégrer les besoins et les voeux des utilisateurs durant la phase conceptuelle.  
+Un management selon la méthode scrum a été adopté permettant de tenir compte des voeux des utilisateurs après la mise en service. De plus, 150 personnes sont actives au sein des groupes de travail et de projet. Cela permet d'intégrer les besoins et les voeux des utilisateurs durant la phase conceptuelle.  
 
 Le processus législatif en cours constitue une dépendance externe importante. 
 La législation prévue décrètera l’obligation d’utiliser le dossier judiciaire électronique et la tenue des dossiers judiciaires sous forme numérique, avec certaines exceptions.
 
-* **Règles de gouvernance du système:**
+* **Règles de gouvernance du système :**
 
-Les utilisateurs devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'importe ou dans le monde.
+Les utilisateurs devront pouvoir communiquer 24h s/ 24 et 7 jours s/7 avec les autorités judiciaires depuis n'importe où dans le monde.
 
 La platform Justicia.swiss ne stockera pas durablement les documents en relation avec une procédure judiciaire. Une fois que les autorités judiciaires les auront téléchargées et intégrées au dossier, le fichier sur la platforme ne sera pas conservé.
 
 ### Résultats et utilisation
-Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations. La mise en œuvre et le déploiement à l’échelle nationale sont prévus en entre 2022 à 2026. Le plan directeur donne un aperçu de la structure substantielle et temporelle de la procédure et met en évidence les principales dépendances. Il constitue également la base pour planifier et traiter de manière plus approfondie les différents sous-projets.
+Le projet est toujours incomplet donc on ne peut pas visualiser les résultats ou l'utilisations. La mise en œuvre et le déploiement à l’échelle nationale sont prévus entre 2022 à 2026. Le plan directeur donne un aperçu de la structure substantielle et temporelle de la procédure et met en évidence les principales dépendances. Il constitue également la base pour planifier et traiter de manière plus approfondie les différents sous-projets.
 
 * Un recensement détaillé des exigences sera réalisé de 2018 à 2020. Pour ce faire, des groupes spécialisés et d’accompagnement différents sont mis sur pied pour épauler les travaux du projet.
 
@@ -62,12 +62,12 @@ Balawijitha Waeber, cheffe de projet / responsable presse, info@justitia.swiss
 Marius Erni, chef de projet / responsable presse, info@justitia.swiss
 
 ### Autres acteurs
-* Tribunaux
-* les ministères publics
-* les barreaux
-* les autorités d’exécution à l’échelon cantonal et fédéral
+* Les tribunaux
+* Les ministères publics
+* Les barreaux
+* Les autorités d’exécution à l’échelon cantonal et fédéral
 
-Organisations impliqués :
+Organisations impliquées :
 
 * Tribunaux de la Confédération
 * Ministère public de la Confédération
@@ -78,11 +78,11 @@ Organisations impliqués :
 
 ### Recommandations
 
-Comme rien n'est encore mis en place, nous ne pouvons données des recommandations sur une éventuelle amélioration du système.
-Nous avons cependant des idées de fonctionnalité qui selon nous seraient intérressantes à implémenter. 
+Comme rien n'est encore mis en place, nous ne pouvons donner des recommandations sur une éventuelle amélioration du système.
+Nous avons cependant des idées de fonctionnalités qui, selon nous, seraient intéressantes à implémenter. 
 
 * Que les citoyens disposent d'un espace de stockage pour consulter à tout moment leurs documents judiciaires.
-* Mettre en place un forum sur la platform Justicia.swiss qui permettrait aux particuliers de poser des questions et d'avoir des réponses ou conseil rapidement et sans avoir besoin de se rendre dans une permanence juridique.
+* Mettre en place un forum sur la platform Justicia.swiss qui permettrait aux particuliers de poser des questions et d'avoir des réponses ou conseils rapidement et sans avoir besoin de se rendre dans une permanence juridique.
 
 ### Bibliographie
 
@@ -93,6 +93,6 @@ Nous avons cependant des idées de fonctionnalité qui selon nous seraient inté
 
 
 ### Interview
-Dans l'objectif de clarifier certaines intérogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de question. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
+Dans l'objectif de clarifier certaines interrogations que nous avions sur le projet, nous avons contacté Mme Waeber, cheffe de projet, qui nous a autorisé à lui envoyer une série de questions. C’est M. Bühler Co-chef de projet qui s’est chargé d'y répondre. L’intégralité de l’interview, lien :
 [Interview du 8 mai 2020](https://framagit.org/thanough/cours-wikinomie-2020/-/blob/master/_documents/HES_Questions_Justitia4_0_reponses_JBU.pdf)
 
