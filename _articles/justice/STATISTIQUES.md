@@ -60,7 +60,7 @@ Les citoyens peuvent faire des recherches et des affichages d'informations sans 
 ### Recommandations
 * Proposer un espace ou fonction pour partager les expériences des citoyens.
 * Revoir la présentation des graphiques parce qu'elle est très condensée.
-* Fair une application mobile pour faciliter la recherche et l'affichage des données par thème.
+* Faire une application mobile pour faciliter la recherche et l'affichage des données par thème.
 * Utilisation de termes simples pour les personnes qui ne comprennent pas le vocabulaire juridiques.
 
 
