@@ -26,12 +26,12 @@ Il constitue en même temps :
 * Un outil d'aide à la décision fournissant une image flexible et dynamique du territoire et ses contraintes
 * Un vecteur d'innovation et de dynamisme autour du territoire
 
-Le site permet donc à plein de corps de métier relatifs à l’urbanisme et à l’aménagement du territoire de partager ces données avec, en fonction des données, différents droits. Ces données sont ensuite répertoriées sur le site qui est consultable par tous. Il existe trois modes d’utilisation des données qui sont décrites ci-dessous au point « Règles de gouvernance ». Le SITG propose également des cours gratuits pour apprendre à utiliser les fonctionnalités plus complexes misent à disposition sur leur site.
+Le site permet donc à plein de corps de métier relatifs à l’urbanisme et à l’aménagement du territoire de partager ces données avec l’attribution, en fonction des données, de différents droits. Ces données sont ensuite répertoriées sur le site consultable par tous. Il existe trois modes d’utilisation des données qui sont décrites ci-dessous au point « Règles de gouvernance ». Le SITG propose également des cours gratuits pour apprendre à utiliser les fonctionnalités plus complexes misent à disposition sur leur site.
 
 
 ### Objectifs annoncés
 
-Le but de ce site est de rassembler les données pour les mettre à disposition du plus grand nombre pour favoriser l’innovation sur le sujet de l’urbanisation et de l’aménagement du territoire. La mise à disposition de ces données veut promouvoir le développement numérique de nouveaux outils par toute personne intéressée par les enjeux de l’évolution du territoire genevois.
+Le but de ce site est de rassembler les données pour les mettre à disposition du plus grand nombre afin de favoriser l’innovation sur le sujet de l’urbanisation et de l’aménagement du territoire. La mise à disposition de ces données veut promouvoir le développement numérique de nouveaux outils par toute personne intéressée par les enjeux de l’évolution du territoire genevois.
 
 
 ### Règles de gouvernance
@@ -41,9 +41,10 @@ Le premier est la consultation simple des données et des cartes directement sur
 Le deuxième est le téléchargement des données pour une utilisation privée ou commerciale par des particuliers. Là il faut accepter les conditions générales d’utilisation des données mais l’accès y est toujours libre et gratuit.  
 Le troisième mode est le téléchargement de données jugées sensibles par celui qui les publie sur le site. Les données ne sont alors accessibles que par certains partenaires et nécéssitent une demande spéciale.  
 
-Les données open data sont téléchargeables sous forme de fichier .zip, quel que soit le format choisi. La fiche de métadonnée ainsi que les conditions d’utilisation sont au format .pdf. Le téléchargement se fait directement depuis la fiche de métadonnée.
+Les données open data sont téléchargeables sous forme defichier .zip, quel que soit le format choisi. La fiche de métadonnée ainsi que les conditions d’utilisation sont au format .pdf. Le téléchargement se fait directement depuis la fiche de métadonnée.
 
 Les données peuvent être téléchargées directement à partir du catalogue dans les cinq formats suivants :
+
 
 * SHAPE (ESRI)
 * Geodatabase-file (ESRI)
@@ -67,7 +68,7 @@ Les données sont disponibles dans un grand nombre de formats ce qui facilite en
 
 ### Analyse Wikinomie
 
-On peut donc constater que la Wikinomie est très avancée sur ce sujet à l’État de Genève.  Ce site permet à un grand nombre de partenaires de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M.  Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail, 
+On peut donc constater que la Wikinomie est très avancée sur ce sujet à l’État de Genève. Ce site permet à un grand nombre de partenaires de partager des informations et à un encore plus grand nombre de personnes d’en profiter. Comme nous l’a expliqué M. Oehrli, responsable du centre de compétence du SITG, que l’on a contacté par e-mail,
 > Le SITG ne produit pas de données en tant que partenariat orienté vers la diffusion de géodonnées, mais ses membres (entités publiques) sont responsables de la production de données. Certains d’entre eux ont lancé des démarches participatives, mais cette pratique est encore nouvelle.
 
 ce qui montre la volonté de faire évoluer ce site vers une approche encore plus participative qu’elle ne l’est déjà. Il a ajouté à ce propos 
