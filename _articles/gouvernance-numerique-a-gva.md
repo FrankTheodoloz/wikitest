@@ -8,6 +8,7 @@ toc:
 - "Contexte"
 - "Etat de l'art"
 - "LIPAD du canton de Genève"
+- "La stratégie de l’Etat : Une politique numérique pour Genève"
 - "Les résultats de la recherche par activité"
 - "Notre benchmaking et l'initiative Open Government Partnership"
 - "L'état de Genève dans le benchmarking de l'OGP"
@@ -18,7 +19,6 @@ tags: ['wikinomie', 'digitalisation', 'gouvernement ouverte', 'recommendations',
 ---
 
 ### Contexte
-
 La digitalisation est à la fois un cadre de développement des compétences ciblées (par exemple : les compétences numériques - digital skills  dans l’enseignement) mais, en même temps, un espace dynamique des relations socioéconomiques complexes. Les deux faces sont complémentaires et indissociables. Cela veut dire que la digitalisation n’est pas un évènement fixe qu’on peut définir et stabiliser et sur lequel se reposer pour apprendre. Bien au contraire, elle nous demande de faire face à une complexité sociotechnique et à adopter nos approches afin de se remettre en question, explorer, apprendre, produire, évaluer… et recommencer.
 
 Dans ce sens-là, la digitalisation n’est pas immatérielle, mais ancrée dans la vie quotidienne et le développement de nouveaux comportements et pratiques. Le processus de développement de nouveaux comportements, liés aux expériences de la vie réelle, permet aux individus d’évoluer avec de nouvelles situations d’apprentissage (1). Dans ce contexte, il est intéressant de connecter la digitalisation avec nos capacités de changement et d’adaptation. L’apprentissage qui renforce cette capacité se forme lorsque les individus s’engagent dans un contexte inconnu, d’une manière intentionnelle et attentionnelle. Ce principe nous amène à adopter la recherche participative comme méthodologie d’apprentissage pour notre projet. Le cas d’application choisie pour notre recherche est celle de l’analyse de la Gouvernance Numérique à Genève (2020 – 2021).
@@ -35,7 +35,6 @@ Notre but est de permettre à l’Etat de Genève de situer ses pratiques en mat
 2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger *
 
 ### Etat de l'art
-
 La recherche participative (la recherche-action et la recherche-action participative) est un moyen d’impliquer les citoyens dans la recherche scientifique : une approche qui met l’accent sur les relations entre les partenaires des milieux de recherche et de pratique, les principes de co-apprentissage, de bénéfices mutuels et d’engagement à long terme et qui intègrent les théories, la participation et les pratiques dans le processus de recherche (Wallerstein & Duran, 2006) . En général, elle favorise la création d’un espace de dialogue et de collaboration entre citoyens et chercheurs. Dans notre cas, elles visent à élargir le nombre des acteurs de la recherche scientifique en incluant les étudiants. Ces approches « permettent d’établir des liens entre la recherche et l’action, la théorie et la pratique,la logique du chercheur et celle des praticiens » (Anadon et Couture 2007).
 
 Ce type de recherche vise la production de connaissances nouvelles, la résolution d’un problème identifié par les acteurs et le renforcement des capacités de ces acteurs pour une plus grande autonomie. Cette production de connaissances nouvelles, voire d’outils utiles aux praticiens, permet de transformer la réalité (Faure et al. 2010). Ce point nous permet de connecter la recherche participative avec l’apprentissage par la pratique qui est obtenu par les étudiants grâce à leur propre expérience. Dans l’apprentissage par la pratique, il est essentiel que l’expérience soit une relation à double sens. L’étudiant d’une part, est actif par rapport au monde autour de lui et d’autre part, doit assumer lui-même les conséquences de ses propres priorités, décisions et actions (Altet 2013).
@@ -54,7 +53,6 @@ Comme déjà indiqué, notre projet vise à appliquer la recherche participative
 ### LIPAD du canton de Genève
 Depuis 2002, le canton de Genève dispose d’une loi qui règle l’accès aux informations des administrations, du Parlement, du gouvernement et des communes (Loi sur l’information du public, l’accès aux documents et la protection des données personnelles (LIPAD). Une particularité : Les personnes morales dont l’Etat possède plus de 50% du capital-actions ou finance leur budget pour plus de 50%, sont aussi soumises à cette législation.
 
-
 La loi s’applique:
 a) aux institutions cantonales et communales
 b) aux organisations du secteur privé
@@ -68,9 +66,41 @@ c) aux privés qui assument des tâches publiques
 1. La plateforme pour la transparence dans l'administration disponible à https://www.oeffentlichkeitsgesetz.ch/francais/les-cantons/geneve/
 2. PRÉPOSÉ CANTONAL À LA PROTECTION DES DONNÉES ET À LA TRANSPARENCE (PPDT) disponible à https://www.ge.ch/ppdt/lipad-bd.asp 
 
+### "La stratégie de l’Etat : Une politique numérique pour Genève"
+Une politique évolutive, établie en six grandes étapes et 15 objectifs : 
+1.	Renforcer et élargir la participation citoyenne grâce au numérique dans le respect du contact humain 
+2.	Simplifier les démarches administratives et développer de nouveaux services par le secteur public 
+3.	Encourager le développement de nouveaux services par les secteurs privés, académiques en collaboration avec la société civile 
+4.	Attribuer à l’école un rôle clé dans la transition numérique 
+5.	Développer les compétences numériques et la culture numérique de la population genevoise et des entreprises 
+6.	Soutenir les évolutions pédagogiques avec des outils numériques adaptés 
+7.	Etablir les conditions pour renforcer la confiance dans les services numériques de l’Etat 
+8.	Donner les moyens de lutter contre la cybercriminalité et l’utilisation abusive des données 
+9.	Agir activement sur la prévention et la réponse efficace  
+10.	Positionner Genève comme un acteur majeur de la gouvernance du numérique 
+11.	Améliorer les conditions-cadres pour accompagner la transition numérique des entreprises et de la société à Genève 
+12.	Favoriser l’échange humain et la culture numérique 
+13.	Assurer une prise en compte systématique et durable des enjeux éthiques liés au numérique 
+14.	Permettre une évolution des bases légales adaptée au numérique et autorisant l’expérimentation 
+15.	Renforcer les compétences et la culture numériques des régulateurs 
+
+La consultation publique menée en ligne au mois de mars 2018 a permis de toucher plus de 110’000 personnes, dont 474 ont formulé des propositions ou des arguments. Au total plus de 3’000 votes sur les propositions présentées ont été enregistrés. Ces contributions reflètent un réel intérêt de la population genevoise. En général, on peut constater que la stratégie propose une bonne analyse des enjeux et des objectifs à suivre avec une méthodologie de présentation, mais sans plan d’action. 
+
+Il manque des projets concrets et des ressources attribués la fois pour la réalisation des interventions ou l’évaluation des activités existantes. Voici quelques exemples cités dans la stratégie :  
+-	PLATEFORME DE CONSULTATION ET DE CO-CRÉATION CITOYENNE À DISPOSITION DES SERVICES DE L’ADMINISTRATION CANTONALE (proposition mais faible réalisation). Les activités dans la plateforme consultation.ge.ch s’arrêtent en 2018.
+-	DÉVELOPPER LE GUICHET UNIVERSEL EN LIGNE (Les eDémarches de Genève comme étape préliminaire d’un tel objectif).
+-	Guichet virtuel permettent de signaler un cyber-incident (Police Genève). Activité évaluée dans ce rapport.
+-	Centrale d’enregistrement et d’analyse pour la sûreté de l’information MELANI. Activité évaluée dans ce rapport.
+-	Numérisation des autorisations de construire. Activité évaluée dans ce rapport.
+-	Guide vocal de l’Administration Fiscale Cantonale (Prototype existant, pas d’implémentation). 
+-	Système d’Information du Territoire à Genève SITG. Activité évaluée dans ce rapport.
+-	Géofab du Grand Genève (Appel à projet en 2018, pas des résultats publiés).
+-	Le Genève Lab est une activité phare dans la stratégie de l’Etat. Il dote l’action publique d'un dispositif qui prend en compte la transition numérique, exploite les nouveaux leviers d’innovation en s'appuyant sur la culture Living Lab pour soutenir les porteurs de projets en impliquant les parties prenantes dans une démarche d’innovation au service de la société.
+
+*Bibliographie*
+1. La stratégie de l’Etat : Une politique numérique pour Genève", document disponible sur https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger
 
 ### Les résultats de la recherche par activité
-
 Nous utilisons quatre mots clés pour caractériser les activités revues. Ces mots clés constituent des niveaux différents, expliqués ainsi :
 a)	Information : activité unidirectionnelle, sans possibilité de contribution    
 b)	Participation : activité qui permet une contribution sans s’engager à fournir un retour, un suivi ou une collaboration organisée
