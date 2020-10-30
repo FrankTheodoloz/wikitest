@@ -122,9 +122,27 @@ Voici un exemple d’utilisation de ces catégories.
 -          Le patient décide avec qui il partage les droits d’accès à ses données (l’administration s’engage dans une relation de confiance et collaboration avec le patient sur l’utilisation de ses données).
  
 
-### L'état de Genève dans le benchmarking de l'OGP
+### "L'état de Genève dans le benchmarking de l'OGP"
+Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), qui vise à améliorer l’efficacité et la responsabilité des modes de gouvernance publique.  Elle vise tous les domaines politiques (Reference : https://www.opengovpartnership.org/fr/policy-areas/#all). 
 
-Guide de benchmarking à venir
+Elle établit que les citoyens ont les droits et les ressources nécessaires pour accéder aux documents et aux procédures de leurs gouvernements. Son but est de favoriser une transparence et une responsabilisation systématiques. Le benchmarking de l’initiative Open Government Partnership est basé sur une analyse systématique des activités étatiques et vise à : 
+-	Documenter une activité (service, projet, formation, etc.) pour démontrer son évolution et l’organisation responsable.
+-	Aider les citoyens et la société civile à jouer un rôle de veille sur l’implémentation de ces activités.   
+-	Inciter les états à impliquer les citoyens pendant l’évolution de ces activités 
+
+Voici quelques exemples d’activités phares de l’OGP en 2020 : 
+My Overview est une plateforme danoise permettant aux citoyens d'accéder aux données que le gouvernement détient à leur sujet. Une plateforme personnalisée et conviviale sur borger.dk qui présente au citoyen un aperçu numérique combiné. Les données les plus importantes dont disposent les autorités publiques sur chaque utilisateur seront regroupées en un seul endroit.  (Source : https://www.opengovpartnership.org/fr/members/denmark/commitments/DK0068/.  
+La France utilise OGP pour améliorer la transparence des algorithmes publics et des codes sources et travaille au sein de son gouvernement pour développer une méthodologie commune pour l’ouverture des algorithmes et des codes contenus dans ses systèmes d’information (Transparence des algorithmes publics : https://www.opengovpartnership.org/fr/members/france/commitments/FR0035/).
+
+10 thématiques (domaines politiques) définies : dans toutes les thématiques nous trouvons des activités liées à la gouvernance numérique.
+36 activités revues et catégorisées : 14 sur information, 19 sur participation et 3 en collaboration. La majorité des activités sont des services publics :  https://2020.wikipolitics.ch/tags#service-public. Les activités phares incluent :
+
+**(urbanisme)** Le Système d’Information du Territoire de Genève (SITG) offre, au corps de métier relatifs à l’urbanisme et à l’aménagement du territoire, une variété d’options de données grâce à des cartes interactives faciles d’accès et à des données réutilisables.
+**(urbanisme)** La plateforme de dialogue public de Genève et sa région Participer.ge.ch, qui propose divers concertations avec la possibilité pour les citoyens de faire des propositions.
+**(santé)** Mon dossier Medical est une plateforme proposée par l’État de Genève qui permet de mettre son dossier médical en ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la santé. Il s’agit en quelque sorte d’un passeport médical accessible en ligne par les professionnels de la santé.
+**(élections)** CHVote est un système de vote électronique libre et open source, qui a été en fonction dans le canton de Genève pendant 15 ans.
+**(justice)** Dans le domaine de la Justice, le projet JUSTICIA 4.0 n’a pas commencé, mais reste un projet ambitieux et important.
+
 
 ### Nos recommandations
 
