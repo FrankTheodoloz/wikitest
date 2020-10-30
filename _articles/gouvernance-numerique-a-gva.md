@@ -121,7 +121,7 @@ d)	Coopération : activité avec des règles de gouvernance qui définissent et 
 | Médias                                 | Geneva Solutions Jeunes et médias MIXLINFO                                                                                                                                               | **Participation Information Information**                                               | Mission Suisse à l’ONUG et Geneva Solutions Office Fédéral des Assurances Sociales (OFAS) Département de la culture et du sport (DCS)                                                        | Evaluation des articles par le public Collecter le feedback des utilisateurs Gamification par une app mobile                                                                                                       |
 | Plateformes                            | Airbnb et hôtels Uber et taxis                                                                                                                                                           | **Information Information**                                                             | Département Sécurité, Emploi et Santé (DSES) Grand Conseil Canton de Genève                                                                                                                  | Web des données (Linked data) Médiation étatique                                                                                                                                                                   |
 | Sports                                 | Les cours de sport de la Ville de Genève Stade de Genève E-sport genevois                                                                                                                | **Participation Information Information**                                               | Ville et Canton de Genève La Fondation du stade de Genève Structures d’esport approuvée par l’état                                                                                           | Formations en ligne Collecter les propositions du public Plateforme de la gouvernance                                                                                                                              |
-| Activités revues                       | 37                                                                                                                                                                                       |                                                                                         |                                                                                                                                                                                              |                                                                                                                                                                                                                    |
+| Activités revues                       | 36                                                                                                                                                                                       |                                                                                         |                                                                                                                                                                                              |                                                                                                                                                                                                                    |
 
 *Source*
 - Gouvernance Numérique à Genève 2019 - 2020, https://2020.wikipolitics.ch/
@@ -168,27 +168,64 @@ La France utilise OGP pour améliorer la transparence des algorithmes publics et
 36 activités revues et catégorisées : 14 sur information, 19 sur participation et 3 en collaboration. La majorité des activités sont des services publics :  https://2020.wikipolitics.ch/tags#service-public. Les activités phares incluent :
 
 **(urbanisme)** Le Système d’Information du Territoire de Genève (SITG) offre, au corps de métier relatifs à l’urbanisme et à l’aménagement du territoire, une variété d’options de données grâce à des cartes interactives faciles d’accès et à des données réutilisables.
+
 **(urbanisme)** La plateforme de dialogue public de Genève et sa région Participer.ge.ch, qui propose divers concertations avec la possibilité pour les citoyens de faire des propositions.
+
 **(santé)** Mon dossier Medical est une plateforme proposée par l’État de Genève qui permet de mettre son dossier médical en ligne afin que celui-ci soit plus facilement transmissible par les différents acteurs de la santé. Il s’agit en quelque sorte d’un passeport médical accessible en ligne par les professionnels de la santé.
+
 **(élections)** CHVote est un système de vote électronique libre et open source, qui a été en fonction dans le canton de Genève pendant 15 ans.
+
 **(justice)** Dans le domaine de la Justice, le projet JUSTICIA 4.0 n’a pas commencé, mais reste un projet ambitieux et important.
 
 
 ### Nos recommandations
 
-Section à venir
+Nos recommandations sont groupées dans cette section pour donner la possibilité à nos lecteurs d’imaginer un plan d’action vers une gouvernance ouverte et collaborative à Genève.
+
+1.	Proposer un portail des données ouvertes avec : a) des données mises à jour, b) leurs guides d’utilisation et c) la possibilité des créer des données structurées et connectées.
+
+> Bonne pratique publique au niveau international : Open data portal (accessible sur https://ouvert.canada.ca/fr/donnees-ouvertes) 
+> Bonne pratique communautaire : Wikidata, le projet des données structurées de Wikipédia (accessible sur https://www.wikidata.org/)
+
+2.	Développer la mise en pratique des API et proposer un portail d’API pour l’Etat de Genève
+
+> Bonne pratique au niveau international : Open API portal et guide (accessible sur https://apisp.comune.milano.it/store/) 
+
+3.	Organiser et implémenter un registre des algorithmes pour l’Etat de Genève
+
+> Bonne pratique au niveau international : Open AI register – Helsinki (accessible sur https://ai.hel.fi/en/ai-register/) et Amsterdam (accessible sur https://algoritmeregister.amsterdam.nl/en/ai-register/)
+> 
+> Bonne pratique communautaire : Electonic Privacy Infornation Center, Algorithmic Transparency Initiative (accessible aur https://www.epic.org/algorithmic-transparency/)
+
+4.	Systématiser la collection des propositions du public à la fois sur les services publics et les projets à venir en transformant Participer.ge.ch dans un espace de concertation « obligatoire » et sensibiliser le public en collaboration avec des projets citoyens et des entités d’intérêt public. 
+
+> Bonne pratique au niveau international : Decidim.org, free open-source participatory democracy for cities and organizations form : une initiative de l’état de Barcelone.   
+> 
+> Bonne pratique au niveau international : The UK Digital Charter (accessible sur https://www.gov.uk/government/publications/digital-charter) avec divers codes de pratique pour réguler l’espace numérique (réseau sociaux, services etc.)
+
+5.	Open contracting et budget participatif (transparence et collaboration sur l’allocation des ressources) 
+
+> Bonne pratique au niveau international : La ville de Paris avec la plateforme Maximilien, plate-forme régionale de communication marchés publics (accessible sur https://marches.maximilien.fr) et l’initiative Paris Budget Participatif (accessible sur https://budgetparticipatif.paris.fr/bp/ )
+
+
+6.	Rédiger une stratégie des services IT open source pour l’Etat de Genève en appuyant les projets existants (https://republique-et-canton-de-geneve.github.io/index-en.html et https://www.ge.ch/dossier/geneve-numerique/quels-sont-projets-open-source) 
+
+> Bonne pratique au niveau international : The MALT Project Re-assessing the IT provisioning Strategy for Core Services at CERN (accessible sur https://malt.web.cern.ch/malt/)
+
 
 ### Nos conclusions
-Lors de notre recherche sur l’Etat de Genève, nous avons plusieurs fois constaté les relations et dépendances avec le système politique et administratif suisse. 
-Concrètement, nous avons fait face à un espace de gouvernance hybride qui est basée sur une très forte décentralisation étatique, avec des niveaux de gouvernance régionaux.  
-La relation entre sphères politique et administrative est très largement conditionnée par les caractéristiques institutionnelles et l’organisation politique du pays. 
-Loin d’être un pur instrument de mise en œuvre des politiques publiques, l’administration suisse tend à occuper un rôle plus important dans le processus décisionnel. 
-Voici quelques conclusions : 
+Lors de notre recherche sur l’Etat de Genève, nous avons plusieurs fois constaté les relations et dépendances avec le système politique et administratif suisse. Concrètement, nous avons fait face à un espace de gouvernance hybride qui est basée sur une forte décentralisation étatique, avec des niveaux de gouvernance régionaux. La relation entre sphères politique et administrative est très largement conditionnée par les caractéristiques institutionnelles et l’organisation politique du pays. Loin d’être un pur instrument de mise en œuvre des politiques publiques, l’administration suisse tend à occuper un rôle plus important dans le processus décisionnel. 
 
-1.	Les pratiques et les mécanismes qui facilitent la transparence et la participation sont établis
-2.	La participation comme niveau acquis, la collaboration comme objectif futur
-3.	La gouvernance ouverte comme objectif implicite
-4.	… 
+Cette dynamique est reflétée à la gouvernance numérique de l’Etat de Genève caractérisée par une importante présence des services qui visent à solidifier les relations entre l’administration et les citoyens. Voici nos conclusions (2020) :
+
+_La Suisse est à la traîne sur la proposition des données ouvertes : L’Etat de Genève, aussi…_
+Le dernier (2020) rapport de l’Organisation de coopération et de développement économiques (OCDE) sur la gouvernance numérique et les données ouvertes (OECD Open, Useful and Re-usable data (OURdata) Index: 2019, disponible sur http://www.oecd.org/gov/digital-government/open-government-data.htm) montre que la Suisse est à la traine.  
+Cette réalité confirme notre analyse et nos recommandations pour l’Etat de Genève sur plusieurs thématiques (plus de détails sur : https://2020.wikipolitics.ch/tags#donn%C3%A9es-ouvertes)   
+
+_La gouvernance digitale de l’Etat de Genève est institutionnalisée_
+Les pratiques et les mécanismes qui facilitent la transparence et la participation sont établis. L’Etat de Genève propose des services qui cherchent l’efficacité de la collaboration citoyenne. La participation comme niveau est acquise pour plusieurs d’entre eux, la collaboration doit être considérée comme objectif futur.
+
+_Une stratégie existante mais sans ressources ni enjeux sur l’évolution de la gouvernance numérique de l’Etat_ 
 
 ### L' équipe de recherche
 Allan Bowman, Anouk Marti, Anthony Berrut Axel Ducraux. Baptiste Loutan, Chadi Mathieu Aebi, Charles Schmid, Christian Djoumessi Tonfack, El-hassania Nour Aissaoui, Faton Murtezi, Frederic Charbonnie,  Garmilan Aiyathurai, Herve Neuenschwander, Joao Pedro de Azevedo Ferreira, Kamil Saliji, Luc Haener, Nicolas Pittet, Marco Castagnuozzo, Marion Lorenz, Okan Kocak, Sandro Wicki, Stéphane Jermini, Valerian Haury.
