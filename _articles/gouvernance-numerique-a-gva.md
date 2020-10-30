@@ -126,7 +126,7 @@ d)	Coopération : activité avec des règles de gouvernance qui définissent et 
 *Source*
 - Gouvernance Numérique à Genève 2019 - 2020, https://2020.wikipolitics.ch/
 
-### Notre benchmarking et l'initiative Open Government Partnership
+### "Notre benchmarking et l'initiative Open Government Partnership"
 Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), qui vise à améliorer l’efficacité et la responsabilité des modes de gouvernance publique. Elle vise tous les domaines politiques (Reference : https://www.opengovpartnership.org/fr/policy-areas/#all). 
 Elle établit que les citoyens ont le droit et les ressources nécessaires pour accéder aux documents et aux procédures de leurs gouvernements. Son but est de favoriser une transparence et une responsabilisation systématiques. Le benchmarking de l’initiative Open Government Partnership est basé sur une analyse systématique des activités étatiques et vise à : 
 -	Documenter une activité (service, projet, formation etc) pour démontrer son évolution et l’organisation responsable.
@@ -219,10 +219,12 @@ Lors de notre recherche sur l’Etat de Genève, nous avons plusieurs fois const
 Cette dynamique est reflétée à la gouvernance numérique de l’Etat de Genève caractérisée par une importante présence des services qui visent à solidifier les relations entre l’administration et les citoyens. Voici nos conclusions (2020) :
 
 _La Suisse est à la traîne sur la proposition des données ouvertes : L’Etat de Genève, aussi…_
+
 Le dernier (2020) rapport de l’Organisation de coopération et de développement économiques (OCDE) sur la gouvernance numérique et les données ouvertes (OECD Open, Useful and Re-usable data (OURdata) Index: 2019, disponible sur http://www.oecd.org/gov/digital-government/open-government-data.htm) montre que la Suisse est à la traine.  
 Cette réalité confirme notre analyse et nos recommandations pour l’Etat de Genève sur plusieurs thématiques (plus de détails sur : https://2020.wikipolitics.ch/tags#donn%C3%A9es-ouvertes)   
 
 _La gouvernance digitale de l’Etat de Genève est institutionnalisée_
+
 Les pratiques et les mécanismes qui facilitent la transparence et la participation sont établis. L’Etat de Genève propose des services qui cherchent l’efficacité de la collaboration citoyenne. La participation comme niveau est acquise pour plusieurs d’entre eux, la collaboration doit être considérée comme objectif futur.
 
 _Une stratégie existante mais sans ressources ni enjeux sur l’évolution de la gouvernance numérique de l’Etat_ 
