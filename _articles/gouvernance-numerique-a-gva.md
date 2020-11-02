@@ -66,7 +66,7 @@ c) aux privés qui assument des tâches publiques
 1. La plateforme pour la transparence dans l'administration disponible à https://www.oeffentlichkeitsgesetz.ch/francais/les-cantons/geneve/
 2. PRÉPOSÉ CANTONAL À LA PROTECTION DES DONNÉES ET À LA TRANSPARENCE (PPDT) disponible à https://www.ge.ch/ppdt/lipad-bd.asp 
 
-### "La stratégie de l’Etat : Une politique numérique pour Genève"
+### La stratégie de l’Etat : Une politique numérique pour Genève
 Une politique évolutive, établie en six grandes étapes et 15 objectifs : 
 1.	Renforcer et élargir la participation citoyenne grâce au numérique dans le respect du contact humain 
 2.	Simplifier les démarches administratives et développer de nouveaux services par le secteur public 
