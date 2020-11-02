@@ -152,7 +152,7 @@ Voici un exemple d’utilisation de ces catégories.
 -          Le patient décide avec qui il partage les droits d’accès à ses données (l’administration s’engage dans une relation de confiance et collaboration avec le patient sur l’utilisation de ses données).
  
 
-### "L'état de Genève dans le benchmarking de l'OGP"
+### L'état de Genève dans le benchmarking de l'OGP
 Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), qui vise à améliorer l’efficacité et la responsabilité des modes de gouvernance publique.  Elle vise tous les domaines politiques (Reference : https://www.opengovpartnership.org/fr/policy-areas/#all). 
 
 Elle établit que les citoyens ont les droits et les ressources nécessaires pour accéder aux documents et aux procédures de leurs gouvernements. Son but est de favoriser une transparence et une responsabilisation systématiques. Le benchmarking de l’initiative Open Government Partnership est basé sur une analyse systématique des activités étatiques et vise à : 
