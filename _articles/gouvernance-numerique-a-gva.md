@@ -8,7 +8,7 @@ toc:
 - "Contexte"
 - "Etat de l'art"
 - "LIPAD du canton de Genève"
-- "La stratégie de l’Etat : Une politique numérique pour Genève"
+- "La stratégie de l’Etat :&nbsp; Une politique numérique pour Genève"
 - "Les résultats de la recherche par activité"
 - "Notre benchmaking et l'initiative Open Government Partnership"
 - "L'état de Genève dans le benchmarking de l'OGP"
