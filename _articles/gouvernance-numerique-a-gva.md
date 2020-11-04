@@ -6,7 +6,7 @@ is_main: false
 no_activity: true
 toc:
 - "Contexte"
-- "Etat de l'art"
+- "Etat de l art"
 - "LIPAD du canton de Genève"
 - "La stratégie de l’Etat :&nbsp; Une politique numérique pour Genève"
 - "Les résultats de la recherche par activité"
@@ -34,7 +34,7 @@ Notre but est de permettre à l’Etat de Genève de situer ses pratiques en mat
 1.  Hite J. (1999). Learning in chaos. Houston, TX: Gulf Publishing Company.
 2.  Rapport sur la politique numérique pour la ville de Genève disponible à https://www.ge.ch/document/rapport-politique-numerique-geneve/telecharger *
 
-### Etat de l'art
+### Etat de l art
 La recherche participative (la recherche-action et la recherche-action participative) est un moyen d’impliquer les citoyens dans la recherche scientifique : une approche qui met l’accent sur les relations entre les partenaires des milieux de recherche et de pratique, les principes de co-apprentissage, de bénéfices mutuels et d’engagement à long terme et qui intègrent les théories, la participation et les pratiques dans le processus de recherche (Wallerstein & Duran, 2006) . En général, elle favorise la création d’un espace de dialogue et de collaboration entre citoyens et chercheurs. Dans notre cas, elles visent à élargir le nombre des acteurs de la recherche scientifique en incluant les étudiants. Ces approches « permettent d’établir des liens entre la recherche et l’action, la théorie et la pratique,la logique du chercheur et celle des praticiens » (Anadon et Couture 2007).
 
 Ce type de recherche vise la production de connaissances nouvelles, la résolution d’un problème identifié par les acteurs et le renforcement des capacités de ces acteurs pour une plus grande autonomie. Cette production de connaissances nouvelles, voire d’outils utiles aux praticiens, permet de transformer la réalité (Faure et al. 2010). Ce point nous permet de connecter la recherche participative avec l’apprentissage par la pratique qui est obtenu par les étudiants grâce à leur propre expérience. Dans l’apprentissage par la pratique, il est essentiel que l’expérience soit une relation à double sens. L’étudiant d’une part, est actif par rapport au monde autour de lui et d’autre part, doit assumer lui-même les conséquences de ses propres priorités, décisions et actions (Altet 2013).
