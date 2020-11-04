@@ -8,13 +8,13 @@ toc:
 - "Contexte"
 - "Etat de l art"
 - "LIPAD du canton de Genève"
-- "La stratégie de l’Etat :&nbsp; Une politique numérique pour Genève"
+- "La stratégie de l Etat, Une politique numérique pour Genève"
 - "Les résultats de la recherche par activité"
-- "Notre benchmaking et l'initiative Open Government Partnership"
-- "L'état de Genève dans le benchmarking de l'OGP"
+- "Notre benchmaking et l initiative Open Government Partnership"
+- "L état de Genève dans le benchmarking de l OGP"
 - "Nos recommandations"
 - "Nos conclusions"
-- "L' équipe de recherche"
+- "Equipe de recherche"
 tags: ['wikinomie', 'digitalisation', 'gouvernement ouverte', 'recommendations', 'conclusions']
 ---
 
@@ -66,7 +66,7 @@ c) aux privés qui assument des tâches publiques
 1. La plateforme pour la transparence dans l'administration disponible à https://www.oeffentlichkeitsgesetz.ch/francais/les-cantons/geneve/
 2. PRÉPOSÉ CANTONAL À LA PROTECTION DES DONNÉES ET À LA TRANSPARENCE (PPDT) disponible à https://www.ge.ch/ppdt/lipad-bd.asp 
 
-### La stratégie de l’Etat : Une politique numérique pour Genève
+### La stratégie de l Etat, Une politique numérique pour Genève
 Une politique évolutive, établie en six grandes étapes et 15 objectifs : 
 1.	Renforcer et élargir la participation citoyenne grâce au numérique dans le respect du contact humain 
 2.	Simplifier les démarches administratives et développer de nouveaux services par le secteur public 
@@ -126,7 +126,7 @@ d)	Coopération : activité avec des règles de gouvernance qui définissent et 
 *Source*
 - Gouvernance Numérique à Genève 2019 - 2020, https://2020.wikipolitics.ch/
 
-### "Notre benchmarking et l'initiative Open Government Partnership"
+### Notre benchmarking et l initiative Open Government Partnership
 Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), qui vise à améliorer l’efficacité et la responsabilité des modes de gouvernance publique. Elle vise tous les domaines politiques (Reference : https://www.opengovpartnership.org/fr/policy-areas/#all). 
 Elle établit que les citoyens ont le droit et les ressources nécessaires pour accéder aux documents et aux procédures de leurs gouvernements. Son but est de favoriser une transparence et une responsabilisation systématiques. Le benchmarking de l’initiative Open Government Partnership est basé sur une analyse systématique des activités étatiques et vise à : 
 -	Documenter une activité (service, projet, formation etc) pour démontrer son évolution et l’organisation responsable.
@@ -152,7 +152,7 @@ Voici un exemple d’utilisation de ces catégories.
 -          Le patient décide avec qui il partage les droits d’accès à ses données (l’administration s’engage dans une relation de confiance et collaboration avec le patient sur l’utilisation de ses données).
  
 
-### L'état de Genève dans le benchmarking de l'OGP
+### L état de Genève dans le benchmarking de l OGP
 Le gouvernement ouvert est une doctrine de gouvernance, et une initiative internationale (Open Government Partnership, OGP), qui vise à améliorer l’efficacité et la responsabilité des modes de gouvernance publique.  Elle vise tous les domaines politiques (Reference : https://www.opengovpartnership.org/fr/policy-areas/#all). 
 
 Elle établit que les citoyens ont les droits et les ressources nécessaires pour accéder aux documents et aux procédures de leurs gouvernements. Son but est de favoriser une transparence et une responsabilisation systématiques. Le benchmarking de l’initiative Open Government Partnership est basé sur une analyse systématique des activités étatiques et vise à : 
@@ -229,7 +229,7 @@ Les pratiques et les mécanismes qui facilitent la transparence et la participat
 
 _Une stratégie existante mais sans ressources ni enjeux sur l’évolution de la gouvernance numérique de l’Etat_ 
 
-### L' équipe de recherche
+### Equipe de recherche
 Allan Bowman, Anouk Marti, Anthony Berrut Axel Ducraux. Baptiste Loutan, Chadi Mathieu Aebi, Charles Schmid, Christian Djoumessi Tonfack, El-hassania Nour Aissaoui, Faton Murtezi, Frederic Charbonnie,  Garmilan Aiyathurai, Herve Neuenschwander, Joao Pedro de Azevedo Ferreira, Kamil Saliji, Luc Haener, Nicolas Pittet, Marco Castagnuozzo, Marion Lorenz, Okan Kocak, Sandro Wicki, Stéphane Jermini, Valerian Haury.
 
 
