@@ -17,9 +17,9 @@ toc:
 
 ### Situation actuelle
 
-Pour pouvoir enseigner au numérique, c’est-à-dire enseigner les bases de la science informatique, les dangers du numérique, la protection des données, etc… et enseigner par le numérique avec des outils numériques lorsque ceux-ci apportent un plus pédagogique et favorisent le travail en équipe, il est nécessaire que les écoles Genevoises puissent disposer d’équipements suffisants pour l’ensemble des élèves et des enseignants.
+Pour pouvoir enseigner au numérique, c’est-à-dire enseigner les bases de la science informatique, les dangers du numérique, la protection des données, etc… et enseigner par le numérique avec des outils numériques lorsque ceux-ci apportent un plus pédagogique et favorisent le travail en équipe, il est nécessaire que les écoles genevoises puissent disposer d’équipements suffisants pour l’ensemble des élèves et des enseignants.
 
-Or les écoles Genevoises et notamment les écoles primaires sont très en retard par rapport au reste de la Suisse et de l’Europe car elles ne disposent que d’un seul ordinateur par classe. C’est dans ce contexte que le Conseil d’Etat avait adopté, en avril 2019, 2 projets de loi à l’attention du Grand Conseil ayant pour but d’équiper l’école primaire et le cycle d’orientation de tablettes et de Wi-Fi pour un montant de 22 millions de francs.
+Or les écoles genevoises et notamment les écoles primaires sont très en retard par rapport au reste de la Suisse et de l’Europe car elles ne disposent que d’un seul ordinateur par classe. C’est dans ce contexte que le Conseil d’Etat avait adopté, en avril 2019, 2 projets de loi à l’attention du Grand Conseil ayant pour but d’équiper les écoles primaires et les cycles d’orientation de tablettes et de Wi-Fi pour un montant de 22 millions de francs.
 
 Non seulement le projet pédagogique lié à ces projets de loi avait été jugé trop flou par les enseignants et les syndicats mais aussi ces parties prenantes auraient souhaité être davantage impliquées. Enfin la commission des travaux du Grand Conseil avait jugé que le projet était mal ficelé.
 Les 2 projets de loi ont donc été abandonnés en décembre 2019.
