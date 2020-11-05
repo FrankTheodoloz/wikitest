@@ -10,7 +10,7 @@ toc:
 
 ### Contexte
 
-Le numérique est porteur de changements considérables dans toutes les sphères d’activités humaines. Les réseaux sociaux facilitent l’accès à la parole publique et bouleverse la presse traditionnelle, les plateformes d’intelligence collective tel que Wikipédia change le rapport au savoir et à l’expertise, le vote électronique et l’administration en ligne font évoluer la pratique démocratique, l’intelligence artificielle et les crypto-monnaies impactent le système économique, la dématérialisation des contenus transforme l’industrie culturelle et l’apprentissage, les interactions sociales sont bouleversées par de nombreuses applications de communication virtuelle.
+Le numérique est porteur de changements considérables dans toutes les sphères d’activités humaines. Les réseaux sociaux facilitent l’accès à la parole publique et bouleversent la presse traditionnelle, les plateformes d’intelligence collective telles que Wikipédia changent le rapport au savoir et à l’expertise, le vote électronique et l’administration en ligne font évoluer la pratique démocratique, l’intelligence artificielle et les crypto-monnaies impactent le système économique, la dématérialisation des contenus transforme l’industrie culturelle et l’apprentissage, les interactions sociales sont bouleversées par de nombreuses applications de communication virtuelle.
 
 C’est dans ce contexte que le Conseil d’Etat a établi, en 2018, une politique numérique à Genève dans laquelle le département de l'instruction publique, de la formation et de la jeunesse (DIP) joue un rôle majeur autour de 3 objectifs :
 
@@ -21,11 +21,11 @@ C’est dans ce contexte que le Conseil d’Etat a établi, en 2018, une politiq
 Pour atteindre ces objectifs le DIP a établi un certain nombre de principes visant à créer l’école de la citoyenneté numérique :
 
 -	Innovation maitrisée : Le DIP vise un équilibre approprié entre les promesses et les dangers de la transition numérique en général – et du numérique à l’école en particulier.
--	Citoyenneté numérique : Le DIP accompagne les élèves dans l’acquisition des connaissances et compétences nécessaires pour jouer le rôle de citoyens numériques compétents, égaux, responsables, autonomes, actifs et protégé.
+-	Citoyenneté numérique : Le DIP accompagne les élèves dans l’acquisition des connaissances et compétences nécessaires pour jouer le rôle de citoyens numériques compétents, égaux, responsables, autonomes, actifs et protégés.
 -	Efficience : Le DIP utilise le numérique à condition qu’il apporte une plus-value pédagogique claire au sein d’un éventail d’outils divers dont le numérique n’est qu’un aspect.
 -	Littératie numérique : L’école doit former par le numérique, en introduisant des outils numériques lorsqu’ils présentent une plus-value pédagogique claire, et former au numérique, en enseignant à utiliser, comprendre, évaluer, s’engager et créer dans une société numérique.
 -	Transdisciplinarité : L’école doit proposer aux élèves une approche transversale des enjeux du numérique qui repose sur l’ensemble des disciplines enseignées.
--	Pérennité des contenus : L’éducation au numérique doit porter, non sur des technologies soumises à une obsolescence rapide, mais sur des notions et des compétences cognitives fondamentales
+-	Pérennité des contenus : L’éducation au numérique doit porter, non sur des technologies soumises à une obsolescence rapide, mais sur des notions et compétences cognitives fondamentales
 -	Construction cumulative : L’éducation au numérique doit commencer dès le début de la scolarité et suivre une logique de montée en puissance cumulative au fil du développement cognitif des élèves
 -	Méthode intégrée : L’outil numérique doit s’inscrire dans une méthode d’enseignement qui prend acte de son potentiel de différenciation, d’interactivité et de collaboration, et qui accepte une redéfinition du rôle des enseignant-e-s
 -	Prévention : L’éducation au numérique a pour objectif – outre l’apprentissage des concepts fondamentaux de la science informatique et le développement de l’esprit critique – de former les élèves contre les risques du numérique.
