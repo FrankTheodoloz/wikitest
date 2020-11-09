@@ -14,10 +14,10 @@ tags: ['cybersécurité', 'participation', 'service public']
 
 ### Situation actuelle
 
-L’état de Genève propose une formation en ligne sous format de vidéos qui permettent aux PME et aux employés d’améliorer leurs habitudes concernant la sécurité informatique. Ce programme est mis en place par le Département du développement économique et est totalement gratuit.
+L’état de Genève propose une formation en ligne sous forme de vidéos qui permettent aux PME et aux employés d’améliorer leurs habitudes concernant la sécurité informatique. Ce programme est mis en place par le Département du développement économique et est totalement gratuit.
 Actuellement, certaines habitudes à prendre pour améliorer sa cybersécurité ne sont pas forcément connues de tous ou bien ignorées par certaines personnes.
 
-Objectif principal : Sensibiliser la population, mais en particulier les PME, aux gestes simples qui permettent d’améliorer cette sécuritée. Prévenir les incidents et réduire la cybercriminalité.
+Objectif principal : Sensibiliser la population, mais en particulier les PME, aux gestes simples qui permettent d’améliorer cette sécurité. Prévenir les incidents et réduire la cybercriminalité.
 
 ### Règles de gouvernance
 
@@ -25,7 +25,7 @@ Des informations sont mises à disposition de la population.
 
 ### Résultats ou Utilisation
 
-Les informations concernant le nombre d'entreprise et le nombre de personnes ayant suivit cette formation n'ont pas pu être obtenues.
+Les informations concernant le nombre d'entreprise et le nombre de personnes ayant suivi cette formation n'ont pas pu être obtenues.
 
 ### Responsables
 
