@@ -17,14 +17,13 @@ tags: ["service d'intérêt public", 'journalisme', 'participation']
 
 ### Situation actuelle
 
-Genève est une ville qui accueille une multitude d'organisations internationales. Bien qu'elles réalisent un travail de service public important à l'échelle mondiale, 
-peu de communication est effectuée à ce niveau et aucune plateforme regroupant l'ensemble du travail de ces ONG n'existe.
+Genève est une ville qui accueille une multitude d'organisations internationales. Bien qu'elle réalise un travail de service public important à l'échelle mondiale, peu de communication est effectuée à ce niveau et aucune plateforme regroupant l'ensemble du travail de ces ONG n'existe.
 
-Retenue suite à l'appel à projets lancé par la Confédération, le Canton et la Ville de Genève le 20 décembre 2019, Geneva Solutions sera une plateforme journalistique rassemblant l'ensemble des articles de journalistes indépendants, experts et personnalités publiques sur le travail des ONG. Elle est accessible à https://www.genevasolutions.news/.
+Retenue suite à l'appel à projet lancé par la Confédération, le canton et la ville de Genève le 20 décembre 2019, Geneva Solutions sera une plateforme journalistique rassemblant l'ensemble des articles de journalistes indépendants, experts et personnalités publiques sur le travail des ONG. Elle est accessible à https://www.genevasolutions.news/.
 
 ### Règles de gouvernance
 
-Les articles sont publiés par des journalistes choisis par Geneva Solutions/Heidi.news. Des experts et personnalités sont égalements invités à rédiger des articles d'opinion.
+Les articles sont publiés par des journalistes choisis par Geneva Solutions/Heidi.news. Des experts et personnalités sont également invités à rédiger des articles d'opinion.
 
 ### Résultats et utilisation
 
@@ -42,7 +41,7 @@ Confédération, Canton et Ville de Genève ainsi que Heidi.news.
 
 ### Analyse Wikinomie
 
-Malgré le fait que la plateforme soit petinente et captivante, nous pensons que celle-ci n'a pas réellement de lien avec la Wikinomie, mis à part le fait qu'elle diffuse de l'information. De notre point de vue, il est compliqué pour une plateforme journalistique, de pouvoir ajouter des fonctionnalités en lien avec la Wikinomie à la plateforme.
+Malgré le fait que la plateforme soit pertinente et captivante, nous pensons que celle-ci n'a pas réellement de lien avec la Wikinomie, mis à part le fait qu'elle diffuse de l'information. De notre point de vue, il est compliqué pour une plateforme journalistique, de pouvoir ajouter des fonctionnalités en lien avec la Wikinomie sur la plateforme.
 En effet, les informations publiées sur le site doivent être rigoureusement vérifiées, et cela ne peut être effectué uniquement par des spécialistes. Nous proposerons toutefois deux fonctionnalités qui pourraient enrichir le côté Wikinomique de la plateforme.
 
 ### Recommandations
@@ -51,7 +50,7 @@ Nous pensons que la mise en place d'une fonctionnalité permettant de faire vali
 Il serait certainement compliqué d'implémenter une telle fonctionnalité, car les articles publiés doivent faire l'objet d'une vérification particulière, faites par des spécialistes.
 
 L'ajout de commentaires, vérifiés et réservés aux spécialistes ou experts, peut être également pertinent. En effet, cette fonctionnalité permettrait d'alimenter le sujet de l'article et construire une réflexion entre spécialistes.
-Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expert du domaine ou interne à Geneva Solutions, ne pourra pas y participer. Cette dernière condition permettrait de garder une certaine "sûreté de l'information".
+Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expert du domaine ou interne à Geneva Solutions, ne pourrait pas y participer. Cette dernière condition permettrait de garder une certaine "sûreté de l'information".
 
 ### Bibliographie
 
@@ -66,7 +65,7 @@ Un visiteur du site pourrait lire cet échange, mais celui-ci, n'étant pas expe
 
 ### Interview
 
-Dans le cadre de cette recherche, nous avons eu la chance de pouvoir questionner par mail, des membres du projet Geneva Solutions. Ci-dessous, vous trouverez la liste des questions que nous avons posées, ainsi que leurs réponses : 
+Dans le cadre de cette recherche, nous avons eu la chance de pouvoir questionner par mail, des membres du projet Geneva Solutions. Ci-dessous, vous trouverez la liste des questions posées, ainsi que leurs réponses : 
 
  - Quel est le rôle de l’Etat et de la ville de Genève dans le projet Geneva Solutions ?
 
