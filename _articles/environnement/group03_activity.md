@@ -16,11 +16,11 @@ tags: ['information', 'faune genève', 'service public']
 ### Situation actuelle
 #### Faune
 
-Le [site web](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redrige sur [Faune Genève](https://www.faunegeneve.ch/).
+Le [site web](https://www.ge.ch/transmettre-observation-nature/plateforme-suivi-faune-du-canton-geneve) du canton de Genève, nous redirige sur [Faune Genève](https://www.faunegeneve.ch/).
 
 #### Flore
 
-La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigant les utilisateurs sur le nouveau [site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
+La ville de Genève communique via son [site web](http://www.ville-ge.ch/cjb/conservation_activites_flore_ge.php) en redirigeant les utilisateurs sur le nouveau [site web](https://www.patrimoine-vert-geneve.ch/) pour communiquer sur l'état de la flore dans le canton.
 
 #### Initiative du canton
 
@@ -57,17 +57,17 @@ Les informations concernant la flore Genevoise sont accessibles via [Patrimoine 
 ### Résultats et utilisation
 #### Faune
 
-Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu ou l'on a apercu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
+Le [site web](https://www.faunegeneve.ch) permet de partager ses observations en mentionnant le lieu où l'on a aperçu une espèce animale, on peut également s'informer sur les dernières observations des utilisateurs 
 
 #### Flore
 
-Le [site web](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) possède les indicateurs suivants:
+Le [site web](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) possède les indicateurs suivants :
 
 [Tableau de bord](https://villege.maps.arcgis.com/apps/opsdashboard/index.html#/89a5ddd8a51c45348251c6db13383ae2) avec des statistiques comme le pourcentage de surface imperméable, la biodiversité menacée avec un affinage sur les communes
 
 [Carte des arbres du canton](https://ge.ch/tericaconsultation/)
 
-Une [liste](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) de ressource supplémentaire est à venir:
+Une [liste](https://www.patrimoine-vert-geneve.ch/cartes-et-indicateurs) de ressource supplémentaire est à venir :
 * Tableau de bord des arbres isolés hors forêt
 * Tableau de bord des plantes vasculaires genevoises
 * Tableau de bord des lichens genevois
@@ -121,12 +121,12 @@ La mise à disposition d’un forum sur le [site web](https://www.faunegeneve.ch
 #### Flore
 
 #### Contenant
-Le site web est très esthétique et la navigation est  d’avoir une approche plus local. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
+Le site web est très esthétique et la navigation est  d’avoir une approche plus locale. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
 #### Contenu
 Le contenu du site web est très vaste, mais la navigation reste facile car il est bien structuré.
 
-#### Plateforme participative avec la pupulation
-Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrait donc donner plus de possibilités d'intéragir avec la population, actuellement on ne peut que envoyer un [commentaire](https://www.patrimoine-vert-geneve.ch/) en bas de page.
+#### Plateforme participative avec la population
+Malgré la qualité du site il n'y a pas d'interaction avec celui-ci, il faudrait donc donner plus de possibilités d'intéragir avec la population, actuellement on ne peut qu'envoyer un [commentaire](https://www.patrimoine-vert-geneve.ch/) en bas de page.
 
 #### Contact 
 
