@@ -14,14 +14,14 @@ tags: ['cybersécurité', 'service public', 'information']
 
 ### Situation actuelle
 
-Le conseil fédéral adopté un plan de protection contre les cyberrisques créant ainsi le centre de compétence pour la cybersécurité. Ce plan décrit les tâches liées à la cybersécurité et implique l’administration fédéral mais aussi les cantons et les hautes écoles. Les mesures regroupent : 
-* des nouvelles normes, 
-* l’obligation de signaler un cyber-incident
-* la création d’un groupe d’experts venant de milieu différents.
+Le conseil fédéral a adopté un plan de protection contre les cyber-risques créant ainsi le centre de compétence pour la cybersécurité. Ce plan décrit les tâches liées à la cybersécurité et implique l’administration fédérale mais aussi les cantons et les hautes écoles. Les mesures regroupent : 
+* Des nouvelles normes
+* L’obligation de signaler un cyber-incident
+* La création d’un groupe d’experts venant de milieu différents
 
-L’ordonnance sur les cyberrisques adoptée par le Conseil fédéral est en vigueur depuis le 1er juillet 2020. Elle constitue la base juridique pour la création et le développement du NCSC et réglemente la structure, les tâches et les compétences des autorités impliquées. 
+L’ordonnance sur les cyber-risques adoptée par le Conseil fédéral est en vigueur depuis le 1er juillet 2020. Elle constitue la base juridique pour la création et le développement du NCSC et réglemente la structure, les tâches et les compétences des autorités impliquées. 
 
- Au sein du Centre national pour la cybersécurité, il faut donner suffisamment de poids au bureau et au guichet national pour que le centre national pour la cybersécurité produise, par une communication active et des prestations étendues pour les entreprises et la population, un maximum d’effets à l’extérieur et soit réellement perçu comme le guichet unique.
+ Au sein du Centre national pour la cybersécurité, il faut donner suffisamment de poids au bureau et au guichet national afin que le centre national pour la cybersécurité produise, par une communication active et des prestations étendues pour les entreprises et la population, un maximum d’effets à l’extérieur et soit réellement perçu comme le guichet unique.
 
 Le pool d’experts se tiendra à la disposition des offices spécialisés des différents secteurs, notamment, et son expertise en matière de cybersécurité viendra compléter les connaissances sectorielles et les compétences juridiques en fonction des besoins et des projets.
 
