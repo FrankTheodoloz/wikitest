@@ -31,14 +31,14 @@ Mettre à disposition les données au format Tableur Office Open XML (.xlsx).
 ### Règles de gouvernance
 
 La transparence, en publiant ces statistiques, le SRED permet aux citoyens d’avoir un panorama du système d’enseignement Genevois.
-Ces statistiques vont aider les différentes parties prenantes dans la prise de décision relative :
+Ces statistiques vont aider les différentes parties prenantes dans la prise de décisions relative :
 -	A l’offre des formations (ouverture filières, …)
 -	A l’aménagement de quartier (création d’écoles, de logements, …)
 -	Au marché du travail (futurs diplômés, évolution de domaines, …) 
 
 ### Résultats et utilisation
 
-Les données annoncées sont bien publiées, elles correspondent à la description donnée. Les données publiées par le SRED sont activement utilisées par différents acteurs (public et privé) pour l’aide à la prise de décision.
+Les données annoncées sont bien publiées, elles correspondent à la description donnée. Les données publiées par le SRED sont activement utilisées par différents acteurs (public et privé) pour l’aide à la prise de décisions.
 
 ### Analyse Wikinomie
 
@@ -54,6 +54,6 @@ Le département de l'instruction publique, de la formation et de la jeunesse (DI
 
 ### Recommandations
 
-Nous recommandons la mise en place d’un module de visualisation des données, qui permettrait à tout citoyen d’obtenir facilement et rapidement un résultat visuel à l’aide de filtres préconfiguré.
+Nous recommandons la mise en place d’un module de visualisation des données, qui permettrait à tout citoyen d’obtenir facilement et rapidement un résultat visuel à l’aide de filtres préconfigurés.
 
-Enfin pour aller dans le sens d’un vrai partenariat avec les citoyens, nous proposons de mettre à disposition d’une API permettant d’interroger directement les données depuis une autre application et ainsi augmenter l’accessibilité aux données.
+Enfin pour aller dans le sens d’un vrai partenariat avec les citoyens, nous proposons de mettre à disposition une API permettant d’interroger directement les données depuis une autre application et ainsi augmenter l’accessibilité aux données.
