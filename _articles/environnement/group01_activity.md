@@ -57,7 +57,7 @@ Réseau d’Observation de la Pollution Atmosphérique à Genève (ROPAG) et le 
 Afin d'orienter l'état à une gouvernance numérique voici divers points de recommandations que nous proposons
 
 #### Contenant
-Agrandir le nombre de stations de mesure afin d’avoir une approche plus local. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
+Agrandir le nombre de stations de mesure afin d’avoir une approche plus locale. Ceci permettrait à chaque citoyen d'avoir une situation concrète sur la qualité de l'air de son quartier par exemple.
 
 #### Contenu
 Améliorer la diffusion de données.
@@ -65,7 +65,7 @@ En diversifiant les moyens d'obtenir des informations sur la qualité de l'air n
 L'utilisation d'un service API pourrait permettre d'implémenter les résultats dans des applications ou même à d'autres données et ceci de manière instantanée.
 
 #### Plateforme Environnement
-L'idée d'une plateforme Environnement pourrait permettre de centraliser et normalisé toutes les informations autour du sujet. Ceci permettrait un accès plus rapide a toute personne intéressé.
+L'idée d'une plateforme Environnement pourrait permettre de centraliser et normalisé toutes les informations autour du sujet. Ceci permettrait un accès plus rapide à toute personne intéressée.
 
 #### Participation Citoyenne
 La mise à disposition d’un forum sur la plateforme citée plus haut pourrait permettre une sorte de "Brainstorming communautaire" qui pourrait déboucher avec la création  d'initiatives locales comme cantonal. Des modérateurs/experts ainsi qu'un système d'auto modération pourrait permettre de filtrer, d'orienter et d'aider les citoyens dans leurs recherches ou initiatives.
