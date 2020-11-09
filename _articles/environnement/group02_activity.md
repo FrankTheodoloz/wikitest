@@ -14,16 +14,16 @@ tags: ['information', 'service public', 'environnement']
 ---
 
 ### Situation actuelle
-Nos premières interrogations sur l'eau ont été de savoir si le canton communiquait sur la qualité de l'eau potable, nous n'avons pas trouvé d'informations concernant la povtabilité de l'eau.
+Nos premières interrogations sur l'eau ont été de savoir si le canton communiquait sur la qualité de l'eau potable, nous n'avons pas trouvé d'informations concernant la potabilité de l'eau.
 Nous avons rapidement trouvé cette information auprès des SIG (Services Industriels de Genève), Les SIG nous fournissent des informations concernant l'origine de l'eau potable en fonction
 de la zone d'habitation, de plus, ils fournissent les données d'analyse de l'eau de l'année 2019, son traitement, et le nombre de prélèvements réalisés.
 Les SIG communiquent également sur le traitement des [eaux usées](https://ww2.sig-ge.ch/artisans_independants/nos-offres/assainissement/eaux-usees).
 
-Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades. Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme.
+Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la pluviométrie, le débit et niveau de l'eau, la température et les basses-eaux. [Source](https://vhg.ch/xt_vh/index.php), la qualité des eaux de baignades. Nous avons regroupé les objectifs du canton de Genève fixé à 2030 et à long terme.
 
 - Long terme
     * Améliorer la qualité des cours d'eau
-    * Réduire l'exposition des zones à batir aux risques d'inondations
+    * Réduire l'exposition des zones à bâtir aux risques d'inondations
     * Garantir l'approvisionnement en eau potable sur le périmètre du Grand Genève
     * Transport et traitement des eaux usées (contrôle et assainissement du réseau d'évacuation)
     
@@ -36,7 +36,7 @@ Le canton (Office cantonal de l'eau) fournit des informations sur l'eau comme la
 
 ### Règles de gouvernance
 
-L'état sanitaire des eaux de baignade est fait par le canton(SECOE) toutes les 2 semaines.
+L'état sanitaire des eaux de baignade est fait par le canton (SECOE) toutes les 2 semaines.
 Les SIG fournissent des [informations annuelles](https://ww2.sig-ge.ch/particuliers/nos-offres/eau/eau-de-geneve) sur de la qualité de l'eau potable selon la zone de provenance.
 
 ### Résultats et utilisation
@@ -57,7 +57,7 @@ Les SIG (Services Industriels de Genève)
 #### L'eau potable
 Les informations concernant l'eau potable sont faibles, en effet fournir une moyenne annuelle de la composition de l'eau ne reflète pas vraiment de sa qualité pendant une période plus précise, comme une semaine en particulier.
 
-Il faudrait fournir des informations plus détaillé et permettre également l'exportation de ces données pour qu'elles puissent être utilisé et traité par des logiciels.
+Il faudrait fournir des informations plus détaillées et permettre également l'exportation de ces données pour qu'elles puissent être utilisées et traitées par des logiciels.
 #### Confédération/Canton
 Il serait intéressant de mieux communiquer entre la confédération et le canton, car nous avons remarqué que la confédération ne possède pas certaines informations détenu par le canton [qualité des eaux de baignades](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/info-specialistes/etat-des-eaux/etat-des-cours-deau/qualite-des-cours-deau/qualite-des-eaux-de-baignade.html).
 #### Tenir à jour le site web
