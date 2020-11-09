@@ -17,16 +17,16 @@ tags: ['participation', 'service public', 'cybercriminalité']
 
 Les cyber-incidents ne sont pas toujours rapportés et certains cas peuvent sembler isolés, surtout lorsqu'il n'y a pas de plainte. La police Genevoise gère donc un outil permettant de signaler un cyber-incident.
 
-L'objectif lié à ce formulaire est de pouvoir regrouper les signalements isolés afin de détecter les séries de cas. Ces témoignages permettent ensuite de renforcer les moyens de la police pour lutter contre la cyber-criminalité.
+L'objectif lié à ce formulaire est de pouvoir regrouper les signalements isolés afin de détecter les séries de cas. Ces témoignages permettent ensuite de renforcer les moyens de la police pour lutter contre la cybercriminalité.
 
 ### Règles de gouvernance
 
-Les privés et particuliers peuvent partager leur signalement, ce qui permet à des analystes de regrouper et détecter les problèmes. Les autorités préviennent ensuite la popultaion en cas de risque avéré.
+Les privés et particuliers peuvent partager leur signalement, ce qui permet à des analystes de regrouper et détecter les problèmes. Les autorités préviennent ensuite la population en cas de risque avéré.
 
 ### Résultats ou Utilisation
 
 *Question à poser au responsable de la brigade de criminalité informatique de la police*
-Notre interview du chef du service de la sécurité de l'information et de la protection des données à l'État de Genève ne nous a pas permis d'obtenir des résultats lié au formulaire. Nous avons été redirigé vers le responsable de la brigade de criminalité informatique dela police.
+Notre interview du chef du service de la sécurité de l'information et de la protection des données à l'État de Genève ne nous a pas permis d'obtenir des résultats liés au formulaire. Nous avons été redirigés vers le responsable de la brigade de criminalité informatique de la police.
 
 ### Responsables
 
@@ -43,10 +43,10 @@ Cet outil devrait être plus connu du grand publique pour permettre de couvrir p
 ### Interview
 Lors de nos recherches, nous avons interviewé M. Christian Geffcken, chef du service de la sécurité de l'information et de la protection des données à l'État de Genève.
 
-#### Quels sont les objectifs (chiffrés) de l’Etat en matière de cybersécurité ? Dans quelle mesure sont-ils atteint ?
-On voulait savoir quel pourcentage de résolution de cas l’État aimerait atteindre. Quels sont les objectifs clés qui ont été définis et est-ce que des chiffres on été posés pour se dire « on aimerait tant de pourcentage de résolution de cas, ou tant de pourcentage de présence dans ce domaine »?
+#### Quels sont les objectifs (chiffrés) de l’Etat en matière de cybersécurité ? Dans quelle mesure sont-ils atteints ?
+On voulait savoir quel pourcentage de résolution de cas l’État aimerait atteindre. Quels sont les objectifs clés qui ont été définis et est-ce que des chiffres ont été posés pour se dire « on aimerait tant de pourcentage de résolution de cas, ou tant de pourcentage de présence dans ce domaine »?
 
-> Un des gros problèmes de la cyber-sécurité, c’est qu’en fait vous voulez du 0 partout, ou du 100% partout suivant comment vous faites le calcul. C’est ça le chiffre. C’est toujours un objectif optimal. J’en veux pour preuve une question que, dans ma carrière, des top managers m’ont posée souvent : « combien y’a-t-il eu d’attaques réussies dans votre département ? » La réponse c’est 0, parce qu’un attaque réussie, moi je ne sais pas. Si elle est réussie c’est que je ne sais pas. Donc la réponse est de 0, mais elle est de 0 plus par manque de connaissances qu’autre chose. Typiquement ce genre de métrique, de valeurs, concernant la cyber-sécurité, c’est très très compliqué à établir. 
+> Un des gros problèmes de la cyber-sécurité, c’est qu’en fait vous voulez du 0 partout, ou du 100% partout suivant comment vous faites le calcul. C’est ça le chiffre. C’est toujours un objectif optimal. J’en veux pour preuve une question que, dans ma carrière, des top managers m’ont posée souvent : « combien y’a-t-il eu d’attaques réussies dans votre département ? » La réponse c’est 0, parce qu’une attaque réussie, moi je ne sais pas. Si elle est réussie c’est que je ne sais pas. Donc la réponse est de 0, mais elle est de 0 plus par manque de connaissances qu’autre chose. Typiquement ce genre de métrique, de valeurs, concernant la cyber-sécurité, c’est très très compliqué à établir. 
 > 
 >
 > On a plutôt des objectifs pas sur les attaques ou ce genre de choses, mais plutôt sur la formation des utilisateurs. Que les collaborateurs de l’État soient formés à la cyber-sécurité, que les top managers soient formés à la sécurité, qu’il y ait des examens, ou plutôt des tests, des quiz, et que tous les collaborateurs de l’État, ou un certain pourcentage, aient passé ce quiz avec succès dans les 6 mois après leur arrivée à l’État, ou dans l’année qui suit le moment où on a décidé ça pour ceux qui étaient déjà là.
