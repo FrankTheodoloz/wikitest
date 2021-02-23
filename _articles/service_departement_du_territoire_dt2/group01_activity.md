@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: education
+key: service_departement_du_territoire_dt2
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
