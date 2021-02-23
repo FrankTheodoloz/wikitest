@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Facebook /Twiiter (GE)"
+title: "Facebook /Twitter (GE)"
 key: facebook_twitter_ge
 is_main: true
 toc:
