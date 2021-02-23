@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Example"
+title: "Parcs Genève App"
 key: example
 is_main: true
 toc:
