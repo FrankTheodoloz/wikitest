@@ -1,7 +1,7 @@
 ---
 layout: theme
 title: "Geneva Lab"
-key: example
+key: geneva_lab
 is_main: true
 toc:
 - "Contexte"
