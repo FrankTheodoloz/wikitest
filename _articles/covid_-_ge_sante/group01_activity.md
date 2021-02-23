@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: education
+key: covid_-_ge_sante
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
