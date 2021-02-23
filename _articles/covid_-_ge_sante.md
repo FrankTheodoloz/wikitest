@@ -1,7 +1,7 @@
 ---
 layout: theme
 title: "COVID - GE (Santé)"
-key: example
+key: covid_-_ge_sante
 is_main: true
 toc:
 - "Contexte"
