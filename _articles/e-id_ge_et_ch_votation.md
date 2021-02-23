@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Example"
+title: " e-ID GE et CH (votation)"
 key: example
 is_main: true
 toc:
