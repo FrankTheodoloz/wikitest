@@ -1,7 +1,7 @@
 ---
 layout: theme
 title: "LIPAD"
-key: example
+key: lipad
 is_main: true
 toc:
 - "Contexte"
