@@ -16,5 +16,3 @@
 * Médias
 * Plateformes
 * Sports – Culture
-
-Session 2020 / 2021
