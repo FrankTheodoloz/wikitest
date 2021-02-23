@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
   base: "https://framagit.org"
-  repo: "thanough/cours-wikinomie-2020"
+  repo: "heg/cours-wikinomie-2021"
   branch: "help"
 
 
