@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Example"
+title: "COVID - GE (Santé)"
 key: example
 is_main: true
 toc:
