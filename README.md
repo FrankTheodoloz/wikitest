@@ -9,8 +9,6 @@
 * LIPAD
 * COVID - GE (Santé)
 * COVID - GE (Info)
-* Service Département du territoire (DT) 
-* Service Département du territoire (DT) 
 * Service Département du territoire (DT)
 * Justice
 * Facebook /Twiiter (GE)
