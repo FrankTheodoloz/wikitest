@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Example"
+title: "Justice"
 key: example
 is_main: true
 toc:
