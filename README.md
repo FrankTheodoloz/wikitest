@@ -5,14 +5,15 @@
 > l’accès à l’information, la transparence, la discrimination et la protection de la vie privée, dans les domaines suivants :
 
 
-* Urbanisme et développement territorial 
-* Transports et mobilité
-* Santé
+* Police
+* LIPAD
+* COVID - GE (Santé)
+* COVID - GE (Info)
+* Service Département du territoire (DT) 
+* Service Département du territoire (DT) 
+* Service Département du territoire (DT)
 * Justice
-* Education
-* Elections (votations)
-* Environnement
-* Sécurité - Criminalité
-* Médias
-* Plateformes
-* Sports – Culture
+* Facebook /Twiiter (GE)
+* Parcs Genève App
+* e-ID GE et CH (votation)
+* Geneva Lab  
