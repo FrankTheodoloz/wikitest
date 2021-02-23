@@ -1,7 +1,7 @@
 ---
 layout: theme
 title: "Police"
-key: example
+key: police
 is_main: true
 toc:
 - "Contexte"
