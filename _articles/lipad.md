@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Example"
+title: "LIPAD"
 key: example
 is_main: true
 toc:
