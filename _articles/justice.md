@@ -1,7 +1,7 @@
 ---
 layout: theme
 title: "Justice"
-key: example
+key: justice
 is_main: true
 toc:
 - "Contexte"
