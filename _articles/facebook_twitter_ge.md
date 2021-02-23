@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Example"
+title: "Facebook /Twiiter (GE)"
 key: example
 is_main: true
 toc:
