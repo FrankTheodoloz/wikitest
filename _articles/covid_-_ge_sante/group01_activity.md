@@ -2,15 +2,10 @@
 layout: activity
 key: Suisse_COVID_app
 title: Suisse_COVID App
-tags: ['information', 'enseignement', 'projet public']
+tags: []
 toc:
 - "Situation actuelle"
-- "Objectifs annoncés"
-- "Règles de gouvernance"
-- "Résultats et utilisation"
-- "Analyse Wikinomie"
-- "Responsables"
-- "Autres acteurs"
+- "Analyse des données"
 - "Recommandations"
 - "Bibliographie"
 ---
