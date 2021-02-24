@@ -1,7 +1,6 @@
-> Notre objectif : 
-**> Permettre à l’Etat de Genève de situer ses pratiques en matière de Gouvernance numérique dans un contexte international. **
+> Notre objectif :  Permettre à l’Etat de Genève de situer ses pratiques en matière de Gouvernance numérique dans un contexte international.
 > 
-**> Notre recherche examinera les données liées aux services examinés.** Les données (personnelles et anonymes) sont au cœur du numérique. 
+> Notre recherche examinera les données liées aux services examinés. Les données (personnelles et anonymes) sont au cœur du numérique. 
 Leurs collection, catégorisation et réutilisation sont à préciser, ainsi que les outils utilisés (systèmes d'information, logiciels 
 spécifiques, algorithmes).  Sur cette cartographie, nous ajouterons les humains comme individus, groupes (départements, responsables de l'Etat, business) et d’autres institutions (ie. LIPAD ou société civile).
 Nous examinerons les actions et politiques de l’Etat vis-à-vis des technologies en constante évolution, telles que 
