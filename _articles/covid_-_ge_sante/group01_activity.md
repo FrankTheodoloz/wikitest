@@ -14,21 +14,30 @@ toc:
 
 #### Règles de gouvernance
 
+
 #### Responsables et autres acteurs
 
+
+
 #### Résultats et utilisation
+
 
 ### Analyse des données
 
 #### Source
 
+
 #### Type
+
 
 #### Raison
 
+
 #### Règles - Gérance
 
+
 #### Disposition
+
 
 ### Recommandations
 .
