@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "COVID - GE (Santé)"
-key: covid_-_ge_sante
+title: "Suisse COVID app"
+key: Suisse_COVID_app
 is_main: true
 toc:
 - "Contexte"
