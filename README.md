@@ -11,22 +11,22 @@ l’accès à l’information, la transparence, la discrimination et la protecti
 
 
 **Sécurité et données**
-1. Police	
-2. LIPAD 		
+- Police	
+- LIPAD 		
 
 **Santé et COVID**
-3. Se faire vacciner COVID 19	
-4. Suisse COVID app  
+- Se faire vacciner COVID 19	
+- Suisse COVID app  
 
 **Environnement**			
-5. Développement durable et Agenda 21 (coord21.ch)	
-6. Office cantonal de l'eau
-7. Office du Patrimoine et des sites 
+- Développement durable et Agenda 21 (coord21.ch)	
+- Office cantonal de l'eau
+- Office du Patrimoine et des sites 
 
 **Logement**
-8. Office du logement		
-9. CODHA coopérative	
+- Office du logement		
+- CODHA coopérative	
 
 **Services citoyens**	
-10. Geneva Lab	
-11. e-ID GE et CH (votation)
+- Geneva Lab
+- eID GE et CH (votation)
