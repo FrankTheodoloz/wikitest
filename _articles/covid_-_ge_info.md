@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "COVID - GE (Info)"
-key: covid_-_ge_info
+title: "Vaccination COVID_19"
+key: vaccination_COVID_19
 is_main: true
 toc:
 - "Contexte"
