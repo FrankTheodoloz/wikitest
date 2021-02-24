@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: covid_-_ge_sante
+key: Suisse_COVID_app
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
