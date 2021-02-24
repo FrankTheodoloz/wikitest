@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: covid_-_ge_info
+key: vaccination_COVID_19
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
