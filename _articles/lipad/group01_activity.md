@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: Lipad et audit interne
-title: Le numérique à l’école
+title: Lipad et audit interne
 tags: []
 toc:
 - "Situation actuelle"
