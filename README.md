@@ -1,3 +1,4 @@
+
 > Notre objectif :  Permettre à l’Etat de Genève de situer ses pratiques en matière de Gouvernance numérique dans un contexte international.
 > 
 > Notre recherche examinera les données liées aux services examinés. Les données (personnelles et anonymes) sont au cœur du numérique. 
@@ -8,24 +9,9 @@ l'intelligence artificielle, les algorithmes, les données ouvertes, les platefo
 l’accès à l’information, la transparence, la discrimination et la protection de la vie privée, dans les domaines suivants :
 > 
 
-**Sécurité, données et audit**	
-- Police (cybercriminalité)	
-- LIPAD et Audit Interne (Etat)
-
-**Santé et COVID**	
-- Se faire vacciner COVID 19 et Suisse COVID app
-
-**Environnement** 		
-- Office cantonal de l'eau
-- Office du Patrimoine et des sites
-
-**Logement**		
-- Office du logement
-- CODHA coopérative
-
-**Transpots**	
-- Transports 
-
-**Services citoyens**	
-- Emploi
-- Geneva Lab et l'Agenda 21
+|Sécurité, données et audit | Santé et COVID | Environnement | Logement | Transpots | Services citoyens |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Police (cybercriminalité)	 | Se faire vacciner COVID 19 et Suisse COVID app | Office cantonal de l'eau
+ | Office du logement | Transpots | Emploi | Geneva Lab et l'Agenda 21 |
+| LIPAD et Audit Interne (Etat) | cell | Office du Patrimoine et des sites | CODHA coopérative | cell | 
+ 
