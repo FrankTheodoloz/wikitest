@@ -1,8 +1,8 @@
 ---
 layout: activity
-key: vaccination_COVID_19
-title: Le numérique à l’école
-tags: ['information', 'enseignement', 'projet public']
+key: services_Office cantonal de l'eau
+title: Services de l'Office cantonal de l'eau
+tags: []
 toc:
 - "Situation actuelle"
 - "Objectifs annoncés"
