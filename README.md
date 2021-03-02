@@ -10,6 +10,6 @@ l’accès à l’information, la transparence, la discrimination et la protecti
 
 |Sécurité, données et audit | Santé et COVID | Environnement | Logement | Transports | Services citoyens |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Police | Se faire vacciner et COVID app | Office cantonal de l'eau | Office du logement | Transpots | Emploi | Geneva Lab, Agenda 21|
+| Police | Se faire vacciner et COVID app | Office cantonal de l'eau | Office du Patrimoine et des sites | Office du logement | Transpots | Emploi | Geneva Lab, Agenda 21|
 | LIPAD et Audit Interne (Etat) | Office du Patrimoine et des sites | CODHA coopérative | 
  
