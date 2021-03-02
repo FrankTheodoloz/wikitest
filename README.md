@@ -8,9 +8,8 @@ l'intelligence artificielle, les algorithmes, les données ouvertes, les platefo
 l’accès à l’information, la transparence, la discrimination et la protection de la vie privée, dans les domaines suivants :
 > 
 
-|Sécurité, données et audit | Santé et COVID | Environnement | Logement | Transpots | Services citoyens |
+|Sécurité, données et audit | Santé et COVID | Environnement | Logement | Transports | Services citoyens |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Police (cybercriminalité)	 | Se faire vacciner COVID 19 et Suisse COVID app | Office cantonal de l'eau
- | Office du logement | Transpots | Emploi | Geneva Lab et l'Agenda 21 |
+| Police | Se faire vacciner et COVID app | Office cantonal de l'eau | Office du logement | Transpots | Emploi | Geneva Lab, Agenda 21|
 | LIPAD et Audit Interne (Etat) | Office du Patrimoine et des sites | CODHA coopérative | 
  
