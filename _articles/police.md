@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "UN DEUX TROIS C'EST UN TEST"
+title: "Police"
 key: police
 is_main: true
 toc:
