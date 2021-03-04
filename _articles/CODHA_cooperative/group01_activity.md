@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: parcs_geneve_app
+key: CODHA_cooperative
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
