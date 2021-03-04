@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: service_departement_du_territoire_dt3
+key: office_du_logement
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
