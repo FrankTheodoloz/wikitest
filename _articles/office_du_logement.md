@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Service Département du territoire (DT) 3"
+title: "Office du logement"
 key: office_du_logement
 is_main: true
 toc:
