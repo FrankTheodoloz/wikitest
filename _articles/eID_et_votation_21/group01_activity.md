@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: e-id_ge_et_ch_votation
+key: eID_et_votation_21
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
