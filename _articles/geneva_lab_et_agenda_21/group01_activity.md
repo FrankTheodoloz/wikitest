@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: geneva_lab
+key: geneva_lab_et_agenda_21
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
