@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "Parcs Genève App"
-key: parcs_geneve_app
+title: "Transports"
+key: transports
 is_main: true
 toc:
 - "Contexte"
