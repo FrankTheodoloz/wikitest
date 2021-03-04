@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: facebook_twitter_ge
+key: transports
 title: Le numérique à l’école
 tags: ['information', 'enseignement', 'projet public']
 toc:
