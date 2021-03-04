@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Service Département du territoire (DT) 2"
+title: "Office du Patrimoine et des sites"
 key: office_du_patrimoine_et_des_sites
 is_main: true
 toc:
