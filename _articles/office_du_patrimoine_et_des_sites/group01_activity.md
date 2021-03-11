@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: office_du_patrimoine_et_des_sites
-title: Le numérique à l’école
+title: Titre d'activité
 tags: []
 toc:
 - "Situation actuelle"
