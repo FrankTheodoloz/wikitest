@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: emploi
-title: "Le numérique à l’école"
+title: Titre d'activité
 tags: []
 toc:
 - "Situation actuelle"
