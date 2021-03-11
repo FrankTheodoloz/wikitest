@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: geneva_lab_et_agenda_21
-title: Le numérique à l’école
+title: Titre d'activité
 tags: []
 toc:
 - "Situation actuelle"
