@@ -1,6 +1,6 @@
 ---
 layout: activity
-key: office_du_patrimoine_et_des_sites
+key: office_de_l_énergie
 title: Titre d'activité
 tags: []
 toc:
