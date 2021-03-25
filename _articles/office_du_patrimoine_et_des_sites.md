@@ -1,7 +1,7 @@
 ---
 layout: theme
-title: "Office du Patrimoine et des sites"
-key: office_du_patrimoine_et_des_sites
+title: "Office de l'énergie"
+key: office_de_l_énergie
 is_main: true
 toc:
 - "Contexte"
