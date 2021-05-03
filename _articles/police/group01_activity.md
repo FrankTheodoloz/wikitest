@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: police
-title: Titre d'activité
+title: Organe de médiation police
 tags: []
 toc:
 - "Situation actuelle"
