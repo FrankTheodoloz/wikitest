@@ -34,9 +34,10 @@ Avec comme objectifs principale : _**Un suivi en temps réel des conditions de c
 
 
 #### Responsables et autres acteurs
-Major Patrick PULH, Chef de la police routière.
-Jean-Luc BOURGET, Direction de la régulation du trafic.
-Les Transports Publics Genevois.
+
+- Major Patrick PULH, Chef de la police routière.
+- Jean-Luc BOURGET, Direction de la régulation du trafic.
+- Les Transports Publics Genevois.
 
 
 #### Résultats et utilisation
