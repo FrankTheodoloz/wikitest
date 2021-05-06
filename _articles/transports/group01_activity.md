@@ -39,28 +39,23 @@ Avec comme objectifs principale : _**Un suivi en temps réel des conditions de c
 - Jean-Luc BOURGET, Direction de la régulation du trafic.
 - Les Transports Publics Genevois.
 
-
-#### Résultats et utilisation
-
-
 ### Analyse des données
-
 #### Source
-(Services et services web, autres organisations, comment les données sont collectées)
-
+Les données utilisées par la centrale de régulation du trafic proviennent de : 
+-	TomTom, qui fournit les informations FCD _(Floating Car Data)_  qui sont produite par la voiture.
+-	Des boucles de comptage dans le sol. 
 
 #### Type
-(Informations personelles, données sur un sujet, objet)
+Pour les données récupérées par TomTom, FCD, sont des données concernant des informations sur la voiture, qui permette d’adapter le trafic en fonction de ces dernières.  
 
 #### Raison
-(Communication, analyse, décision)
+Ces données sont stockées dans le but de les analysés pour ensuite procéder au changement nécessaire sur le trafic.
 
 #### Règles et dispositon
-(Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
-
+Les données sont par l’OCT et ne peuvent pas être distribuer, contrat d’exclusivité. 
 
 ### Recommandations
-
+Les recommandations que nous pourrions proposer sont de mettre le plus de données possibles accessible, heureusement c’est également le souhait des personnes travaillant à la centrale de régulation du trafic. 
 
 ### Bibliographie
 
