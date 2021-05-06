@@ -35,10 +35,18 @@ Les responsables sont :
 (Services et services web, autres organisations, comment les données sont collectées)
 
 #### Type
-(Informations personelles, données sur un sujet, objet)
+Lors d’un chantier, les informations disponibles sont :
+-	Nom du chantier.
+-	La période de ce dernier.
+-	Une description.
+-	Une fiche d’info chantier (pas obligatoire).
+
+Pour ce qui est d’un parcours et d’une route, nous avons deux informations qui sont :
+-	Temps de parcours : représente le temps de parcours actuel au moment X.
+-	Temps de parcours fluide : représente la valeur du parcours qui est considérer comme « fluide » donc « normale ».
 
 #### Raison
-(Communication, analyse, décision)
+Ces données sont publiées publiquement afin d’inciter la population genevoise à utiliser ses propres outils pour privilégier certains axes routiers auquel les GPS traditionnels ou ceux disponibles sur nos Smartphones ne les proposent pas forcément.
 
 #### Règles et dispositon
 (Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
