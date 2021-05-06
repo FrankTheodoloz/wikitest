@@ -39,9 +39,6 @@ Les données utilisées par la centrale de régulation du trafic proviennent de 
 -	TomTom, qui fournit les informations FCD _(Floating Car Data)_  qui sont produite par la voiture.
 -	Des boucles de comptage dans le sol. 
 
-#### Type
-Pour les données récupérées par TomTom, FCD, sont des données concernant des informations sur la voiture, qui permette d’adapter le trafic en fonction de ces dernières.  
-
 #### Raison
 Ces données sont stockées dans le but de les analysés pour ensuite procéder au changement nécessaire sur le trafic.
 
@@ -50,6 +47,3 @@ Les données sont par l’OCT et ne peuvent pas être distribuer, contrat d’ex
 
 ### Recommandations
 Les recommandations que nous pourrions proposer sont de mettre le plus de données possibles accessible, heureusement c’est également le souhait des personnes travaillant à la centrale de régulation du trafic. 
-
-### Bibliographie
-
