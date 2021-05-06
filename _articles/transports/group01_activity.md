@@ -43,7 +43,7 @@ Les données utilisées par la centrale de régulation du trafic proviennent de 
 #### Raison
 Ces données sont stockées dans le but de les analysés pour ensuite procéder au changement nécessaire sur le trafic.
 
-#### Règles et dispositon
+#### Règles et disposition
 Les données sont par l’OCT et ne peuvent pas être distribuer, contrat d’exclusivité. 
 
 ### Recommandations
