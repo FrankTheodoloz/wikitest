@@ -48,3 +48,5 @@ Les données sont par l’OCT et ne peuvent pas être distribuer, contrat d’ex
 
 ### Recommandations
 Les recommandations que nous pourrions proposer sont de mettre le plus de données possibles accessible, heureusement c’est également le souhait des personnes travaillant à la centrale de régulation du trafic. 
+
+La centrale de régulation du trafic ainsi que l’OCT vont bientôt déployer, des panneaux de signalétique plus graphique, pour les usagers de la route puisse voir en temps réel quels sont les axes de circulation principaux à éviter. 
