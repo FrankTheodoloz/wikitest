@@ -32,7 +32,6 @@ Les responsables sont :
 ### Analyse des données
 
 #### Source
-(Services et services web, autres organisations, comment les données sont collectées)
 
 #### Type
 Lors d’un chantier, les informations disponibles sont :
@@ -72,7 +71,3 @@ Ces données sont publiées publiquement afin d’inciter la population genevois
 Les données émises sur la plateforme infomobilité ne sont pour l’instant pas récupérable par des acteurs externes. Elles sont juste consultables.
 
 ### Recommandations
-
-
-### Bibliographie
-
