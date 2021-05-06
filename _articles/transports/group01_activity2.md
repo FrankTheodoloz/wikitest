@@ -50,6 +50,21 @@ Infomobilité met également à disposition d’autres informations comme le tau
 -	La capacité
 -	Et la date de mise à jour de l’information
 
+En résumé, voici les différents types d’information disponible via Infomobilité :
+-	Trafic
+-	Parkings
+-	Caméras
+-	Perturbations actuelles	
+    -   Chantiers
+    -	Accidents
+    -	Manifestations
+    -	Bouchons
+    -	Autres perturbations
+-	Perturbations futures
+    -	Chantiers
+    -	Manifestations
+
+
 #### Raison
 Ces données sont publiées publiquement afin d’inciter la population genevoise à utiliser ses propres outils pour privilégier certains axes routiers auquel les GPS traditionnels ou ceux disponibles sur nos Smartphones ne les proposent pas forcément.
 
