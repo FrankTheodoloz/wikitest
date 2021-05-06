@@ -45,6 +45,11 @@ Pour ce qui est d’un parcours et d’une route, nous avons deux informations q
 -	Temps de parcours : représente le temps de parcours actuel au moment X.
 -	Temps de parcours fluide : représente la valeur du parcours qui est considérer comme « fluide » donc « normale ».
 
+Infomobilité met également à disposition d’autres informations comme le taux d’occupation de certains parkings avec notamment :
+-	Les places disponibles en temps réel
+-	La capacité
+-	Et la date de mise à jour de l’information
+
 #### Raison
 Ces données sont publiées publiquement afin d’inciter la population genevoise à utiliser ses propres outils pour privilégier certains axes routiers auquel les GPS traditionnels ou ceux disponibles sur nos Smartphones ne les proposent pas forcément.
 
