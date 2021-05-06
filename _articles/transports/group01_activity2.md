@@ -11,13 +11,20 @@ toc:
 ---
 
 ### Situation actuelle
+L’infomobilité est une plateforme de cartographie en ligne disponible et accessible à tous. Cette plateforme collecte les données par différent biais :
+-	Police
+-	Capteur sol
+-	TomTom FCD
+
+Cette carte interactive est automatiquement mise à jour en fonction lorsqu’un événement se produit.
 
 #### Règles de gouvernance
 
 
 #### Responsables et autres acteurs
-
-
+Les responsables sont :
+-	SITG (Système d'information du territoire à Genève)
+-	OCT (Office cantonal des transports)
 
 #### Résultats et utilisation
 
