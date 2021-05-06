@@ -38,6 +38,7 @@ Avec comme objectifs principale : _**Un suivi en temps réel des conditions de c
 Les données utilisées par la centrale de régulation du trafic proviennent de : 
 -	TomTom, qui fournit les informations FCD _(Floating Car Data)_  qui sont produite par la voiture.
 -	Des boucles de comptage dans le sol. 
+-	Des caméras présentent sur la route.
 
 #### Raison
 Ces données sont stockées dans le but de les analysés pour ensuite procéder au changement nécessaire sur le trafic.
