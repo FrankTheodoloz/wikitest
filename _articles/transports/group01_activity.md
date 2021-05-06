@@ -28,13 +28,7 @@ C’est pourquoi la Centrale de régulation du trafic a vu le jour. Elle a pour 
 
 Avec comme objectifs principale : _**Un suivi en temps réel des conditions de circulation dans le but d‘une amélioration quotidienne du trafic multimodal.**_
 
-
-
-#### Règles de gouvernance
-
-
 #### Responsables et autres acteurs
-
 - Major Patrick PULH, Chef de la police routière.
 - Jean-Luc BOURGET, Direction de la régulation du trafic.
 - Les Transports Publics Genevois.
