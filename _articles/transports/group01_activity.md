@@ -2,7 +2,7 @@
 layout: activity
 key: transports
 title: Centrale de régulation du trafic
-tags: []
+tags: [information, service public, transports]
 toc:
 - "Situation actuelle"
 - "Analyse des données"
