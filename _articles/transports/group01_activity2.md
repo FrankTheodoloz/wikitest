@@ -68,9 +68,8 @@ En résumé, voici les différents types d’information disponible via Infomobi
 #### Raison
 Ces données sont publiées publiquement afin d’inciter la population genevoise à utiliser ses propres outils pour privilégier certains axes routiers auquel les GPS traditionnels ou ceux disponibles sur nos Smartphones ne les proposent pas forcément.
 
-#### Règles et dispositon
-(Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
-
+#### Règles et disposition
+Les données émises sur la plateforme infomobilité ne sont pour l’instant pas récupérable par des acteurs externes. Elles sont juste consultables.
 
 ### Recommandations
 
