@@ -22,9 +22,9 @@ Malheureusement on constate que la cohabitation entre ces 3 entités distincts p
 -	Pas de gestion du trafic au quotidien.
 
 C’est pourquoi la Centrale de régulation du trafic a vu le jour. Elle a pour but d’optimiser, améliorer et coordonner la gestion du trafic multimodal. Grâce à 3 acteurs :
-1. La police, qui représente l'OFROU
-2. L'OCT, Office Cantonal des Transports 
-3. Les TPG. 
+- La police, qui représente l'OFROU
+- L'OCT, Office Cantonal des Transports 
+- Les TPG. 
 
 Avec comme objectifs principale : _**Un suivi en temps réel des conditions de circulation dans le but d‘une amélioration quotidienne du trafic multimodal.**_
 
