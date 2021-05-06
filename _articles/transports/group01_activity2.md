@@ -2,7 +2,7 @@
 layout: activity
 key: transports
 title: Infomobilité
-tags: []
+tags: [information, service public, transports]
 toc:
 - "Situation actuelle"
 - "Analyse des données"
