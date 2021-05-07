@@ -41,7 +41,7 @@ Les données utilisées par la centrale de régulation du trafic proviennent de 
 -	Des caméras présentent sur la route.
 
 #### Raison
-Ces données sont stockées dans le but de les analysés pour ensuite procéder au changement nécessaire sur le trafic.
+Ces données sont stockées dans le but de les analyser pour ensuite procéder au changement nécessaire sur le trafic.
 
 #### Règles et disposition
 Les données sont par l’OCT et ne peuvent pas être distribuer, contrat d’exclusivité. 
