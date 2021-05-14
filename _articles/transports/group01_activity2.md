@@ -11,15 +11,10 @@ toc:
 ---
 
 ### Situation actuelle
-L’infomobilité est une plateforme de cartographie en ligne disponible et accessible à tous. Cette plateforme collecte les données par différent biais :
--	Police
--	Capteur sol
--	TomTom FCD
-
-Cette carte interactive est automatiquement mise à jour en fonction lorsqu’un événement se produit.
+L’infomobilité est une plateforme de cartographie en ligne disponible et accessible à tous. Cette application permet de visualiser sur une carte les grands axes de Genève avec des indications sur le trafic (Chantiers, Accidents, Manifestations, Bouchons ou autres). Avec cet outil, les usagers de la route consulte l'état du trafic avant de partir et adapte son parcours en fonction.
 
 #### Règles de gouvernance
-
+L'OCT fournis via l'application des informations concernant le trafic à Genève en temps réel. Les données ne sont pour l'instant pas disponibles mais cette transparence est une volonté de l'OCT.
 
 #### Responsables et autres acteurs
 Les responsables sont :
@@ -27,11 +22,14 @@ Les responsables sont :
 -	OCT (Office cantonal des transports)
 
 #### Résultats et utilisation
-
+Environ 500 connexions par jour entre l'application mobile et le site internet.
 
 ### Analyse des données
-
 #### Source
+Cette plateforme collecte les données par différent biais :
+-   Police.
+-	Capteur dans le sol.
+-	TomTom FCD.
 
 #### Type
 Lors d’un chantier, les informations disponibles sont :
@@ -68,6 +66,7 @@ En résumé, voici les différents types d’information disponible via Infomobi
 Ces données sont publiées publiquement afin d’inciter la population genevoise à utiliser ses propres outils pour privilégier certains axes routiers auquel les GPS traditionnels ou ceux disponibles sur nos Smartphones ne les proposent pas forcément.
 
 #### Règles et disposition
-Les données émises sur la plateforme infomobilité ne sont pour l’instant pas récupérable par des acteurs externes. Elles sont juste consultables.
+Infomobilité est disponible à tous, mais il est vrai qu'à ce jour l'application est utilisée principalement par l'Etat de Genève. Les données émises sur la plateforme infomobilité ne sont pour l’instant pas récupérable par des acteurs externes. Elles sont juste consultables.
 
 ### Recommandations
+Notre recommandation pour Infomobilité serait d'une part de faire ou refaire une campagne de communication au sujet de cette application, car elle était encore inconnue à nous il y a 5 mois. Nous pensons également que l'ajout d'itinéraire pourrait inciter la population à plus utiliser l'outil.
