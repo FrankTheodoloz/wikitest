@@ -28,10 +28,16 @@ C’est pourquoi la Centrale de régulation du trafic a vu le jour. Elle a pour 
 
 Avec comme objectifs principale : _**Un suivi en temps réel des conditions de circulation dans le but d‘une amélioration quotidienne du trafic multimodal.**_
 
+#### Règles de gouvernances
+Les données utilisées par l'CRT ne sont pas disponibles en open data pour l'instant mais la transparence des données est un but pour l'Etat de Genève.
+
 #### Responsables et autres acteurs
 - Major Patrick PULH, Chef de la police routière.
 - Jean-Luc BOURGET, Direction de la régulation du trafic.
 - Les Transports Publics Genevois.
+
+#### Résultats et utilisation
+Selon le directeur de la centrale de régulation trafic, les résultats de la mise en place de celle-ci sont concluant et très bénéfiques à la gestion du trafic genevois.
 
 ### Analyse des données
 #### Source
@@ -44,7 +50,7 @@ Les données utilisées par la centrale de régulation du trafic proviennent de 
 Ces données sont stockées dans le but de les analyser pour ensuite procéder au changement nécessaire sur le trafic.
 
 #### Règles et disposition
-Les données sont par l’OCT et ne peuvent pas être distribuer, contrat d’exclusivité. 
+Les données sont pour l’OCT et ne peuvent pas être distribuées, contrat d’exclusivité.
 
 ### Recommandations
 Les recommandations que nous pourrions proposer sont de mettre le plus de données possibles accessible, heureusement c’est également le souhait des personnes travaillant à la centrale de régulation du trafic. 
