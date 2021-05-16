@@ -13,7 +13,6 @@ toc:
 ### Situation actuelle
 
 #### Règles de gouvernance
-Hello World!
 
 #### Responsables et autres acteurs
 
