@@ -21,7 +21,6 @@ La manipulation des données liées aux formulaires reste dans un cadre restrein
 En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.
 
 #### Responsables et autres acteurs
-Les responsables sont :
 - Services industriels de Genève (SIG)
 - Office cantonal de l’énergie (OCEN)
 - Système d'information du territoire à Genève (SITG)
