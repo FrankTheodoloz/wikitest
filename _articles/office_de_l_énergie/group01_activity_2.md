@@ -25,7 +25,6 @@ Pour le reste, et à l’instar de GEnergie, les données récoltées dans le ca
 Enfin, les données liées aux consommations des clients sont également uniquement réservées à l’interne. En effet, le SIG disposant d’un service commercial de vente d’énergie, il est immoral de rendre accessibles les données des clients.
 
 #### Responsables et autres acteurs
-Les responsables sont:
 - Services industriels de Genève (SIG)
 - Office cantonal de l’énergie (OCEN)
 - Les entreprises mandatées (auditeurs inclus) dans le cadre du projet
