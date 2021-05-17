@@ -11,14 +11,14 @@ toc:
 ---
 
 ### Situation actuelle
-Grâce notamment aux recettes de la taxe CO<sub>2</sub>, l’Etat a pu dégager une enveloppe d’environ 35 millions de francs pour l’année 2020. L’idée du projet est de redistribuer cet argent aux citoyens sous la forme de subventions, si les installations de ces derniers répondent à une série de critères, spécifiés dans un formulaire à remplir. Le but est d’encourager voire d’accompagner les citoyens vers la rénovation d’anciennes infrastructures afin de réduire leur consommation.
+<div align="justify"><p>Grâce notamment aux recettes de la taxe CO<sub>2</sub>, l’Etat a pu dégager une enveloppe d’environ 35 millions de francs pour l’année 2020. L’idée du projet est de redistribuer cet argent aux citoyens sous la forme de subventions, si les installations de ces derniers répondent à une série de critères, spécifiés dans un formulaire à remplir. Le but est d’encourager voire d’accompagner les citoyens vers la rénovation d’anciennes infrastructures afin de réduire leur consommation.</p><div>
 
 <img src="https://www.ge.ch/media/d7/genergie_couleur_short.jpg" width="200" height="200">
 
 #### Règles de gouvernance
-La manipulation des données liées aux formulaires reste dans un cadre restreint, notamment car ces données tombent sous l’égide de la LIPAD, et n’est pas de leur ressort pour la majeure partie.
+<div align="justify"><p>La manipulation des données liées aux formulaires reste dans un cadre restreint, notamment car ces données tombent sous l’égide de la LIPAD, et n’est pas de leur ressort pour la majeure partie.</p>
 
-En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.
+<p>En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.</p><div>
 
 #### Responsables et autres acteurs
 - Services industriels de Genève (SIG)
@@ -28,7 +28,7 @@ En revanche, l’OCEN transmet des données publiques sur la dépense par d’au
 - Les citoyens participants
 
 #### Résultats et utilisation
-Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.
+<div align="justify"><p>Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.</p><div>
 
 
 ### Analyse des données
@@ -53,7 +53,7 @@ Ces données sont structurées sous forme de tableurs et de vecteurs géospatiau
 
 
 ### Recommandations
-Le projet se basent sur une approche rétroactive en attendant les demandes de subventions des entreprises et citoyens, nous pensons que l’Etat devrait être proactif et aller à la rencontre des propriétaires d’infrastructures datées et peu durables. Ce faisant, il pourrait convaincre ces acteurs d’améliorer leur installation en leur proposant des subventions attrayantes, ce qui pourrait passer par une augmentation de l’enveloppe allouée au projet.
+<div align="justify"><p>Le projet se basent sur une approche rétroactive en attendant les demandes de subventions des entreprises et citoyens, nous pensons que l’Etat devrait être proactif et aller à la rencontre des propriétaires d’infrastructures datées et peu durables. Ce faisant, il pourrait convaincre ces acteurs d’améliorer leur installation en leur proposant des subventions attrayantes, ce qui pourrait passer par une augmentation de l’enveloppe allouée au projet.</p><div>
 
 
 ### Bibliographie
