@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: office_de_l_énergie
-title: GEnergie
+title: éco21
 tags: []
 toc:
 - "Situation actuelle"
