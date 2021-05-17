@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: office_de_l_énergie
-title: Titre d'activité
+title: GEnergie
 tags: []
 toc:
 - "Situation actuelle"
