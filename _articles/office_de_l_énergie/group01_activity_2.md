@@ -13,8 +13,7 @@ toc:
 ### Situation actuelle
 GEnergie ne s’arrête pas qu’au service de subventions. En effet, les services industriels de l’Etat de Genève (SIG) disposent également d’un programme d’efficacité énergétique, en vigueur depuis 2007 et qui est disponible à travers GEnergie.
 
-![GitHub Logo](/Images/logo_eco21.png)
-Format: ![Alt Text](url)
+![Logo_eco21.png](/Images/logo_eco21.png)
 
 Ce programme, nommé éco21, vise les collectivités publiques, les PME, les particuliers et les régies immobilières et s’articule autour de trois actions : l’accompagnement dans la réalisation de plans, la mise en œuvre et l’octroi de subventions. Le projet vise à accompagner ces acteurs, dans le but de réduire leur consommation électrique et leurs émissions de CO<sub>2</sub>, en leur proposant un plan de modification prenant en compte les enjeux écologiques et les infrastructures du bénéficiaire. Ils mettent ensuite à disposition une liste d’entreprises partenaires, certifiées et donc capables de réaliser les travaux. Enfin, le SIG rachète l’économie projetée grâce aux travaux.
 
