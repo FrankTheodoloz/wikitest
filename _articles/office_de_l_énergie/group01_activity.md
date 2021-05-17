@@ -29,22 +29,34 @@ Les responsables sont :
 #### Résultats et utilisation
 Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.
 
+
 ### Analyse des données
 
 #### Source
 (Services et services web, autres organisations, comment les données sont collectées)
+- Formulaire de demande de subventions
+- Relevés de consommations 
 
 #### Type
 (Informations personelles, données sur un sujet, objet)
+- Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment. 
+- Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.
 
 #### Raison
 (Communication, analyse, décision)
+- Pour le formulaire : mise en relation des citoyens participants avec l’Office.
+- Pour les relevés : afin de monitorer l’évolution de la situation et de dresser des statistiques.
 
 #### Règles et dispositon
 (Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
+- Pour le formulaire : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.
+- Pour le relevé : pour certaines métriques, mises à disposition sous forme de base de données accessible sur le site du SITG. Le partage de ces données suit la démarche OpenData, dans une optique de partage et de transparence.
+Ces données sont disponibles sous forme d’une carte légendée des bâtiments (identifiés par leur EGID) et via des bases de données contenant des informations sur la consommation et l’émission des bâtiments.
+Ces données sont structurées sous forme de tableurs et de vecteurs géospatiaux, notamment dans les format .CSV, .GBD et .SHP (★★★ sur l’échelle de qualité des données ouvertes de Tim Berners-Lee).
 
 
 ### Recommandations
+Le projet se basent sur une approche rétroactive en attendant les demandes de subventions des entreprises et citoyens, nous pensons que l’Etat devrait être proactif et aller à la rencontre des propriétaires d’infrastructures datées et peu durables. Ce faisant, il pourrait convaincre ces acteurs d’améliorer leur installation en leur proposant des subventions attrayantes, ce qui pourrait passer par une augmentation de l’enveloppe allouée au projet.
 
 
 ### Bibliographie
