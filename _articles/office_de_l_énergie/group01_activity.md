@@ -21,12 +21,12 @@ toc:
 En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.</div>
 
 #### Responsables et autres acteurs
-Les responsables sont :
+<div align="justify">Les responsables sont :
 - Services industriels de Genève (SIG)
 - Office cantonal de l’énergie (OCEN)
 - Système d'information du territoire à Genève (SITG)
 - Les entreprises mandatées dans le cadre du projet
-- Les citoyens participants
+- Les citoyens participants</div>
 
 #### Résultats et utilisation
 <div align="justify">Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.</div>
@@ -35,22 +35,26 @@ Les responsables sont :
 ### Analyse des données
 
 #### Source
+<div align="justify">
 - Formulaire de demande de subventions
-- Relevés de consommations 
+- Relevés de consommations</div>
 
 #### Type
+<div align="justify">
 - Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment. 
-- Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.
+- Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.</div>
 
 #### Raison
+<div align="justify">
 - Pour le formulaire : mise en relation des citoyens participants avec l’Office.
-- Pour les relevés : afin de monitorer l’évolution de la situation et de dresser des statistiques.
+- Pour les relevés : afin de monitorer l’évolution de la situation et de dresser des statistiques.</div>
 
 #### Règles et dispositon
+<div align="justify">
 - Pour le formulaire : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.
 - Pour le relevé : pour certaines métriques, mises à disposition sous forme de base de données accessible sur le site du SITG. Le partage de ces données suit la démarche OpenData, dans une optique de partage et de transparence.
 Ces données sont disponibles sous forme d’une carte légendée des bâtiments (identifiés par leur EGID) et via des bases de données contenant des informations sur la consommation et l’émission des bâtiments.
-Ces données sont structurées sous forme de tableurs et de vecteurs géospatiaux, notamment dans les format .CSV, .GBD et .SHP (★★★ sur l’échelle de qualité des données ouvertes de Tim Berners-Lee).
+Ces données sont structurées sous forme de tableurs et de vecteurs géospatiaux, notamment dans les format .CSV, .GBD et .SHP (★★★ sur l’échelle de qualité des données ouvertes de Tim Berners-Lee).</div>
 
 
 ### Recommandations
