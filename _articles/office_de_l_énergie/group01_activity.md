@@ -21,8 +21,8 @@ En revanche, l’OCEN transmet des données publiques sur la dépense par d’au
 #### Responsables et autres acteurs
 Les responsables sont :
 - Services industriels de Genève (SIG)
-- Office Cantonal de l’Energie (OCEN)
-- Service d’Information du Territoire à Genève (SITG)
+- Office cantonal de l’énergie (OCEN)
+- Système d'information du territoire à Genève (SITG)
 - Les entreprises mandatées dans le cadre du projet
 - Les citoyens participants
 
