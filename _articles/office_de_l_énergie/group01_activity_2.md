@@ -51,11 +51,11 @@ L’enveloppe dans laquelle éco21 pioche étant la même que celle mentionnée 
 
 #### Règles et dispositon
 - Pour le formulaire et le contact direct : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.
-- Pour les données de consommation : elles peuvent être fournies à des fins d’étude. De fait, elles seront soit anonymisées, soit soumises à un accord de confidentialité. Le format des données dépend donc du cas traité, et ne peuvent donc pas être classifiées selon leur degré d’ouverture. Les données relatives à l’ensemble des opérations sont transmises à l’Etat et à la population sous forme de rapport. Suite à nos recherches, nous avons constaté que la majeure partie des case-studies réalisées concernent des entreprises. Nous pensons qu’équilibrer leur nombre avec des économies réalisées par des particuliers permettrait de promouvoir davantage le projet auprès des citoyens.
-
+- Pour les données de consommation : elles peuvent être fournies à des fins d’étude. De fait, elles seront soit anonymisées, soit soumises à un accord de confidentialité. Le format des données dépend donc du cas traité, et ne peuvent donc pas être classifiées selon leur degré d’ouverture. Les données relatives à l’ensemble des opérations sont transmises à l’Etat et à la population sous forme de rapport.
 
 
 ### Recommandations
+Suite à nos recherches, nous avons constaté que la majeure partie des case-studies réalisées concernent des entreprises. Nous pensons qu’équilibrer leur nombre avec des économies réalisées par des particuliers permettrait de promouvoir davantage le projet auprès des citoyens.
 
 
 ### Bibliographie
