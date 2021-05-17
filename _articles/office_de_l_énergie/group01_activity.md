@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: office_de_l_énergie
-title: GEnergie 2050
+title: GEnergie
 tags: []
 toc:
 - "Situation actuelle"
