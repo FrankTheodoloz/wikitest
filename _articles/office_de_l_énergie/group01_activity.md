@@ -33,22 +33,18 @@ Le projet se porte normalement. La situation liée au Covid-19 a engendré un l�
 ### Analyse des données
 
 #### Source
-(Services et services web, autres organisations, comment les données sont collectées)
 - Formulaire de demande de subventions
 - Relevés de consommations 
 
 #### Type
-(Informations personelles, données sur un sujet, objet)
 - Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment. 
 - Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.
 
 #### Raison
-(Communication, analyse, décision)
 - Pour le formulaire : mise en relation des citoyens participants avec l’Office.
 - Pour les relevés : afin de monitorer l’évolution de la situation et de dresser des statistiques.
 
 #### Règles et dispositon
-(Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
 - Pour le formulaire : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.
 - Pour le relevé : pour certaines métriques, mises à disposition sous forme de base de données accessible sur le site du SITG. Le partage de ces données suit la démarche OpenData, dans une optique de partage et de transparence.
 Ces données sont disponibles sous forme d’une carte légendée des bâtiments (identifiés par leur EGID) et via des bases de données contenant des informations sur la consommation et l’émission des bâtiments.
