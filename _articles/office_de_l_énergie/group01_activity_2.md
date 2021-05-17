@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: office_de_l_énergie
-title: éco21
+title: SIG-éco21
 tags: []
 toc:
 - "Situation actuelle"
@@ -51,7 +51,7 @@ L’enveloppe dans laquelle éco21 pioche étant la même que celle mentionnée 
 
 #### Règles et dispositon
 - Pour le formulaire et le contact direct : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.
-- Pour les données de consommation : elles peuvent être fournies à des fins d’étude. De fait, elles seront soit anonymisées, soit soumises à un accord de confidentialité. Le format des données dépend donc du cas traité, et ne peuvent donc pas être classifiées selon leur degré d’ouverture. Les données relatives à l’ensemble des opérations sont transmises à l’Etat et à la population sous forme de rapport.
+- Pour les données de consommation : elles peuvent être fournies à des fins d’étude. De fait, elles seront soit anonymisées, soit soumises à un accord de confidentialité. Le format des données dépend donc du cas traité, et ne peuvent donc pas être classifiées selon leur degré d’ouverture. Les données relatives à l’ensemble des opérations sont transmises à l’État et à la population sous forme de rapport.
 
 
 ### Recommandations
