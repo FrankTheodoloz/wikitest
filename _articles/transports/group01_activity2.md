@@ -31,6 +31,10 @@ Cette plateforme collecte les données par différent biais :
 -	Capteur dans le sol.
 -	TomTom FCD.
 
+L'OCT a voulu travailler avec Google mais ce dernier n'a jamais répondu aux mails / messages de ces derniers.
+
+Waze a contacté directement l'OCT pour collaborer et partager leurs données d'Infomobilité. La collaboration n'a pas eu lieu, car Waze permet la dénonciation lors de contrôle de police ou de position de radar mobile. L'OCT qui travaille étroitement avec la police ne peut accepter ces conditions.
+
 #### Type
 Lors d’un chantier, les informations disponibles sont :
 -	Nom du chantier.
@@ -70,3 +74,5 @@ Infomobilité est disponible à tous, mais il est vrai qu'à ce jour l'applicati
 
 ### Recommandations
 Notre recommandation pour Infomobilité serait d'une part de faire ou refaire une campagne de communication au sujet de cette application, car elle était encore inconnue à nous il y a 5 mois. Nous pensons également que l'ajout d'itinéraire pourrait inciter la population à plus utiliser l'outil.
+
+Un partage des données brutes serait également une très bonne solution à l'amélioration de l'application. En effet, en mettant à disposition ces données, des entreprises privées pourraient les réutiliser à des fins de recherche. Pour garantir que ces données ne seront pas utilisées à des fins trompeuses, nous recommandons également d'établir une charte éthique qui indique que toutes entités / personnes qui utilisent ces données doivent respecter les valeurs de l'Etat.
