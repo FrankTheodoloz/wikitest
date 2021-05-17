@@ -12,6 +12,7 @@ toc:
 
 ### Situation actuelle
 Grâce notamment aux recettes de la taxe CO<sub>2</sub>, l’Etat a pu dégager une enveloppe d’environ 35 millions de francs pour l’année 2020. L’idée du projet est de redistribuer cet argent aux citoyens sous la forme de subventions, si les installations de ces derniers répondent à une série de critères, spécifiés dans un formulaire à remplir. Le but est d’encourager voire d’accompagner les citoyens vers la rénovation d’anciennes infrastructures afin de réduire leur consommation.
+
 <img src="https://www.ge.ch/media/d7/genergie_couleur_short.jpg" width="200" height="200">
 
 #### Règles de gouvernance
