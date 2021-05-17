@@ -39,7 +39,7 @@ Les données utilisées par l'CRT ne sont pas disponibles en open data pour l'in
 #### Résultats et utilisation
 Selon le directeur de la centrale de régulation trafic, les résultats de la mise en place de celle-ci sont concluant et très bénéfiques à la gestion du trafic genevois.
 
-Malheureusement, aucun document de statistique ne peut être délivré pour le moment en raison du jeune age de la centrale de régulation du trafic. En effet, M. BOURGET, défend une politique de transparance mais dans ce cas il ne peut pas nous fournir des documents incomplets.
+Malheureusement, aucun document de statistique ne peut être délivré pour le moment en raison du jeune âge de la centrale de régulation du trafic. En effet, M. BOURGET, défend une politique de transparence lorsque les documents sont durements complétés et vérifiés avant de pouvoir les distribuer.
 
 ### Analyse des données
 #### Source
