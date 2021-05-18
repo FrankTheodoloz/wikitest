@@ -41,8 +41,10 @@ toc:
 </ul>
 
 #### Type
-- Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment. 
-- Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.
+<ul>
+  <li>Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment.</li>
+  <li style="list-style-position: outside">Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.</li>
+</ul>
 
 #### Raison
 - Pour le formulaire : mise en relation des citoyens participants avec l’Office.
