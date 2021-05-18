@@ -11,13 +11,13 @@ toc:
 ---
 
 ### Situation actuelle
-<br style="line-height: 200px;">
 <div align="justify">
 <img src="https://www.ge.ch/media/d7/genergie_couleur_short.jpg" style="margin-left: 15px; border: 0;" align="right" width="190" height="190" /><p>Grâce notamment aux recettes de la taxe CO<sub>2</sub>, l’Etat a pu dégager une enveloppe d’environ 35 millions de francs pour l’année 2020. L’idée du projet est de redistribuer cet argent aux citoyens sous la forme de subventions, si les installations de ces derniers répondent à une série de critères, spécifiés dans un formulaire à remplir. Le but est d’encourager voire d’accompagner les citoyens vers la rénovation d’anciennes infrastructures afin de réduire leur consommation.</p>
 </div>
 
 
 #### Règles de gouvernance
+<br style="line-height: 200px;">
 <div align="justify">
 <p>La manipulation des données liées aux formulaires reste dans un cadre restreint, notamment car ces données tombent sous l’égide de la LIPAD, et n’est pas de leur ressort pour la majeure partie.</p>
 <p>En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.</p>
