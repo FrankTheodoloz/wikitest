@@ -23,6 +23,7 @@ toc:
 </div>
 
 #### Responsables et autres acteurs
+<br>
 <div align="justify">
 <ul>
   <li>Services industriels de Genève (SIG)</li>
@@ -34,6 +35,7 @@ toc:
 </div>
 
 #### Résultats et utilisation
+<br>
 <div align="justify">
 <p>Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.</p>
 </div>
