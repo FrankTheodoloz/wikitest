@@ -85,7 +85,7 @@ Ces données sont structurées sous forme de tableurs et de vecteurs géospatiau
 ### Bibliographie
 <div align="justify">
 <ul>
-  <li>Présentation du Programme GEnergie 2050 et de ses objectifs. Disponible à l’adresse : <a href="https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve">https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve</a></li>
+  <li>Text 1</li>
   <li>Text 2</li>
 </ul>
 </div>
