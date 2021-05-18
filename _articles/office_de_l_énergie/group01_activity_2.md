@@ -18,7 +18,6 @@ toc:
 </div>
 
 #### Règles de gouvernance
-<br>
 <div align="justify">
 <p>Étant introduit dans le projet GEnergie, les données liées au programme éco21 sont également disponibles via le formulaire, mais des demandes sont également adressées directement auprès du service en charge du projet.</p>
 
