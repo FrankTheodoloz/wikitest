@@ -10,7 +10,7 @@ toc:
 ### Contexte
 <div align="justify"><p>Dans un contexte où les débats sur la consommation énergétique et le réchauffement climatique déchaînent toutes les passions, l'Accord de Paris sur le climat, tenu en 2015 lors de la COP21, a cristallisé la volonté mondiale de transitionner vers une politique plus éco-responsable et durable. De nombreux pays tentent d’ores et déjà de proposer des politiques apportant des solutions à ce problème, et le canton de Genève a pris les devants.</p>
 
-<img src="https://www.ge.ch/media/styles/xl_2_col_1460x648/public/illustration/2020-11/PDE_IMAGE_V2RGB.jpg?h=198a5201&itok=CXuZAcFx" width="730px" height="324px" style="padding: 0px 0px -45px 0px;"/><br>
+<img src="https://www.ge.ch/media/styles/xl_2_col_1460x648/public/illustration/2020-11/PDE_IMAGE_V2RGB.jpg?h=198a5201&itok=CXuZAcFx" width="730px" height="324px" padding="0px 0px -45px 0px;"/><br>
 <br>
 <p>Le 2 décembre 2020, le Conseil d’État genevois a adopté le Plan directeur de l’énergie (PDE). Ce document explicite la stratégie énergétique du canton jusqu’à 2030, en fixant des objectifs quantifiables. Le leitmotiv de ce document est de <q style="font-style: italic;">consommer moins et mieux</q>. Pour ce faire, ces objectifs gravitent autour de deux thématiques : la consommation et l’approvisionnement.</p>
 
