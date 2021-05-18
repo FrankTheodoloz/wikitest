@@ -20,11 +20,13 @@ toc:
 <p>En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.</p></div>
 
 #### Responsables et autres acteurs
-- Services industriels de Genève (SIG)
-- Office cantonal de l’énergie (OCEN)
-- Système d'information du territoire à Genève (SITG)
-- Les entreprises mandatées dans le cadre du projet
-- Les citoyens participants
+<ul>
+  <li>Services industriels de Genève (SIG)</li>
+  <li>Office cantonal de l’énergie (OCEN)</li>
+  <li>Système d'information du territoire à Genève (SITG)</li>
+  <li>Les entreprises mandatées dans le cadre du projet</li>
+  <li>Les citoyens participants</li>
+</ul>
 
 #### Résultats et utilisation
 <div align="justify"><p>Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.</p></div>
@@ -33,8 +35,10 @@ toc:
 ### Analyse des données
 
 #### Source
-- Formulaire de demande de subventions
-- Relevés de consommations
+<ul>
+  <li>Formulaire de demande de subventions</li>
+  <li>Relevés de consommations</li>
+</ul>
 
 #### Type
 - Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment. 
