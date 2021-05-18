@@ -27,7 +27,7 @@ toc:
 - Les citoyens participants
 
 #### Résultats et utilisation
-<div align="justify"><p>Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.</p><div>
+<div align="justify"><p>Le projet se porte normalement. La situation liée au Covid-19 a engendré un léger creux dans les demandes et le processus d’analyse des installations, mais les participants se sont bien adaptés ce qui a permis au projet de reprendre normalement. L’enveloppe a été entièrement dépensée.</p></div>
 
 
 ### Analyse des données
@@ -52,7 +52,7 @@ Ces données sont structurées sous forme de tableurs et de vecteurs géospatiau
 
 
 ### Recommandations
-<div align="justify"><p>Le projet se basent sur une approche rétroactive en attendant les demandes de subventions des entreprises et citoyens, nous pensons que l’Etat devrait être proactif et aller à la rencontre des propriétaires d’infrastructures datées et peu durables. Ce faisant, il pourrait convaincre ces acteurs d’améliorer leur installation en leur proposant des subventions attrayantes, ce qui pourrait passer par une augmentation de l’enveloppe allouée au projet.</p><div>
+<div align="justify"><p>Le projet se basent sur une approche rétroactive en attendant les demandes de subventions des entreprises et citoyens, nous pensons que l’Etat devrait être proactif et aller à la rencontre des propriétaires d’infrastructures datées et peu durables. Ce faisant, il pourrait convaincre ces acteurs d’améliorer leur installation en leur proposant des subventions attrayantes, ce qui pourrait passer par une augmentation de l’enveloppe allouée au projet.</p></div>
 
 
 ### Bibliographie
