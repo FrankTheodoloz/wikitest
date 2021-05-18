@@ -88,7 +88,7 @@ toc:
 ### Bibliographie
 <div align="justify">
 <ul>
-  <li>Text 1</li>
-  <li>Text 2</li>
+  <li>Présentation du programme GEnergie 2050. Disponible à l'adresse: <a href="https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve">https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve</a></li>
+  <li>Présentation du programme GEnergie 2050. Disponible à l'adresse: <a href="https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve">https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve</a></li>
 </ul>
 </div>
