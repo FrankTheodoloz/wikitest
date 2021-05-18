@@ -86,7 +86,7 @@ Ces données sont structurées sous forme de tableurs et de vecteurs géospatiau
 ### Bibliographie
 <div align="justify">
 <ul>
-  <li></li>
-  <li></li>
+  <li>Text 1</li>
+  <li>Text 2</li>
 </ul>
 </div>
