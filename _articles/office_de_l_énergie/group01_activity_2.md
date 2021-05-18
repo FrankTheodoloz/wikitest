@@ -90,4 +90,9 @@ toc:
 
 
 ### Bibliographie
-
+<div align="justify">
+<ul>
+  <li>Text 1</li>
+  <li>Text 2</li>
+</ul>
+</div>
