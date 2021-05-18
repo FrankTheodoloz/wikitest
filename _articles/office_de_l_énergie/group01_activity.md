@@ -35,26 +35,38 @@ toc:
 ### Analyse des données
 
 #### Source
+<div align="justify">
 <ul>
   <li>Formulaire de demande de subventions</li>
   <li>Relevés de consommations</li>
 </ul>
+</div>
 
 #### Type
+<div align="justify">
 <ul>
   <li>Par le formulaire : données personnelles, énergétiques et caractéristiques sur le bâtiment.</li>
   <li>Par les relevés : la consommation énergétique brute et la surface de référence énergétique sont saisies via une application (Indice) puis stockées dans une base de données.</li>
 </ul>
+</div>
 
 #### Raison
-- Pour le formulaire : mise en relation des citoyens participants avec l’Office.
-- Pour les relevés : afin de monitorer l’évolution de la situation et de dresser des statistiques.
+<div align="justify">
+<ul>
+  <li>Pour le formulaire : mise en relation des citoyens participants avec l’Office.</li>
+  <li>Pour les relevés : afin de monitorer l’évolution de la situation et de dresser des statistiques.</li>
+</ul>
+</div>
 
 #### Règles et dispositon
-- Pour le formulaire : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.
-- Pour le relevé : pour certaines métriques, mises à disposition sous forme de base de données accessible sur le site du SITG. Le partage de ces données suit la démarche OpenData, dans une optique de partage et de transparence.
+<div align="justify">
+<ul>
+  <li>Pour le formulaire : dans un cadre restreint aux particuliers, car les données personnelles sont protégées par la LIPAD.</li>
+  <li>Pour le relevé : pour certaines métriques, mises à disposition sous forme de base de données accessible sur le site du SITG. Le partage de ces données suit la démarche OpenData, dans une optique de partage et de transparence.
 Ces données sont disponibles sous forme d’une carte légendée des bâtiments (identifiés par leur EGID) et via des bases de données contenant des informations sur la consommation et l’émission des bâtiments.
-Ces données sont structurées sous forme de tableurs et de vecteurs géospatiaux, notamment dans les format .CSV, .GBD et .SHP (★★★ sur l’échelle de qualité des données ouvertes de Tim Berners-Lee).
+Ces données sont structurées sous forme de tableurs et de vecteurs géospatiaux, notamment dans les format .CSV, .GBD et .SHP (★★★ sur l’échelle de qualité des données ouvertes de Tim Berners-Lee).</li>
+</ul>
+</div>
 
 
 ### Recommandations
