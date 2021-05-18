@@ -85,7 +85,7 @@ Ces données sont structurées sous forme de tableurs et de vecteurs géospatiau
 ### Bibliographie
 <div align="justify">
 <ul>
-  <li>KHODJA M., 2019, « 2ème année LMD Gestion des entreprises », In : ummto.dz [en ligne] en 2019 (Pas de date précise). [Consulté le 17 décembre 2020]. Disponible à l’adresse : <a href="https://www.ummto.dz/wp-content/uploads/2018/02/Gestion-d-entreprise- Chapitre-1-2-ann%c3%a9e-SFC-Section-B.pdf">https://www.ummto.dz/wp-content/uploads/2018/02/Gestion-d-entreprise- Chapitre-1-2-ann%c3%a9e-SFC-Section-B.pdf</a></li>
+  <li>Présentation du Programme GEnergie 2050 et de ses objectifs. Disponible à l’adresse : <a href="https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve">https://www.genergie2050.ch/des-subventions-pour-ameliorer-lefficacite-energetique-des-batiments-geneve</a></li>
   <li>Text 2</li>
 </ul>
 </div>
