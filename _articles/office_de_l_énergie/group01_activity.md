@@ -17,13 +17,13 @@ toc:
 
 
 #### Règles de gouvernance
+<br>
 <div align="justify">
 <p>La manipulation des données liées aux formulaires reste dans un cadre restreint, notamment car ces données tombent sous l’égide de la LIPAD, et n’est pas de leur ressort pour la majeure partie.</p>
 <p>En revanche, l’OCEN transmet des données publiques sur la dépense par d’autres moyens et sous d’autres formes. Certaines données sont notamment cartographiées par l’intermédiaire du Système d’information du territoire à Genève (SITG). De plus, et une fois par année, une conférence de presse est tenue durant laquelle l’Etat transmet au public la répartition de l’argent alloué, le type de subvention concernée, etc.</p>
 </div>
 
 #### Responsables et autres acteurs
-<br>
 <div align="justify">
 <ul>
   <li>Services industriels de Genève (SIG)</li>
