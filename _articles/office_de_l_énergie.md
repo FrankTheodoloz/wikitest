@@ -12,4 +12,4 @@ toc:
 
 <p>Le 2 décembre 2020, le Conseil d’État genevois a adopté le Plan directeur de l’énergie (PDE). Ce document explicite la stratégie énergétique du canton jusqu’à 2030, en fixant des objectifs quantifiables. Le leitmotiv de ce document est de <q style="font-style: italic;">consommer moins et mieux</q>. Pour ce faire, ces objectifs gravitent autour de deux thématiques : la consommation et l’approvisionnement.</p>
 
-<p>Dans le cadre de notre recherche, nous nous sommes penchés sur le thème de la consommation. Pour pouvoir atteindre ses objectifs, l’Etat doit travail de concert avec les particuliers et les entreprises, et prévoit des mesures d’accompagnement allant dans ce sens et qui s’intègrent notamment à deux projets que nous avons analysé.</p></div>
+<p>Dans le cadre de notre recherche, nous nous sommes penchés sur le thème de la consommation. Pour pouvoir atteindre ses objectifs, l’Etat doit travailler de concert avec les particuliers et les entreprises, et prévoit des mesures d’accompagnement allant dans ce sens et qui s’intègrent notamment à deux projets que nous avons analysé.</p></div>
