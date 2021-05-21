@@ -13,3 +13,20 @@ toc:
 <p>Le 2 décembre 2020, le Conseil d’État genevois a adopté le Plan directeur de l’énergie (PDE). Ce document explicite la stratégie énergétique du canton jusqu’à 2030, en fixant des objectifs quantifiables. Le leitmotiv de ce document est de <q style="font-style: italic;">consommer moins et mieux</q>. Pour ce faire, ces objectifs gravitent autour de deux thématiques : la consommation et l’approvisionnement.</p>
 
 <p>Dans le cadre de notre recherche, nous nous sommes penchés sur le thème de la consommation. Pour pouvoir atteindre ses objectifs, l’État doit travailler de concert avec les particuliers et les entreprises, et prévoit des mesures d’accompagnement allant dans ce sens et qui s’intègrent notamment à deux projets que nous avons analysé.</p></div>
+
+#### GEnergie
+<div align="justify"><p>L’Etat de Genève et SIG unissent leurs efforts pour accélérer la transition énergétique du canton.
+En 2021, Genève dispose de 34 millions de francs pour favoriser les économies d'énergie et les énergies renouvelables au sein du parc immobilier genevois.</p>
+
+<p>Depuis plusieurs années, les acteurs du canton se donnent les moyens de mettre en œuvre une politique énergétique en adéquation avec la stratégie énergétique 2050 de la Confédération, pour faciliter la sortie progressive du canton de sa dépendance aux énergies fossiles.</p>
+
+<p>Dans un contexte d'urgence climatique, le Conseil d'Etat a décidé de renforcer les objectifs cantonaux. Concrètement, il a pour ambition de :</p></div>
+
+<div align="justify">
+<ul>
+  <li>Réduire de 60 % les émissions de gaz à effet de serre d'ici 2030,</li>
+  <li>Atteindre la société à 2000 Watts neutre en carbone d'ici 2050.</li>
+</ul>
+</div>
+
+#### SIG-éco21
