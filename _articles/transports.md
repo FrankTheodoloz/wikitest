@@ -26,6 +26,8 @@ Genève connait quelques spécificités géographiques qui complique et accroît
 - **Des transports sous-développés dans certains secteurs** : Dans certains endroits dans le canton de Genève, en France voisine et dans le canton de Vaud, le réseau de transport offre des prestations très faible, c’est pourquoi de nombreux pendulaires choisissent donc de prendre leur voiture pour se rendre au travail. 
 - **Une configuration du centre-ville datant du XIXe siècle** : Le schéma des voiries de l’hypercentre, de même que leur dimensionnement, n’est aujourd’hui plus apte à absorber les flux de déplacements tous modes confondus tant ceux-ci ont connu une augmentation de leurs volumes ces dernières années. 
 
+De plus en 2016, les habitants du canton de Genève, ont accépté la loi LMCE (Loi pour une mobilité cohérente et équilibrée). Dans les grandes lignes, cette loi prévoit que le flux de transport lié aux véhicules privée ne passe plus par le centre des agglomérations et des communes. Cette loi apporte donc une base légal et une base de travail, pour revoir la mobilité dans le canton. 
+
 
 ### Bibliographie
 
