@@ -35,4 +35,4 @@ En 2021, Genève dispose de 34 millions de francs pour favoriser les économies 
 
 <p>Portant les objectifs de la Confédération (Stratégie Energétique 2050) et du Canton de Genève (société à 2000W), il a pour ambition de faire de Genève la région la plus efficiente au monde. SIG propose également de développer des partenariats avec des entreprises locales voire d’autres services industriels pour promouvoir les solutions concrètes développées par éco21.</p></div>
 
-<iframe title="Youtube video" id="youtube-player-60a77cee0542a" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/TykKBwPjSV8?autoplay=0&amp;start=0&amp;rel=0&amp;enablejsapi=1"></iframe>
+<iframe title="Youtube video" id="youtube-player-60a77cee0542a" width="804" height="430" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/TykKBwPjSV8?autoplay=0&amp;start=0&amp;rel=0&amp;enablejsapi=1"></iframe>
