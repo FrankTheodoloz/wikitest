@@ -112,15 +112,11 @@ Les rapports rédigés par le préposé sont disponibles en ligne. Aucune règle
 
 ### Recommandations
 
-*// La mise à jour est prévue*
+Le processus de récupération des données personnelles pourrait être automatisé et proposé par les entreprises envers les citoyens. Ainsi, il serait plus facile d’accéder à ses propres données collectées, sans passer par des démarches ou d’autres intermédiaires.
 
-peut être donner plus de poids aux décisions des préposés - possibilité de sanctionner  
+Après nos discussions avec le PPDT, il faudrait que la loi exige plus des entreprises en matière de transparence et d’échange avec les experts LIPAD. Actuellement, les démarches se font à l’initiative du PPDT, et non de celle des entreprises.
 
-Proposer directement au citoyen de récolter les données sans devoir les demander à un service spécialisé.  
-
-Les institutions informe de l’utilisation des données  
-
-Le travail de l’expert LIPAD soit un travail à part entière.  
+Également, le poste de PPDT n’est pas considéré comme un travail à 100%. Or, la charge de travail dépasse largement le temps estimé à ce poste. Il faudrait le revaloriser et le considérer comme un travail à part entière.  
 
 ### Bibliographie
 
