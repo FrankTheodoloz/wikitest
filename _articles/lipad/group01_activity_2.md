@@ -40,8 +40,6 @@ Les audits sont répartis en 4 catégories principales :
 -   **Les audits de gestion**
 -   **Les audits informatiques**
 -   **Les mandats**
-    
-*Ses audits incluent la vérification de l’existence et de l’adéquation du système de gestion mis en place par ces entités (système de contrôle interne - SCI). Celui-ci doit inclure notamment la gestion des risques, des objectifs clairs et quantifiés, et les instruments de mesure du pilotage y sont relatifs, ainsi que le contrôle de la réalisation des objectifs que les entités se sont fixées. Ils s’étendent également à l’examen de l’activité administrative sous l’angle de l’efficience.*
 
 Les quelques audits qui ne rentrent pas dans l’une de ses catégories sont rangées dans une 5ème catégorie “Autre”.
 
