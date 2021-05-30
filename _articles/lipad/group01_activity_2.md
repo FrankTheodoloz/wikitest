@@ -53,22 +53,26 @@ Les services de l’administration sont ceux qui sont le plus concernés par ces
 Les données sont collectées directement au sein de l’entité concernée. Les personnes étant désignées à auditer l’entité ont accès à tous les documents dans la limite du secret défini par la loi. 
 
 Les rapports du service d’audit interne sont confidentiels. Ils sont communiqués :  
-
 - Au Conseil d’Etat, qui les communique aux entités concernées;
 - À la commission des finances et à la commission de contrôle de gestion;
 - Au président de la Cour des comptes;
  - À l’autorité cantonale de surveillance des fondations et des institutions de prévoyance pour les entités qu’elle surveille.
 
 #### Type
-(Informations personnelles, données sur un sujet, prédéfinis - automatisées)
+L’article 11 de la loi sur la surveillance de l’état donne comme type de données utilisées les informations financières et opérationnelles, ainsi que le fonctionnement des opérations et des programmes.
 
-L’article 11 de la loi sur la surveillance de l’état donne comme type de
+Les indicateurs de performance des programmes sont également surveillés, car les auditeurs sont également censés vérifier la fiabilité de leurs calculs et leur pertinence.
 
 #### Raison
-(Communication, analyse, décision)
+Ces données sont analysées afin de permettre aux organismes audités d’améliorer leur service, et de garder ces derniers dans le cadre de la loi.
+Aussi, les améliorations faites dans les processus de gestion ont permis par exemple d’économiser sur l’année 2017 d’économiser 3 millions de F sur l’année, et 5,5 millions par année en montant récurrents.
 
 #### Règles et disposition
-(Qui les utilise à l’intérieur et l’extérieur de l'organisation, à quelle fréquence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
+Les rapports du service d’audit interne sont confidentiels et communiqués seulement aux entités suivantes : 
+- Le Conseil d’Etat, qui les communique aux entités concernées
+- La commission des finances et la commission de contrôle de gestion
+- Au président de la Cour des comptes
+- À l'autorité cantonale de surveillance des fondations et des institutions de prévoyance pour les entités qu’elle surveille.
 
 ### Recommandations (service)
 
