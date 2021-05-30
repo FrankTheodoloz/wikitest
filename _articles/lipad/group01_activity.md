@@ -108,8 +108,6 @@ Le PPDT est également à disposition des institutions pour les conseiller et le
 
 Les rapports rédigés par le préposé sont disponibles en ligne. Aucune règle particulière ne régit la consultation de ces documents.
 
-*// Pas sûr du contenu*  
-
 ### Recommandations
 
 Le processus de récupération des données personnelles pourrait être automatisé et proposé par les entreprises envers les citoyens. Ainsi, il serait plus facile d’accéder à ses propres données collectées, sans passer par des démarches ou d’autres intermédiaires.
