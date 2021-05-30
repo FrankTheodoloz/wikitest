@@ -73,7 +73,7 @@ Les indicateurs de performance des programmes sont également surveillés, car l
 #### Raison
 
 Ces données sont analysées afin de permettre aux organismes audités d’améliorer leur service, et de garder ces derniers dans le cadre de la loi.
-Aussi, les améliorations faites dans les processus de gestion ont permis par exemple d’économiser sur l’année 2017 d’économiser 3 millions de F sur l’année, et 5,5 millions par année en montant récurrents.
+Aussi, les améliorations faites dans les processus de gestion ont permis par exemple d’économiser sur l’année 2017 d’économiser 3 millions de Francs sur l’année, et 5,5 millions par année en montant récurrents.
 
 #### Règles et disposition
 
@@ -83,9 +83,11 @@ Les rapports du service d’audit interne sont confidentiels et communiqués seu
 - Au président de la Cour des comptes
 - À l'autorité cantonale de surveillance des fondations et des institutions de prévoyance pour les entités qu’elle surveille.
 
+Un aperçu des rapports rédigés en 2017, 2018 et 2019 sont disponibles directement sur le site du service de l’audit interne, mais les rapports détaillés ne le sont pas.
+
 ### Recommandations (service)
 
-  
+Les technologies de la blockchain émergent, apportant de nouvelles perspectives pour les processus économiques des entreprises, et les services d’audit vont devoir se mettre à jour sur ces technologies.  
 
 ### Bibliographie
 Ge.ch [en ligne]. [Consulté le 26 mars 2021]. Disponible à l’adresse :
