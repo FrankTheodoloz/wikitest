@@ -12,11 +12,17 @@ toc:
 
 ### Situation actuelle
 
+
 #### Règles de gouvernance
 
 
 #### Responsables et autres acteurs
-
+- SALMON Christophe – Directeur de la direction administrative et financière (OU) 
+- JOSSELIN Frederic – Chef du service concertation et communication (OU) 
+- Centre Universitaire d’Informatique (CUI) 
+    - KONSTANTAS Dimitri – Directeur de l'Information Science Institute 
+    - SENECAL Simon - chargé du projet ? Doctorant au ISI ?
+    
 
 
 #### Résultats et utilisation
