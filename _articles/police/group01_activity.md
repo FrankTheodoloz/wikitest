@@ -23,13 +23,10 @@ Une médiation n'est pas obligatoirement une confrontation entre les deux partie
 Une médiation peut se conclure par un accord écrit, mais souvent les explications franches entre les parties suffisent pour apaiser le conflit.
 
 #### Responsables et autres acteurs
-Nathalie Le Thanh (médiatrice principale)
-
-Zoé Seiler (médiatrice-adjointe, sur mandat)
-
-Pierre-Alain Corajod (médiateur-adjoint, sur mandat)
-
-Grazia Sicard (secrétaire)
+- Nathalie Le Thanh (médiatrice principale)
+- Zoé Seiler (médiatrice-adjointe, sur mandat)
+- Pierre-Alain Corajod (médiateur-adjoint, sur mandat)
+- Grazia Sicard (secrétaire)
 
 
 #### Résultats et utilisation
@@ -44,7 +41,6 @@ Il y a ensuite un formulaire à remplir par les citoyens lorsqu'une médiation e
 
 #### Type
 Citoyen : coordonnées, âge et métier
-
 Police : coordonnées, ancienneté et poste
 
 #### Raison
