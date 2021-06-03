@@ -40,8 +40,8 @@ Les demandes de médiation peuvent être faites par téléphone ou par email.
 Il y a ensuite un formulaire à remplir par les citoyens lorsqu'une médiation est ouverte. Ce formulaire est rempli en interne et n'est pas disponible sur internet.
 
 #### Type
-Citoyen : coordonnées, âge et métier
-Police : coordonnées, ancienneté et poste
+- Citoyen : coordonnées, âge et métier
+- Police : coordonnées, ancienneté et poste
 
 #### Raison
 Les données récupérées sont utiliser par la suite pour faire des statistiques qui sont publiées grâce au rapport annuel du service. Bien sur les données reste anonyme et ne permettent pas d'identifier les personnes qui ont pu participer à une médiation. 
