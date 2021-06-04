@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: emploi
-title: Titre d'activité
+title: Plateforme Jon-room.ch
 tags: []
 toc:
 - "Situation actuelle"
@@ -44,6 +44,7 @@ En 2020, suite à la crise de COVID-19, nous pouvons constater que la courbe des
 
  
 Aucune information quant au taux d'utilisation du site n'est affichée. Nous ne pouvons donc pas savoir si le service constitue beaucoup d’inscription sans utilisation derrière ou s’il est vraiment utile à long terme et aboutit à quelque chose.
+
 ### Analyse des données
 
 La plateforme stocke les CV ainsi que les lettres de motivation et différents certificats qui se retrouveront dans le dossier de la personne qui sera identifiée par son nom, prénom, adresse, sexe, numéro de portable, numéro d’AVS et le numéro personnel qui est donné par l’office du chômage.
