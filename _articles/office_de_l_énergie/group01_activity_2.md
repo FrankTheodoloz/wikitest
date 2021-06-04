@@ -12,17 +12,15 @@ toc:
 
 ### Situation actuelle
 <div align="justify">
-<img src="https://www.veyrier.ch/sites/default/files/images/eco21.png" style="margin-left: 15px; border: 0;" align="right" width="190" height="190" /><p>GEnergie ne s’arrête pas qu’au service de subventions. En effet, les services industriels de l’Etat de Genève (SIG) disposent également d’un programme d’efficacité énergétique, en vigueur depuis 2007 et qui est disponible à travers GEnergie.</p>
-
+<img src="https://www.veyrier.ch/sites/default/files/images/eco21.png" style="margin-left: 15px; border: 0;" align="right" width="190" height="190" />
+<p>GEnergie ne s’arrête pas qu’au service de subventions. En effet, les services industriels de l’Etat de Genève (SIG) disposent également d’un programme d’efficacité énergétique, en vigueur depuis 2007 et qui est disponible à travers GEnergie.</p>
 <p>Ce programme, nommé éco21, vise les collectivités publiques, les PME, les particuliers et les régies immobilières et s’articule autour de trois actions : l’accompagnement dans la réalisation de plans, la mise en œuvre et l’octroi de subventions. Le projet vise à accompagner ces acteurs, dans le but de réduire leur consommation électrique et leurs émissions de CO<sub>2</sub>, en leur proposant un plan de modification prenant en compte les enjeux écologiques et les infrastructures du bénéficiaire. Ils mettent ensuite à disposition une liste d’entreprises partenaires, certifiées et donc capables de réaliser les travaux. Enfin, le SIG rachète l’économie projetée grâce aux travaux.</p>
 </div>
 
 #### Règles de gouvernance
 <div align="justify">
 <p>Étant introduit dans le projet GEnergie, les données liées au programme éco21 sont également disponibles via le formulaire, mais des demandes sont également adressées directement auprès du service en charge du projet.</p>
-
 <p>Pour le reste, et à l’instar de GEnergie, les données récoltées dans le cadre du projet ne sont pas rendues publiques selon la LIPAD. Quant aux données issues des audits sur les infrastructures, elles ne le sont pas non plus et ne sont utilisées qu’en interne. En ce qui concerne les travaux, les bénéficiaires sont libres de transmettre les informations les concernant à des fins d’autopromotion.</p>
-
 <p>Enfin, les données liées aux consommations des clients sont également uniquement réservées à l’interne. En effet, le SIG disposant d’un service commercial de vente d’énergie, il est immoral de rendre accessibles les données des clients.</p>
 </div>
 
