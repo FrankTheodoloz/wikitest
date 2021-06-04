@@ -21,10 +21,7 @@ En 2021, Genève dispose de 34 millions de francs pour favoriser les économies 
 
 <p>Depuis plusieurs années, les acteurs du canton se donnent les moyens de mettre en œuvre une politique énergétique en adéquation avec la stratégie énergétique 2050 de la Confédération, pour faciliter la sortie progressive du canton de sa dépendance aux énergies fossiles.</p>
 
-<p>Dans un contexte d'urgence climatique, le Conseil d'Etat a décidé de renforcer les objectifs cantonaux.</p></div>
-
-<div align="justify">
-<p>Concrètement, il a pour ambition de :</p>
+<p>Dans un contexte d'urgence climatique, le Conseil d'Etat a décidé de renforcer les objectifs cantonaux. Concrètement, il a pour ambition de :</p>
 <ul>
   <li>Réduire de 60 % les émissions de gaz à effet de serre d'ici 2030,</li>
   <li>Atteindre la société à 2000 Watts neutre en carbone d'ici 2050.</li>
