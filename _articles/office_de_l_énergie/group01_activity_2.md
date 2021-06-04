@@ -2,7 +2,7 @@
 layout: activity
 key: office_de_l_énergie
 title: SIG-éco21
-tags: [information, service public, environnement]
+tags: [participation, collaboration, service public, environnement]
 toc:
 - "Situation actuelle"
 - "Analyse des données"
