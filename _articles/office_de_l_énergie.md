@@ -16,14 +16,15 @@ toc:
 <p>Dans le cadre de notre recherche, nous nous sommes penchés sur le thème de la consommation. Pour pouvoir atteindre ses objectifs, l’État doit travailler de concert avec les particuliers et les entreprises, et prévoit des mesures d’accompagnement allant dans ce sens et qui s’intègrent notamment à deux projets que nous avons analysé.</p></div>
 
 #### GEnergie
-<div align="justify"><p>L’Etat de Genève et SIG unissent leurs efforts pour accélérer la transition énergétique du canton.
+<div align="justify"><p>L’État de Genève et SIG unissent leurs efforts pour accélérer la transition énergétique du canton.
 En 2021, Genève dispose de 34 millions de francs pour favoriser les économies d'énergie et les énergies renouvelables au sein du parc immobilier genevois.</p>
 
 <p>Depuis plusieurs années, les acteurs du canton se donnent les moyens de mettre en œuvre une politique énergétique en adéquation avec la stratégie énergétique 2050 de la Confédération, pour faciliter la sortie progressive du canton de sa dépendance aux énergies fossiles.</p>
 
-<p>Dans un contexte d'urgence climatique, le Conseil d'Etat a décidé de renforcer les objectifs cantonaux. Concrètement, il a pour ambition de :</p></div>
+<p>Dans un contexte d'urgence climatique, le Conseil d'Etat a décidé de renforcer les objectifs cantonaux.</p></div>
 
 <div align="justify">
+<p>Concrètement, il a pour ambition de :</p>
 <ul>
   <li>Réduire de 60 % les émissions de gaz à effet de serre d'ici 2030,</li>
   <li>Atteindre la société à 2000 Watts neutre en carbone d'ici 2050.</li>
@@ -31,7 +32,7 @@ En 2021, Genève dispose de 34 millions de francs pour favoriser les économies 
 </div>
 
 #### SIG-éco21
-<div align="justify"><p>Les économies d’énergie constituent un des éléments clés de la transition énergétique. Elles contribuent à la préservation des ressources naturelles et du climat et à la sortie du nucléaire tant à l'échelle locale que globale. Depuis 2007, le programme SIG-éco21 accompagne avec succès les Genevoises et les Genevois dans la réduction de leur consommation d’énergie et de leurs émissions de CO2.</p>
+<div align="justify"><p>Les économies d’énergie constituent un des éléments clés de la transition énergétique. Elles contribuent à la préservation des ressources naturelles et du climat et à la sortie du nucléaire tant à l'échelle locale que globale. Depuis 2007, le programme SIG-éco21 accompagne avec succès les Genevoises et les Genevois dans la réduction de leur consommation d’énergie et de leurs émissions de CO<sub>2</sub>.</p>
 
 <p>Portant les objectifs de la Confédération (Stratégie Energétique 2050) et du Canton de Genève (société à 2000W), il a pour ambition de faire de Genève la région la plus efficiente au monde. SIG propose également de développer des partenariats avec des entreprises locales voire d’autres services industriels pour promouvoir les solutions concrètes développées par éco21.</p></div>
 
