@@ -22,6 +22,7 @@ Lancé en 2016 par le SECO, la plateforme permet aux citoyens de trouver une off
  
 #### Responsables et autres acteurs (service)
 
+SECO - Secrétariat d'Etat à l'économie
 Office cantonal de l’emploi
 Office Régional de placement
 Office cantonal du chômage
@@ -86,13 +87,13 @@ https://www.arbeit.swiss/secoalv/fr/home/service/rechtliche-hinweise/datenschutz
 
 Questions et réponses :
 
-Quelles sont les données récoltées sur les citoyens et comment sont-elles stockées ? Vous pouvez répondre avec des termes techniques si besoin.
+1. Quelles sont les données récoltées sur les citoyens et comment sont-elles stockées ? Vous pouvez répondre avec des termes techniques si besoin.
 Voir Déclaration relative à la protection des données dans le cadre de l’utilisation de la plate-forme Job-Room
-Comment échangez-vous les données avec l'office du chômage ? 
+2 Comment échangez-vous les données avec l'office du chômage ? 
 Les ORP ont accès aux données de Job-Room via l'infrastructure informatique de l'exécution du Service Public d’Emploi (PLASTA).
-Quelles sont les mesures de contrôle d'accès aux données des citoyens par les collaborateurs de job-room.ch ?
+3. Quelles sont les mesures de contrôle d'accès aux données des citoyens par les collaborateurs de job-room.ch ?
 Les conseillers en personnel des ORP ne travaillent pas avec Job-Room. Job-Room s'adresse aux demandeurs d'emploi, aux employeurs et aux agences de placement privées, tandis que les ORP travaillent avec PLASTA.
-Un citoyen qui n'est plus inscrit au chômage, ses données sont-elles conservées sur la plateforme ?
+4. Un citoyen qui n'est plus inscrit au chômage, ses données sont-elles conservées sur la plateforme ?
 Les données contenues dans nos systèmes doivent être conservées pour des raisons d’audit et de statistiques. Les données qui ne sont plus nécessaires ne sont effacées qu’après l’écoulement du délai prévu (art. 125 OACI).
  
 
