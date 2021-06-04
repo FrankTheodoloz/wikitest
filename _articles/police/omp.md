@@ -59,4 +59,4 @@ La durée de vie des journaux sur Word est d'environ 10 ans.
 
 
 ### Bibliographie
-Organe de médiation de la Police, 2021. Rapport d'activité 2020 de l'organe de médiation de la police [en ligne]. Genève : OMP. [Consulté le 2 juin 2021]. Disponible à l'adresse : https://www.hesge.ch/heg/sites/default/files/infotheque/guide_ref_v4.6_vf.pdf
+Organe de médiation de la Police, 2021. Rapport d'activité 2020 de l'organe de médiation de la police [en ligne]. Genève : OMP. [Consulté le 2 juin 2021]. Disponible à l'adresse : [text](https://www.hesge.ch/heg/sites/default/files/infotheque/guide_ref_v4.6_vf.pdf)
