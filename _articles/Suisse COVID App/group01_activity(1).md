@@ -17,6 +17,24 @@ La prise de rendez-vous pour tous les centres se fait par le site web de l’ét
  
 Les vaccinations se font dans des centres spécialisés. Il y a actuellement 12 centres à Genève dont deux centres pilotes en collaboration avec des pharmacies. Il y a actuellement 10 centres à Genève et deux centres pilotes en collaboration avec des pharmacies qui est réservé pour les personnes les plus vulnérable en priorité.
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
 #### Règles de gouvernance
 #### Responsables et autres acteurs
 **Office fédéral de la santé publique**
@@ -47,7 +65,6 @@ Les données sont collectées par les centres de vaccinations et enregistrées s
 La base logistique de l’armée (BLA), qui s’occupe du domaine de la santé lors de situation extraordinaire d’ampleur national (pandémie et évènements majeurs), qui fournit des informations à l’OFSP.
 
 Lorsque l’OFSP récupère les données, il n’y a pas uniquement une personne qui traite les données, mais un groupe de travail qui gèrent l’ensemble des données liées à la pandémie. Les analyses qui sont effectuées avec les données de vaccination sont réalisées avec le logiciel R. 
-<>
 
 #### Type
 <table>
