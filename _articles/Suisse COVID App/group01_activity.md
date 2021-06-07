@@ -1,7 +1,7 @@
 ---
 layout: activity
 key: Suisse_COVID_app
-title: Suisse_COVID App
+title: Se faire vacciner Covid-19
 tags: []
 toc:
 - "Situation actuelle"
