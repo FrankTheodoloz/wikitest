@@ -51,7 +51,73 @@ Lorsque l’OFSP récupère les données, il n’y a pas uniquement une personne
 <>
 
 #### Type
-(Informations personelles, données sur un sujet, objet)
+<table>
+  <tr>
+    <th>Responsable</th>
+    <th>Données</th> 
+  </tr>
+  <tr>
+    <td>Office fédéral de la santé publique (OSPF)</td>
+    <td>
+Vaccination effectuée :
+<br />
+- Âge 
+<br />
+- Canton de résidence 
+<br />
+- Motif de vaccination
+<br />
+- Type d’institution administrant le vaccin
+<br />
+- Type de vaccin
+<br />
+- Date d’administration
+<br />
+- Nombre de doses
+    </td> 
+  </tr>
+  <tr>
+    <td>Ge.ch, One Doc </td>
+    <td>
+Rendez-vous Vaccination :
+<br />
+-	Prénom
+<br />
+-	Nom
+<br />
+-	Date de Naissance
+<br />
+-	Numéro d’assurance
+<br />
+-	Risque de santé
+<br />
+-	Centres de vaccinations de préférence
+<br />
+-	Genre
+<br />
+-	Adresse électronique
+<br />
+-	Numéro de téléphone
+    </td> 
+    <tr>
+    <td>Centres de vaccinations</td>
+    <td>
+Rendez-vous Vaccination
+<br />
+-	Prénom
+<br />
+-	Nom
+<br />
+-	Date de Naissance
+    </td>
+    </tr>
+    <tr>
+    <td>Pharmacie cantonale</td>
+    <td>
+Nombre de doses administrées par chaque centre de vaccination
+    </td>
+    </tr>
+</table>
 
 #### Raison
 (Communication, analyse, décision)
