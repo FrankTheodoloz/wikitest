@@ -11,7 +11,6 @@ toc:
 ---
 
 ### Situation actuelle
-
 La vaccination est actuellement ouverte aux personnes âgées de plus 16 ans résidant à Genève ou frontalier souscrivant une assurance maladie. Les personnes âgées de plus de 44 ans sont prioritaires dans l’obtention d’un rendez-vous, puis c’est le système de « premier inscrit – premier servi ». Ce service est gratuit (prise en charge par l’assurance maladie).
 
 La prise de rendez-vous pour tous les centres se fait par le site web de l’état de Genève : ge.ch.
@@ -120,14 +119,26 @@ Nombre de doses administrées par chaque centre de vaccination
 </table>
 
 #### Raison
-(Communication, analyse, décision)
+C’est le rôle du conseil fédéral, pendant cette période de crise, de prendre les meilleures décisions pour protéger la population Suisse. Pour ce faire, le conseil fédéral s’aide d’avis d’expert et des données sur général sur la situation du Covid-19 (nombre de cas, nombre de personnes vaccinées, etc.). Les décisions prises sont transmises à la population lors de conférences de presse hebdomadaires. 
 
 #### Règles et dispositon
-(Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
+One doc est d’un logiciel privé, les données sont confidentielles et sont partagées uniquement entre le patient et le professionnel de la santé (Source 5). L’ensemble de leurs solutions sont hébergées en suisse, ils sont donc soumis à la RGPD. Le site possède aussi le label « Swiss made software » qui certifie la qualité du service (Source 8).
 
+Le logiciel R est sous licence GNU GPL. C’est-à-dire qu’il est libre à la modification et le code source est disponible, mais toutes modifications doivent être partagé à la communauté (Source 7).
 
 ### Recommandations
-
+Le travail effectué par l’OSPF est très important pour tenir la population Suisse informée de la progression de la pandémie. Cela permet aussi aux personnes en charge des décisions de s’aiguiller. La présentation et la transformation des données est de qualité et détaillée. Nous ne savons pas comment l’épidémie évoluera, mais les nouvelles souches pourraient présenter un défi majeur pour la vaccination.
+La prise en charge pour la vaccination est simple et efficace (ge.ch). Le fait qu’elle soit gratuite est un avantage considérable. Nous recommandons à tous de prendre rendez-vous à tous car il y a un temps d’attente.
 
 ### Bibliographie
+1.	ge.ch. « Se faire vacciner ». Consulté le 31 mai 2021. https://www.ge.ch/node/23333.
+2.	« COVID-⁠19 Suisse | Coronavirus | Dashboard ». Consulté le 1 juin 2021. https://www.covid19.admin.ch/fr/overview.
+3.	OFSP, Office fédéral de la santé publique. « Coronavirus : vaccin ». Consulté le 1 juin 2021. https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/impfen.html.
+4.	« COVID19 à Genève. Données cantonales ». Consulté le 2 juin 2021. https://infocovid.smc.unige.ch/.
+5.	OneDoc. « Terms and Conditions ». Consulté le 7 juin 2021. https://www.onedoc.ch.
+6.	« Base logistique de l’armée BLA ». Consulté le 7 juin 2021. https://www.vtg.admin.ch/fr/organisation/bla.html.
+7.	« Licence publique générale GNU ». In Wikipédia, 14 avril 2021. https://fr.wikipedia.org/w/index.php?title=Licence_publique_g%C3%A9n%C3%A9rale_GNU&oldid=181899893.
+8.	OneDoc. « La technologie au service du système de santé Suisse ». Consulté le 7 juin 2021. https://about.onedoc.ch/fr/.
+9.	Interview Grégoire Gogniat, porte-parole OFSP, réalisé le 9 mai 2021 [en annexe]
+10.	Interview Responsable centre vaccination, réalisé le 23 mai 2021 [en annexe]
 
