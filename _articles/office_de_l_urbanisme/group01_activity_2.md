@@ -1,7 +1,7 @@
 ---
 layout: activity
-key: office_du_logement
-title: Titre d'activité
+key: office_de_l_urbanisme
+title: APA numérique
 tags: []
 toc:
 - "Situation actuelle"
@@ -17,11 +17,6 @@ toc:
 
 
 #### Responsables et autres acteurs
-- SALMON Christophe – Directeur de la direction administrative et financière (OU) 
-- JOSSELIN Frederic – Chef du service concertation et communication (OU) 
-- Centre Universitaire d’Informatique (CUI) 
-    - KONSTANTAS Dimitri – Directeur de l'Information Science Institute 
-    - SENECAL Simon - chargé du projet ? Doctorant au ISI ?
     
 
 
@@ -47,4 +42,3 @@ toc:
 
 
 ### Bibliographie
-
