@@ -1,4 +1,4 @@
-[](`url`)---
+---
 layout: activity
 key: Suisse_COVID_app
 title: Se faire vacciner Covid-19
