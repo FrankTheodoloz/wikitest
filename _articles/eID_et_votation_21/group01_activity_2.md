@@ -34,8 +34,8 @@ En 2018, il y a eu environ 500’000 utilisateurs.
 Les données sont mises à disposition par les utilisateurs qui veulent s'inscrire à ce service.
 
 #### Type
-Identité non vérifiée : Sexe, prénom, nom et adresse e-mail
-Identité vérifiée : carte d’identité ou passeport
+- Identité non vérifiée: Sexe, prénom, nom et adresse e-mail
+- Identité vérifiée: carte d’identité ou passeport
 
 #### Raison
 Les données sont enregistrées afin d’établir l’authentification à la plateforme.
