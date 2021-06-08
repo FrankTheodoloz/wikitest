@@ -41,10 +41,11 @@ Identité vérifiée : carte d’identité ou passeport
 Les données sont enregistrées afin d’établir l’authentification à la plateforme.
 
 #### Règles et dispositon
-(Qui les utlise à l'interieur et l'exterieur, à quelle frequence, qui d'autre a accès, organisation du stockage, quelle licence, données ouvertes?)
+Les données sont protégées par la loi sur la protection des données et ne sont transmises qu’à titre d’authentification.
 
 ### Recommandations
+Nous n'avons pas de recommendations pour ce service privé.
 
 ### Bibliographie
-Site du projet. Disponible à l’adresse : [https://www.swissid.ch](https://www.swissid.ch)
-Informations de sa création. Disponible à l’adresse : [https://fr.wikipedia.org/wiki/SwissID](https://fr.wikipedia.org/wiki/SwissID)
+[Site du projet.](https://www.swissid.ch)
+[Informations de sa création.](https://fr.wikipedia.org/wiki/SwissID)
