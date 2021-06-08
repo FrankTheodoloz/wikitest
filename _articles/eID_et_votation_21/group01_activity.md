@@ -23,10 +23,9 @@ Les prestataires des services
 Les clients
 
 #### Résultats et utilisation
-
+Le projet de loi n'a pas été accepté.
 
 ### Analyse des données
-
 #### Source
 Les données sont mises à disposition par les utilisateurs qui veulent s'inscrire à ce service.
 Elles sont après attestées par la confédération comme données correctes d’un utilisateur.
