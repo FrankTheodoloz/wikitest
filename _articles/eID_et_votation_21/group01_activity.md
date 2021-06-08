@@ -17,10 +17,10 @@ Le conseil fédéral et le Parlement ont préparé une loi instaurant un systèm
 La personne qui souhaite s’inscrire envoie ses données à un fournisseur d’e-ID, qui transmet les données à la confédération pour qu'elles soient vérifiées. Ensuite, la confédération donne le feu vert pour la création d’un e-ID pour cette personne.
 
 #### Responsables et autres acteurs
-La confédération
-Les fournisseurs de e-ID
-Les prestataires des services
-Les clients
+- La confédération
+- Les fournisseurs de e-ID
+- Les prestataires des services
+- Les clients
 
 #### Résultats et utilisation
 Le projet de loi n'a pas été accepté.
@@ -31,14 +31,9 @@ Les données sont mises à disposition par les utilisateurs qui veulent s'inscri
 Elles sont après attestées par la confédération comme données correctes d’un utilisateur.
 
 #### Type
-**Garantie faible**
-L’état civil, les noms, prénoms et la date de naissance.
-
-**Garantie substantiel**
-Le sexe, le lieu de naissance et la nationalité.
-
-**Garantie élevé**
-La photo.
+- **Garantie faible**: L’état civil, les noms, prénoms et la date de naissance.
+- **Garantie substantiel**: Le sexe, le lieu de naissance et la nationalité.
+- **Garantie élevé**: La photo.
 
 #### Raison
 Ces données seront ensuite utilisées par des prestataires de services qui ont besoin d’avoir des informations confirmées.
