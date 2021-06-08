@@ -46,5 +46,5 @@ Les données sont enregistrées afin d’établir l’authentification à la pla
 ### Recommandations
 
 ### Bibliographie
-Site du projet. Disponible à l’adresse : https://www.swissid.ch
-Informations de sa création. Disponible à l’adresse : https://fr.wikipedia.org/wiki/SwissID
+Site du projet. Disponible à l’adresse : [https://www.swissid.ch](https://www.swissid.ch)
+Informations de sa création. Disponible à l’adresse : [https://fr.wikipedia.org/wiki/SwissID](https://fr.wikipedia.org/wiki/SwissID)
