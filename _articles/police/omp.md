@@ -2,7 +2,7 @@
 layout: activity
 key: police
 title: Organe de médiation police
-tags: []
+tags: [collaboration, service public]
 toc:
 - "Situation actuelle"
 - "Analyse des données"
@@ -55,6 +55,8 @@ Aucune des données recueillies lors d'une médiation passée sera utilisé pour
 Les données récoltées sont utilisées seulement en interne. L'organe de médiation peut faire un rapport de différents incidents qui ont pu survenir à la commandante de la Police, mais donne seulement la raison de la médiation et aucune autre information.
 
 Les données sont stockées dans des journaux crée sur Word pour chaque médiation et ensuite, il y a un historique qui est fait sur un document Excel. Ces documents sont stockés sur les ordinateurs de l'organe de médiation ce qui peut poser des problèmes pour le partage des documents entre la médiatrice principale et ces adjoints.
+
+> Alors bah nous, c'est assez cro-magnon, ce que l'on a, c'est Word et Excel. Nous avons fait une demande pour avoir une application spécifique. Nous collectons des informations que dans le suivi des dossiers. Aujourd'hui, nous fonctionnons avec Word, nous avons un journal que l'on appelle journal de suivi dans lequel nous allons mettre des informations sur les personnes.
 
 La durée de vie des journaux sur Word est d'environ 10 ans.
 
