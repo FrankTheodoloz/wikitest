@@ -43,6 +43,7 @@ Une fois que les données sont confirmées par la confédération, le fournisseu
 
 ### Recommandations
 Étant donné que ce système est facultatif, ses avantages ne sont pas suffisamment clairs pour que les citoyens décident d'y participer.
+
 Si la confédération avait un rôle plus actif dans la fabrication de ces identifications, la population aurait plus de confiance sur ce projet, vu que selon des sondages cités par les opposants, 80% de la population préférerait que l’identification soit délivrée par l’Etat.
 
 ### Bibliographie
