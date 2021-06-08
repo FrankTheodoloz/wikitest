@@ -31,13 +31,13 @@ Les données sont mises à disposition par les utilisateurs qui veulent s'inscri
 Elles sont après attestées par la confédération comme données correctes d’un utilisateur.
 
 #### Type
-Garantie faible
+**Garantie faible**
 L’état civil, les noms, prénoms et la date de naissance.
 
-Garantie substantiel
+**Garantie substantiel**
 Le sexe, le lieu de naissance et la nationalité.
 
-Garantie élevé
+**Garantie élevé**
 La photo.
 
 #### Raison
