@@ -13,6 +13,8 @@ toc:
 ### Situation actuelle
 L'OMP est un service relativement jeune. Il a été créé en 2016 dans l'objectif de donner la possibilité aux citoyens ou aux agents de police de venir afin de faire une médiation pour régler un litige qui aurait pu arriver. L'OMP ne fait pas partie de la police. Ce dernier point est important à préciser, car le service doit rester totalement neutre par rapport au différentes partie de la médiation. Le service est lié directement au département de la sécurité de la population et de la santé.
 
+> Nous ne sommes pas de la police, mais nous sommes lié au département de la sécurité de la population et de la santé. Mais effectivement nous nous appelons "Organe de médiation de la Police", ce qui crée passablement de confusion. Nous sommes sur le budget de la police et nous avons les supports technique de la police, ce qui crée un certain nombre de problèmes.
+
 L'OMP peut être saisi par différentes parties (citoyen, associations, avocats, ministère public, tribunal des mineurs, magistrats communaux et les policiers) afin de mettre en place une médiation. Une médiation ne peut pas annuler une amende ou une contravention et ne peut pas intervenir si une procédure pénale est en cours sauf si le juge ou le procureur demande une médiation.
 
 #### Règles de gouvernance
@@ -27,7 +29,6 @@ Une médiation peut se conclure par un accord écrit, mais souvent les explicati
 - Zoé Seiler (médiatrice-adjointe, sur mandat)
 - Pierre-Alain Corajod (médiateur-adjoint, sur mandat)
 - Grazia Sicard (secrétaire)
-
 
 #### Résultats et utilisation
 Pour l'année 2020, l'organe de médiation à reçu 98 sollicitations et a ouvert un total de 77 dossiers. La plupart des saisines de l'année 2020 ont été faites par des citoyens (43 saisines), la deuxième manière de saisine de l'année fût la commandante de la police.
@@ -46,9 +47,9 @@ Il y a ensuite un formulaire à remplir par les citoyens lorsqu'une médiation e
 #### Raison
 Les données récupérées sont utiliser par la suite pour faire des statistiques qui sont publiées grâce au rapport annuel du service. Bien sur les données reste anonyme et ne permettent pas d'identifier les personnes qui ont pu participer à une médiation. 
 
-Aucune des données recueilli lors d'une médiation passée sera utilisé pour une autre médiation. D'effectuer ceci ne permet pas de garantir une confidentialité totale des médiations et peut aussi mettre ne péril cette dernière.
+> Tout ce que l'on récolte est anonymisé. Donc si je discute avec la commandante je ne donne pas de nom. A l'extérieur nous ne transmettons pas d'information sur le contenu.
 
-> Citation de madame Le Thanh
+Aucune des données recueillies lors d'une médiation passée sera utilisé pour une autre médiation. D'effectuer ceci ne permet pas de garantir une confidentialité totale des médiations et peut aussi mettre en péril cette dernière.
 
 #### Règles et dispositon
 Les données récoltées sont utilisées seulement en interne. L'organe de médiation peut faire un rapport de différents incidents qui ont pu survenir à la commandante de la Police, mais donne seulement la raison de la médiation et aucune autre information.
