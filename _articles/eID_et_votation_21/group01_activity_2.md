@@ -21,10 +21,10 @@ Uniquement pour le canton du Jura, la personne pourra remplir un formulaire et l
 Une fois que les documents sont vérifiés, la notation “identité confirmée” apparaît dans son profil.
 
 #### Responsables et autres acteurs
-SwissSign Group AG qui émet les Swiss-ID
-Le canton de Jura
-Les Prestataires des services
-Les clients
+- SwissSign Group AG qui émet les Swiss-ID
+- Le canton de Jura
+- Les Prestataires des services
+- Les clients
 
 #### Résultats et utilisation
 En 2018, il y a eu environ 500’000 utilisateurs.
