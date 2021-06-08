@@ -48,4 +48,5 @@ Nous n'avons pas de recommendations pour ce service privé.
 
 ### Bibliographie
 [Site du projet.](https://www.swissid.ch)
+
 [Informations de sa création.](https://fr.wikipedia.org/wiki/SwissID)
