@@ -48,6 +48,8 @@ Les données récupérées sont utiliser par la suite pour faire des statistique
 
 Aucune des données recueilli lors d'une médiation passée sera utilisé pour une autre médiation. D'effectuer ceci ne permet pas de garantir une confidentialité totale des médiations et peut aussi mettre ne péril cette dernière.
 
+> Citation de madame Le Thanh
+
 #### Règles et dispositon
 Les données récoltées sont utilisées seulement en interne. L'organe de médiation peut faire un rapport de différents incidents qui ont pu survenir à la commandante de la Police, mais donne seulement la raison de la médiation et aucune autre information.
 
@@ -56,7 +58,9 @@ Les données sont stockées dans des journaux crée sur Word pour chaque médiat
 La durée de vie des journaux sur Word est d'environ 10 ans.
 
 ### Recommandations
-
+Nous pensons que ce service devrait être plus connu du grand public afin de permettre à plus de personnes de venir s'entretenir avec l'organe de médiation. Pour ce faire, nous conseillons de faire plus de publicité sur le canton de Genève auprès des habitants. La seconde amélioration que nous conseillons est de changer de nom afin d'éviter que la population n'associe ce service à la police. Pour finir, la dernière amélioration que nous pouvons conseiller serait de mettre en place un logiciel afin de pouvoir répertorier toutes les médiations. Ce dernier permettrait de ne plus utiliser de fichier Word et Excel et centraliserait tout le travail dans un seul outil.
 
 ### Bibliographie
 Organe de médiation de la Police, 2021. Rapport d'activité 2020 de l'organe de médiation de la police [en ligne]. Genève : OMP. [Consulté le 2 juin 2021]. Disponible à l'adresse : [https://www.hesge.ch/heg/sites/default/files/infotheque/guide_ref_v4.6_vf.pdf](https://www.hesge.ch/heg/sites/default/files/infotheque/guide_ref_v4.6_vf.pdf)
+
+Organe de médiation de la Police, 2020. Rapport d'activité 2019 de l'organe de médiation de la police [en ligne]. Genève : OMP. [Consulté le 7 avril 2021]. Disponible à l'adresse : [https://www.ge.ch/document/20586/telecharger](https://www.ge.ch/document/20586/telecharger)
